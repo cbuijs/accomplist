@@ -1,0 +1,3 @@
+OISD	black	https://dbl.oisd.nl/	/opt/accomplist/work/oisd.list	7200	@DOMAIN	@IP
+#OISD-Porn	black	https://porn.oisd.nl/	/opt/accomplist/work/oisd-porn.list	7200	@DOMAIN	@IP
+OISD-EXTRA	black	https://dbl.oisd.nl/extra/	/opt/accomplist/work/oisd-extra.list	7200	@DOMAIN	@IP

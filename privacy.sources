@@ -1,0 +1,10 @@
+Chris-Regex-White	white!	/opt/accomplist/chris/regex.white!	/opt/accomplist/work/chris-regex-white.list	7200	@REGEX
+Chris-White	white!	/opt/accomplist/chris/white!	/opt/accomplist/work/chris-white.list	7200	@DOMAINIP
+Chris-Exclude	exclude!	/opt/accomplist/chris/exclude!	/opt/accomplist/work/chris-exclude.list	7200	@DEFAULT
+Chris-Special-White	white!	/opt/accomplist/chris/white.special!	/opt/accomplist/work/chris-special-white.list	7200	@DOMAIN
+
+EasyPrivacy	black	https://easylist.to/easylist/easyprivacy.txt	/opt/accomplist/work/easyprivacy.list	7200	@ADBLOCK-BLACK,ADBLOCK-ELEMENT
+EasyPrivacy-White	white	/opt/accomplist/standard/work/easyprivacy.list.download	/opt/accomplist/work/easyprivacy-white.list	7200	@ADBLOCK-WHITE	@ADBLOCK-EXCLUDE
+
+Disconnect-Tracking	black	https://s3.amazonaws.com/lists.disconnect.me/simple_tracking.txt	/opt/accomplist/work/disconnect-tracking.list	7200	@DOMAIN
+

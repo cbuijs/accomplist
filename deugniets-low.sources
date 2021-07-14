@@ -1,0 +1,36 @@
+# Whitelist
+Chris-White	white!	/opt/accomplist/chris/white!	/opt/accomplist/work/chris-wite.list	7200	@DOMAIN	@IP
+Google-White	white!	/opt/accomplist/chris/google-white.list!	/opt/accomplist/work/google-whitelist.list	7200	@DOMAIN	@IP
+ConnCheck	white!	/opt/accomplist/chris/connectivity-check.list!	/opt/accomplist/work/conncheck.list	7200	@DOMAIN	@IP
+Netflix-Regex	white!	/opt/accomplist/chris/netflix-regex.white!	/opt/accomplist/work/netflix-regex.list	7200	@REGEX
+Slack-Regex	white!	/opt/accomplist/chris/slack-regex.white!	/opt/accomplist/work/slack-regex.list	7200	@REGEX
+WhiteList	white!	/opt/accomplist/whitelist/plain.white.domain.list!	/opt/accomplist/work/white.list	7200	@DOMAIN	@IP
+
+# Blacklist
+Punycode-Regex	black!	/opt/accomplist/chris/punycode-regex.black!	/opt/accomplist/work/punycode-regex.list	7200	@REGEX
+DoX-Regex	black!	/opt/accomplist/chris/dox-regex.black!	/opt/accomplist/work/dox-regex.list	7200	@REGEX
+Drugs-Regex	black!	/opt/accomplist/chris/drugs-regex.black!	/opt/accomplist/work/drugs-regex.list	7200	@REGEX
+Files-Regex	black!	/opt/accomplist/chris/files-regex.black!	/opt/accomplist/work/files-regex.list	7200	@REGEX
+Google-Regex	black!	/opt/accomplist/chris/google-regex.black!	/opt/accomplist/work/google-regex.list	7200	@REGEX
+Google-Black	black!	/opt/accomplist/chris/google-black.list!	/opt/accomplist/work/google-blacklist.list	7200	@DOMAIN	@IP
+
+Abuse-TLDs	black!	/opt/accomplist/chris/abuse-tlds.list!	/opt/accomplist/work/abuse-tlds.list	7200	@DOMAIN	@IP
+Suspicious-TLDs	black!	/opt/accomplist/chris/suspicious-tlds.list!	/opt/accomplist/work/suspicious-tlds.list	7200	@DOMAIN	@IP
+Test-TLDs	black!	/opt/accomplist/chris/iana-tld-test.list!	/opt/accomplist/work/test-tlds.list	7200	@DOMAIN	@IP
+Restricted-TLDs	black!	/opt/accomplist/chris/iana-tld-generic-restricted.list!	/opt/accomplist/work/restricted-tlds.list	7200	@DOMAIN	@IP
+Private-Reserved	black!	/opt/accomplist/chris/private-reserved.list!	/opt/accomplist/work/private-reserved	7200	@DOMAIN	@IP
+
+DoX	black!	/opt/accomplist/chris/doh-domains.list!	/opt/accomplist/work/dox.list	7200	@DOMAIN	@IP
+
+Disconnect	black!	/opt/accomplist/disconnect/plain.black.domain.list!	/opt/accomplist/work/disconnect.list	7200	@DOMAIN	@IP
+Easylist	black!	/opt/accomplist/easylist/plain.black.domain.list!	/opt/accomplist/work/easylist.list	7200	@DOMAIN	@IP
+NextDNS	black!	/opt/accomplist/nextdns/plain.black.domain.list!	/opt/accomplist/work/nextdns.list	7200	@DOMAIN	@IP
+NextDNS-Native	black!	/opt/accomplist/nextdns-native/plain.black.domain.list!	/opt/accomplist/work/nextdns-native.list	7200	@DOMAIN	@IP
+StevenBlack	black!	/opt/accomplist/stevenblack/plain.black.domain.list!	/opt/accomplist/work/stevenblack.list	7200	@DOMAIN	@IP
+#DevDan	black!	/opt/accomplist/devdan/plain.black.domain.list!	/opt/accomplist/work/devdan.list	7200	@DOMAIN	@IP
+#NoTrack	black!	/opt/accomplist/notrack/plain.black.domain.list!	/opt/accomplist/work/notrack.list	7200	@DOMAIN	@IP
+#NoTracking	black!	/opt/accomplist/notracking/plain.black.domain.list!	/opt/accomplist/work/notracking.list	7200	@DOMAIN	@IP
+Mobile	black!	/opt/accomplist/mobile/plain.black.domain.list!	/opt/accomplist/work/mobile.list	7200	@DOMAIN	@IP
+#AdWars	black!	/opt/accomplist/adwars/plain.black.domain.list!	/opt/accomplist/work/adwars.list	7200	@DOMAIN	@IP
+#Cloak	black!	/opt/accomplist/cloak/plain.black.domain.list!	/opt/accomplist/work/cloak.list	7200	@DOMAIN	@IP
+Classic	black!	/opt/accomplist/classic/plain.black.domain.list!	/opt/accomplist/work/classic.list	7200	@DOMAIN	@IP

@@ -1,0 +1,5 @@
+Better.FYI	black	https://raw.githubusercontent.com/anarki999/Adblock-List-Archive/master/Better.fyiTrackersBlocklist.txt	/opt/accomplist/work/better-fyi.list	7200	@ADBLOCK-BLACK,ADBLOCK-ELEMENT
+Chris-Abuse-TLDS	black!	/opt/accomplist/chris/abuse-tlds.list!	/opt/accomplist/work/chris-abuse-tlds.list	7200	@DOMAIN	@EXCLUDEGTLD
+Disconnect-Tracking	black	https://s3.amazonaws.com/lists.disconnect.me/simple_tracking.txt	/opt/accomplist/work/disconnect-tracking.list	7200	@DOMAIN
+EasyPrivacy	black	https://easylist.to/easylist/easyprivacy.txt	/opt/accomplist/work/easyprivacy.list	7200	@ADBLOCK-BLACK,ADBLOCK-ELEMENT
+Jawz-AdTrackers	black	https://raw.githubusercontent.com/jawz101/MobileAdTrackers/master/hosts	/opt/accomplist/work/jawz-adtrackers.list	7200	@HOST0

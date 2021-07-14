@@ -1,0 +1,22 @@
+# Whitelist
+Chris-White	white!	/opt/accomplist/chris/white!	/opt/accomplist/work/chris-wite.list	7200	@DOMAIN	@IP
+ConnCheck	white!	/opt/accomplist/chris/connectivity-check.list	/opt/accomplist/work/conncheck.list	7200	@DOMAIN	@IP
+
+# Blacklist
+DoX-Regex	black!	/opt/accomplist/chris/dox-regex.black!	/opt/accomplist/work/dox-regex.list	7200	@REGEX
+Drugs-Regex	black!	/opt/accomplist/chris/drugs-regex.black!	/opt/accomplist/work/drugs-regex.list	7200	@REGEX
+Files-Regex	black!	/opt/accomplist/chris/files-regex.black!	/opt/accomplist/work/files-regex.list	7200	@REGEX
+Google-Regex	black!	/opt/accomplist/chris/google-regex.black!	/opt/accomplust/work/google-regex.list	7200	@REGEX
+Abuse-TLDs	black!	/opt/accomplist/chris/abuse-tlds.list!	/opt/accomplist/work/abuse-tlds.list	7200	@DOMAIN	@IP
+Suspicious-TLDs	black!	/opt/accomplist/chris/suspicious-tlds.list!	/opt/accomplist/work/suspicious-tlds.list	7200	@DOMAIN	@IP
+Private-Reserved	black!	/opt/accomplist/chris/private-reserved.list!	/opt/accomplist/work/private-reserved	7200	@DOMAIN	@IP
+Chris-Black	black!	/opt/accomplist/chris/black!	/opt/accomplist/work/chris-black.list	7200	@DOMAIN	@IP
+Chris-NRD	black!	/opt/accomplist/chris/nrd.list!	/opt/accomplist/work/chris-nrd.list	7200	@DOMAIN	@IP
+#OISD	black!	/opt/accomplist/oisd/plain.black.domain.list!	/opt/accomplist/work/oisd.list	7200	@DOMAIN	@IP
+Family-Safe	black!	/opt/accomplist/family-safe/plain.black.domain.list!	/opt/accomplist/work/family-safe.list	7200	@DOMAIN	@IP
+Mal-Dom	black!	/opt/accomplist/malicious-dom/plain.black.domain.list!	/opt/accomplist/work/mal-dom.list	7200	@DOMAIN	@IP
+Disconnect	black!	/opt/accomplist/disconnect/plain.black.domain.list!	/opt/accomplist/work/disconnect.list	7200	@DOMAIN	@IP
+NextDNS	black!	/opt/accomplist/nextdns/plain.black.domain.list!	/opt/accomplist/work/nextdns.list	7200	@DOMAIN	@IP
+Easylist	black!	/opt/accomplist/easylist/plain.black.domain.list!	/opt/accomplist/work/easylist.list	7200	@DOMAIN	@IP
+Mobile	black!	/opt/accomplist/mobile/plain.black.domain.list!	/opt/accomplist/work/mobile.list	7200	@DOMAIN	@IP
+DoX	black!	/opt/accomplist/chris/doh-domains.list!	/opt/accomplist/work/dox.list	7200	@DOMAIN	@IP

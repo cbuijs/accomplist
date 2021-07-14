@@ -1,0 +1,4 @@
+# ShadowWhisperer
+SW-Ads	black	https://raw.githubusercontent.com/ShadowWisperer/BlockLists/master/Lists/Ads	/opt/accomplist/work/sw-ads.list	7200	@DOMAIN	@IP
+SW-Junk	black	https://raw.githubusercontent.com/ShadowWisperer/BlockLists/master/Lists/Junk	/opt/accomplist/work/sw-junk.list	7200	@DOMAIN	@IP
+SW-Track	black	https://raw.githubusercontent.com/ShadowWisperer/BlockLists/master/Lists/Tracking	/opt/accomplist/work/sw-track	7200	@DOMAIN	@IP

@@ -1,0 +1,118 @@
+Chris-Abuse-TLDS	black!	/opt/accomplist/chris/abuse-tlds.list!	/opt/accomplist/work/chris-abuse-tlds.list	7200	@DOMAIN	@EXCLUDEGTLD
+Chris-Black-TLDS	black!	/opt/accomplist/chris/tlds.black!	/opt/accomplist/work/chris-black-tlds.list	7200	@DOMAIN
+Chris-Exclude	exclude	/opt/accomplist/chris/exclude!	/opt/accomplist/work/chris-exclude.list	7200	@DEFAULT
+Easylist-Exceptions	exclude	https://easylist-downloads.adblockplus.org/exceptionrules.txt	/opt/accomplist/work/easylist-exceptions.list	7200	@ADBLOCK-WHITE	@ADBLOCK-EXCLUDE
+filtros.27171	black	http://abp.mozilla-hispano.org/nauscopio/filtros.txt	/opt/accomplist/work/filtros.27171.list	7200	@ADBLOCK-BLACK,ADBLOCK-ELEMENT
+filtros.27171-WhiteList	white	/opt/accomplist/adblock/work/filtros.27171.list.download	/opt/accomplist/work/filtros.27171-WhiteList.list	7200	@ADBLOCK-WHITE	@ADBLOCK-EXCLUDE
+adblock.14727	black	http://adblock.dajbych.net/adblock.txt	/opt/accomplist/work/adblock.14727.list	7200	@ADBLOCK-BLACK,ADBLOCK-ELEMENT
+adblock.14727-WhiteList	white	/opt/accomplist/adblock/work/adblock.14727.list.download	/opt/accomplist/work/adblock.14727-WhiteList.list	7200	@ADBLOCK-WHITE	@ADBLOCK-EXCLUDE
+list.22115	black	http://adblock.ee/list.php	/opt/accomplist/work/list.22115.list	7200	@ADBLOCK-BLACK,ADBLOCK-ELEMENT
+list.22115-WhiteList	white	/opt/accomplist/adblock/work/list.22115.list.download	/opt/accomplist/work/list.22115-WhiteList.list	7200	@ADBLOCK-WHITE	@ADBLOCK-EXCLUDE
+ab.18880	black	http://gurud.ee/ab.txt	/opt/accomplist/work/ab.18880.list	7200	@ADBLOCK-BLACK,ADBLOCK-ELEMENT
+ab.18880-WhiteList	white	/opt/accomplist/adblock/work/ab.18880.list.download	/opt/accomplist/work/ab.18880-WhiteList.list	7200	@ADBLOCK-WHITE	@ADBLOCK-EXCLUDE
+easylistlithuania.10393	black	http://margevicius.lt/easylistlithuania.txt	/opt/accomplist/work/easylistlithuania.10393.list	7200	@ADBLOCK-BLACK,ADBLOCK-ELEMENT
+easylistlithuania.10393-WhiteList	white	/opt/accomplist/adblock/work/easylistlithuania.10393.list.download	/opt/accomplist/work/easylistlithuania.10393-WhiteList.list	7200	@ADBLOCK-WHITE	@ADBLOCK-EXCLUDE
+serverlist.php?hostformat	black	http://pgl.yoyo.org/adservers/serverlist.php?hostformat	/opt/accomplist/work/serverlist.php?hostformat.list	7200	@ADBLOCK-BLACK,ADBLOCK-ELEMENT
+serverlist.php?hostformat-WhiteList	white	/opt/accomplist/adblock/work/serverlist.php?hostformat.list.download	/opt/accomplist/work/serverlist.php?hostformat-WhiteList.list	7200	@ADBLOCK-WHITE	@ADBLOCK-EXCLUDE
+280blocker_adblock.24829	black	https://280blocker.net/files/280blocker_adblock.txt	/opt/accomplist/work/280blocker_adblock.24829.list	7200	@ADBLOCK-BLACK,ADBLOCK-ELEMENT
+280blocker_adblock.24829-WhiteList	white	/opt/accomplist/adblock/work/280blocker_adblock.24829.list.download	/opt/accomplist/work/280blocker_adblock.24829-WhiteList.list	7200	@ADBLOCK-WHITE	@ADBLOCK-EXCLUDE
+block.28331	black	https://adblock.dk/block.csv	/opt/accomplist/work/block.28331.list	7200	@ADBLOCK-BLACK,ADBLOCK-ELEMENT
+block.28331-WhiteList	white	/opt/accomplist/adblock/work/block.28331.list.download	/opt/accomplist/work/block.28331-WhiteList.list	7200	@ADBLOCK-WHITE	@ADBLOCK-EXCLUDE
+is.abp.4402	black	https://adblock.gardar.net/is.abp.txt	/opt/accomplist/work/is.abp.4402.list	7200	@ADBLOCK-BLACK,ADBLOCK-ELEMENT
+is.abp.4402-WhiteList	white	/opt/accomplist/adblock/work/is.abp.4402.list.download	/opt/accomplist/work/is.abp.4402-WhiteList.list	7200	@ADBLOCK-WHITE	@ADBLOCK-EXCLUDE
+11QrCfx	black	https://bit.ly/11QrCfx	/opt/accomplist/work/11QrCfx.list	7200	@ADBLOCK-BLACK,ADBLOCK-ELEMENT
+11QrCfx-WhiteList	white	/opt/accomplist/adblock/work/11QrCfx.list.download	/opt/accomplist/work/11QrCfx-WhiteList.list	7200	@ADBLOCK-WHITE	@ADBLOCK-EXCLUDE
+adblockfa.2804	black	https://cdn.rawgit.com/SlashArash/adblockfa/master/adblockfa.txt	/opt/accomplist/work/adblockfa.2804.list	7200	@ADBLOCK-BLACK,ADBLOCK-ELEMENT
+adblockfa.2804-WhiteList	white	/opt/accomplist/adblock/work/adblockfa.2804.list.download	/opt/accomplist/work/adblockfa.2804-WhiteList.list	7200	@ADBLOCK-WHITE	@ADBLOCK-EXCLUDE
+abp-filters-anti-cv.18420	black	https://easylist-downloads.adblockplus.org/abp-filters-anti-cv.txt	/opt/accomplist/work/abp-filters-anti-cv.18420.list	7200	@ADBLOCK-BLACK,ADBLOCK-ELEMENT
+abp-filters-anti-cv.18420-WhiteList	white	/opt/accomplist/adblock/work/abp-filters-anti-cv.18420.list.download	/opt/accomplist/work/abp-filters-anti-cv.18420-WhiteList.list	7200	@ADBLOCK-WHITE	@ADBLOCK-EXCLUDE
+advblock.6187	black	https://easylist-downloads.adblockplus.org/advblock.txt	/opt/accomplist/work/advblock.6187.list	7200	@ADBLOCK-BLACK,ADBLOCK-ELEMENT
+advblock.6187-WhiteList	white	/opt/accomplist/adblock/work/advblock.6187.list.download	/opt/accomplist/work/advblock.6187-WhiteList.list	7200	@ADBLOCK-WHITE	@ADBLOCK-EXCLUDE
+adwarefilters.31088	black	https://easylist-downloads.adblockplus.org/adwarefilters.txt	/opt/accomplist/work/adwarefilters.31088.list	7200	@ADBLOCK-BLACK,ADBLOCK-ELEMENT
+adwarefilters.31088-WhiteList	white	/opt/accomplist/adblock/work/adwarefilters.31088.list.download	/opt/accomplist/work/adwarefilters.31088-WhiteList.list	7200	@ADBLOCK-WHITE	@ADBLOCK-EXCLUDE
+antiadblockfilters.1914	black	https://easylist-downloads.adblockplus.org/antiadblockfilters.txt	/opt/accomplist/work/antiadblockfilters.1914.list	7200	@ADBLOCK-BLACK,ADBLOCK-ELEMENT
+antiadblockfilters.1914-WhiteList	white	/opt/accomplist/adblock/work/antiadblockfilters.1914.list.download	/opt/accomplist/work/antiadblockfilters.1914-WhiteList.list	7200	@ADBLOCK-WHITE	@ADBLOCK-EXCLUDE
+easylistchina.22275	black	https://easylist-downloads.adblockplus.org/easylistchina.txt	/opt/accomplist/work/easylistchina.22275.list	7200	@ADBLOCK-BLACK,ADBLOCK-ELEMENT
+easylistchina.22275-WhiteList	white	/opt/accomplist/adblock/work/easylistchina.22275.list.download	/opt/accomplist/work/easylistchina.22275-WhiteList.list	7200	@ADBLOCK-WHITE	@ADBLOCK-EXCLUDE
+easylistdutch.15938	black	https://easylist-downloads.adblockplus.org/easylistdutch.txt	/opt/accomplist/work/easylistdutch.15938.list	7200	@ADBLOCK-BLACK,ADBLOCK-ELEMENT
+easylistdutch.15938-WhiteList	white	/opt/accomplist/adblock/work/easylistdutch.15938.list.download	/opt/accomplist/work/easylistdutch.15938-WhiteList.list	7200	@ADBLOCK-WHITE	@ADBLOCK-EXCLUDE
+easylistgermany.9682	black	https://easylist-downloads.adblockplus.org/easylistgermany.txt	/opt/accomplist/work/easylistgermany.9682.list	7200	@ADBLOCK-BLACK,ADBLOCK-ELEMENT
+easylistgermany.9682-WhiteList	white	/opt/accomplist/adblock/work/easylistgermany.9682.list.download	/opt/accomplist/work/easylistgermany.9682-WhiteList.list	7200	@ADBLOCK-WHITE	@ADBLOCK-EXCLUDE
+easylistitaly.10916	black	https://easylist-downloads.adblockplus.org/easylistitaly.txt	/opt/accomplist/work/easylistitaly.10916.list	7200	@ADBLOCK-BLACK,ADBLOCK-ELEMENT
+easylistitaly.10916-WhiteList	white	/opt/accomplist/adblock/work/easylistitaly.10916.list.download	/opt/accomplist/work/easylistitaly.10916-WhiteList.list	7200	@ADBLOCK-WHITE	@ADBLOCK-EXCLUDE
+easylist_noadult.19439	black	https://easylist-downloads.adblockplus.org/easylist_noadult.txt	/opt/accomplist/work/easylist_noadult.19439.list	7200	@ADBLOCK-BLACK,ADBLOCK-ELEMENT
+easylist_noadult.19439-WhiteList	white	/opt/accomplist/adblock/work/easylist_noadult.19439.list.download	/opt/accomplist/work/easylist_noadult.19439-WhiteList.list	7200	@ADBLOCK-WHITE	@ADBLOCK-EXCLUDE
+easylist_noelemhide.5033	black	https://easylist-downloads.adblockplus.org/easylist_noelemhide.txt	/opt/accomplist/work/easylist_noelemhide.5033.list	7200	@ADBLOCK-BLACK,ADBLOCK-ELEMENT
+easylist_noelemhide.5033-WhiteList	white	/opt/accomplist/adblock/work/easylist_noelemhide.5033.list.download	/opt/accomplist/work/easylist_noelemhide.5033-WhiteList.list	7200	@ADBLOCK-WHITE	@ADBLOCK-EXCLUDE
+easylistpolish.17423	black	https://easylist-downloads.adblockplus.org/easylistpolish.txt	/opt/accomplist/work/easylistpolish.17423.list	7200	@ADBLOCK-BLACK,ADBLOCK-ELEMENT
+easylistpolish.17423-WhiteList	white	/opt/accomplist/adblock/work/easylistpolish.17423.list.download	/opt/accomplist/work/easylistpolish.17423-WhiteList.list	7200	@ADBLOCK-WHITE	@ADBLOCK-EXCLUDE
+easylistportuguese.14661	black	https://easylist-downloads.adblockplus.org/easylistportuguese.txt	/opt/accomplist/work/easylistportuguese.14661.list	7200	@ADBLOCK-BLACK,ADBLOCK-ELEMENT
+easylistportuguese.14661-WhiteList	white	/opt/accomplist/adblock/work/easylistportuguese.14661.list.download	/opt/accomplist/work/easylistportuguese.14661-WhiteList.list	7200	@ADBLOCK-WHITE	@ADBLOCK-EXCLUDE
+easylistspanish.6348	black	https://easylist-downloads.adblockplus.org/easylistspanish.txt	/opt/accomplist/work/easylistspanish.6348.list	7200	@ADBLOCK-BLACK,ADBLOCK-ELEMENT
+easylistspanish.6348-WhiteList	white	/opt/accomplist/adblock/work/easylistspanish.6348.list.download	/opt/accomplist/work/easylistspanish.6348-WhiteList.list	7200	@ADBLOCK-WHITE	@ADBLOCK-EXCLUDE
+easylist.21428	black	https://easylist-downloads.adblockplus.org/easylist.txt	/opt/accomplist/work/easylist.21428.list	7200	@ADBLOCK-BLACK,ADBLOCK-ELEMENT
+easylist.21428-WhiteList	white	/opt/accomplist/adblock/work/easylist.21428.list.download	/opt/accomplist/work/easylist.21428-WhiteList.list	7200	@ADBLOCK-WHITE	@ADBLOCK-EXCLUDE
+easyprivacy_nointernational.17232	black	https://easylist-downloads.adblockplus.org/easyprivacy_nointernational.txt	/opt/accomplist/work/easyprivacy_nointernational.17232.list	7200	@ADBLOCK-BLACK,ADBLOCK-ELEMENT
+easyprivacy_nointernational.17232-WhiteList	white	/opt/accomplist/adblock/work/easyprivacy_nointernational.17232.list.download	/opt/accomplist/work/easyprivacy_nointernational.17232-WhiteList.list	7200	@ADBLOCK-WHITE	@ADBLOCK-EXCLUDE
+easyprivacy.24882	black	https://easylist-downloads.adblockplus.org/easyprivacy.txt	/opt/accomplist/work/easyprivacy.24882.list	7200	@ADBLOCK-BLACK,ADBLOCK-ELEMENT
+easyprivacy.24882-WhiteList	white	/opt/accomplist/adblock/work/easyprivacy.24882.list.download	/opt/accomplist/work/easyprivacy.24882-WhiteList.list	7200	@ADBLOCK-WHITE	@ADBLOCK-EXCLUDE
+fanboy-annoyance.11128	black	https://easylist-downloads.adblockplus.org/fanboy-annoyance.txt	/opt/accomplist/work/fanboy-annoyance.11128.list	7200	@ADBLOCK-BLACK,ADBLOCK-ELEMENT
+fanboy-annoyance.11128-WhiteList	white	/opt/accomplist/adblock/work/fanboy-annoyance.11128.list.download	/opt/accomplist/work/fanboy-annoyance.11128-WhiteList.list	7200	@ADBLOCK-WHITE	@ADBLOCK-EXCLUDE
+indianlist.20016	black	https://easylist-downloads.adblockplus.org/indianlist.txt	/opt/accomplist/work/indianlist.20016.list	7200	@ADBLOCK-BLACK,ADBLOCK-ELEMENT
+indianlist.20016-WhiteList	white	/opt/accomplist/adblock/work/indianlist.20016.list.download	/opt/accomplist/work/indianlist.20016-WhiteList.list	7200	@ADBLOCK-WHITE	@ADBLOCK-EXCLUDE
+koreanlist.13305	black	https://easylist-downloads.adblockplus.org/koreanlist.txt	/opt/accomplist/work/koreanlist.13305.list	7200	@ADBLOCK-BLACK,ADBLOCK-ELEMENT
+koreanlist.13305-WhiteList	white	/opt/accomplist/adblock/work/koreanlist.13305.list.download	/opt/accomplist/work/koreanlist.13305-WhiteList.list	7200	@ADBLOCK-WHITE	@ADBLOCK-EXCLUDE
+Liste_AR.609	black	https://easylist-downloads.adblockplus.org/Liste_AR.txt	/opt/accomplist/work/Liste_AR.609.list	7200	@ADBLOCK-BLACK,ADBLOCK-ELEMENT
+Liste_AR.609-WhiteList	white	/opt/accomplist/adblock/work/Liste_AR.609.list.download	/opt/accomplist/work/Liste_AR.609-WhiteList.list	7200	@ADBLOCK-WHITE	@ADBLOCK-EXCLUDE
+liste_fr.31745	black	https://easylist-downloads.adblockplus.org/liste_fr.txt	/opt/accomplist/work/liste_fr.31745.list	7200	@ADBLOCK-BLACK,ADBLOCK-ELEMENT
+liste_fr.31745-WhiteList	white	/opt/accomplist/adblock/work/liste_fr.31745.list.download	/opt/accomplist/work/liste_fr.31745-WhiteList.list	7200	@ADBLOCK-WHITE	@ADBLOCK-EXCLUDE
+malwaredomains_full.18132	black	https://easylist-downloads.adblockplus.org/malwaredomains_full.txt	/opt/accomplist/work/malwaredomains_full.18132.list	7200	@ADBLOCK-BLACK,ADBLOCK-ELEMENT
+malwaredomains_full.18132-WhiteList	white	/opt/accomplist/adblock/work/malwaredomains_full.18132.list.download	/opt/accomplist/work/malwaredomains_full.18132-WhiteList.list	7200	@ADBLOCK-WHITE	@ADBLOCK-EXCLUDE
+easylist.15402	black	https://easylist.to/easylist/easylist.txt	/opt/accomplist/work/easylist.15402.list	7200	@ADBLOCK-BLACK,ADBLOCK-ELEMENT
+easylist.15402-WhiteList	white	/opt/accomplist/adblock/work/easylist.15402.list.download	/opt/accomplist/work/easylist.15402-WhiteList.list	7200	@ADBLOCK-WHITE	@ADBLOCK-EXCLUDE
+easyprivacy.5555	black	https://easylist.to/easylist/easyprivacy.txt	/opt/accomplist/work/easyprivacy.5555.list	7200	@ADBLOCK-BLACK,ADBLOCK-ELEMENT
+easyprivacy.5555-WhiteList	white	/opt/accomplist/adblock/work/easyprivacy.5555.list.download	/opt/accomplist/work/easyprivacy.5555-WhiteList.list	7200	@ADBLOCK-WHITE	@ADBLOCK-EXCLUDE
+fanboy-annoyance.739	black	https://easylist.to/easylist/fanboy-annoyance.txt	/opt/accomplist/work/fanboy-annoyance.739.list	7200	@ADBLOCK-BLACK,ADBLOCK-ELEMENT
+fanboy-annoyance.739-WhiteList	white	/opt/accomplist/adblock/work/fanboy-annoyance.739.list.download	/opt/accomplist/work/fanboy-annoyance.739-WhiteList.list	7200	@ADBLOCK-WHITE	@ADBLOCK-EXCLUDE
+easylistgermany.5961	black	https://easylist.to/easylistgermany/easylistgermany.txt	/opt/accomplist/work/easylistgermany.5961.list	7200	@ADBLOCK-BLACK,ADBLOCK-ELEMENT
+easylistgermany.5961-WhiteList	white	/opt/accomplist/adblock/work/easylistgermany.5961.list.download	/opt/accomplist/work/easylistgermany.5961-WhiteList.list	7200	@ADBLOCK-WHITE	@ADBLOCK-EXCLUDE
+latvian-list.11155	black	https://notabug.org/latvian-list/adblock-latvian/raw/master/lists/latvian-list.txt	/opt/accomplist/work/latvian-list.11155.list	7200	@ADBLOCK-BLACK,ADBLOCK-ELEMENT
+latvian-list.11155-WhiteList	white	/opt/accomplist/adblock/work/latvian-list.11155.list.download	/opt/accomplist/work/latvian-list.11155-WhiteList.list	7200	@ADBLOCK-WHITE	@ADBLOCK-EXCLUDE
+filters.32559	black	https://raw.github.com/tomasko126/easylistczechandslovak/master/filters.txt	/opt/accomplist/work/filters.32559.list	7200	@ADBLOCK-BLACK,ADBLOCK-ELEMENT
+filters.32559-WhiteList	white	/opt/accomplist/adblock/work/filters.32559.list.download	/opt/accomplist/work/filters.32559-WhiteList.list	7200	@ADBLOCK-WHITE	@ADBLOCK-EXCLUDE
+abpindo.24070	black	https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/subscriptions/abpindo.txt	/opt/accomplist/work/abpindo.24070.list	7200	@ADBLOCK-BLACK,ADBLOCK-ELEMENT
+abpindo.24070-WhiteList	white	/opt/accomplist/adblock/work/abpindo.24070.list.download	/opt/accomplist/work/abpindo.24070-WhiteList.list	7200	@ADBLOCK-WHITE	@ADBLOCK-EXCLUDE
+abpvn.32051	black	https://raw.githubusercontent.com/abpvn/abpvn/master/filter/abpvn.txt	/opt/accomplist/work/abpvn.32051.list	7200	@ADBLOCK-BLACK,ADBLOCK-ELEMENT
+abpvn.32051-WhiteList	white	/opt/accomplist/adblock/work/abpvn.32051.list.download	/opt/accomplist/work/abpvn.32051-WhiteList.list	7200	@ADBLOCK-WHITE	@ADBLOCK-EXCLUDE
+cjx-annoyance.10286	black	https://raw.githubusercontent.com/cjx82630/cjxlist/master/cjx-annoyance.txt	/opt/accomplist/work/cjx-annoyance.10286.list	7200	@ADBLOCK-BLACK,ADBLOCK-ELEMENT
+cjx-annoyance.10286-WhiteList	white	/opt/accomplist/adblock/work/cjx-annoyance.10286.list.download	/opt/accomplist/work/cjx-annoyance.10286-WhiteList.list	7200	@ADBLOCK-WHITE	@ADBLOCK-EXCLUDE
+NorwegianList.19289	black	https://raw.githubusercontent.com/DandelionSprout/adfilt/master/NorwegianList.txt	/opt/accomplist/work/NorwegianList.19289.list	7200	@ADBLOCK-BLACK,ADBLOCK-ELEMENT
+NorwegianList.19289-WhiteList	white	/opt/accomplist/adblock/work/NorwegianList.19289.list.download	/opt/accomplist/work/NorwegianList.19289-WhiteList.list	7200	@ADBLOCK-WHITE	@ADBLOCK-EXCLUDE
+EasyListHebrew.25584	black	https://raw.githubusercontent.com/easylist/EasyListHebrew/master/EasyListHebrew.txt	/opt/accomplist/work/EasyListHebrew.25584.list	7200	@ADBLOCK-BLACK,ADBLOCK-ELEMENT
+EasyListHebrew.25584-WhiteList	white	/opt/accomplist/adblock/work/EasyListHebrew.25584.list.download	/opt/accomplist/work/EasyListHebrew.25584-WhiteList.list	7200	@ADBLOCK-WHITE	@ADBLOCK-EXCLUDE
+filtri.27223	black	https://raw.githubusercontent.com/gioxx/xfiles/master/filtri.txt	/opt/accomplist/work/filtri.27223.list	7200	@ADBLOCK-BLACK,ADBLOCK-ELEMENT
+filtri.27223-WhiteList	white	/opt/accomplist/adblock/work/filtri.27223.list.download	/opt/accomplist/work/filtri.27223-WhiteList.list	7200	@ADBLOCK-WHITE	@ADBLOCK-EXCLUDE
+abpindo.29135	black	https://raw.githubusercontent.com/heradhis/indonesianadblockrules/master/subscriptions/abpindo.txt	/opt/accomplist/work/abpindo.29135.list	7200	@ADBLOCK-BLACK,ADBLOCK-ELEMENT
+abpindo.29135-WhiteList	white	/opt/accomplist/adblock/work/abpindo.29135.list.download	/opt/accomplist/work/abpindo.29135-WhiteList.list	7200	@ADBLOCK-WHITE	@ADBLOCK-EXCLUDE
+nocoin.15601	black	https://raw.githubusercontent.com/hoshsadiq/adblock-nocoin-list/master/nocoin.txt	/opt/accomplist/work/nocoin.15601.list	7200	@ADBLOCK-BLACK,ADBLOCK-ELEMENT
+nocoin.15601-WhiteList	white	/opt/accomplist/adblock/work/nocoin.15601.list.download	/opt/accomplist/work/nocoin.15601-WhiteList.list	7200	@ADBLOCK-WHITE	@ADBLOCK-EXCLUDE
+hufilter.30700	black	https://raw.githubusercontent.com/hufilter/hufilter/master/hufilter.txt	/opt/accomplist/work/hufilter.30700.list	7200	@ADBLOCK-BLACK,ADBLOCK-ELEMENT
+hufilter.30700-WhiteList	white	/opt/accomplist/adblock/work/hufilter.30700.list.download	/opt/accomplist/work/hufilter.30700-WhiteList.list	7200	@ADBLOCK-WHITE	@ADBLOCK-EXCLUDE
+adblock-list.9297	black	https://raw.githubusercontent.com/Spam404/lists/master/adblock-list.txt	/opt/accomplist/work/adblock-list.9297.list	7200	@ADBLOCK-BLACK,ADBLOCK-ELEMENT
+adblock-list.9297-WhiteList	white	/opt/accomplist/adblock/work/adblock-list.9297.list.download	/opt/accomplist/work/adblock-list.9297-WhiteList.list	7200	@ADBLOCK-WHITE	@ADBLOCK-EXCLUDE
+filters.561	black	https://raw.githubusercontent.com/tomasko126/easylistczechandslovak/master/filters.txt	/opt/accomplist/work/filters.561.list	7200	@ADBLOCK-BLACK,ADBLOCK-ELEMENT
+filters.561-WhiteList	white	/opt/accomplist/adblock/work/filters.561.list.download	/opt/accomplist/work/filters.561-WhiteList.list	7200	@ADBLOCK-WHITE	@ADBLOCK-EXCLUDE
+adblock_co.27175	black	https://raw.githubusercontent.com/yecarrillo/adblock-colombia/master/adblock_co.txt	/opt/accomplist/work/adblock_co.27175.list	7200	@ADBLOCK-BLACK,ADBLOCK-ELEMENT
+adblock_co.27175-WhiteList	white	/opt/accomplist/adblock/work/adblock_co.27175.list.download	/opt/accomplist/work/adblock_co.27175-WhiteList.list	7200	@ADBLOCK-WHITE	@ADBLOCK-EXCLUDE
+youslist.32479	black	https://raw.githubusercontent.com/yous/YousList/master/youslist.txt	/opt/accomplist/work/youslist.32479.list	7200	@ADBLOCK-BLACK,ADBLOCK-ELEMENT
+youslist.32479-WhiteList	white	/opt/accomplist/adblock/work/youslist.32479.list.download	/opt/accomplist/work/youslist.32479-WhiteList.list	7200	@ADBLOCK-WHITE	@ADBLOCK-EXCLUDE
+adblock_bg.9840	black	http://stanev.org/abp/adblock_bg.txt	/opt/accomplist/work/adblock_bg.9840.list	7200	@ADBLOCK-BLACK,ADBLOCK-ELEMENT
+adblock_bg.9840-WhiteList	white	/opt/accomplist/adblock/work/adblock_bg.9840.list.download	/opt/accomplist/work/adblock_bg.9840-WhiteList.list	7200	@ADBLOCK-WHITE	@ADBLOCK-EXCLUDE
+abp	black	https://www.i-dont-care-about-cookies.eu/abp/	/opt/accomplist/work/abp.list	7200	@ADBLOCK-BLACK,ADBLOCK-ELEMENT
+abp-WhiteList	white	/opt/accomplist/adblock/work/abp.list.download	/opt/accomplist/work/abp-WhiteList.list	7200	@ADBLOCK-WHITE	@ADBLOCK-EXCLUDE
+sbl-adblock.13333	black	http://www.squidblacklist.org/downloads/sbl-adblock.acl	/opt/accomplist/work/sbl-adblock.13333.list	7200	@ADBLOCK-BLACK,ADBLOCK-ELEMENT
+sbl-adblock.13333-WhiteList	white	/opt/accomplist/adblock/work/sbl-adblock.13333.list.download	/opt/accomplist/work/sbl-adblock.13333-WhiteList.list	7200	@ADBLOCK-WHITE	@ADBLOCK-EXCLUDE
+void-gr-filters.15392	black	http://www.void.gr/kargig/void-gr-filters.txt	/opt/accomplist/work/void-gr-filters.15392.list	7200	@ADBLOCK-BLACK,ADBLOCK-ELEMENT
+void-gr-filters.15392-WhiteList	white	/opt/accomplist/adblock/work/void-gr-filters.15392.list.download	/opt/accomplist/work/void-gr-filters.15392-WhiteList.list	7200	@ADBLOCK-WHITE	@ADBLOCK-EXCLUDE
+rolist.21802	black	http://www.zoso.ro/pages/rolist.txt	/opt/accomplist/work/rolist.21802.list	7200	@ADBLOCK-BLACK,ADBLOCK-ELEMENT
+rolist.21802-WhiteList	white	/opt/accomplist/adblock/work/rolist.21802.list.download	/opt/accomplist/work/rolist.21802-WhiteList.list	7200	@ADBLOCK-WHITE	@ADBLOCK-EXCLUDE

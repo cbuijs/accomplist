@@ -1,0 +1,29 @@
+Chris-Regex-Black	black	/opt/accomplist/chris/regex.black!	/opt/accomplist/work/chris-regex-black.list	7200	@REGEX
+Chris-Regex-White	white	/opt/accomplist/chris/regex.white!	/opt/accomplist/work/chris-regex-white.list	7200	@REGEX
+
+Chris-Black	black	/opt/accomplist/chris/black!	/opt/accomplist/work/chris-black.list	7200	@DOMAINIP
+Chris-White	white	/opt/accomplist/chris/white!	/opt/accomplist/work/chris-white.list	7200	@DOMAINIP
+Chris-Private	black!	/opt/accomplist/chris/private-reserved.list!	/opt/accomplist/work/chris-private.list	7200	@DOMAINIP
+
+Chris-Exclude	exclude	/opt/accomplist/chris/exclude!	/opt/accomplist/work/chris-exclude.list	7200	@DEFAULT
+
+Chris-Black-TLDS	black!	/opt/accomplist/chris/tlds.black!	/opt/accomplist/work/chris-black-tlds.list	7200	@DOMAIN
+Chris-White-TLDS	white!	/opt/accomplist/chris/tlds.white!	/opt/accomplist/work/chris-white-tlds.list	7200	@DOMAIN
+Chris-Abuse-TLDS	black!	/opt/accomplist/chris/abuse-tlds.list!	/opt/accomplist/work/chris-abuse-tlds.list	7200	@DOMAIN	@EXCLUDEGTLD
+
+Chris-Special-White	white!	/opt/accomplist/chris/white.special!	/opt/accomplist/work/chris-special-white.list	7200	@DOMAIN
+
+Chris-ASN-Black	black	/opt/accomplist/chris/asn.black!	/opt/accomplist/work/chris-asn-black.list	7200	@ASN
+Chris-ASN-White	white	/opt/accomplist/chris/asn.white!	/opt/accomplist/work/chris-asn-white.list	7200	@ASN
+
+Notracking-Hosts	black	https://raw.githubusercontent.com/notracking/hosts-blocklists/master/hostnames.txt	/opt/accomplist/work/notracking-hosts.list	7200	@HOST0	^::\s
+Notracking-Domains	black	https://raw.githubusercontent.com/notracking/hosts-blocklists/master/domains.txt	/opt/accomplist/work/notracking-domains.list	7200	@DNSMASQ-ADDRESS	/::$
+Notracking-Whitelist	white	https://raw.githubusercontent.com/notracking/hosts-blocklists-scripts/master/hostnames.whitelist.txt	/opt/accomplist/work/notracking-whitelist.list	7200	@DOMAIN
+
+Steven-Black-Hosts	black	https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/fakenews-gambling-porn/hosts	/opt/accomplist/work/stevenblack.list	7200	@HOST0
+
+SpamHaus-Drop	black	https://www.spamhaus.org/drop/drop.txt	/opt/accomplist/work/spamhaus-drop.list	7200	@IP
+SpamHaus-Edrop	black	https://www.spamhaus.org/drop/edrop.txt	/opt/accomplist/work/spamhaus-edrop.list	7200	@IP
+SpamHaus-DropV6	black	https://www.spamhaus.org/drop/dropv6.txt	/opt/accomplist/work/spamhaus-dropv6.list	7200	@IP
+SpamHaus-ASNDrop	black	https://www.spamhaus.org/drop/asndrop.txt	/opt/accomplist/work/spamhaus-asndrop.list	7200	@ASN
+

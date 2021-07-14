@@ -1,0 +1,13 @@
+2o7-net	black	https://www.orwell1984.today/cname/2o7.net.txt	/opt/accomplist/work/2o7-net.list	7200	@DOMAIN	@IP
+a8-net	black	https://www.orwell1984.today/cname/a8.net.txt	/opt/accomplist/work/a8-net.list	7200	@DOMAIN	@IP
+at-o-net	black	https://www.orwell1984.today/cname/at-o.net.txt	/opt/accomplist/work/at-o-net.list	7200	@DOMAIN	@IP
+ebis-ne-jp	black	https://www.orwell1984.today/cname/ebis.ne.jp.txt	/opt/accomplist/work/ebis-ne-jp-net.list	7200	@DOMAIN	@IP
+eulerian-net	black	https://www.orwell1984.today/cname/eulerian.net.txt	/opt/accomplist/work/eulerian-net.list	7200	@DOMAIN	@IP
+omtrdc-net	black	https://www.orwell1984.today/cname/omtrdc.net.txt	/opt/accomplist/work/omtrdc-net.list	7200	@DOMAIN	@IP
+FrogEye	black	https://hostfiles.frogeye.fr/firstparty-only-trackers.txt	/opt/accomplist/work/frogeye.list	7200	@DOMAIN	@IP
+AdGuard-English	black	https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/EnglishFilter/sections/adservers_firstparty.txt	/opt/accomplist/work/adguard-english.list	7200	@ADBLOCK-BLACK	@IP
+AdGuard-French	black	https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/FrenchFilter/sections/adservers_firstparty.txt	/opt/accomplist/work/adguard-french.list	7200	@ADBLOCK-BLACK	@IP
+AdGuard-Russian	black	https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/RussianFilter/sections/adservers_firstparty.txt	/opt/accomplist/work/adguard-russian.list	7200	@ADBLOCK-BLACK	@IP
+AdGuard-Turkish	black	https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/TurkishFilter/sections/adservers_firstparty.txt	/opt/accomplist/work/adguard-turkish.list	7200	@ADBLOCK-BLACK	@IP
+AdGuard-Spyware	black	https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/SpywareFilter/sections/tracking_servers_firstparty.txt	/opt/accomplist/work/adguard-spyware.list	7200	@ADBLOCK-BLACK	@IP
+AdGuard-Disguised	black	https://raw.githubusercontent.com/AdguardTeam/cname-trackers/master/combined_disguised_trackers_justdomains.txt	/opt/accomplist/work/adguard-disguised.list	7200	@DOMAIN	@IP

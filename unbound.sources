@@ -1,0 +1,6 @@
+Deugniets-Black	black	/opt/accomplist/deugniets/plain.black.domain.list!	/opt/accomplist/work/deugniets-black.list	7200	@DOMAIN
+Deugniets-Black-IP4	black	/opt/accomplist/deugniets/plain.black.ip4cidr.list!	/opt/accomplist/work/deugniets-black-ip4.list	7200	@IP
+Deugniets-Black-IP6	black	/opt/accomplist/deugniets/plain.black.ip6cidr.list!	/opt/accomplist/work/deugniets-black-ip6.list	7200	@IP
+Mal-IP4	black	/opt/accomplist/malicious-ip/plain.black.ip4cidr.list!	/opt/accomplist/work/mal-ip4.list	7200	@IP
+Mal-IP6	black	/opt/accomplist/malicious-ip/plain.black.ip6cidr.list!	/opt/accomplist/work/mal-ip6.list	7200	@IP
+Family-Safe	black	/opt/accomplist/family-safe/plain.black.domain.list!	/opt/accomplist/work/family-safe.list	7200	@DOMAIN

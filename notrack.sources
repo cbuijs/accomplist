@@ -1,0 +1,2 @@
+Notrack-Blocklist	black	https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-blocklist.txt	/opt/accomplist/work/notrack-blocklist.list	7200	@DOMAIN	@IP
+Notrack-Malware	black	https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-malware.txt	/opt/accomplist/work/notrack-malware.list	7200	@DOMAIN	@IP

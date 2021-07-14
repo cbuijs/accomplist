@@ -1,0 +1,6 @@
+DibDot4	black	https://raw.githubusercontent.com/dibdot/DoH-IP-blocklists/master/doh-ipv4.txt	/opt/accomplist/work/dibdot-doh4.list	7200	@IP
+DibDot6	black	https://raw.githubusercontent.com/dibdot/DoH-IP-blocklists/master/doh-ipv6.txt	/opt/accomplist/work/dibdot-doh6.list	7200	@IP
+DibDotDom	black	https://raw.githubusercontent.com/dibdot/DoH-IP-blocklists/master/doh-domains.txt	/opt/accomplist/work/dibdot-dom.list	7200	@DOMAIN	@IP
+Chris-DoH	black!	/opt/accomplist/chris/chris-doh.black!	/opt/accomplist/work/chris-doh.list	7200	@IP
+DoH-Doms	black!	/opt/accomplist/chris/doh-domains.list!	/opt/accomplist/work/doh-domains.list	7200	@DOMAIN	@IP
+DoH-IPs	black!	/opt/accomplist/chris/doh-ips.list!	/opt/accomplist/work/doh-ips.list	7200	@IP

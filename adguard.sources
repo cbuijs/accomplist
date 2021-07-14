@@ -1,0 +1,25 @@
+#AdGuard-Dutch-Firstparty	black	https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/DutchFilter/sections/adservers_firstparty.txt	/opt/accomplist/work/adguard-dutch-firstparty.list	7200	@ADBLOCK-BLACK	@IP
+AdGuard-Dutch	black	https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/DutchFilter/sections/adservers.txt	/opt/accomplist/work/adguard-dutch.list	7200	@ADBLOCK-BLACK	@IP
+
+AdGuard-English-Firstparty	black	https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/EnglishFilter/sections/adservers_firstparty.txt	/opt/accomplist/work/adguard-english-firstparty.list	7200	@ADBLOCK-BLACK	@IP
+AdGuard-English	black	https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/EnglishFilter/sections/adservers.txt	/opt/accomplist/work/adguard-english.list	7200	@ADBLOCK-BLACK	@IP
+
+AdGuard-French-Firstparty	black	https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/FrenchFilter/sections/adservers_firstparty.txt	/opt/accomplist/work/adguard-french-firstparty.list	7200	@ADBLOCK-BLACK	@IP
+AdGuard-French	black	https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/FrenchFilter/sections/adservers.txt	/opt/accomplist/work/adguard-french.list	7200	@ADBLOCK-BLACK	@IP
+
+AdGuard-Russian-Firstparty	black	https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/RussianFilter/sections/adservers_firstparty.txt	/opt/accomplist/work/adguard-russian-firstparty.list	7200	@ADBLOCK-BLACK	@IP
+AdGuard-Russian	black	https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/RussianFilter/sections/adservers.txt	/opt/accomplist/work/adguard-russian.list	7200	@ADBLOCK-BLACK	@IP
+
+AdGuard-Turkish-Firstparty	black	https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/TurkishFilter/sections/adservers_firstparty.txt	/opt/accomplist/work/adguard-turkish-firstparty.list	7200	@ADBLOCK-BLACK	@IP
+AdGuard-Turkish	black	https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/TurkishFilter/sections/adservers.txt	/opt/accomplist/work/adguard-turkish.list	7200	@ADBLOCK-BLACK	@IP
+
+#AdGuard-Mobile-Firstparty	black	https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/MobileFilter/sections/adservers_firstparty.txt	/opt/accomplist/work/adguard-mobile-firstparty.list	7200	@ADBLOCK-BLACK	@IP
+AdGuard-Mobile	black	https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/MobileFilter/sections/adservers.txt	/opt/accomplist/work/adguard-mobile.list	7200	@ADBLOCK-BLACK	@IP
+
+AdGuard-Spyware-Firstparty	black	https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/SpywareFilter/sections/tracking_servers_firstparty.txt	/opt/accomplist/work/adguard-spyware-firstparty.list	7200	@ADBLOCK-BLACK	@IP
+AdGuard-Spyware	black	https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/SpywareFilter/sections/tracking_servers.txt	/opt/accomplist/work/adguard-spyware.list	7200	@ADBLOCK-BLACK	@IP
+AdGuard-Spyware-Mobile	black	https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/SpywareFilter/sections/mobile.txt	/opt/accomplist/work/adguard-spyware-mobile.list	7200	@ADBLOCK-BLACK	@IP
+
+ADGH-AdMal	black	https://raw.githubusercontent.com/alexsannikov/adguardhome-filters/master/admalware.txt	/opt/accomplist/work/adgh-admal.list	7200	@ADBLOCK-BLACK	@IP
+ADGH-FakeNews	black	https://raw.githubusercontent.com/alexsannikov/adguardhome-filters/master/fakenews.txt	/opt/accomplist/work/adgh-fakenews.list	7200	@ADBLOCK-BLACK	@IP
+

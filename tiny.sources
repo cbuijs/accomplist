@@ -1,0 +1,15 @@
+Chris-Abuse-TLDS	black!	/opt/accomplist/chris/abuse-tlds.list!	/opt/accomplist/work/chris-abuse-tlds.list	7200	@DOMAIN	@EXCLUDEGTLD
+Chris-Black-TLDS	black!	/opt/accomplist/chris/tlds.black!	/opt/accomplist/work/chris-black-tlds.list	7200	@DOMAIN
+
+EasyList	black	https://easylist.to/easylist/easylist.txt	/opt/accomplist/work/easylist.list	7200	@ADBLOCK-BLACK,ADBLOCK-ELEMENT
+EasyList-White	white	/opt/accomplist/tiny/work/easylist.list.download	/opt/accomplist/work/easylist-white.list	7200	@ADBLOCK-WHITE	@ADBLOCK-EXCLUDE
+
+EasyPrivacy	black	https://easylist.to/easylist/easyprivacy.txt	/opt/accomplist/work/easyprivacy.list	7200	@ADBLOCK-BLACK,ADBLOCK-ELEMENT
+EasyPrivacy-White	white	/opt/accomplist/tiny/work/easyprivacy.list.download	/opt/accomplist/work/easyprivacy-white.list	7200	@ADBLOCK-WHITE	@ADBLOCK-EXCLUDE
+
+EasyList-Dutch	black	https://easylist-downloads.adblockplus.org/easylistdutch.txt	/opt/accomplist/work/easylist-dutch.list	7200	@ADBLOCK-BLACK,ADBLOCK-ELEMENT
+EasyList-Dutch-White	white	/opt/accomplist/tiny/work/easylist-dutch.list.download	/opt/accomplist/work/easylist-dutch-white.list	7200	@ADBLOCK-WHITE	@ADBLOCK-EXCLUDE
+
+EasyList-French	black	https://easylist-downloads.adblockplus.org/liste_fr.txt	/opt/accomplist/work/easylist-french.list	7200	@ADBLOCK-BLACK,ADBLOCK-ELEMENT
+EasyList-French-White	white	/opt/accomplist/tiny/work/easylist-french.list.download	/opt/accomplist/work/easylist-french-white.list	7200	@ADBLOCK-WHITE	@ADBLOCK-EXCLUDE
+

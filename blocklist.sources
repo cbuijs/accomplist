@@ -1,0 +1,12 @@
+BlockListProject-Ads	black	https://blocklist.site/app/dl/ads	/opt/accomplist/work/blp-ads.list	7200	@DOMAIN
+BlockListProject-Crypto	black	https://blocklist.site/app/dl/crypto	/opt/accomplist/work/blp-crypto.list	7200	@DOMAIN
+BlockListProject-FakeNews	black	https://blocklist.site/app/dl/fakenews	/opt/accomplist/work/blp-fakenews.list	7200	@DOMAIN
+BlockListProject-Fraud	black	https://blocklist.site/app/dl/fraud	/opt/accomplist/work/blp-fraud.list	7200	@DOMAIN
+BlockListProject-Gambling	black	https://blocklist.site/app/dl/gambling	/opt/accomplist/work/blp-gambling.list	7200	@DOMAIN
+BlockListProject-Malware	black	https://blocklist.site/app/dl/malware	/opt/accomplist/work/blp-malware.list	7200	@DOMAIN
+BlockListProject-Phising	black	https://blocklist.site/app/dl/phising	/opt/accomplist/work/blp-phising.list	7200	@DOMAIN
+#BlockListProject-Porn	black	https://blocklist.site/app/dl/porn	/opt/accomplist/work/blp-porn.list	7200	@DOMAIN
+BlockListProject-Ransom	black	https://blocklist.site/app/dl/ransomware	/opt/accomplist/work/blp-ransom.list	7200	@DOMAIN
+BlockListProject-Scam	black	https://blocklist.site/app/dl/scam	/opt/accomplist/work/blp-scam.list	7200	@DOMAIN
+BlockListProject-Tracking	black	https://blocklist.site/app/dl/tracking	/opt/accomplist/work/blp-tracking.list	7200	@DOMAIN
+

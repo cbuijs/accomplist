@@ -1,0 +1,5 @@
+Notracking-Hosts	black	https://raw.githubusercontent.com/notracking/hosts-blocklists/master/hostnames.txt	/opt/accomplist/work/notracking-hosts.list	7200	@HOST0	^::\s
+Notracking-Domains	black	https://raw.githubusercontent.com/notracking/hosts-blocklists/master/domains.txt	/opt/accomplist/work/notracking-domains.list	7200	@DNSMASQ-ADDRESS	/::$
+Notracking-Whitelist	white	https://raw.githubusercontent.com/notracking/hosts-blocklists-scripts/master/hostnames.whitelist.txt	/opt/accomplist/work/notracking-whitelist.list	7200	@DOMAIN	@IP
+Notracking-Hosts-Dead	exclude	https://raw.githubusercontent.com/notracking/hosts-blocklists-scripts/master/hostnames.dead.txt	/opt/accomplist/work/notracking-dead.list	7200	@DOMAIN	@IP
+Notracking-Domains-Dead	exclude	https://raw.githubusercontent.com/notracking/hosts-blocklists-scripts/master/domains.dead.txt	/opt/accomplist/work/notracking-domains-dead/list	7200	@DOMAIN	@IP

@@ -1,0 +1,8 @@
+UT1-Porn	black!	/opt/ut1/porn/domains!	/opt/accomplist/work/ut1-porn.list	7200	@DOMAIN	@PORNEX
+UT1-Porn-URL	black!	/opt/ut1/porn/urls!		/opt/accomplist/work/ut1-porn-url.list	7200	@URL	@PORNEX
+UT1-Aggressive	black!	/opt/ut1/aggressive/domains!	/opt/accomplist/work/ut1-aggressive.list	7200	@DOMAIN	@IP
+UT1-Aggressive-URL	black!	/opt/ut1/aggressive/urls!	/opt/accomplist/work/ut1-aggressive-url.list	7200	@URL	@IP
+UT1-Gambling	black!	/opt/ut1/gambling/domains!	/opt/accomplist/work/ut1-gambling.list	7200	@DOMAIN	@IP
+UT1-Gambling-URL	black!	/opt/ut1/gambling/urls!	/opt/accomplist/work/ut1-gambling-url.list	7200	@URL	@IP
+UT1-Violence	black!	/opt/ut1/violence/domains!	/opt/accomplist/work/ut1-violence.list	7200	@DOMAIN	@IP
+UT1-Violence-URL	black!	/opt/ut1/violence/urls!	/opt/accomplist/work/ut1-violence.list	7200	@URL	@IP

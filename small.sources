@@ -1,0 +1,17 @@
+Disconnect-Ads	black	https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt	/opt/accomplist/work/disconnect-ads.list	7200	@DOMAIN
+Disconnect-Malware	black	https://s3.amazonaws.com/lists.disconnect.me/simple_malware.txt	/opt/accomplist/work/disconnect-malware.list	7200	@DOMAIN
+Disconnect-Tracking	black	https://s3.amazonaws.com/lists.disconnect.me/simple_tracking.txt	/opt/accomplist/work/disconnect-tracking.list	7200	@DOMAIN
+Disconnect-Malvertising	black	https://s3.amazonaws.com/lists.disconnect.me/simple_malvertising.txt	/opt/accomplist/work/disconnect-malvertising.list	7200	@DOMAIN
+
+EasyList	black	https://easylist.to/easylist/easylist.txt	/opt/accomplist/work/easylist.list	7200	@ADBLOCK-BLACK
+EasyList-Element	black	/opt/accomplist/work/easylist.list.download	/opt/accomplist/work/easylist-element.list	7200	@ADBLOCK-ELEMENT
+EasyList-White	white	/opt/accomplist/work/easylist.list.download	/opt/accomplist/work/easylist-white.list	7200	@ADBLOCK-WHITE	@ADBLOCK-EXCLUDE
+EasyPrivacy	black	https://easylist.to/easylist/easyprivacy.txt	/opt/accomplist/work/easyprivacy.list	7200	@ADBLOCK-BLACK
+EasyPrivacy-Element	black	/opt/accomplist/work/easyprivacy.list.download	/opt/accomplist/work/easyprivacy-element.list	7200	@ADBLOCK-ELEMENT
+EasyPrivacy-White	white	/opt/accomplist/work/easyprivacy.list.download	/opt/accomplist/work/easyprivacy-white.list	7200	@ADBLOCK-WHITE	@ADBLOCK-EXCLUDE
+
+Notracking-Hosts	black	https://raw.githubusercontent.com/notracking/hosts-blocklists/master/hostnames.txt	/opt/accomplist/work/notracking-hosts.list	7200	@HOST0	^::\s
+Notracking-Domains	black	https://raw.githubusercontent.com/notracking/hosts-blocklists/master/domains.txt	/opt/accomplist/work/notracking-domains.list	7200	@DNSMASQ-ADDRESS	/::$
+
+Steven-Black-Hosts	black	https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/fakenews-gambling-porn/hosts	/opt/accomplist/work/stevenblack.list	7200	@HOST0
+

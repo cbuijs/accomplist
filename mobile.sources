@@ -1,0 +1,11 @@
+AdAway	black	https://adaway.org/hosts.txt	/opt/accomplist/work/adaway.list	7200	@HOST127	@IP
+Adguard-Mobile	black	https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/MobileFilter/sections/adservers.txt	/opt/accomplist/work/adguard-mobile.list	7200	@ADBLOCK-BLACK,ADBLOCK-ELEMENT	@IP
+Adguard-Mobile-White	white	/opt/accomplist/mobile/work/adguard-mobile.list.download	/opt/accomplist/work/adguard-mobile-white.list	7200	@ADBLOCK-WHITE	@ADBLOCK-EXCLUDE
+AdGuard-Spyware	black	https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/SpywareFilter/sections/mobile.txt	/opt/accomplist/work/adguard-spy.list	7200	@ADBLOCK-BLACK,ADBLOCK-ELEMENT	@IP
+AdGuard-Spyware	white	/opt/accomplist/mobile/work/adguard-spy.list.download	/opt/accomplist/work/adguard-spy-white.list	7200	@ADBLOCK-WHITE	@ADBLOCK-EXCLUDE
+AdGuard-Apps	black	https://github.com/AdguardTeam/AdguardFilters/raw/master/MobileFilter/sections/specific_app.txt	/opt/accomplist/work/adguard-apps.list	7200	@ADBLOCK-BLACK,ADBLOCK-ELEMENT	@IP
+AdGuard-Apps	white	/opt/accomplist/mobile/work/adguard-apps.list.download	/opt/accomplist/work/adguard-apps-white.list	7200	@ADBLOCK-WHITE	@ADBLOCK-EXCLUDE
+#DataMaster	black	https://raw.githubusercontent.com/DataMaster-2501/DataMaster-Android-AdBlock-Hosts/master/hosts	/opt/accomplist/work/datamaster.list	7200	@HOST	@IP
+Jawz	black	https://raw.githubusercontent.com/jawz101/MobileAdTrackers/master/hosts	/opt/accomplist/work/jawz.list	7200	@HOST0	@IP
+OISD-Mobile	black	https://dblmobile.oisd.nl/	/opt/accomplist/work/oisd.list	7200	@DOMAIN	@IP
+BlackJack8	black	https://raw.githubusercontent.com/BlackJack8/iOSAdblockList/master/Miscellaneous(Hosts).txt	/opt/accomplist/work/blackjack8.list	7200	@DOMAIN	@IP

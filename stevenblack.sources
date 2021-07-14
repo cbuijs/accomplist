@@ -1,0 +1,5 @@
+Main	black	https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts	/opt/accomplist/work/main.list	7200	@HOST0	@IP
+FakeNews	black	https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/fakenews-gambling/hosts	/opt/accomplist/work/fakenews.list	7200	@HOST0	@IP
+Gambling	black	https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/gambling/hosts	/opt/accomplist/work/gambling.list	7200	@HOST0	@IP
+Porn	black	https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/porn/hosts	/opt/accomplist/work/porn.list	7200	@HOST0	@IP
+

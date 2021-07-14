@@ -1,0 +1,8 @@
+CK-Hosts	black	https://raw.githubusercontent.com/CHEF-KOCH/NSABlocklist/master/HOSTS/HOSTS	/opt/accomplist/work/ck-hosts.list	7200	@HOST0
+CK-Canvas-Font-Fingerprint	black	https://raw.githubusercontent.com/CHEF-KOCH/NSABlocklist/master/HOSTS/Trackers/Canvas%20font%20fingerprinting.txt	/opt/accomplist/work/ck-canvas-font-fingerprint.list	7200	@HOST0
+CK-Audio-Fingerprint	black	https://raw.githubusercontent.com/CHEF-KOCH/NSABlocklist/master/HOSTS/Trackers/audio%20fingerprinting%20pages.txt	/opt/accomplist/work/ck-audio-fingerprint.list	7200	@HOST0
+CK-Canvas-Fingerprint	black	https://raw.githubusercontent.com/CHEF-KOCH/NSABlocklist/master/HOSTS/Trackers/canvas%20fingerprinting%20pages.txt	/opt/accomplist/work/ck-canvas-fingerprint.list	7200	@HOST0
+CK-Trackers	black	https://raw.githubusercontent.com/CHEF-KOCH/NSABlocklist/master/HOSTS/Trackers/trackers.txt	/opt/accomplist/work/ck-trackers.list	7200	@HOST0
+CK-WebRTC-Trackers	black	https://raw.githubusercontent.com/CHEF-KOCH/NSABlocklist/master/HOSTS/Trackers/webrtc%20tracking.txt	/opt/accomplist/work/ck-webrtc-trackers.list	7200	@HOST0
+
+CK-Whitelist	white	https://raw.githubusercontent.com/CHEF-KOCH/Blocker-database/master/Browser%20Plugs%20for%20Chrome/Whitelist.txt	/opt/accomplist/work/ck-whitelist.list	7200	@DOMAINIP

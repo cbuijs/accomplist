@@ -1,0 +1,15 @@
+Exclude	exclude	/opt/accomplist/mypdns.exclude!	/opt/accomplist/work/exclude.list	7200	@DOMAIN	@IP
+AdWare	black	https://raw.githubusercontent.com/mypdns/matrix/master/source/adware/combined.txt	/opt/accomplist/work/adware.list	7200	@DOMAIN	@IP
+Coin	black	https://raw.githubusercontent.com/mypdns/matrix/master/source/coin-blocker/combined.txt	/opt/accomplist/work/coin.list	7200	@DOMAIN	@IP
+FakeNews	black	https://raw.githubusercontent.com/mypdns/matrix/master/source/fake-news/combined.txt	/opt/accomplist/work/fakenews.list	7200	@DOMAIN	@IP
+Gambling	black	https://raw.githubusercontent.com/mypdns/matrix/master/source/gambling/combined.txt	/opt/accomplist/work/gambling.list	7200	@DOMAIN	@IP
+Malicious	black	https://raw.githubusercontent.com/mypdns/matrix/master/source/malicious/wildcard.list	/opt/accomplist/work/malicious.list	7200	@DOMAIN	@IP
+Phishing	black	https://raw.githubusercontent.com/mypdns/matrix/master/source/phishing/combined.txt	/opt/accomplist/work/phishing.list	7200	@DOMAIN	@IP
+Porn	black	https://raw.githubusercontent.com/mypdns/matrix/master/source/porno-sites/combined.txt	/opt/accomplist/work/porn.list	7200	@DOMAIN	@IP
+Scam	black	https://raw.githubusercontent.com/mypdns/matrix/master/source/scamming/combined.txt	/opt/accomplist/work/scam.list	7200	@DOMAIN	@IP
+Sharked	black	https://raw.githubusercontent.com/mypdns/matrix/master/source/sharked-domains/combined.txt	/opt/accomplist/work/sharked.list	7200	@DOMAIN	@LIST
+SpyWare	black	https://raw.githubusercontent.com/mypdns/matrix/master/source/spyware/combined.txt	/opt/accomplist/work/spyware.list	7200	@DOMAIN	@IP
+Tracking	black	https://raw.githubusercontent.com/mypdns/matrix/master/source/tracking/combined.txt	/opt/accomplist/work/tracking.list	7200	@DOMAIN	@IP
+TypoSquatting	black	https://raw.githubusercontent.com/mypdns/matrix/master/source/typosquatting/combined.txt	/opt/accomplist/work/typosquatting.list	7200	@DOMAIN	@IP
+Whitelist	white	https://raw.githubusercontent.com/mypdns/matrix/master/source/whitelist/combined.txt	/opt/accomplist/work/whitelist.list	7200	@DOMAIN	@IP
+

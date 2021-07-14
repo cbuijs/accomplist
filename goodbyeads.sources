@@ -1,0 +1,5 @@
+GoodBye	black	https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Hosts/GoodbyeAds.txt	/opt/accomplist/goodbye.list	7200	@HOST0	@IP
+LeEco	black	https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Extension/GoodbyeAds-LeEco-Extension.txt	/opt/accomplist/leeco.list	7200	@HOST0	@IP
+Samsung	black	https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Extension/GoodbyeAds-Samsung-AdBlock.txt	/opt/accomplist/samsung.list	7200	@HOST0	@IP
+Xiamo	black	https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Extension/GoodbyeAds-Xiaomi-Extension.txt	/opt/accomplist/xiamo.list	7200	@HOST0	@IP
+Youtube	black	https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Extension/GoodbyeAds-YouTube-AdBlock.txt	/opt/accomplist/youtube.list	7200	@HOST0	@IP

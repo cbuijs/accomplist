@@ -1,0 +1,4 @@
+MVPS	black	https://winhelp2002.mvps.org/hosts.txt	/opt/accomplist/work/mvps.list	7200	@HOST0	@IP
+YoYo	black	https://pgl.yoyo.org/adservers/serverlist.php?hostformat=plain&mimetype=plaintext	/opt/accomplist/work/yoyo.list	7200	@DOMAIN	@IP
+SomeOneWhoCares	black	https://someonewhocares.org/hosts/hosts	/opt/accomplist/work/swc.list	7200	@HOST127	@IP
+JoeWein	black	https://www.joewein.net/dl/bl/dom-bl.txt	/opt/accomplist/work/joewein.list	7200	@DOMAIN	@IP

@@ -1,0 +1,7 @@
+DeadHosts-EasyList	exclude	https://raw.githubusercontent.com/dead-hosts/easylist_web_easylist.to/master/output/domains/INACTIVE/list	/opt/accomplist/work/easylist.list	7200	@DOMAIN	@IP
+DeadHosts-EasyPrivacy	exclude	https://raw.githubusercontent.com/dead-hosts/easyprivacy_web_easylist.to/master/output/domains/INACTIVE/list	/opt/accomplist/work/easyprivacy.list	7200	@DOMAIN	@IP
+DeadHosts-StevenBlack	exclude	https://raw.githubusercontent.com/dead-hosts/hosts_git_StevenBlack/master/output/domains/INACTIVE/list	/opt/accomplist/work/stevenblack.list	7200	@DOMAIN	@IP
+DeadHosts-AdAway	exclude	https://raw.githubusercontent.com/dead-hosts/adaway.github.io_git_AdAway/master/output/domains/INACTIVE/list	/opt/accomplist/work/adaway.list	7200	@DOMAIN	@IP
+DeadHosts-Disconnect-Ads	exclude	https://raw.githubusercontent.com/dead-hosts/Ad-filter-list_web_disconnect.me/master/output/domains/INACTIVE/list	/opt/accomplist/work/disconnect-ads.list	7200	@DOMAIN	@IP
+DeadHosts-Disconnect-Trackers	exclude	https://raw.githubusercontent.com/dead-hosts/Basic-tracking-list_web_disconnect.me/master/output/domains/INACTIVE/list	/opt/accomplist/work/disconnect-trackers.list	7200	@DOMAIN	@IP
+DeadHosts-Malwaredomlist	exclude	https://raw.githubusercontent.com/dead-hosts/hosts-list_web_malwaredomainlist.com/master/output/domains/INACTIVE/list	/opt/accomplist/work/malwaredomainlist.list	7200	@DOMAIN	@IP

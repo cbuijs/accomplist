@@ -1,0 +1,5 @@
+Disconnect-Ads	black	https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt	/opt/accomplist/work/disconnect-ads.list	7200	@DOMAIN	@IP
+Disconnect-Malvertising	black	https://s3.amazonaws.com/lists.disconnect.me/simple_malvertising.txt	/opt/accomplist/work/disconnect-malvertising.list	7200	@DOMAIN	@IP
+Disconnect-Malware	black	https://s3.amazonaws.com/lists.disconnect.me/simple_malware.txt	/opt/accomplist/work/disconnect-malware.list	7200	@DOMAIN	@IP
+Disconnect-Tracking	black	https://s3.amazonaws.com/lists.disconnect.me/simple_tracking.txt	/opt/accomplist/work/disconnect-tracking.list	7200	@DOMAIN	@IP
+

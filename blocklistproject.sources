@@ -1,0 +1,14 @@
+Abuse	black	https://raw.githubusercontent.com/blocklistproject/Lists/master/alt-version/abuse-nl.txt	/opt/accomplist/work/abuse.list	7200	@DOMAIN	@IP
+Ads	black	https://raw.githubusercontent.com/blocklistproject/Lists/master/alt-version/ads-nl.txt	/opt/accomplist/work/ads.list	7200	@DOMAIN	@IP
+Crypto	black	https://raw.githubusercontent.com/blocklistproject/Lists/master/alt-version/crypto-nl.txt	/opt/accomplist/work/crypto.list	7200	@DOMAIN	@IP
+Drugs	black	https://raw.githubusercontent.com/blocklistproject/Lists/master/alt-version/drugs-nl.txt	/opt/accomplist/work/drugs.list	7200	@DOMAIN	@IP
+Fraud	black	https://raw.githubusercontent.com/blocklistproject/Lists/master/alt-version/fraud-nl.txt	/opt/accomplist/work/fraud.list	7200	@DOMAIN	@IP
+Gambling	black	https://raw.githubusercontent.com/blocklistproject/Lists/master/alt-version/gambling-nl.txt	/opt/accomplist/work/gambling.list	7200	@DOMAIN	@IP
+Malware	black	https://raw.githubusercontent.com/blocklistproject/Lists/master/alt-version/malware-nl.txt	/opt/accomplist/work/malware.list	7200	@DOMAIN	@IP
+Phising	black	https://raw.githubusercontent.com/blocklistproject/Lists/master/alt-version/phishing-nl.txt	/opt/accomplist/work/phishing.list	7200	@DOMAIN	@IP
+Piracy	black	https://raw.githubusercontent.com/blocklistproject/Lists/master/alt-version/piracy-nl.txt	/opt/accomplist/work/piracy.list	7200	@DOMAIN	@IP
+Porn	black	https://raw.githubusercontent.com/blocklistproject/Lists/master/alt-version/porn-nl.txt	/opt/accomplist/work/porn.list	7200	@DOMAIN	@IP
+Ransomware	black	https://raw.githubusercontent.com/blocklistproject/Lists/master/alt-version/ransomware-nl.txt	/opt/accomplist/work/ransomware.list	7200	@DOMAIN	@IP
+Scam	black	https://raw.githubusercontent.com/blocklistproject/Lists/master/alt-version/scam-nl.txt	/opt/accomplist/work/scam.list	7200	@DOMAIN	@IP
+Torrents	black	https://raw.githubusercontent.com/blocklistproject/Lists/master/alt-version/torrent-nl.txt	/opt/accomplist/work/torrent.list	7200	@DOMAIN	@IP
+Tracking	black	https://raw.githubusercontent.com/blocklistproject/Lists/master/alt-version/tracking-nl.txt	/opt/accomplist/work/tracking.list	7200	@DOMAIN	@IP

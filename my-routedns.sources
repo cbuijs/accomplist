@@ -1,0 +1,43 @@
+# Exclude
+Exclude	exclude	/opt/accomplist/my-routedns.exclude!	/opt/accomplist/work/exclude.list	7200	@DOMAIN	@IP
+
+# Whitelist Domains
+WhiteList	white!	/opt/accomplist/whitelist/plain.white.domain.list!	/opt/accomplist/work/white.list	7200	@DOMAIN	@IP
+AllowList	white	https://raw.githubusercontent.com/cbuijs/my-allowlist/master/allow.list	/opt/accomplist/work/allow.list	7200	@DOMAIN	@IP
+NextDNS-Recommended-White	white!	/opt/accomplist/nextdns-recommended/plain.white.domain.list!	/opt/accomplist/work/nextdns-recommended-white.list	7200	@DOMAIN	@IP
+NextDNS-Affiliate-White	white	https://github.com/nextdns/metadata/blob/master/privacy/affiliate-tracking-domains	/opt/accomplist/work/nextdns-affiliate-white.list	7200	@DOMAIN	@IP
+Router-WL	white	https://raw.githubusercontent.com/cbuijs/my-allowlist/master/allow.list	/opt/accomplist/work/router-wl.list	7200	@DOMAIN	@IP
+
+# Blacklist Domains
+Router-BL	black	https://raw.githubusercontent.com/cbuijs/my-blocklist/master/block.list	/opt/accomplist/work/router-bl.list	7200	@DOMAIN	@IP
+Include	black!	/opt/accomplist/my-routedns.include!	/opt/accomplist/work/include-black.list	7200	@DOMAIN	@IP
+Common-Adult	black!	/opt/accomplist/common-adult-domains!	/opt/accomplist/work/common-adult-black.list	7200	@DOMAIN	@IP
+DoX	black!	/opt/accomplist/chris/chris-dox-domain.black!	/opt/accomplist/work/dox-black.list	7200	@DOMAIN	@IP
+Abuse-TLDS	black!	/opt/accomplist/tlds/plain.black.domain.list!	/opt/accomplist/work/abuse-tlds-black.list	7200	@DOMAIN	@IP
+SpamHaus-TLDS	black!	/opt/accomplist/chris/spamhaus-abuse-tlds.list!	/opt/accomplist/work/spamhaus-tlds-black.list	7200	@DOMAIN	@IP
+Newly-Registered	black!	/opt/accomplist/chris/nrd.list!	/opt/accomplist/work/nrd-black.list	7200	@DOMAIN	@IP
+NextDNS	black!	/opt/accomplist/nextdns/plain.black.domain.list!	/opt/accomplist/work/nextdns-black.list	7200	@DOMAIN	@IP
+NextDNS-Recommended-Black	black!	/opt/accomplist/nextdns-recommended/plain.black.domain.list!	/opt/accomplist/work/nextdns-recommended-black.list	7200	@DOMAIN	@IP
+NextDNS-Native-Black	black!	/opt/accomplist/nextdns-native/plain.black.domain.list!	/opt/accomplist/work/nextdns-native-black.list	7200	@DOMAIN	@IP
+OISD	black!	/opt/accomplist/oisd/plain.black.domain.list!	/opt/accomplist/work/oisd-black.list	7200	@DOMAIN	@IP
+Quantum-Alpha	black!	/opt/accomplist/quantum/plain.black.domain.list!	/opt/accomplist/work/quantum-alpha-black.list	7200	@DOMAIN	@IP
+Dutch	black!	/opt/accomplist/dutch/plain.black.domain.list!	/opt/accomplist/work/dutch-black.list	7200	@DOMAIN	@IP
+French	black!	/opt/accomplist/french/plain.black.domain.list!	/opt/accomplist/work/french-black.list	7200	@DOMAIN	@IP
+Malicious	black!	/opt/accomplist/malicious-dom/plain.black.domain.list!	/opt/accomplist/work/malicious-black.list	7200	@DOMAIN	@IP
+Family-Safe	black!	/opt/accomplist/family-safe/plain.black.domain.list!	/opt/accomplist/work/family-safe-black.list	7200	@DOMAIN	@IP
+Covid	black!	/opt/accomplist/covid/plain.black.domain.list!	/opt/accomplist/work/covid-black.list	7200	@DOMAIN	@IP
+CryptoJack	black!	/opt/accomplist/cryptojack/plain.black.domain.list!	/opt/accomplist/work/cryptojack.list	7200	@DOMAIN	@IP
+AdGuard	black!	/opt/accomplist/adguard/plain.black.domain.list!	/opt/accomplist/work/adguard.list	7200	@DOMAIN	@IP
+TypoSquatting	black!	/opt/accomplist/chris/typosquatting.list!	/opt/accomplist/work/typo-squatting.list	7200	@DOMAIN	@IP
+DDGTrackerRadar	black!	https://blokada.org/blocklists/ddgtrackerradar/standard/hosts.txt	/opt/accomplist/work/ddgtrackerradar.list	7200	@DOMAIN	@IP
+#MyPDNS	black!	/opt/accomplist/mypdns/plain.black.domain.list!	/opt/accomplist/work/mypdns-black.list	7200	@DOMAIN	@IP
+
+# Some wellknown
+MVPS	black	https://winhelp2002.mvps.org/hosts.txt	/opt/accomplist/work/mvps.list	7200	@HOST0	@IP
+SomeOneWhoCares	black	https://someonewhocares.org/hosts/zero/hosts	/opt/accomplist/work/sowc.list	7200	@HOST0	@IP
+YoYo	black	https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext	/opt/accomplist/work/yoyo.list	7200	@HOST127	@IP
+StevenBlack	black!	/opt/accomplist/stevenblack/plain.black.domain.list!	/opt/accomplist/work/stevenblack.list	7200	@DOMAIN	@IP
+BaddBoyz	black	https://raw.githubusercontent.com/mitchellkrogza/Badd-Boyz-Hosts/master/hosts	/opt/accomplist/work/baddboyz.list	7200	@HOST0	@IP
+
+# various
+AdGuard-Disguised	black	https://raw.githubusercontent.com/AdguardTeam/cname-trackers/master/combined_disguised_trackers_justdomains.txt	/opt/accomplist/work/adguard-disguised.list	7200	@DOMAIN	@IP

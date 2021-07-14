@@ -1,0 +1,18 @@
+EasyList	black	https://easylist.to/easylist/easylist.txt	/opt/accomplist/work/easylist.list	7200	@ADBLOCK-BLACK,ADBLOCK-ELEMENT	@IP
+EasyList-White	white	/opt/accomplist/easylist/work/easylist.list.download	/opt/accomplist/work/easylist-white.list	7200	@ADBLOCK-WHITE	@ADBLOCK-EXCLUDE
+
+EasyPrivacy	black	https://easylist.to/easylist/easyprivacy.txt	/opt/accomplist/work/easyprivacy.list	7200	@ADBLOCK-BLACK,ADBLOCK-ELEMENT	@IP
+EasyPrivacy-White	white	/opt/accomplist/easylist/work/easyprivacy.list.download	/opt/accomplist/work/easyprivacy-white.list	7200	@ADBLOCK-WHITE	@ADBLOCK-EXCLUDE
+
+EasyList-Dutch	black	https://easylist-downloads.adblockplus.org/easylistdutch.txt	/opt/accomplist/work/easylist-dutch.list	7200	@ADBLOCK-BLACK,ADBLOCK-ELEMENT	@IP
+EasyList-Dutch-White	white	/opt/accomplist/easylist/work/easylist-dutch.list.download	/opt/accomplist/work/easylist-dutch-white.list	7200	@ADBLOCK-WHITE	@ADBLOCK-EXCLUDE
+
+EasyList-French	black	https://easylist-downloads.adblockplus.org/liste_fr.txt	/opt/accomplist/work/easylist-french.list	7200	@ADBLOCK-BLACK,ADBLOCK-ELEMENT	@IP
+EasyList-French-White	white	/opt/accomplist/easylist/work/easylist-french.list.download	/opt/accomplist/work/easylist-french-white.list	7200	@ADBLOCK-WHITE	@ADBLOCK-EXCLUDE
+
+EasyList-Cookie	black	https://easylist-downloads.adblockplus.org/easylist-cookie.txt	/opt/accomplist/work/easylist-cookie.list	7200	@ADBLOCK-BLACK,ADBLOCK-ELEMENT	@IP
+EasyList-Cookie-White	white	/opt/accomplist/easylist/work/easylist-cookie.list.download	/opt/accomplist/work/easylist-cookie-white.list	7200	@ADBLOCK-WHITE	@ADBLOCK-EXCLUDE
+
+Adblock-Anti-CV	black	https://easylist-downloads.adblockplus.org/abp-filters-anti-cv.txt	/opt/accomplist/work/adblock-anti-cv.list	7200	@ADBLOCK-BLACK,ADBLOCK-ELEMENT	@IP
+Adblock-Anti-CV-White	white	/opt/accomplist/easylist/work/adblock-anti-cv.list.download	/opt/accomplist/work/adblock-anit-cv-white.list	7200	@ADBLOCK-WHITE	@ADBLOCK-EXCLUDE
+

@@ -1,0 +1,163 @@
+# Syntax (tab-sepperated):
+# <name> <black|white|exclude> <source-file|source-url> [<save-file>[ <ttl>[ regex[ exregex]]]]
+# regex needs to include a group/anchor named 'entry', e.g.: (?P<entry> ...)'
+#
+# Example regexes:
+# domain/hostname: (?P<entry>[a-zA-Z0-9\.\-]+)
+# IP-Addres (v4 and v6): (?P<entry>(([0-9]{1,3}\.){3}[0-9]{1,3}(/[0-9]{1,2})*|([0-9a-f]{1,4}|:)(:([0-9a-f]{0,4})){1,7}(/[0-9]{1,3})*))
+
+Chris-Regex-Black	black	/opt/accomplist/chris/regex.black	/opt/accomplist/work/chris-regex-black.list	7200	@REGEX
+Chris-Regex-White	white	/opt/accomplist/chris/regex.white	/opt/accomplist/work/chris-regex-white.list	7200	@REGEX
+
+Chris-Black	black	/opt/accomplist/chris/black	/opt/accomplist/work/chris-black.list	7200	@DOMAINIP
+Chris-White	white	/opt/accomplist/chris/white	/opt/accomplist/work/chris-white.list	7200	@DOMAINIP
+
+Chris-Exclude	exclude	/opt/accomplist/chris/exclude	/opt/accomplist/work/chris-exclude.list	7200	@DEFAULT
+
+Chris-TLDS	black	/opt/accomplist/chris/tlds.black	/opt/accomplist/work/chris-tlds.list	7200	@DOMAIN
+
+Chris-ASN-Black	black	/opt/accomplist/chris/asn.black	/opt/accomplist/work/chris-asn-black.list	7200	@ASN
+Chris-ASN-White	white	/opt/accomplist/chris/asn.white	/opt/accomplist/work/chris-asn-white.list	7200	@ASN
+
+#Shalla-Ads	black	https://raw.githubusercontent.com/cbuijs/shallalist/master/adv/domains	/opt/accomplist/work/shalla-ads.list	7200	@DOMAIN
+Shalla-Banking	white	https://raw.githubusercontent.com/cbuijs/shallalist/master/finance/banking/domains
+#Shalla-CostTraps	black	https://raw.githubusercontent.com/cbuijs/shallalist/master/costtraps/domains	/opt/accomplist/work/shalla-costtraps.list	7200	@DOMAIN
+#Shalla-Gamble	black	https://raw.githubusercontent.com/cbuijs/shallalist/master/gamble/domains	/opt/accomplist/work/shalla-gamble.list	7200	@DOMAIN
+#Shalla-Porn	black	https://raw.githubusercontent.com/cbuijs/shallalist/master/porn/domains	/opt/accomplist/work/shalla-porn.list	7200	@DOMAINX	@PORNEX
+#Shalla-SpyWare	black	https://raw.githubusercontent.com/cbuijs/shallalist/master/spyware/domains	/opt/accomplist/work/shalla-spyware.list	7200	@DOMAIN
+#Shalla-Tracker	black	https://raw.githubusercontent.com/cbuijs/shallalist/master/trackers/domains	/opt/accomplist/work/shalla-tracker.list	7200	@DOMAIN
+#Shall-UpdateSites	white	https://raw.githubusercontent.com/cbuijs/shallalist/master/updatesites/domains	/opt/accomplist/work/shalla-update.list	7200	@DOMAIN
+#Shalla-Warez	black	https://github.com/cbuijs/shallalist/raw/master/warez/domains	/opt/accomplist/work/shalla-warez.list	7200	@DOMAIN
+
+Disconnect-Ads	black	https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt	/opt/accomplist/work/disconnect-ads.list	7200	@DOMAIN
+Disconnect-Malware	black	https://s3.amazonaws.com/lists.disconnect.me/simple_malware.txt	/opt/accomplist/work/disconnect-malware.list	7200	@DOMAIN
+Disconnect-Tracking	black	https://s3.amazonaws.com/lists.disconnect.me/simple_tracking.txt	/opt/accomplist/work/disconnect-tracking.list	7200	@DOMAIN
+Disconnect-Malvertising	black	https://s3.amazonaws.com/lists.disconnect.me/simple_malvertising.txt	/opt/accomplist/work/disconnect-malvertising.list	7200	@DOMAIN
+
+#Adguard-Android	white	https://raw.githubusercontent.com/AdguardTeam/HttpsExclusions/master/android.txt	/opt/accomplist/work/adguard-android.list	7200	@DOMAIN
+Adguard-Banks	white	https://raw.githubusercontent.com/AdguardTeam/HttpsExclusions/master/banks.txt	/opt/accomplist/work/adguard-banks.list	7200	@DOMAIN
+#Adguard-FireFox	white	https://raw.githubusercontent.com/AdguardTeam/HttpsExclusions/master/firefox.txt	/opt/accomplist/work/adguard-firefox.list	7200	@DOMAIN
+#Adguard-Issues	white	https://raw.githubusercontent.com/AdguardTeam/HttpsExclusions/master/issues.txt	/opt/accomplist/work/adguard-issues.list	7200	@DOMAIN
+#Adguard-Sensistive	white	https://raw.githubusercontent.com/AdguardTeam/HttpsExclusions/master/sensitive.txt	/opt/accomplist/work/adguard-sensitive.list	7200	@DOMAIN
+
+EasyList	black	https://easylist.to/easylist/easylist.txt	/opt/accomplist/work/easylist.list	7200	@ADBLOCK-BLACK
+EasyList-Element	black	/opt/accomplist/work/easylist.list.download	/opt/accomplist/work/easylist-element.list	7200	@ADBLOCK-ELEMENT
+EasyList-White	white	/opt/accomplist/work/easylist.list.download	/opt/accomplist/work/easylist-white.list	7200	@ADBLOCK-WHITE	@ADBLOCK-EXCLUDE
+EasyPrivacy	black	https://easylist.to/easylist/easyprivacy.txt	/opt/accomplist/work/easyprivacy.list	7200	@ADBLOCK-BLACK
+EasyPrivacy-Element	black	/opt/accomplist/work/easyprivacy.list.download	/opt/accomplist/work/easyprivacy-element.list	7200	@ADBLOCK-ELEMENT
+EasyPrivacy-White	white	/opt/accomplist/work/easyprivacy.list.download	/opt/accomplist/work/easyprivacy-white.list	7200	@ADBLOCK-WHITE	@ADBLOCK-EXCLUDE
+EasyList-Dutch	black	https://easylist-downloads.adblockplus.org/easylistdutch.txt	/opt/accomplist/work/easylist-dutch.list	7200	@ADBLOCK-BLACK
+EasyList-Dutch-Element	black	/opt/accomplist/work/easylist-dutch.list.download	/opt/accomplist/work/easylist-dutch-element.list	7200	@ADBLOCK-ELEMENT
+EasyList-Dutch-White	white	/opt/accomplist/work/easylist-dutch.list.download	/opt/accomplist/work/easylist-dutch-white.list	7200	@ADBLOCK-WHITE	@ADBLOCK-EXCLUDE
+EasyList-French	black	https://easylist-downloads.adblockplus.org/liste_fr.txt	/opt/accomplist/work/easylist-french.list	7200	@ADBLOCK-BLACK
+EasyList-French-Element	black	/opt/accomplist/work/easylist-french.list.download	/opt/accomplist/work/easylist-french-element.list	7200	@ADBLOCK-ELEMENT
+EasyList-French-White	white	/opt/accomplist/work/easylist-french.list.download	/opt/accomplist/work/easylist-french-white.list	7200	@ADBLOCK-WHITE	@ADBLOCK-EXCLUDE
+
+Daenoman	black	https://raw.githubusercontent.com/hl2guide/All-in-One-Customized-Adblock-List/master/deanoman-adblocklist.txt	/opt/accomplist/work/daenoman.list	7200	@ADBLOCK-BLACK
+Daenoman	black	/opt/accomplist/work/daenoman.list.download	/opt/accomplist/work/daenoman-element.list	7200	@ADBLOCK-ELEMENT
+Daenoman	white	/opt/accomplist/work/daenoman.list.download	/opt/accomplist/work/daenoman-white.list	7200	@ADBLOCK-WHITE	@ADBLOCK-EXCLUDE
+
+#FanBoy-Complete	black	https://fanboy.co.nz/r/fanboy-complete.txt	/opt/accomplist/work/fanboy.list	7200	@ADBLOCK-BLACK
+#FanBoy-Complete-White	white	/opt/accomplist/work/fanboy.list.download	/opt/accomplist/work/fanboy-white.list	7200	@ADBLOCK-WHITE	@ADBLOCK-EXCLUDE
+
+#PipeRun	black	https://raw.githubusercontent.com/piperun/iploggerfilter/master/filterlist	/opt/accomplist/work/piperun.list	7200	@ADBLOCK-BLACK
+
+#PopAds	black	https://raw.githubusercontent.com/Yhonay/antipopads/master/popads.txt	/opt/accomplist/work/popads.list	7200	@ADBLOCK-BLACK
+
+#BarbBlock	black	https://ssl.bblck.me/blacklists/domain-list.txt	/opt/accomplist/work/barbblock.list	7200	@DOMAIN
+
+Adguard-Cryptominers	black	https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/EnglishFilter/sections/cryptominers.txt	/opt/accomplist/work/adguard-cryptominers.list	7200	@ADBLOCK-BLACK
+CoinBlocker	black	https://raw.githubusercontent.com/ZeroDot1/CoinBlockerLists/master/list.txt	/opt/accomplist/work/coinblocker.list	7200	@DOMAIN
+CoinBlocker-IP	black	https://raw.githubusercontent.com/ZeroDot1/CoinBlockerLists/master/MiningServerIPList.txt	/opt/accomplist/work/coinblocker-ip.list	7200	@IP
+NoCoin	black	https://raw.githubusercontent.com/hoshsadiq/adblock-nocoin-list/master/hosts.txt	/opt/accomplist/work/nocoin.list	7200	@HOST0
+
+Dshield-Top10	black	http://feeds.dshield.org/top10-2.txt	/opt/accomplist/work/dshield-top10.list	7200	@HOST	^site$
+Dshield-Suspicious	black	https://www.dshield.org/feeds/suspiciousdomains_High.txt	/opt/accomplist/work/dshield-suspicious.list	7200	@DOMAIN	^site$
+#Dshield-Whitelist	white	https://dshield.org/feeds/suspiciousdomains_whitelist_approved.txt	/opt/accomplist/work/dshield-white.list	7200	@DOMAIN	^site$
+
+FireHol1	black	https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/firehol_level1.netset	/opt/accomplist/work/firehol1.list	7200	@IP
+#FireHol2	black	https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/firehol_level2.netset	/opt/accomplist/work/firehol2.list	7200	@IP
+#FireHol3	black	https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/firehol_level3.netset	/opt/accomplist/work/firehol3.list	7200	@IP
+#FireHol4	black	https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/firehol_level4.netset	/opt/accomplist/work/firehol4.list	7200	@IP
+#FireHol-Abusers	black	https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/firehol_abusers_30d.netset	/opt/accomplist/work/firehol-abusers.list	7200	@IP
+
+#BaddBoys	black	https://raw.githubusercontent.com/mitchellkrogza/Badd-Boyz-Hosts/master/hosts	/opt/accomplist/work/baddboyz.list	7200	@HOST0
+#Krogza-False-Positive	exclude	https://raw.githubusercontent.com/mitchellkrogza/CENTRAL-REPO.Dead.Inactive.Whitelisted.Domains.For.Hosts.Projects/master/DOMAINS-whitelist.txt	/opt/accomplist/work/krogza-fp.list	7200	@DOMAIN
+#Krogza-Dead-Domains	exclude	https://raw.githubusercontent.com/mitchellkrogza/CENTRAL-REPO.Dead.Inactive.Whitelisted.Domains.For.Hosts.Projects/master/DOMAINS-dead.txt	/opt/accomplist/work/krogza-dead.list	7200	@DOMAIN
+#Krogza-Reactivated	black	https://raw.githubusercontent.com/mitchellkrogza/CENTRAL-REPO.Dead.Inactive.Whitelisted.Domains.For.Hosts.Projects/master/DOMAINS-re-active.txt	/opt/accomplist/work/krogza-reactivate.list	7200	@DOMAIN
+#Krogza-Ultimate-IP	black	https://hosts.ubuntu101.co.za/ips.list	/opt/accomplist/work/krogza-ultimate-ip.list	7200	@IP
+#Krogza-Ultimate-Domain	black	https://hosts.ubuntu101.co.za/domains.list	/opt/accomplist/work/krogza-ultimate-domain.list	7200	@DOMAIN
+#Krogza-Hacked	black	https://raw.githubusercontent.com/mitchellkrogza/The-Big-List-of-Hacked-Malware-Web-Sites/master/hacked-domains.list	/opt/accomplist/work/krogza-hacked.list	7200	@DOMAIN
+
+Notracking-Hosts	black	https://raw.githubusercontent.com/notracking/hosts-blocklists/master/hostnames.txt	/opt/accomplist/work/notracking-hosts.list	7200	@HOST0	^::\s
+Notracking-Domains	black	https://raw.githubusercontent.com/notracking/hosts-blocklists/master/domains.txt	/opt/accomplist/work/notracking-domains.list	7200	@DNSMASQ-ADDRESS	/::$
+
+SpamHaus-Top10-TLD	black	https://www.spamhaus.org/statistics/tlds/	/opt/accomplist/work/spamhaus-top10-tld.list	7200	@SPAMHAUS
+SpamHaus-Top10-BotNet	black	https://www.spamhaus.org/statistics/botnet-isp/	/opt/accomplist/work/spamhaus-top10-botnet.list	7200	@SPAMHAUS
+SpamHaus-Top10-ASN	black	https://www.spamhaus.org/statistics/botnet-asn/	/opt/accomplist/work/spamhaus-top10-asn.list	7200	@SPAMHAUS
+SpamHaus-Drop	black	https://www.spamhaus.org/drop/drop.txt	/opt/accomplist/work/spamhaus-drop.list	7200	@IP
+SpamHaus-Edrop	black	https://www.spamhaus.org/drop/edrop.txt	/opt/accomplist/work/spamhaus-edrop.list	7200	@IP
+SpamHaus-DropV6	black	https://www.spamhaus.org/drop/dropv6.txt	/opt/accomplist/work/spamhaus-dropv6.list	7200	@IP
+SpamHaus-ASNDrop	black	https://www.spamhaus.org/drop/asndrop.txt	/opt/accomplist/work/spamhaus-asndrop.list	7200	@ASN
+
+Steven-Black-Hosts	black	https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/fakenews-gambling-porn/hosts	/opt/accomplist/work/stevenblack.list	7200	@HOST0
+
+#SquidBlackList-Ads	black	https://www.squidblacklist.org/downloads/dg-ads.acl	/opt/accomplist/work/squidblacklist-ads.list	7200	@DOMAIN
+#SquidBlackList-Malicious	black	https://www.squidblacklist.org/downloads/dg-malicious.acl	/opt/accomplist/work/squidblacklist-malicious.list	7200	@DOMAIN
+
+Suspect-Networks	black	https://suspect-networks.io/downloads/suspect_networks.txt	/opt/accomplist/work/suspect-networks.list	7200	@IP
+
+Turris-Grey	black	https://project.turris.cz/greylist-data/greylist-latest.csv	/opt/accomplist/work/turris-grey.list	7200	@IP
+
+#Zonefiles-Malware	black	https://zonefiles.io/f/compromised/domains/live/	/opt/accomplist/work/zonefiles-malware.list	7200	@DOMAIN
+#Zonefiles-Malware-IP	black	https://zonefiles.io/f/compromised/ip/live/	/opt/accomplist/work/zonefiles-malware-ip.list	7200	@IP
+
+MalwareDomainList	black	http://www.malwaredomainlist.com/hostslist/hosts.txt	/opt/accomplist/work/malwaredomain.list	7200	@HOST127
+
+MailwareDomains	black	https://mirror1.malwaredomains.com/files/justdomains	/opt/accomplist/work/malwaredomains.list	7200	@DOMAIN
+Bulk-Registars	black	http://mirror1.malwaredomains.com/files/bulk_registrars.txt	/opt/accomplist/work/bulk-registars.list	7200	@DOMAIN-WILDCARD
+Immortal-Malware	black	http://mirror1.malwaredomains.com/files/immortal_domains.txt	/opt/accomplist/work/immortal-domains.list	7200	@DOMAIN
+Skype-Resolvers	black	http://mirror1.malwaredomains.com/files/Skype-resolvers.txt	/opt/accomplist/work/skype-resolvers.list	7200	@DOMAIN
+Free-WebHosts	black	http://mirror1.malwaredomains.com/files/freewebhosts.txt	/opt/accomplist/work/freewebhosts.list	7200	@DOMAIN
+Spyware	black	http://mirror1.malwaredomains.com/files/spywaredomains.zones	/opt/accomplist/work/spyware.list	7200	@ZONE
+#URL-Shorteners	white	https://mirror1.malwaredomains.com/files/url_shorteners.txt	/opt/accomplist/work/url-shorteners.list	7200	@DOMAIN
+
+RansomeWareTracker-Domains	black	https://ransomwaretracker.abuse.ch/downloads/RW_DOMBL.txt	/opt/accomplist/work/ransomewaretracker-doms.list	7200	@DOMAIN
+RansomeWareTracker-IPs	black	https://ransomwaretracker.abuse.ch/downloads/RW_IPBL.txt	/opt/accomplist/work/ransomewaretracker-ips.list	7200	@IP
+ZeusTracker-BadDomains	black	https://zeustracker.abuse.ch/blocklist.php?download=baddomains	/opt/accomplist/work/zeus-baddomains.list	7200	@DOMAIN
+ZeusTracker-BadIPs	black	https://zeustracker.abuse.ch/blocklist.php?download=badips	/opt/accomplist/work/zeus-badips.list	7200	@IP
+Feado-Domains	black	https://feodotracker.abuse.ch/blocklist/?download=domainblocklist	/opt/accomplist/work/feado-domains.list	7200	@DOMAIN
+Feado-IPs	black	https://feodotracker.abuse.ch/blocklist/?download=ipblocklist	/opt/accomplist/work/feado-ips.list	7200	@IP
+#SSL-BL	black	https://sslbl.abuse.ch/blacklist/sslipblacklist.csv	/opt/accomplist/work/ssl-blacklist.list	7200	@IP
+
+#SA-BlackList	black	http://www.sa-blacklist.stearns.org/sa-blacklist/sa-blacklist.current.domains	/opt/accomplist/work/sa-blacklist.list	7200	@DOMAIN
+
+#OpenPhish	black	https://openphish.com/feed.txt	/opt/accomplist/work/openphish.list	7200	@URL
+
+#PhishTank	black	http://data.phishtank.com/data/online-valid.csv	/opt/accomplist/work/phishtank.list	7200	@URLCSV2
+
+#HPHosts-Ads	black	https://hosts-file.net/ad_servers.txt	/opt/accomplist/work/hphosts-ads.list	7200	@HOST127
+#HPHosts-Exploit	black	https://hosts-file.net/exp.txt	/opt/accomplist/work/hphosts-exploit.list	7200	@HOST127
+#HPHosts-Misleading	black	http://hosts-file.net/mmt.txt	/opt/accomplist/work/hphosts-misleading.list	7200	@HOST127
+#HPHosts-Phising	black	https://hosts-file.net/psh.txt	/opt/accomplist/work/hphosts-phising.list	7200	@HOST127
+
+Blacklist.DE	black	https://lists.blocklist.de/lists/all.txt	/opt/accomplist/work/blocklist.de.list	7200	@IP
+#Blacklist.DE-Strong	black	https://lists.blocklist.de/lists/strongips.txt	/opt/accomplist/work/blocklist.de-strong.list	7200	@IP
+
+#Bogon4	black	https://www.team-cymru.org/Services/Bogons/fullbogons-ipv4.txt	/opt/accomplist/work/bogon4.list	7200	@IP
+#Bogon6	black	https://www.team-cymru.org/Services/Bogons/fullbogons-ipv6.txt	/opt/accomplist/work/bogon6.list	7200	@IP
+
+GMSCS-Chan	black	https://raw.githubusercontent.com/gmscs/hosts/master/chans	/opt/accomplist/work/gmscs-chan.list	7200	@HOST0
+GMSCS-Porn	black	https://raw.githubusercontent.com/gmscs/hosts/master/porn	/opt/accomplist/work/gmscs-porn.list	7200	@HOST0
+
+#KOCH-Spotify	black	https://raw.githubusercontent.com/CHEF-KOCH/Spotify-Ad-free/master/Spotifynulled.txt	/opt/accomplist/work/koch-spotify.list	7200	@HOST0
+
+#AnudeepND-Youtube	black	https://raw.githubusercontent.com/anudeepND/youtubeadsblacklist/master/domainlist.txt	/opt/accomplist/work/anudeepnd-youtube.list	7200	@DOMAIN
+AnudeepND-Ads	black	https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt	/opt/accomplist/work/anudeepnd-ads.list	7200	@HOST0
+AnudeepND-Coin	black	https://raw.githubusercontent.com/anudeepND/blacklist/master/CoinMiner.txt	/opt/accomplist/work/anudeepnd-coin.list	7200	@HOST0
+Anudeep-Whitelist	white	https://raw.githubusercontent.com/anudeepND/whitelist/master/domains/whitelist.txt	/opt/accomplist/work/anudeep-whitelist.list	7200	@DOMAIN
+
+#Raumle-Youtube	black	https://raw.githubusercontent.com/HenningVanRaumle/pihole-ytadblock/master/ytadblock.txt	/opt/accomplist/work/raumle-youtube.list	7200	@HOST0
+
+#Hackertarget-Youtube	black	https://api.hackertarget.com/hostsearch/?q=googlevideo.com	/opt/accomplist/work/hackertarget-youtube.list	7200	@DOMAIN	^([a-z]+\.)*googlevideo\.com$
+

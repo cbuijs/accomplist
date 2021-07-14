@@ -1,0 +1,30 @@
+Chris-Regex-Black	black!	/opt/accomplist/chris/regex.black!	/opt/accomplist/work/chris-regex-black.list	7200	@REGEX
+Chris-Regex-White	white!	/opt/accomplist/chris/regex.white!	/opt/accomplist/work/chris-regex-white.list	7200	@REGEX
+
+Chris-Black	black!	/opt/accomplist/chris/black.optimized!	/opt/accomplist/work/chris-black.list	7200	@DOMAINIP
+Chris-White	white!	/opt/accomplist/chris/white.optimized!	/opt/accomplist/work/chris-white.list	7200	@DOMAINIP
+Chris-Private	black!	/opt/accomplist/chris/private-reserved.list!	/opt/accomplist/work/chris-private.list	7200	@DOMAINIP
+
+Chris-Exclude	exclude!	/opt/accomplist/chris/exclude!	/opt/accomplist/work/chris-exclude.list	7200	@DEFAULT
+
+Chris-Black-TLDS	black!	/opt/accomplist/chris/tlds.black!	/opt/accomplist/work/chris-black-tlds.list	7200	@DOMAIN
+Chris-White-TLDS	white!	/opt/accomplist/chris/tlds.white!	/opt/accomplist/work/chris-white-tlds.list	7200	@DOMAIN
+Chris-Abuse-TLDS	black!	/opt/accomplist/chris/abuse-tlds.list!	/opt/accomplist/work/chris-abuse-tlds.list	7200	@DOMAIN	@EXCLUDEGTLD
+
+Chris-Special-White	white!	/opt/accomplist/chris/white.special!	/opt/accomplist/work/chris-special-white.list	7200	@DOMAIN
+
+Chris-ASN-Black	black!	/opt/accomplist/chris/asn.black!	/opt/accomplist/work/chris-asn-black.list	7200	@ASN
+Chris-ASN-White	white!	/opt/accomplist/chris/asn.white!	/opt/accomplist/work/chris-asn-white.list	7200	@ASN
+
+Chris-Fail2Ban	black	/opt/accomplist/chris/fail2ban!	/opt/accomplist/work/chris-fail2ban.list	7200	@IP
+
+
+
+Chris-Abuse-TLDS	black!	/opt/accomplist/chris/abuse-tlds.list!	/opt/accomplist/work/chris-abuse-tlds.list	7200	@DOMAIN	@EXCLUDEGTLD
+Chris-Black-TLDS	black!	/opt/accomplist/chris/tlds.black!	/opt/accomplist/work/chris-black-tlds.list	7200	@DOMAIN
+
+Disconnect-Ads	black	https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt	/opt/accomplist/work/disconnect-ads.list	7200	@DOMAIN
+Disconnect-Malvertising	black	https://s3.amazonaws.com/lists.disconnect.me/simple_malvertising.txt	/opt/accomplist/work/disconnect-malvertising.list	7200	@DOMAIN
+Disconnect-Malware	black	https://s3.amazonaws.com/lists.disconnect.me/simple_malware.txt	/opt/accomplist/work/disconnect-malware.list	7200	@DOMAIN
+Disconnect-Tracking	black	https://s3.amazonaws.com/lists.disconnect.me/simple_tracking.txt	/opt/accomplist/work/disconnect-tracking.list	7200	@DOMAIN
+
