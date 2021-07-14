@@ -1,0 +1,11 @@
+; BIND RPZ whitelist
+$TTL 3600
+@ SOA dummy-1626224124-ns hostmaster 1626224124 12h 15m 3w 3h
+@ NS dummy-1626224124-ns
+dummy-1626224124-ns A 0.0.0.0
+dummy-1626224124-ns AAAA ::
+admin.mgid.com CNAME .
+app.adroll.com CNAME .
+dashboard.mgid.com CNAME .
+identity.mparticle.com CNAME .
+ondemand.sas.com CNAME .

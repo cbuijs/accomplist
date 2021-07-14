@@ -1,0 +1,19 @@
+; BIND RPZ whitelist
+$TTL 3600
+@ SOA dummy-1626221409-ns hostmaster 1626221409 12h 15m 3w 3h
+@ NS dummy-1626221409-ns
+dummy-1626221409-ns A 0.0.0.0
+dummy-1626221409-ns AAAA ::
+;
+; --- TLDS ---
+;
+; --- DOMAINS ---
+; --- IPv4 ---
+32.0.0.0.0.rpz-ip CNAME .
+0.0.0.0.in-addr.arpa PTR .
+32.205.51.122.134.rpz-ip CNAME .
+205.51.122.134.in-addr.arpa PTR .
+; --- IPv6 ---
+7.zz.fc00.rpz-ip CNAME .
+10.zz.fe80.rpz-ip CNAME .
+; --- EOF ---

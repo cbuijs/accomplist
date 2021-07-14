@@ -1,0 +1,13 @@
+; BIND RPZ whitelist
+$TTL 3600
+@ SOA dummy-1626224569-ns hostmaster 1626224569 12h 15m 3w 3h
+@ NS dummy-1626224569-ns
+dummy-1626224569-ns A 0.0.0.0
+dummy-1626224569-ns AAAA ::
+;
+; --- TLDS ---
+;
+; --- DOMAINS ---
+; --- IPv4 ---
+; --- IPv6 ---
+; --- EOF ---

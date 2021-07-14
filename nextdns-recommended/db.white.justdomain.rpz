@@ -1,0 +1,8 @@
+; BIND RPZ whitelist
+$TTL 3600
+@ SOA dummy-1626224610-ns hostmaster 1626224610 12h 15m 3w 3h
+@ NS dummy-1626224610-ns
+dummy-1626224610-ns A 0.0.0.0
+dummy-1626224610-ns AAAA ::
+cloud.answerhub.com CNAME .
+teslarati-com-edge.ntv.io CNAME .

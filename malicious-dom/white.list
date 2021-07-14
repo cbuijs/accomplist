@@ -1,0 +1,30 @@
+############################################
+### ACCOMPLIST GENERATED WHITELIST       ###
+### Version: 1626222675                  ###
+### Chris Buijs                          ###
+### https://github.com/cbuijs/accomplist ###
+############################################
+
+### SAFELIST DOMAINS ###
+### SAFEUNWHITELIST DOMAINS ###
+phishing.army&	Unwhitelist
+threatfox.abuse.ch&	Unwhitelist
+urlhaus.abuse.ch&	Unwhitelist
+data.netlab.360.com&	Unwhitelist
+s3.amazonaws.com&	Unwhitelist
+gist.githubusercontent.com&	Unwhitelist
+raw.githubusercontent.com&	Unwhitelist
+gitlab.com&	Unwhitelist
+kriskintel.com&	Unwhitelist
+www.malwaredomainlist.com&	Unwhitelist
+mirror1.malwaredomains.com&	Unwhitelist
+data.phishtank.com&	Unwhitelist
+isc.sans.edu&	Unwhitelist
+www.botvrij.eu&	Unwhitelist
+infosec.cert-pa.it&	Unwhitelist
+### WHITELIST REGEXES ###
+### WHITELIST DOMAINS ###
+### WHITELIST ASN ###
+### WHITELIST IPv4 ###
+### WHITELIST IPv6 ###
+### WHITELIST EOF ###

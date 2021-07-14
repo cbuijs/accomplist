@@ -1,0 +1,3120 @@
+############################################
+### ACCOMPLIST GENERATED BLACKLIST       ###
+### Version: 1626224882                  ###
+### Chris Buijs                          ###
+### https://github.com/cbuijs/accomplist ###
+############################################
+
+### SAFELIST DOMAINS ###
+vpn.ac!	Safelist-DoH-Doms
+doh.tiar.app!	Safelist-DoH-Doms
+jp.tiar.app!	Safelist-DoH-Doms
+ecxs.asia!	Safelist-DoH-Doms
+freeproxy.asia!	Safelist-DoH-Doms
+goproxy.asia!	Safelist-DoH-Doms
+mehide.asia!	Safelist-DoH-Doms
+vpn.asia!	Safelist-DoH-Doms
+ns1.dnsprivacy.at!	Safelist-DoH-Doms
+ns2.dnsprivacy.at!	Safelist-DoH-Doms
+supervpn.best!	Safelist-DoH-Doms
+webproxy.best!	Safelist-DoH-Doms
+unblockbook.biz!	Safelist-DoH-Doms
+canadianshield.cira.ca!	Safelist-DoH-Doms
+dns1.dnscrypt.ca!	Safelist-DoH-Doms
+dns2.dnscrypt.ca!	Safelist-DoH-Doms
+onion.cab!	Safelist-DoH-Doms
+dns.keweon.center!	Safelist-DoH-Doms
+digitale-gesellschaft.ch!	Safelist-DoH-Doms
+protonvpn.ch!	Safelist-DoH-Doms
+onion.city!	Safelist-DoH-Doms
+dnsotls.lab.nic.cl!	Safelist-DoH-Doms
+proxysite.cloud!	Safelist-DoH-Doms
+proxy7.club!	Safelist-DoH-Doms
+proxysite.club!	Safelist-DoH-Doms
+proxyunblock.club!	Safelist-DoH-Doms
+dns.rubyfish.cn!	Safelist-DoH-Doms
+ea-dns.rubyfish.cn!	Safelist-DoH-Doms
+uw-dns.rubyfish.cn!	Safelist-DoH-Doms
+betternet.co!	Safelist-DoH-Doms
+dns.containerpi.co!	Safelist-DoH-Doms
+freeproxyserver.co!	Safelist-DoH-Doms
+dns.oszx.co!	Safelist-DoH-Doms
+spedo.co!	Safelist-DoH-Doms
+stealthy.co!	Safelist-DoH-Doms
+unblockweb.co!	Safelist-DoH-Doms
+12vpx.com!	Safelist-DoH-Doms
+dns.233py.com!	Safelist-DoH-Doms
+doh.233py.com!	Safelist-DoH-Doms
+edns.233py.com!	Safelist-DoH-Doms
+i.233py.com!	Safelist-DoH-Doms
+ndns.233py.com!	Safelist-DoH-Doms
+sdns.233py.com!	Safelist-DoH-Doms
+wdns.233py.com!	Safelist-DoH-Doms
+24tunnel.com!	Safelist-DoH-Doms
+2fastsurfer.com!	Safelist-DoH-Doms
+4everproxy.com!	Safelist-DoH-Doms
+99proxy.com!	Safelist-DoH-Doms
+aceproxy.com!	Safelist-DoH-Doms
+acevpn.com!	Safelist-DoH-Doms
+dns.adguard.com!	Safelist-DoH-Doms
+dns-family.adguard.com!	Safelist-DoH-Doms
+dns-unfiltered.adguard.com!	Safelist-DoH-Doms
+adguard-vpn.com!	Safelist-DoH-Doms
+allunblocked.com!	Safelist-DoH-Doms
+hdredirect-lb7-5a03e1c2772e1c9c.elb.us-east-1.amazonaws.com!	Safelist-DoH-Doms
+aniscartujo.com!	Safelist-DoH-Doms
+anonine.com!	Safelist-DoH-Doms
+anonymize.com!	Safelist-DoH-Doms
+anonymizer.com!	Safelist-DoH-Doms
+anonymster.com!	Safelist-DoH-Doms
+doh.dns.apple.com!	Safelist-DoH-Doms
+vpn.appsverse.com!	Safelist-DoH-Doms
+doh.asecdns.com!	Safelist-DoH-Doms
+dot.asecdns.com!	Safelist-DoH-Doms
+astrill.com!	Safelist-DoH-Doms
+atlasvpn.com!	Safelist-DoH-Doms
+atoproxy.com!	Safelist-DoH-Doms
+atozproxy.com!	Safelist-DoH-Doms
+avira-vpn.com!	Safelist-DoH-Doms
+awebproxy.com!	Safelist-DoH-Doms
+azirevpn.com!	Safelist-DoH-Doms
+i.233py.com.a.bdydns.com!	Safelist-DoH-Doms
+beevpn.com!	Safelist-DoH-Doms
+bestvpnrating.com!	Safelist-DoH-Doms
+blackvpn.com!	Safelist-DoH-Doms
+doh.blahdns.com!	Safelist-DoH-Doms
+doh-ch.blahdns.com!	Safelist-DoH-Doms
+doh-de.blahdns.com!	Safelist-DoH-Doms
+doh-fi.blahdns.com!	Safelist-DoH-Doms
+doh-jp.blahdns.com!	Safelist-DoH-Doms
+dot-de.blahdns.com!	Safelist-DoH-Doms
+dot-jp.blahdns.com!	Safelist-DoH-Doms
+blewpass.com!	Safelist-DoH-Doms
+blockerdns.com!	Safelist-DoH-Doms
+blockless.com!	Safelist-DoH-Doms
+new-proxy-sites.blogspot.com!	Safelist-DoH-Doms
+bogbone.com!	Safelist-DoH-Doms
+boomproxy.com!	Safelist-DoH-Doms
+boxpn.com!	Safelist-DoH-Doms
+tor.bravesoftware.com!	Safelist-DoH-Doms
+btguard.com!	Safelist-DoH-Doms
+buffered.com!	Safelist-DoH-Doms
+cactusvpn.com!	Safelist-DoH-Doms
+71b9rac8.sltadapter.cdntip.com!	Safelist-DoH-Doms
+chillglobal.com!	Safelist-DoH-Doms
+christophbrem.com!	Safelist-DoH-Doms
+citizenvpn.com!	Safelist-DoH-Doms
+cloakvpn.com!	Safelist-DoH-Doms
+dns.cloudflare.com!	Safelist-DoH-Doms
+cloudflare-dns.com!	Safelist-DoH-Doms
+cloudflare-gateway.com!	Safelist-DoH-Doms
+dns.containerpi.com!	Safelist-DoH-Doms
+croxyproxy.com!	Safelist-DoH-Doms
+crypticvpn.com!	Safelist-DoH-Doms
+cryptohippie.com!	Safelist-DoH-Doms
+cyberghostvpn.com!	Safelist-DoH-Doms
+defencevpn.com!	Safelist-DoH-Doms
+digi77.com!	Safelist-DoH-Doms
+dns.dns-over-https.com!	Safelist-DoH-Doms
+dnslify.com!	Safelist-DoH-Doms
+doh.233py.com.cdn.dnsv1.com!	Safelist-DoH-Doms
+i.233py.com.cdn.dnsv1.com!	Safelist-DoH-Doms
+dnswarden.com!	Safelist-DoH-Doms
+dotvpn.com!	Safelist-DoH-Doms
+downloadvpnfree.com!	Safelist-DoH-Doms
+earthvpn.com!	Safelist-DoH-Doms
+epicbrowser.com!	Safelist-DoH-Doms
+expressvpn.com!	Safelist-DoH-Doms
+f4fp.com!	Safelist-DoH-Doms
+fastestvpn.com!	Safelist-DoH-Doms
+fastusaproxy.com!	Safelist-DoH-Doms
+finchvpn.com!	Safelist-DoH-Doms
+fishproxy.com!	Safelist-DoH-Doms
+fixproxy.com!	Safelist-DoH-Doms
+flowvpn.com!	Safelist-DoH-Doms
+flyvpn.com!	Safelist-DoH-Doms
+free-proxy.com!	Safelist-DoH-Doms
+free-proxyserver.com!	Safelist-DoH-Doms
+freeeuroproxy.com!	Safelist-DoH-Doms
+freeopenproxy.com!	Safelist-DoH-Doms
+freexite.com!	Safelist-DoH-Doms
+freeyouproxytube.com!	Safelist-DoH-Doms
+genmirror.com!	Safelist-DoH-Doms
+get-express-vpn.com!	Safelist-DoH-Doms
+gizlibaglanti.com!	Safelist-DoH-Doms
+dns.google.com!	Safelist-DoH-Doms
+google-public-dns-a.google.com!	Safelist-DoH-Doms
+google-public-dns-b.google.com!	Safelist-DoH-Doms
+blogspot.l.googleusercontent.com!	Safelist-DoH-Doms
+greatestfreeproxy.com!	Safelist-DoH-Doms
+guardian-vpn.com!	Safelist-DoH-Doms
+guardianapp.com!	Safelist-DoH-Doms
+guardster.com!	Safelist-DoH-Doms
+hidefrom.com!	Safelist-DoH-Doms
+hideipvpn.com!	Safelist-DoH-Doms
+hidemebro.com!	Safelist-DoH-Doms
+hidemyass.com!	Safelist-DoH-Doms
+hidester.com!	Safelist-DoH-Doms
+hidetheinternet.com!	Safelist-DoH-Doms
+homeproxy.com!	Safelist-DoH-Doms
+hotbot.com!	Safelist-DoH-Doms
+hotspotshield.com!	Safelist-DoH-Doms
+hoxx.com!	Safelist-DoH-Doms
+mask.icloud.com!	Safelist-DoH-Doms
+idcloak.com!	Safelist-DoH-Doms
+idolproxy.com!	Safelist-DoH-Doms
+instantunblock.com!	Safelist-DoH-Doms
+ipvanish.com!	Safelist-DoH-Doms
+ispunblock.com!	Safelist-DoH-Doms
+ivacy.com!	Safelist-DoH-Doms
+opencdn.jomodns.com!	Safelist-DoH-Doms
+opencdnspyv6.jomodns.com!	Safelist-DoH-Doms
+kproxy.com!	Safelist-DoH-Doms
+kproxysite.com!	Safelist-DoH-Doms
+le-vpn.com!	Safelist-DoH-Doms
+limevpn.com!	Safelist-DoH-Doms
+linkmetube.com!	Safelist-DoH-Doms
+lopana.com!	Safelist-DoH-Doms
+maddw.com!	Safelist-DoH-Doms
+megaproxy.com!	Safelist-DoH-Doms
+metproxy.com!	Safelist-DoH-Doms
+miniprox.com!	Safelist-DoH-Doms
+mofolinux.com!	Safelist-DoH-Doms
+my-proxy.com!	Safelist-DoH-Doms
+myunblocksites.com!	Safelist-DoH-Doms
+newipnow.com!	Safelist-DoH-Doms
+ninjabrowse.com!	Safelist-DoH-Doms
+ninjacloak.com!	Safelist-DoH-Doms
+anonymizer.nntime.com!	Safelist-DoH-Doms
+nordvpn.com!	Safelist-DoH-Doms
+doh.opendns.com!	Safelist-DoH-Doms
+doh.familyshield.opendns.com!	Safelist-DoH-Doms
+resolver1.opendns.com!	Safelist-DoH-Doms
+resolver1-fs.opendns.com!	Safelist-DoH-Doms
+resolver2.opendns.com!	Safelist-DoH-Doms
+resolver2-fs.opendns.com!	Safelist-DoH-Doms
+opera.com!	Safelist-DoH-Doms
+ovpn.com!	Safelist-DoH-Doms
+pandashield.com!	Safelist-DoH-Doms
+leo.paulmihaipavel.com!	Safelist-DoH-Doms
+doh.centraleu.pi-dns.com!	Safelist-DoH-Doms
+doh.eastus.pi-dns.com!	Safelist-DoH-Doms
+doh.northeu.pi-dns.com!	Safelist-DoH-Doms
+doh.westeu.pi-dns.com!	Safelist-DoH-Doms
+doh.westus.pi-dns.com!	Safelist-DoH-Doms
+pixelprivacy.com!	Safelist-DoH-Doms
+privateinternetaccess.com!	Safelist-DoH-Doms
+privatevpn.com!	Safelist-DoH-Doms
+pro-unblock.com!	Safelist-DoH-Doms
+protonstatus.com!	Safelist-DoH-Doms
+protonvpn.com!	Safelist-DoH-Doms
+proxfree.com!	Safelist-DoH-Doms
+proxify.com!	Safelist-DoH-Doms
+proxmecallmenames.com!	Safelist-DoH-Doms
+secure.proxpn.com!	Safelist-DoH-Doms
+proxtube.com!	Safelist-DoH-Doms
+proxy-2014.com!	Safelist-DoH-Doms
+proxy-anywhere.com!	Safelist-DoH-Doms
+proxy-youtube.com!	Safelist-DoH-Doms
+proxy4freedom.com!	Safelist-DoH-Doms
+proxybrowsing.com!	Safelist-DoH-Doms
+proxyfish.com!	Safelist-DoH-Doms
+proxyisp.com!	Safelist-DoH-Doms
+proxylistpro.com!	Safelist-DoH-Doms
+proxymesh.com!	Safelist-DoH-Doms
+proxynova.com!	Safelist-DoH-Doms
+proxyof.com!	Safelist-DoH-Doms
+proxypirates.com!	Safelist-DoH-Doms
+proxypx.com!	Safelist-DoH-Doms
+proxyscrape.com!	Safelist-DoH-Doms
+proxyserver.com!	Safelist-DoH-Doms
+proxysite.com!	Safelist-DoH-Doms
+proxyturbo.com!	Safelist-DoH-Doms
+dns.pumplex.com!	Safelist-DoH-Doms
+purevpn.com!	Safelist-DoH-Doms
+pushvpn.com!	Safelist-DoH-Doms
+pxaa.com!	Safelist-DoH-Doms
+quickprox.com!	Safelist-DoH-Doms
+radmin-vpn.com!	Safelist-DoH-Doms
+ronfeed.com!	Safelist-DoH-Doms
+rusvpn.com!	Safelist-DoH-Doms
+safeguardianvpn.com!	Safelist-DoH-Doms
+safervpn.com!	Safelist-DoH-Doms
+sec-tunnel.com!	Safelist-DoH-Doms
+setupvpn.com!	Safelist-DoH-Doms
+dnsovertls.sinodun.com!	Safelist-DoH-Doms
+dnsovertls1.sinodun.com!	Safelist-DoH-Doms
+dnsovertls2.sinodun.com!	Safelist-DoH-Doms
+dnsovertls3.sinodun.com!	Safelist-DoH-Doms
+site2unblock.com!	Safelist-DoH-Doms
+smartdnsproxy.com!	Safelist-DoH-Doms
+spanproxy.com!	Safelist-DoH-Doms
+spysurfing.com!	Safelist-DoH-Doms
+sslsecureproxy.com!	Safelist-DoH-Doms
+strongvpn.com!	Safelist-DoH-Doms
+stupidproxy.com!	Safelist-DoH-Doms
+surf-for-free.com!	Safelist-DoH-Doms
+surfeasy.com!	Safelist-DoH-Doms
+surfly.com!	Safelist-DoH-Doms
+surfmenow.com!	Safelist-DoH-Doms
+surfproxyserver.com!	Safelist-DoH-Doms
+surfshark.com!	Safelist-DoH-Doms
+203.199.60.110yyqrw8y.sp-dk.sched.tdnsv8.com!	Safelist-DoH-Doms
+71b9rac8.sp-dk.sched.tdnsv8.com!	Safelist-DoH-Doms
+tenta.com!	Safelist-DoH-Doms
+thebestvpn.com!	Safelist-DoH-Doms
+theclickcheck.com!	Safelist-DoH-Doms
+tiafun.com!	Safelist-DoH-Doms
+proxy.toolur.com!	Safelist-DoH-Doms
+top10vpn.com!	Safelist-DoH-Doms
+topvpnguides.com!	Safelist-DoH-Doms
+trickbyte.com!	Safelist-DoH-Doms
+tunnelbear.com!	Safelist-DoH-Doms
+ultravpn.com!	Safelist-DoH-Doms
+unblock-sites.com!	Safelist-DoH-Doms
+unblock-video.com!	Safelist-DoH-Doms
+unblock-websites.com!	Safelist-DoH-Doms
+unblock123.com!	Safelist-DoH-Doms
+unblockaccess.com!	Safelist-DoH-Doms
+unblockandsurf.com!	Safelist-DoH-Doms
+unblockfreeproxy.com!	Safelist-DoH-Doms
+unblockmyweb.com!	Safelist-DoH-Doms
+unblockvideos.com!	Safelist-DoH-Doms
+unblockyouku.com!	Safelist-DoH-Doms
+unblockyoutubeatschool.com!	Safelist-DoH-Doms
+unblockytproxy.com!	Safelist-DoH-Doms
+undofilters.com!	Safelist-DoH-Doms
+ur-browser.com!	Safelist-DoH-Doms
+urban-vpn.com!	Safelist-DoH-Doms
+vectroproxy.com!	Safelist-DoH-Doms
+veripn.com!	Safelist-DoH-Doms
+videounblock.com!	Safelist-DoH-Doms
+vidproxy.com!	Safelist-DoH-Doms
+virtualshield.com!	Safelist-DoH-Doms
+vobas.com!	Safelist-DoH-Doms
+vpnbook.com!	Safelist-DoH-Doms
+vpnbrowse.com!	Safelist-DoH-Doms
+vpnfan.com!	Safelist-DoH-Doms
+vpngorilla.com!	Safelist-DoH-Doms
+vpnmentor.com!	Safelist-DoH-Doms
+vpnoverview.com!	Safelist-DoH-Doms
+vpnunlimitedapp.com!	Safelist-DoH-Doms
+vyprvpn.com!	Safelist-DoH-Doms
+weboproxy.com!	Safelist-DoH-Doms
+whoisping.com!	Safelist-DoH-Doms
+windscribe.com!	Safelist-DoH-Doms
+wlvpn.com!	Safelist-DoH-Doms
+wossow.com!	Safelist-DoH-Doms
+doh.xfinity.com!	Safelist-DoH-Doms
+dot.xfinity.com!	Safelist-DoH-Doms
+doh.gslb2.xfinity.com!	Safelist-DoH-Doms
+doh2.gslb2.xfinity.com!	Safelist-DoH-Doms
+xitenow.com!	Safelist-DoH-Doms
+xitesite.com!	Safelist-DoH-Doms
+yourcheat.com!	Safelist-DoH-Doms
+youtubebyclick.com!	Safelist-DoH-Doms
+youtubez.com!	Safelist-DoH-Doms
+yxorproxy.com!	Safelist-DoH-Doms
+zacebookpk.com!	Safelist-DoH-Doms
+zalmos.com!	Safelist-DoH-Doms
+zend2.com!	Safelist-DoH-Doms
+zendproxy.com!	Safelist-DoH-Doms
+zoogvpn.com!	Safelist-DoH-Doms
+freedom.cx!	Safelist-DoH-Doms
+helloworld.cx!	Safelist-DoH-Doms
+polaris.cx!	Safelist-DoH-Doms
+free-proxy.cz!	Safelist-DoH-Doms
+odvr.nic.cz!	Safelist-DoH-Doms
+doh.defaultroutes.de!	Safelist-DoH-Doms
+dnsforge.de!	Safelist-DoH-Doms
+proxy.ordentlichbreit.de!	Safelist-DoH-Doms
+dns.t53.de!	Safelist-DoH-Doms
+onion.direct!	Safelist-DoH-Doms
+unicast.censurfridns.dk!	Safelist-DoH-Doms
+vpn-byen.dk!	Safelist-DoH-Doms
+onion.dog!	Safelist-DoH-Doms
+getproxi.es!	Safelist-DoH-Doms
+ninjaproxy.eu!	Safelist-DoH-Doms
+proxite.eu!	Safelist-DoH-Doms
+proxyfor.eu!	Safelist-DoH-Doms
+doh.securedns.eu!	Safelist-DoH-Doms
+sslpro.eu!	Safelist-DoH-Doms
+tomatoproxy.eu!	Safelist-DoH-Doms
+workhost.eu!	Safelist-DoH-Doms
+resolver-eu.lelux.fi!	Safelist-DoH-Doms
+doh.42l.fr!	Safelist-DoH-Doms
+fiberproxy.fr!	Safelist-DoH-Doms
+proxysite.fr!	Safelist-DoH-Doms
+jcdns.fun!	Safelist-DoH-Doms
+203.199.60.11012proxy.ga!	Safelist-DoH-Doms
+202.58.198.158012proxy.ga!	Safelist-DoH-Doms
+202.86.251.201012proxy.ga!	Safelist-DoH-Doms
+202.164.44.246012proxy.ga!	Safelist-DoH-Doms
+196.200.184.31012proxy.ga!	Safelist-DoH-Doms
+169.38.73.5012proxy.ga!	Safelist-DoH-Doms
+177.72.56.58012proxy.ga!	Safelist-DoH-Doms
+8888.google!	Safelist-DoH-Doms
+dns.google!	Safelist-DoH-Doms
+123-24.eport.gr!	Safelist-DoH-Doms
+libredns.gr!	Safelist-DoH-Doms
+commons.host!	Safelist-DoH-Doms
+zpn.im!	Safelist-DoH-Doms
+dns.bitgeek.in!	Safelist-DoH-Doms
+captnemo.in!	Safelist-DoH-Doms
+hiload.in!	Safelist-DoH-Doms
+proxyhub.in!	Safelist-DoH-Doms
+sitenable.in!	Safelist-DoH-Doms
+websurf.in!	Safelist-DoH-Doms
+americaproxy.info!	Safelist-DoH-Doms
+avoidance.info!	Safelist-DoH-Doms
+brazilproxy.info!	Safelist-DoH-Doms
+canadaproxy.info!	Safelist-DoH-Doms
+caproxies.info!	Safelist-DoH-Doms
+fasttime.info!	Safelist-DoH-Doms
+fbproxies.info!	Safelist-DoH-Doms
+german-proxy.info!	Safelist-DoH-Doms
+hiddendigital.info!	Safelist-DoH-Doms
+hidingyour.info!	Safelist-DoH-Doms
+interncloud.info!	Safelist-DoH-Doms
+miniprox.info!	Safelist-DoH-Doms
+myproxy.info!	Safelist-DoH-Doms
+pkproxy.info!	Safelist-DoH-Doms
+pollproxy.info!	Safelist-DoH-Doms
+prointern.info!	Safelist-DoH-Doms
+proxite.info!	Safelist-DoH-Doms
+proxy-2015.info!	Safelist-DoH-Doms
+proxy-internet.info!	Safelist-DoH-Doms
+proxybrowse.info!	Safelist-DoH-Doms
+proxygogo.info!	Safelist-DoH-Doms
+proxythis.info!	Safelist-DoH-Doms
+saoudiproxy.info!	Safelist-DoH-Doms
+suedeproxy.info!	Safelist-DoH-Doms
+travelvpn.info!	Safelist-DoH-Doms
+usafastproxy.info!	Safelist-DoH-Doms
+usproxies.info!	Safelist-DoH-Doms
+adguard.io!	Safelist-DoH-Doms
+anonvpn.io!	Safelist-DoH-Doms
+vpn.ncapi.io!	Safelist-DoH-Doms
+dns.nextdns.io!	Safelist-DoH-Doms
+dns1.nextdns.io!	Safelist-DoH-Doms
+dns2.nextdns.io!	Safelist-DoH-Doms
+edge.nextdns.io!	Safelist-DoH-Doms
+steering.nextdns.io!	Safelist-DoH-Doms
+proxysite.io!	Safelist-DoH-Doms
+dns.seby.io!	Safelist-DoH-Doms
+doh.seby.io!	Safelist-DoH-Doms
+doh-2.seby.io!	Safelist-DoH-Doms
+iana.tenta.io!	Safelist-DoH-Doms
+opennic.tenta.io!	Safelist-DoH-Doms
+cryptostorm.is!	Safelist-DoH-Doms
+dns.flatuslifir.is!	Safelist-DoH-Doms
+public.dns.iij.jp!	Safelist-DoH-Doms
+dns.developer.li!	Safelist-DoH-Doms
+dns2.developer.li!	Safelist-DoH-Doms
+doh.li!	Safelist-DoH-Doms
+youtubeunblocked.live!	Safelist-DoH-Doms
+proxy.lol!	Safelist-DoH-Doms
+doyouremember.love!	Safelist-DoH-Doms
+kaitain.restena.lu!	Safelist-DoH-Doms
+onion.ly!	Safelist-DoH-Doms
+dns.aaflalo.me!	Safelist-DoH-Doms
+dns-gcp.aaflalo.me!	Safelist-DoH-Doms
+dns-nyc.aaflalo.me!	Safelist-DoH-Doms
+doublehop.me!	Safelist-DoH-Doms
+encrypt.me!	Safelist-DoH-Doms
+faceless.me!	Safelist-DoH-Doms
+fiberprox.me!	Safelist-DoH-Doms
+filterbypass.me!	Safelist-DoH-Doms
+freeproxy.me!	Safelist-DoH-Doms
+freevpn.me!	Safelist-DoH-Doms
+hide.me!	Safelist-DoH-Doms
+proximize.me!	Safelist-DoH-Doms
+seeproxy.me!	Safelist-DoH-Doms
+stopcensoring.me!	Safelist-DoH-Doms
+ibksturm.synology.me!	Safelist-DoH-Doms
+tubeunblock.me!	Safelist-DoH-Doms
+unblocked.me!	Safelist-DoH-Doms
+unblockproxy.me!	Safelist-DoH-Doms
+uvpn.me!	Safelist-DoH-Doms
+vpnme.me!	Safelist-DoH-Doms
+websurfproxy.me!	Safelist-DoH-Doms
+hidemy.name!	Safelist-DoH-Doms
+dns.alekberg.net!	Safelist-DoH-Doms
+dns2.alekberg.net!	Safelist-DoH-Doms
+dnsse.alekberg.net!	Safelist-DoH-Doms
+doh.applied-privacy.net!	Safelist-DoH-Doms
+doh.appliedprivacy.net!	Safelist-DoH-Doms
+dot1.appliedprivacy.net!	Safelist-DoH-Doms
+armadillodns.net!	Safelist-DoH-Doms
+doh.armadilodns.net!	Safelist-DoH-Doms
+dohtrial.att.net!	Safelist-DoH-Doms
+blocka.net!	Safelist-DoH-Doms
+bolehvpn.net!	Safelist-DoH-Doms
+celo.net!	Safelist-DoH-Doms
+ibuki.cgnat.net!	Safelist-DoH-Doms
+dns.233py.com.cdn.cloudflare.net!	Safelist-DoH-Doms
+edns.233py.com.cdn.cloudflare.net!	Safelist-DoH-Doms
+i.233py.com.cdn.cloudflare.net!	Safelist-DoH-Doms
+ndns.233py.com.cdn.cloudflare.net!	Safelist-DoH-Doms
+sdns.233py.com.cdn.cloudflare.net!	Safelist-DoH-Doms
+wdns.233py.com.cdn.cloudflare.net!	Safelist-DoH-Doms
+doh.dns.sb.cdn.cloudflare.net!	Safelist-DoH-Doms
+d2dy5tljjyhryf.cloudfront.net!	Safelist-DoH-Doms
+d8f0baexhjm0a.cloudfront.net!	Safelist-DoH-Doms
+dns.cmrg.net!	Safelist-DoH-Doms
+dohdot.coxlab.net!	Safelist-DoH-Doms
+tls-dns-u.odvr.dns-oarc.net!	Safelist-DoH-Doms
+dns.dnsoverhttps.net!	Safelist-DoH-Doms
+dolopo.net!	Safelist-DoH-Doms
+evyy.net!	Safelist-DoH-Doms
+faelix.net!	Safelist-DoH-Doms
+anycast.ffmuc.net!	Safelist-DoH-Doms
+doh.ffmuc.net!	Safelist-DoH-Doms
+fiberproxy.net!	Safelist-DoH-Doms
+free-proxy-list.net!	Safelist-DoH-Doms
+freevpn4you.net!	Safelist-DoH-Doms
+freevpnsoftware.net!	Safelist-DoH-Doms
+freeyoutube.net!	Safelist-DoH-Doms
+getdnsapi.net!	Safelist-DoH-Doms
+geti2p.net!	Safelist-DoH-Doms
+google-zip.net!	Safelist-DoH-Doms
+googlezip.net!	Safelist-DoH-Doms
+guardianvpn.net!	Safelist-DoH-Doms
+ordns.he.net!	Safelist-DoH-Doms
+hidemenow.net!	Safelist-DoH-Doms
+dns.hostux.net!	Safelist-DoH-Doms
+hyperbyte.net!	Safelist-DoH-Doms
+ivpn.net!	Safelist-DoH-Doms
+dns.larsdebruin.net!	Safelist-DoH-Doms
+mullvad.net!	Safelist-DoH-Doms
+myprivateproxy.net!	Safelist-DoH-Doms
+nvpn.net!	Safelist-DoH-Doms
+openvpn.net!	Safelist-DoH-Doms
+opera-proxy.net!	Safelist-DoH-Doms
+orangeproxy.net!	Safelist-DoH-Doms
+overplay.net!	Safelist-DoH-Doms
+rpz-public-resolver1.rrdns.pch.net!	Safelist-DoH-Doms
+rpz-public-resolver2.rrdns.pch.net!	Safelist-DoH-Doms
+proxy-deal.net!	Safelist-DoH-Doms
+proxy-hypo.net!	Safelist-DoH-Doms
+proxy-site.net!	Safelist-DoH-Doms
+proxy2014.net!	Safelist-DoH-Doms
+proxycloud.net!	Safelist-DoH-Doms
+proxyload.net!	Safelist-DoH-Doms
+proxyone.net!	Safelist-DoH-Doms
+proxyserverfree.net!	Safelist-DoH-Doms
+dns.quad9.net!	Safelist-DoH-Doms
+dns-nosec.quad9.net!	Safelist-DoH-Doms
+dns10.quad9.net!	Safelist-DoH-Doms
+dns11.quad9.net!	Safelist-DoH-Doms
+dns9.quad9.net!	Safelist-DoH-Doms
+rsocks.net!	Safelist-DoH-Doms
+socks-proxy.net!	Safelist-DoH-Doms
+torguard.net!	Safelist-DoH-Doms
+touchvpn.net!	Safelist-DoH-Doms
+travelvpn.net!	Safelist-DoH-Doms
+tubeunblock.net!	Safelist-DoH-Doms
+ultimateproxy.net!	Safelist-DoH-Doms
+ultrafun.net!	Safelist-DoH-Doms
+unblockblocked.net!	Safelist-DoH-Doms
+unblockyoutubefree.net!	Safelist-DoH-Doms
+use-application-dns.net!	Safelist-DoH-Doms
+videounblocker.net!	Safelist-DoH-Doms
+viewyoutube.net!	Safelist-DoH-Doms
+vload.net!	Safelist-DoH-Doms
+vpn.net!	Safelist-DoH-Doms
+vpngate.net!	Safelist-DoH-Doms
+vpnlite.net!	Safelist-DoH-Doms
+webproxyfree.net!	Safelist-DoH-Doms
+whoer.net!	Safelist-DoH-Doms
+yellowproxy.net!	Safelist-DoH-Doms
+youtubefreeproxy.net!	Safelist-DoH-Doms
+adblock.mydns.network!	Safelist-DoH-Doms
+singaporeproxy.nu!	Safelist-DoH-Doms
+usproxy.nu!	Safelist-DoH-Doms
+3x.nz!	Safelist-DoH-Doms
+one.one.one.one!	Safelist-DoH-Doms
+proxysite.one!	Safelist-DoH-Doms
+stargate.one!	Safelist-DoH-Doms
+unblockit.one!	Safelist-DoH-Doms
+speedproxy.online!	Safelist-DoH-Doms
+unblockwebsite.online!	Safelist-DoH-Doms
+airvpn.org!	Safelist-DoH-Doms
+serverfriend.altervista.org!	Safelist-DoH-Doms
+anonymouse.org!	Safelist-DoH-Doms
+anonymousvpn.org!	Safelist-DoH-Doms
+tails.boum.org!	Safelist-DoH-Doms
+bromite.org!	Safelist-DoH-Doms
+cantblockthis.org!	Safelist-DoH-Doms
+adult-filter-dns.cleanbrowsing.org!	Safelist-DoH-Doms
+doh.cleanbrowsing.org!	Safelist-DoH-Doms
+family-filter-dns.cleanbrowsing.org!	Safelist-DoH-Doms
+security-filter-dns.cleanbrowsing.org!	Safelist-DoH-Doms
+crazyproxy.org!	Safelist-DoH-Doms
+dohjs.org!	Safelist-DoH-Doms
+freevpn.org!	Safelist-DoH-Doms
+getfoxyproxy.org!	Safelist-DoH-Doms
+hidenseek.org!	Safelist-DoH-Doms
+hola.org!	Safelist-DoH-Doms
+ininja.org!	Safelist-DoH-Doms
+ipredia.org!	Safelist-DoH-Doms
+doh.libredns.org!	Safelist-DoH-Doms
+vpn.mozilla.org!	Safelist-DoH-Doms
+dns.neutopia.org!	Safelist-DoH-Doms
+dnstls.neutopia.org!	Safelist-DoH-Doms
+parrotsec.org!	Safelist-DoH-Doms
+polippix.org!	Safelist-DoH-Doms
+doh.powerdns.org!	Safelist-DoH-Doms
+privacy-cd.org!	Safelist-DoH-Doms
+proxy.org!	Safelist-DoH-Doms
+proxyunblocker.org!	Safelist-DoH-Doms
+radmin-vpn.org!	Safelist-DoH-Doms
+rumpelsepp.org!	Safelist-DoH-Doms
+secretproxy.org!	Safelist-DoH-Doms
+fi.doh.dns.snopyta.org!	Safelist-DoH-Doms
+spidervpn.org!	Safelist-DoH-Doms
+sporium.org!	Safelist-DoH-Doms
+sslpro.org!	Safelist-DoH-Doms
+sslproxies.org!	Safelist-DoH-Doms
+doh.tiarap.org!	Safelist-DoH-Doms
+jp.tiarap.org!	Safelist-DoH-Doms
+torproject.org!	Safelist-DoH-Doms
+turbohide.org!	Safelist-DoH-Doms
+unicast.uncensoreddns.org!	Safelist-DoH-Doms
+us-proxy.org!	Safelist-DoH-Doms
+whonix.org!	Safelist-DoH-Doms
+onion.pet!	Safelist-DoH-Doms
+1freeproxy.pw!	Safelist-DoH-Doms
+proxy.eti.pw!	Safelist-DoH-Doms
+franceproxy.pw!	Safelist-DoH-Doms
+proxys.pw!	Safelist-DoH-Doms
+croxyproxy.rocks!	Safelist-DoH-Doms
+dns.sb!	Safelist-DoH-Doms
+eu.doh.sb!	Safelist-DoH-Doms
+onion.sh!	Safelist-DoH-Doms
+proxy.sh!	Safelist-DoH-Doms
+privacydns.go6lab.si!	Safelist-DoH-Doms
+bumblebee.site!	Safelist-DoH-Doms
+firstcontact.site!	Safelist-DoH-Doms
+hiddendragon.site!	Safelist-DoH-Doms
+lookingglass.site!	Safelist-DoH-Doms
+mycelium.site!	Safelist-DoH-Doms
+proxyunblock.site!	Safelist-DoH-Doms
+rabbithole.site!	Safelist-DoH-Doms
+starrynight.site!	Safelist-DoH-Doms
+dee.su!	Safelist-DoH-Doms
+doh.crypto.sx!	Safelist-DoH-Doms
+doh-ipv6.crypto.sx!	Safelist-DoH-Doms
+darknet.to!	Safelist-DoH-Doms
+onion.to!	Safelist-DoH-Doms
+webproxy.to!	Safelist-DoH-Doms
+2ub.top!	Safelist-DoH-Doms
+proxypremium.top!	Safelist-DoH-Doms
+proxyserverlist24.top!	Safelist-DoH-Doms
+proxysite.top!	Safelist-DoH-Doms
+dns.twnic.tw!	Safelist-DoH-Doms
+englandproxy.co.uk!	Safelist-DoH-Doms
+hidemyass.co.uk!	Safelist-DoH-Doms
+justproxy.co.uk!	Safelist-DoH-Doms
+proxay.co.uk!	Safelist-DoH-Doms
+quickproxy.co.uk!	Safelist-DoH-Doms
+aa.net.uk!	Safelist-DoH-Doms
+doh.netweaver.uk!	Safelist-DoH-Doms
+bypasser.us!	Safelist-DoH-Doms
+defilter.us!	Safelist-DoH-Doms
+dontfilter.us!	Safelist-DoH-Doms
+dzhot.us!	Safelist-DoH-Doms
+hidebuzz.us!	Safelist-DoH-Doms
+rapidproxy.us!	Safelist-DoH-Doms
+unblocker.us!	Safelist-DoH-Doms
+unblockwebsites.us!	Safelist-DoH-Doms
+proxysite.video!	Safelist-DoH-Doms
+unblockyoutube.video!	Safelist-DoH-Doms
+freeproxy.win!	Safelist-DoH-Doms
+dns.brahma.world!	Safelist-DoH-Doms
+onion.ws!	Safelist-DoH-Doms
+wonderland.ws!	Safelist-DoH-Doms
+geckovpn.xyz!	Safelist-DoH-Doms
+jp.gridns.xyz!	Safelist-DoH-Doms
+sg.gridns.xyz!	Safelist-DoH-Doms
+ninjaweb.xyz!	Safelist-DoH-Doms
+dns.nixnet.xyz!	Safelist-DoH-Doms
+lux1.nixnet.xyz!	Safelist-DoH-Doms
+lv1.nixnet.xyz!	Safelist-DoH-Doms
+ny1.nixnet.xyz!	Safelist-DoH-Doms
+pinkproxy.xyz!	Safelist-DoH-Doms
+webunblocker.xyz!	Safelist-DoH-Doms
+freevpn.zone!	Safelist-DoH-Doms
+### BLACKLIST REGEXES ###
+### BLACKLIST DOMAINS ###
+eu1.dns.lavate.ch	DibDotDom
+us1.dns.lavate.ch	DibDotDom
+dns.switch.ch	DibDotDom
+dns.onp.cloud	DibDotDom
+doh.360.cn	DibDotDom
+dns.tuna.tsinghua.edu.cn	DibDotDom
+dns.alidns.com	DibDotDom
+dns.arapurayil.com	DibDotDom
+doh-sg.blahdns.com	DibDotDom
+free.bravedns.com	DibDotDom
+freedns.controld.com	DibDotDom
+dns.decloudus.com	DibDotDom
+dns.islandnet.com	DibDotDom
+dns.eu-frankfurt-1.oraclecloud.com	DibDotDom
+dns.uk-london-1.oraclecloud.com	DibDotDom
+dns.us-ashburn-1.oraclecloud.com	DibDotDom
+dns.us-phoenix-1.oraclecloud.com	DibDotDom
+doh.pi-dns.com	DibDotDom
+doh.eastas.pi-dns.com	DibDotDom
+doh.eastau.pi-dns.com	DibDotDom
+hydra.plan9-ns1.com	DibDotDom
+draco.plan9-ns2.com	DibDotDom
+dns.api.rackspacecloud.com	DibDotDom
+rethinkdns.com	DibDotDom
+dns1.ryan-palmer.com	DibDotDom
+doh-01.spectrum.com	DibDotDom
+doh-02.spectrum.com	DibDotDom
+dns.dnshome.de	DibDotDom
+dns.telekom.de	DibDotDom
+doh.ibr.cs.tu-bs.de	DibDotDom
+dns.cloudfiction.eu	DibDotDom
+doh.bortzmeyer.fr	DibDotDom
+asia.dnscepat.id	DibDotDom
+doh.doh.my.id	DibDotDom
+doh.kutu.my.id	DibDotDom
+id.terra.my.id	DibDotDom
+doh.this.web.id	DibDotDom
+dns.api.integration.globuscs.info	DibDotDom
+dns.api.sandbox.globuscs.info	DibDotDom
+dns.api.staging.globuscs.info	DibDotDom
+dns.api.test.globuscs.info	DibDotDom
+doh.qis.io	DibDotDom
+doh.au.ahadns.net	DibDotDom
+doh.chi.ahadns.net	DibDotDom
+doh.es.ahadns.net	DibDotDom
+doh.in.ahadns.net	DibDotDom
+doh.it.ahadns.net	DibDotDom
+doh.la.ahadns.net	DibDotDom
+doh.nl.ahadns.net	DibDotDom
+doh.no.ahadns.net	DibDotDom
+doh.ny.ahadns.net	DibDotDom
+doh.pl.ahadns.net	DibDotDom
+dnses.alekberg.net	DibDotDom
+dnsnl.alekberg.net	DibDotDom
+dns.cfiec.net	DibDotDom
+jit.ddns.net	DibDotDom
+dns.beta.gandi.net	DibDotDom
+dns.moulticast.net	DibDotDom
+adfree.usableprivacy.net	DibDotDom
+dns.edgy.network	DibDotDom
+freedom.mydns.network	DibDotDom
+meganerd.nl	DibDotDom
+dns.comss.one	DibDotDom
+dns.east.comss.one	DibDotDom
+dns.blokada.org	DibDotDom
+dns.api.globus.org	DibDotDom
+dns.api.preview.globus.org	DibDotDom
+doh.linuxsec.org	DibDotDom
+dns.pub	DibDotDom
+doh.pub	DibDotDom
+dns.post-factum.tk	DibDotDom
+doh.post-factum.tk	DibDotDom
+doh.ntu.ssooss.win	DibDotDom
+dns.wugui.zone	DibDotDom
+dns-asia.wugui.zone	DibDotDom
+### BLACKLIST ASN ###
+### BLACKLIST IPv4 ###
+1.0.0.0/24	DoH-IPs
+1.1.1.0/24	DoH-IPs
+1.32.247.83/32	DoH-IPs
+1.33.184.92/32	DoH-IPs
+1.33.184.95/32	DoH-IPs
+1.33.184.104/31	DoH-IPs
+1.33.184.118/32	DoH-IPs
+1.33.184.148/32	DoH-IPs
+1.33.184.156/32	DoH-IPs
+1.33.184.173/32	DoH-IPs
+1.33.184.176/32	DoH-IPs
+1.33.184.188/32	DoH-IPs
+1.33.184.194/32	DoH-IPs
+1.33.184.219/32	DoH-IPs
+1.33.184.224/32	DoH-IPs
+1.33.184.229/32	DoH-IPs
+1.33.184.238/32	DoH-IPs
+1.33.184.243/32	DoH-IPs
+1.33.184.245/32	DoH-IPs
+1.33.184.247/32	DoH-IPs
+1.36.31.56/32	Chris-DoH
+1.88.34.40/32	Chris-DoH
+1.134.102.35/32	Chris-DoH
+1.249.247.48/32	Chris-DoH
+2.228.121.163/32	DoH-IPs
+3.7.156.128/32	Chris-DoH
+3.7.176.123/32	DibDot4, Chris-DoH
+3.64.200.242/32	Chris-DoH
+3.67.153.12/32	Chris-DoH
+3.210.21.33/32	DoH-IPs
+3.215.180.22/32	DibDot4, Chris-DoH
+3.223.115.185/32	DoH-IPs
+3.223.196.37/32	DoH-IPs
+3.234.254.90/32	DibDot4, Chris-DoH
+3.238.163.156/32	DibDot4, Chris-DoH
+4.2.2.1/32	DoH-IPs
+4.2.2.2/31	DoH-IPs
+4.2.2.6/32	DoH-IPs
+5.1.66.255/32	DibDot4, Chris-DoH, DoH-IPs
+5.2.75.75/32	DibDot4, Chris-DoH, DoH-IPs
+5.2.75.231/32	Chris-DoH
+5.9.172.92/32	DoH-IPs
+5.45.107.88/32	DibDot4, Chris-DoH, DoH-IPs
+5.58.74.133/32	DoH-IPs
+5.79.69.233/32	DoH-IPs
+5.83.92.254/32	DoH-IPs
+5.133.40.77/32	DoH-IPs
+5.135.136.95/32	DoH-IPs
+5.145.112.38/31	DoH-IPs
+5.196.123.133/32	DoH-IPs
+5.200.200.200/32	DoH-IPs
+8.0.6.0/32	DoH-IPs
+8.0.7.0/32	DoH-IPs
+8.8.4.4/32	DibDot4, Chris-DoH, DoH-IPs
+8.8.8.8/32	DibDot4, Chris-DoH, DoH-IPs
+8.20.247.2/32	Chris-DoH
+8.20.247.20/32	Chris-DoH, DoH-IPs
+8.26.56.26/32	Chris-DoH
+9.9.9.9/32	DibDot4, Chris-DoH, DoH-IPs
+9.9.9.10/31	Chris-DoH, DoH-IPs
+12.127.17.72/32	DoH-IPs
+12.159.2.159/32	DibDot4, Chris-DoH
+13.32.181.121/32	DoH-IPs
+13.89.120.251/32	DibDot4, Chris-DoH, DoH-IPs
+14.63.217.213/32	DoH-IPs
+14.204.74.140/32	DoH-IPs
+17.248.145.4/30	DoH-IPs
+17.248.145.9/32	DoH-IPs
+17.248.145.10/32	DoH-IPs
+17.248.145.13/32	DoH-IPs
+17.248.145.14/32	DoH-IPs
+17.253.34.119/32	Chris-DoH
+17.253.34.247/32	Chris-DoH
+17.253.36.85/32	Chris-DoH
+17.253.36.215/32	Chris-DoH
+17.253.36.247/32	Chris-DoH
+17.253.52.119/32	DoH-IPs
+17.253.52.247/32	Chris-DoH, DoH-IPs
+17.253.54.119/32	DoH-IPs
+17.253.54.247/32	DoH-IPs
+17.253.56.85/32	DoH-IPs
+17.253.56.213/32	DoH-IPs
+18.218.111.100/32	DoH-IPs
+18.233.19.235/32	DibDot4, Chris-DoH
+20.86.163.119/32	Chris-DoH
+23.105.134.43/32	DoH-IPs
+23.105.171.66/32	DoH-IPs
+23.206.88.182/32	DoH-IPs
+23.226.236.13/32	DoH-IPs
+23.237.156.45/32	DoH-IPs
+24.96.80.122/32	DoH-IPs
+24.113.32.29/32	DoH-IPs
+24.113.32.30/32	DoH-IPs
+24.181.107.226/31	DoH-IPs
+24.181.107.229/32	DoH-IPs
+24.181.107.231/32	DoH-IPs
+24.229.250.113/32	DoH-IPs
+24.240.146.7/32	DibDot4, Chris-DoH
+24.240.146.8/32	DibDot4, Chris-DoH
+27.112.79.80/32	DibDot4, Chris-DoH
+27.123.22.82/32	DoH-IPs
+27.221.54.228/32	DoH-IPs
+31.24.200.4/32	DoH-IPs
+31.24.234.37/32	DoH-IPs
+31.47.196.210/31	DoH-IPs
+31.129.186.43/32	DoH-IPs
+31.132.2.120/32	DoH-IPs
+34.101.237.157/32	DibDot4, Chris-DoH
+34.102.244.91/32	DoH-IPs
+34.200.226.88/32	DibDot4, Chris-DoH
+34.202.245.212/32	DoH-IPs
+34.213.250.17/32	DoH-IPs
+34.217.14.68/32	DoH-IPs
+34.235.39.196/32	DibDot4, Chris-DoH
+34.237.164.103/32	DibDot4, Chris-DoH
+35.174.40.117/32	DibDot4, Chris-DoH
+35.186.238.101/32	DoH-IPs
+35.205.61.67/32	DoH-IPs
+35.209.13.136/32	DoH-IPs
+35.230.160.38/32	DibDot4, Chris-DoH, DoH-IPs
+35.231.114.170/32	DoH-IPs
+35.231.247.227/32	DibDot4, Chris-DoH, DoH-IPs
+35.237.220.84/32	DibDot4, Chris-DoH, DoH-IPs
+35.245.234.132/32	DibDot4, Chris-DoH, DoH-IPs
+36.248.26.205/32	DoH-IPs
+37.48.65.136/32	DoH-IPs
+37.48.65.144/32	DoH-IPs
+37.48.65.153/32	DoH-IPs
+37.48.120.196/32	DoH-IPs
+37.57.130.244/32	DoH-IPs
+37.111.49.182/32	DoH-IPs
+37.187.147.158/32	DoH-IPs
+37.228.129.102/32	DoH-IPs
+37.235.1.174/32	Chris-DoH, DoH-IPs
+37.235.1.177/32	Chris-DoH, DoH-IPs
+37.235.70.59/32	DoH-IPs
+37.252.230.153/32	Chris-DoH, DoH-IPs
+38.229.82.25/32	DoH-IPs
+40.76.112.230/32	DibDot4, Chris-DoH, DoH-IPs
+41.58.181.74/32	DoH-IPs
+41.231.30.138/32	DoH-IPs
+42.56.76.93/32	DoH-IPs
+42.116.255.180/32	DoH-IPs
+43.224.122.28/32	DoH-IPs
+43.227.12.72/32	DoH-IPs
+43.229.62.192/32	DoH-IPs
+43.242.166.88/32	DoH-IPs
+43.245.180.22/32	DoH-IPs
+44.235.246.155/32	DoH-IPs
+44.236.48.31/32	DoH-IPs
+44.236.72.93/32	DoH-IPs
+45.11.45.11/32	Chris-DoH, DoH-IPs
+45.15.16.5/32	DoH-IPs
+45.33.2.79/32	DoH-IPs
+45.33.18.44/32	DoH-IPs
+45.33.20.235/32	DoH-IPs
+45.33.23.183/32	DoH-IPs
+45.33.30.197/32	DoH-IPs
+45.33.65.111/32	DoH-IPs
+45.33.97.5/32	DoH-IPs
+45.55.100.172/32	DoH-IPs
+45.56.79.23/32	DoH-IPs
+45.63.30.163/32	DibDot4, Chris-DoH
+45.63.42.37/32	DoH-IPs
+45.63.110.187/32	DibDot4, Chris-DoH
+45.67.219.208/32	DibDot4, Chris-DoH, DoH-IPs
+45.76.113.31/32	DibDot4, Chris-DoH, DoH-IPs
+45.79.19.196/32	DoH-IPs
+45.79.120.233/32	DibDot4, Chris-DoH
+45.79.188.212/32	DoH-IPs
+45.83.220.101/32	DoH-IPs
+45.88.202.111/32	DoH-IPs
+45.90.28.0/23	Chris-DoH, DoH-IPs
+45.90.30.0/24	Chris-DoH, DoH-IPs
+45.91.92.121/32	DibDot4, Chris-DoH, DoH-IPs
+45.91.95.12/32	DibDot4, Chris-DoH
+45.132.74.167/32	DibDot4, Chris-DoH
+45.132.75.16/32	DibDot4, Chris-DoH
+45.133.105.123/32	DoH-IPs
+45.141.180.147/32	DoH-IPs
+45.153.187.96/32	DibDot4, Chris-DoH, DoH-IPs
+45.173.200.10/32	DoH-IPs
+45.248.197.53/32	DoH-IPs
+45.250.253.222/32	DoH-IPs
+46.4.29.2/32	DoH-IPs
+46.10.205.252/32	DoH-IPs
+46.16.229.223/32	DoH-IPs
+46.20.67.50/32	DoH-IPs
+46.101.66.244/32	DibDot4, Chris-DoH, DoH-IPs
+46.101.150.38/32	DoH-IPs
+46.101.215.156/32	DoH-IPs
+46.165.240.186/32	DoH-IPs
+46.173.34.32/32	DoH-IPs
+46.224.1.43/32	DoH-IPs
+46.226.108.173/32	DibDot4, Chris-DoH, DoH-IPs
+46.226.109.82/32	DibDot4, Chris-DoH, DoH-IPs
+46.227.67.134/32	DoH-IPs
+46.227.200.13/32	DoH-IPs
+46.227.200.52/32	Chris-DoH
+46.227.200.54/31	Chris-DoH, DoH-IPs
+46.227.203.52/32	Chris-DoH
+46.227.207.52/32	Chris-DoH
+46.231.210.26/32	DoH-IPs
+46.239.223.80/32	DibDot4, Chris-DoH, DoH-IPs
+49.0.184.30/32	DoH-IPs
+50.97.72.192/32	DoH-IPs
+50.116.84.118/32	DoH-IPs
+50.116.114.85/32	DoH-IPs
+50.194.130.97/32	DoH-IPs
+51.15.70.167/32	Chris-DoH
+51.15.124.208/32	DibDot4, Chris-DoH
+51.15.237.255/32	DoH-IPs
+51.38.82.198/32	Chris-DoH
+51.38.83.141/32	DibDot4, Chris-DoH, DoH-IPs
+51.68.34.195/32	DoH-IPs
+51.79.178.45/32	DoH-IPs
+51.83.238.32/32	DoH-IPs
+51.89.39.2/32	DoH-IPs
+51.89.88.77/32	DoH-IPs
+51.91.152.156/32	DoH-IPs
+51.158.147.50/32	DibDot4, Chris-DoH, DoH-IPs
+51.161.118.148/32	DoH-IPs
+51.161.131.37/32	DoH-IPs
+51.178.92.105/32	DoH-IPs
+51.195.100.161/32	DoH-IPs
+51.254.25.115/32	DoH-IPs
+52.3.100.184/32	Chris-DoH, DoH-IPs
+52.20.174.18/32	DibDot4, Chris-DoH
+52.45.106.116/32	DoH-IPs
+52.58.78.16/32	DoH-IPs
+52.70.232.188/32	DoH-IPs
+52.80.52.52/32	Chris-DoH
+52.80.66.66/32	Chris-DoH
+52.200.107.192/32	DoH-IPs
+52.204.10.149/32	DoH-IPs
+52.222.139.23/32	DoH-IPs
+52.222.139.45/32	DoH-IPs
+52.222.139.106/32	DoH-IPs
+52.222.139.110/32	DoH-IPs
+54.145.74.221/32	DoH-IPs
+54.174.40.213/32	Chris-DoH
+54.225.121.9/32	DoH-IPs
+54.247.96.113/32	DoH-IPs
+58.217.200.35/32	Chris-DoH
+59.80.39.110/32	DoH-IPs
+59.83.204.12/32	DoH-IPs
+59.124.30.28/32	DoH-IPs
+59.124.69.205/32	DoH-IPs
+59.124.72.210/32	DoH-IPs
+59.124.195.5/32	DoH-IPs
+59.125.182.149/32	DoH-IPs
+59.148.213.230/32	DoH-IPs
+59.148.249.214/32	DoH-IPs
+59.148.250.34/32	DoH-IPs
+59.188.74.1/32	DoH-IPs
+60.32.151.210/32	DoH-IPs
+60.190.116.35/32	DoH-IPs
+60.244.115.166/32	DoH-IPs
+60.248.139.169/32	DoH-IPs
+60.250.174.244/32	DoH-IPs
+61.93.221.46/32	DoH-IPs
+61.120.59.210/32	DoH-IPs
+62.2.121.88/32	DoH-IPs
+62.2.174.133/32	DoH-IPs
+62.37.225.56/31	DoH-IPs
+62.48.241.226/31	DoH-IPs
+62.76.76.62/32	DoH-IPs
+62.77.202.25/32	DoH-IPs
+62.81.238.230/32	DoH-IPs
+62.82.213.91/32	DoH-IPs
+62.86.183.222/32	DoH-IPs
+62.91.19.67/32	DoH-IPs
+62.94.0.42/32	DoH-IPs
+62.97.123.106/31	DoH-IPs
+62.97.223.62/32	DoH-IPs
+62.134.11.4/32	DoH-IPs
+62.138.11.6/32	DoH-IPs
+62.140.239.1/32	DoH-IPs
+62.149.132.2/32	DoH-IPs
+62.212.113.125/32	DoH-IPs
+62.225.102.177/32	DoH-IPs
+62.233.128.17/32	DoH-IPs
+62.244.95.208/32	DoH-IPs
+63.105.204.164/32	DoH-IPs
+63.143.32.94/32	DoH-IPs
+63.171.232.38/32	DoH-IPs
+63.246.63.142/32	DoH-IPs
+64.6.64.6/32	Chris-DoH
+64.6.65.6/32	Chris-DoH, DoH-IPs
+64.32.8.70/32	DoH-IPs
+64.37.50.171/32	DoH-IPs
+64.80.255.251/32	DoH-IPs
+64.94.1.33/32	DoH-IPs
+64.95.128.197/32	DoH-IPs
+64.95.128.199/32	DoH-IPs
+64.128.251.228/32	DoH-IPs
+64.190.62.111/32	DoH-IPs
+64.212.106.85/32	DoH-IPs
+64.233.217.2/32	DoH-IPs
+64.238.96.12/32	DoH-IPs
+65.39.139.53/32	DoH-IPs
+65.48.229.96/32	DoH-IPs
+65.49.37.195/32	DoH-IPs
+65.60.7.43/32	DoH-IPs
+65.75.137.45/32	DoH-IPs
+65.111.169.159/32	DoH-IPs
+65.111.169.164/32	DoH-IPs
+66.18.240.197/32	DoH-IPs
+66.28.0.45/32	DoH-IPs
+66.28.0.61/32	DoH-IPs
+66.42.33.135/32	DibDot4, Chris-DoH
+66.70.178.56/32	DoH-IPs
+66.96.229.59/32	DoH-IPs
+66.109.229.4/32	DoH-IPs
+66.109.229.6/32	DoH-IPs
+66.163.0.161/32	DoH-IPs
+66.163.0.173/32	DoH-IPs
+66.181.167.232/32	DoH-IPs
+66.199.45.225/32	DoH-IPs
+66.199.241.115/32	DoH-IPs
+66.232.139.10/32	DoH-IPs
+66.242.160.6/32	DoH-IPs
+66.254.123.116/32	DoH-IPs
+67.17.215.133/32	DoH-IPs
+67.96.21.28/32	Chris-DoH
+67.205.167.66/32	DoH-IPs
+67.207.70.111/32	DoH-IPs
+67.227.226.240/31	DoH-IPs
+68.65.122.154/32	DoH-IPs
+68.87.64.146/32	DoH-IPs
+68.87.68.162/32	DoH-IPs
+68.87.72.130/32	DoH-IPs
+68.87.72.134/32	DoH-IPs
+68.87.73.242/32	DoH-IPs
+68.87.74.162/32	DoH-IPs
+68.87.74.166/32	DoH-IPs
+68.87.76.178/32	DoH-IPs
+68.87.76.182/32	DoH-IPs
+68.183.253.200/32	DibDot4, Chris-DoH
+69.1.1.251/32	DoH-IPs
+69.7.192.2/32	DoH-IPs
+69.16.132.4/32	DoH-IPs
+69.16.145.224/32	DoH-IPs
+69.16.230.42/32	DoH-IPs
+69.16.231.61/32	DoH-IPs
+69.20.35.234/31	Chris-DoH
+69.24.197.9/32	DoH-IPs
+69.28.104.5/32	DoH-IPs
+69.60.160.196/32	DoH-IPs
+69.60.160.203/32	DoH-IPs
+69.63.73.141/32	DoH-IPs
+69.64.52.22/32	DoH-IPs
+69.64.54.126/32	DoH-IPs
+69.67.97.18/32	DoH-IPs
+69.160.4.206/32	DoH-IPs
+69.162.67.202/32	DoH-IPs
+69.169.190.211/32	DoH-IPs
+70.88.112.101/32	DoH-IPs
+70.90.140.130/32	DoH-IPs
+70.122.22.216/32	Chris-DoH
+72.14.178.174/32	DoH-IPs
+72.14.185.43/32	DoH-IPs
+72.34.38.11/32	Chris-DoH
+72.51.45.191/32	DoH-IPs
+72.52.178.23/32	DoH-IPs
+74.50.211.86/32	DoH-IPs
+74.82.42.42/32	DibDot4, Chris-DoH, DoH-IPs
+74.93.247.57/32	DoH-IPs
+74.120.24.97/32	DoH-IPs
+74.120.24.129/32	DoH-IPs
+74.208.236.105/32	DoH-IPs
+75.75.0.0/16	DoH-IPs
+75.148.63.125/32	DoH-IPs
+76.72.248.34/32	DoH-IPs
+76.76.0.0/23	DoH-IPs
+76.76.2.0/30	Chris-DoH, DoH-IPs
+76.76.2.11/32	DibDot4, Chris-DoH
+77.42.130.37/32	DoH-IPs
+77.88.8.1/32	Chris-DoH, DoH-IPs
+77.88.8.2/31	Chris-DoH, DoH-IPs
+77.88.8.7/32	Chris-DoH, DoH-IPs
+77.88.8.8/32	Chris-DoH
+77.88.8.78/32	Chris-DoH
+77.88.8.88/32	Chris-DoH, DoH-IPs
+77.111.247.16/32	DoH-IPs
+77.111.247.18/32	DoH-IPs
+78.38.117.206/32	DoH-IPs
+78.46.244.143/32	DibDot4, Chris-DoH, DoH-IPs
+78.47.64.161/32	Chris-DoH
+78.47.243.3/32	DoH-IPs
+78.100.99.171/32	DoH-IPs
+78.130.39.189/32	DoH-IPs
+78.156.159.132/32	DoH-IPs
+78.159.43.189/32	DoH-IPs
+79.110.170.43/32	DibDot4, Chris-DoH
+79.141.82.250/32	DoH-IPs
+79.143.180.116/32	DoH-IPs
+79.187.201.179/32	DoH-IPs
+79.187.201.181/32	DoH-IPs
+79.190.224.27/32	DoH-IPs
+80.66.120.34/32	DoH-IPs
+80.67.169.12/32	DoH-IPs
+80.67.169.40/32	DoH-IPs
+80.78.132.79/32	DoH-IPs
+80.80.80.80/32	Chris-DoH
+80.80.81.81/32	Chris-DoH
+80.83.162.11/32	DoH-IPs
+80.156.145.201/32	DibDot4, Chris-DoH, DoH-IPs
+80.179.155.145/32	DoH-IPs
+80.199.45.70/32	DoH-IPs
+80.228.63.124/32	DoH-IPs
+80.241.218.68/32	Chris-DoH
+80.254.77.39/32	DoH-IPs
+81.1.217.134/32	DoH-IPs
+81.4.110.32/32	DoH-IPs
+81.7.7.63/32	DoH-IPs
+81.17.31.34/32	DoH-IPs
+81.27.162.100/32	DoH-IPs
+81.83.28.206/32	DoH-IPs
+81.90.180.173/32	Chris-DoH
+81.138.71.238/32	DoH-IPs
+81.163.3.1/32	DoH-IPs
+81.171.26.34/31	DoH-IPs
+81.180.117.110/32	DoH-IPs
+81.187.221.24/32	Chris-DoH
+82.70.88.14/32	DoH-IPs
+82.96.65.2/32	DoH-IPs
+82.99.242.155/32	DoH-IPs
+82.141.136.2/32	DoH-IPs
+82.141.171.84/32	DoH-IPs
+82.146.26.2/32	DoH-IPs
+82.151.69.146/32	DoH-IPs
+82.196.2.74/32	DoH-IPs
+83.77.85.7/32	Chris-DoH
+83.103.36.213/32	DoH-IPs
+83.137.41.8/31	DoH-IPs
+83.145.86.7/32	DoH-IPs
+83.149.227.152/32	DoH-IPs
+83.170.202.226/32	DoH-IPs
+83.246.140.204/32	DoH-IPs
+84.8.2.11/32	DoH-IPs
+84.16.240.43/32	DoH-IPs
+84.51.27.194/32	DoH-IPs
+84.52.103.114/32	DoH-IPs
+84.96.26.129/32	DoH-IPs
+84.124.52.46/32	DoH-IPs
+84.200.69.80/32	Chris-DoH
+84.200.70.40/32	Chris-DoH
+84.236.142.130/32	DoH-IPs
+85.10.225.160/32	DoH-IPs
+85.18.52.172/32	DoH-IPs
+85.18.246.73/32	DoH-IPs
+85.93.13.181/32	DibDot4, Chris-DoH
+85.93.217.105/32	DoH-IPs
+85.132.32.41/32	DoH-IPs
+85.132.85.85/32	DoH-IPs
+85.175.46.130/32	DoH-IPs
+85.214.151.164/32	DoH-IPs
+85.255.157.162/32	DoH-IPs
+86.58.179.6/32	DoH-IPs
+86.102.30.109/32	DoH-IPs
+86.107.249.193/32	DoH-IPs
+87.23.196.161/32	DoH-IPs
+87.117.196.200/32	DoH-IPs
+87.213.100.113/32	DoH-IPs
+87.215.134.201/32	DoH-IPs
+87.254.34.102/32	DoH-IPs
+88.80.64.8/32	DoH-IPs
+88.147.145.98/32	DoH-IPs
+88.151.140.202/32	DoH-IPs
+88.198.91.187/32	DibDot4, Chris-DoH, DoH-IPs
+88.198.92.222/32	Chris-DoH
+88.198.231.1/32	DoH-IPs
+88.208.211.65/32	DoH-IPs
+89.17.194.43/32	DoH-IPs
+89.29.128.250/32	DoH-IPs
+89.45.227.53/32	DoH-IPs
+89.106.109.235/32	DoH-IPs
+89.113.0.68/32	DoH-IPs
+89.187.189.184/32	Chris-DoH
+89.211.53.228/32	DoH-IPs
+89.221.2.168/32	DoH-IPs
+89.233.43.71/32	Chris-DoH, DoH-IPs
+89.234.141.66/32	DoH-IPs
+89.234.186.112/32	Chris-DoH, DoH-IPs
+89.235.136.61/32	DoH-IPs
+89.236.217.93/32	DoH-IPs
+90.155.62.13/32	DoH-IPs
+90.155.62.14/32	DoH-IPs
+90.183.151.106/31	DoH-IPs
+90.188.10.193/32	DoH-IPs
+91.112.103.26/32	DoH-IPs
+91.122.77.189/32	DoH-IPs
+91.134.109.169/32	DoH-IPs
+91.137.135.75/32	DoH-IPs
+91.183.238.145/32	DoH-IPs
+91.185.6.10/32	DoH-IPs
+91.186.192.3/32	DoH-IPs
+91.196.124.39/32	DoH-IPs
+91.200.116.21/32	DoH-IPs
+91.200.227.141/32	DoH-IPs
+91.203.177.216/32	DoH-IPs
+91.205.3.65/32	DoH-IPs
+91.208.193.1/32	DoH-IPs
+91.229.232.57/32	DoH-IPs
+91.229.232.81/32	DoH-IPs
+91.230.211.67/32	DibDot4, Chris-DoH
+91.239.96.35/32	Chris-DoH, DoH-IPs
+91.239.100.100/32	Chris-DoH, DoH-IPs
+91.239.207.90/32	DoH-IPs
+92.38.152.163/32	Chris-DoH, DoH-IPs
+92.223.65.71/32	DibDot4, Chris-DoH, DoH-IPs
+92.223.109.31/32	DibDot4, Chris-DoH, DoH-IPs
+92.247.24.30/32	DoH-IPs
+93.62.200.35/32	DoH-IPs
+93.63.229.132/32	DoH-IPs
+93.91.140.127/32	DoH-IPs
+93.91.145.230/32	DoH-IPs
+93.115.24.204/31	Summarized: 93.115.24.204/32, 93.115.24.205/32
+93.115.28.104/32	DoH-IPs
+93.174.123.24/32	DoH-IPs
+93.189.61.195/32	DoH-IPs
+94.16.114.254/32	DoH-IPs
+94.46.40.18/32	DoH-IPs
+94.130.106.88/32	Chris-DoH
+94.130.110.178/32	Chris-DoH, DoH-IPs
+94.130.110.185/32	Chris-DoH, DoH-IPs
+94.130.180.225/32	Chris-DoH
+94.140.14.0/23	Chris-DoH, DoH-IPs
+94.158.96.2/32	DoH-IPs
+94.176.233.93/32	Chris-DoH, DoH-IPs
+94.236.218.254/32	DoH-IPs
+94.237.80.211/32	DibDot4, Chris-DoH, DoH-IPs
+94.247.43.254/32	DoH-IPs
+95.142.83.43/32	DoH-IPs
+95.158.129.2/32	DoH-IPs
+95.179.134.211/32	DibDot4, DoH-IPs
+95.179.152.69/32	DibDot4, Chris-DoH
+95.211.194.55/32	DoH-IPs
+95.216.24.230/32	Chris-DoH
+95.216.25.250/32	DoH-IPs
+95.216.163.36/32	DoH-IPs
+95.216.165.29/32	Chris-DoH, DoH-IPs
+95.216.181.228/32	DibDot4, Chris-DoH, DoH-IPs
+95.216.192.253/32	Chris-DoH, DoH-IPs
+95.216.212.177/32	Chris-DoH, DoH-IPs
+95.216.229.153/32	DibDot4, Chris-DoH, DoH-IPs
+95.217.25.217/32	DibDot4, Chris-DoH
+95.217.213.94/32	Chris-DoH
+95.217.229.211/32	DoH-IPs
+96.47.230.70/32	DoH-IPs
+96.113.151.145/32	Chris-DoH, DoH-IPs
+96.113.151.147/32	Chris-DoH, DoH-IPs
+96.113.151.148/31	Chris-DoH, DoH-IPs
+96.113.151.150/32	Chris-DoH, DoH-IPs
+96.126.123.244/32	DoH-IPs
+98.101.120.225/32	DoH-IPs
+99.83.154.118/32	DoH-IPs
+99.192.182.100/31	Chris-DoH, DoH-IPs
+99.192.182.200/31	Chris-DoH, DoH-IPs
+101.6.6.6/32	DibDot4, Chris-DoH
+101.101.101.101/32	DibDot4, Chris-DoH, DoH-IPs
+101.102.103.104/32	DibDot4, Chris-DoH, DoH-IPs
+101.198.191.4/32	DibDot4
+101.198.192.33/32	Chris-DoH
+101.226.4.6/32	Chris-DoH
+101.255.56.249/32	DoH-IPs
+103.2.57.5/32	DibDot4, Chris-DoH, DoH-IPs
+103.2.57.6/32	DibDot4, Chris-DoH, DoH-IPs
+103.3.75.90/32	DoH-IPs
+103.3.75.102/32	DoH-IPs
+103.23.22.143/32	DoH-IPs
+103.23.150.89/32	DoH-IPs
+103.30.244.89/32	DoH-IPs
+103.30.245.73/32	DoH-IPs
+103.30.247.73/32	DoH-IPs
+103.73.64.132/32	DibDot4, Chris-DoH
+103.85.15.60/32	DibDot4, Chris-DoH
+103.85.104.23/32	DoH-IPs
+103.85.104.36/32	DoH-IPs
+103.85.104.38/32	DoH-IPs
+103.85.104.42/32	DoH-IPs
+103.85.105.210/32	DoH-IPs
+103.85.107.100/31	DoH-IPs
+103.86.96.100/32	DoH-IPs
+103.86.99.100/32	DoH-IPs
+103.116.159.150/32	DoH-IPs
+103.121.228.1/32	DoH-IPs
+103.123.108.188/32	DoH-IPs
+103.123.226.10/32	DoH-IPs
+103.141.96.39/32	DoH-IPs
+103.154.241.252/32	DoH-IPs
+103.198.131.226/32	DoH-IPs
+103.203.133.66/32	DoH-IPs
+103.224.182.238/32	DoH-IPs
+103.224.182.240/32	DoH-IPs
+103.224.182.242/32	DoH-IPs
+103.224.182.245/32	DoH-IPs
+103.224.182.250/31	DoH-IPs
+103.224.212.219/32	DoH-IPs
+103.224.212.221/32	DoH-IPs
+103.224.212.222/32	DoH-IPs
+103.226.174.4/32	DoH-IPs
+103.226.174.7/32	DoH-IPs
+103.232.35.101/32	DoH-IPs
+103.232.65.73/32	DoH-IPs
+103.244.159.82/32	DoH-IPs
+104.16.103.9/32	DoH-IPs
+104.16.132.229/32	DibDot4, Chris-DoH, DoH-IPs
+104.16.133.229/32	DibDot4, Chris-DoH, DoH-IPs
+104.16.248.249/32	DibDot4, Chris-DoH, DoH-IPs
+104.16.249.249/32	DibDot4, Chris-DoH, DoH-IPs
+104.17.49.74/32	DoH-IPs
+104.17.50.74/32	DoH-IPs
+104.17.154.236/32	DoH-IPs
+104.17.155.236/32	DoH-IPs
+104.18.4.95/32	DoH-IPs
+104.18.5.95/32	DoH-IPs
+104.18.26.211/32	Chris-DoH
+104.18.27.211/32	Chris-DoH
+104.18.109.96/32	DoH-IPs
+104.18.110.96/32	DoH-IPs
+104.18.199.99/32	DoH-IPs
+104.18.200.99/32	DoH-IPs
+104.18.209.237/32	DoH-IPs
+104.18.210.237/32	DoH-IPs
+104.18.212.220/32	DoH-IPs
+104.18.213.220/32	DoH-IPs
+104.18.227.47/32	DoH-IPs
+104.19.155.92/32	DoH-IPs
+104.20.74.194/32	DoH-IPs
+104.20.75.194/32	DoH-IPs
+104.20.88.240/32	DoH-IPs
+104.20.89.240/32	DoH-IPs
+104.20.174.77/32	DoH-IPs
+104.20.175.77/32	DoH-IPs
+104.20.204.46/32	DoH-IPs
+104.20.205.46/32	DoH-IPs
+104.21.1.115/32	DoH-IPs
+104.21.3.109/32	DoH-IPs
+104.21.3.186/32	DoH-IPs
+104.21.6.48/32	DoH-IPs
+104.21.6.78/32	DibDot4, Chris-DoH, DoH-IPs
+104.21.6.89/32	DoH-IPs
+104.21.7.52/32	DoH-IPs
+104.21.7.61/32	DoH-IPs
+104.21.7.97/32	DoH-IPs
+104.21.7.145/32	DoH-IPs
+104.21.8.81/32	DoH-IPs
+104.21.8.194/32	DoH-IPs
+104.21.8.239/32	DoH-IPs
+104.21.9.25/32	DoH-IPs
+104.21.9.36/32	DoH-IPs
+104.21.9.151/32	DoH-IPs
+104.21.9.175/32	DoH-IPs
+104.21.10.180/32	DoH-IPs
+104.21.13.53/32	DibDot4, Chris-DoH
+104.21.14.131/32	DoH-IPs
+104.21.15.49/32	DoH-IPs
+104.21.15.239/32	DoH-IPs
+104.21.20.12/32	DoH-IPs
+104.21.20.50/32	DoH-IPs
+104.21.21.4/32	DoH-IPs
+104.21.22.31/32	DoH-IPs
+104.21.22.243/32	DibDot4, Chris-DoH, DoH-IPs
+104.21.24.110/31	DoH-IPs
+104.21.27.10/32	DoH-IPs
+104.21.28.14/32	DoH-IPs
+104.21.29.185/32	DoH-IPs
+104.21.30.114/32	DoH-IPs
+104.21.30.162/32	Chris-DoH, DoH-IPs
+104.21.32.55/32	DoH-IPs
+104.21.35.35/32	DoH-IPs
+104.21.36.62/32	DoH-IPs
+104.21.37.12/32	DoH-IPs
+104.21.39.136/32	DoH-IPs
+104.21.39.240/32	DoH-IPs
+104.21.43.13/32	DoH-IPs
+104.21.43.32/32	DoH-IPs
+104.21.43.90/32	DoH-IPs
+104.21.44.226/32	DoH-IPs
+104.21.46.53/32	DoH-IPs
+104.21.47.211/32	DoH-IPs
+104.21.49.234/32	DibDot4, Chris-DoH
+104.21.51.90/32	DibDot4, Chris-DoH
+104.21.52.8/32	DoH-IPs
+104.21.54.80/32	DoH-IPs
+104.21.54.218/32	DoH-IPs
+104.21.55.225/32	DoH-IPs
+104.21.58.2/32	DoH-IPs
+104.21.58.151/32	DoH-IPs
+104.21.58.204/32	DoH-IPs
+104.21.59.197/32	DibDot4, Chris-DoH
+104.21.62.122/32	DoH-IPs
+104.21.64.64/32	DoH-IPs
+104.21.65.60/32	DibDot4
+104.21.68.104/32	DoH-IPs
+104.21.68.120/32	DoH-IPs
+104.21.69.36/32	DoH-IPs
+104.21.70.237/32	DoH-IPs
+104.21.71.134/32	DibDot4, Chris-DoH, DoH-IPs
+104.21.71.152/32	DoH-IPs
+104.21.73.241/32	DoH-IPs
+104.21.74.27/32	DoH-IPs
+104.21.75.231/32	DoH-IPs
+104.21.78.70/32	DoH-IPs
+104.21.79.241/32	DoH-IPs
+104.21.80.203/32	DoH-IPs
+104.21.82.3/32	DoH-IPs
+104.21.82.247/32	DoH-IPs
+104.21.83.207/32	DoH-IPs
+104.21.85.239/32	DoH-IPs
+104.21.86.49/32	DoH-IPs
+104.21.86.202/32	DoH-IPs
+104.21.86.228/32	DoH-IPs
+104.21.87.233/32	DoH-IPs
+104.21.88.223/32	DoH-IPs
+104.21.89.15/32	DoH-IPs
+104.21.89.153/32	DoH-IPs
+104.21.91.71/32	DoH-IPs
+104.21.91.105/32	Chris-DoH, DoH-IPs
+104.21.91.129/32	DoH-IPs
+104.21.93.143/32	DoH-IPs
+104.21.93.204/32	DoH-IPs
+104.21.95.77/32	DoH-IPs
+104.21.95.250/32	DoH-IPs
+104.21.234.4/31	DoH-IPs
+104.21.234.80/31	DoH-IPs
+104.21.235.3/32	DoH-IPs
+104.21.235.4/32	DoH-IPs
+104.21.235.15/32	DoH-IPs
+104.21.235.16/32	DoH-IPs
+104.22.0.4/32	DoH-IPs
+104.22.0.68/32	DoH-IPs
+104.22.1.4/32	DoH-IPs
+104.22.1.68/32	DoH-IPs
+104.22.8.95/32	DoH-IPs
+104.22.9.95/32	DoH-IPs
+104.22.44.242/32	DoH-IPs
+104.22.45.242/32	DoH-IPs
+104.22.46.191/32	DoH-IPs
+104.22.47.191/32	DoH-IPs
+104.22.54.165/32	DoH-IPs
+104.22.55.165/32	DoH-IPs
+104.23.137.19/32	DoH-IPs
+104.23.138.19/32	DoH-IPs
+104.26.0.2/32	DoH-IPs
+104.26.0.50/32	DoH-IPs
+104.26.0.111/32	DoH-IPs
+104.26.0.206/32	DoH-IPs
+104.26.1.2/32	DoH-IPs
+104.26.1.50/32	DoH-IPs
+104.26.1.111/32	DoH-IPs
+104.26.1.206/32	DoH-IPs
+104.26.2.13/32	DoH-IPs
+104.26.2.204/32	DoH-IPs
+104.26.2.223/32	DoH-IPs
+104.26.3.13/32	DoH-IPs
+104.26.3.204/32	DoH-IPs
+104.26.3.223/32	DoH-IPs
+104.26.4.44/32	DoH-IPs
+104.26.4.174/32	DoH-IPs
+104.26.5.44/32	DoH-IPs
+104.26.5.174/32	DoH-IPs
+104.26.10.16/32	DoH-IPs
+104.26.10.53/32	DoH-IPs
+104.26.11.16/32	DoH-IPs
+104.26.11.53/32	DoH-IPs
+104.26.12.53/32	DoH-IPs
+104.26.12.83/32	DoH-IPs
+104.26.12.149/32	DoH-IPs
+104.26.13.53/32	DoH-IPs
+104.26.13.83/32	DoH-IPs
+104.26.13.149/32	DoH-IPs
+104.26.14.197/32	DoH-IPs
+104.26.15.197/32	DoH-IPs
+104.27.198.96/32	DoH-IPs
+104.27.199.96/32	DoH-IPs
+104.131.37.180/32	DoH-IPs
+104.143.9.110/31	DoH-IPs
+104.155.170.77/32	DoH-IPs
+104.155.237.225/32	Chris-DoH
+104.197.28.121/32	Chris-DoH
+104.200.22.130/32	DoH-IPs
+104.200.23.95/32	DoH-IPs
+104.207.128.56/32	DoH-IPs
+104.218.72.17/32	DoH-IPs
+104.225.218.50/32	DoH-IPs
+104.236.178.232/32	DibDot4, Chris-DoH, DoH-IPs
+104.243.45.178/32	DoH-IPs
+104.244.78.231/32	Chris-DoH, DoH-IPs
+104.247.81.132/31	DoH-IPs
+104.248.101.249/32	DoH-IPs
+105.30.247.93/32	DoH-IPs
+105.96.43.54/32	DoH-IPs
+106.15.249.204/32	DibDot4, Chris-DoH, DoH-IPs
+106.225.194.35/32	Chris-DoH
+106.240.228.50/32	DoH-IPs
+107.22.193.119/32	DoH-IPs
+107.154.84.207/32	DoH-IPs
+107.154.85.207/32	DoH-IPs
+107.155.78.242/32	DoH-IPs
+107.155.83.188/32	DoH-IPs
+107.189.165.30/32	DoH-IPs
+107.189.165.56/32	DoH-IPs
+107.191.99.102/32	DoH-IPs
+108.61.205.140/32	DoH-IPs
+108.179.34.214/32	DoH-IPs
+109.2.249.42/32	DoH-IPs
+109.7.126.78/32	DoH-IPs
+109.69.8.51/32	Chris-DoH
+109.70.132.17/32	DoH-IPs
+109.70.207.80/32	DoH-IPs
+109.71.42.228/32	DoH-IPs
+109.123.19.5/32	DoH-IPs
+109.168.43.86/32	DoH-IPs
+109.202.11.6/32	DoH-IPs
+109.228.25.186/32	DoH-IPs
+109.228.46.244/32	DoH-IPs
+109.234.248.8/32	DoH-IPs
+110.53.180.248/32	DoH-IPs
+110.172.55.126/32	DoH-IPs
+110.185.186.35/32	Chris-DoH, DoH-IPs
+111.7.189.153/32	DoH-IPs
+111.62.79.149/32	DoH-IPs
+111.170.26.35/32	DoH-IPs
+111.177.8.35/32	DoH-IPs
+111.225.213.35/32	Chris-DoH
+111.229.68.53/32	DibDot4, Chris-DoH, DoH-IPs
+112.13.209.81/32	DoH-IPs
+113.1.0.96/32	DoH-IPs
+113.59.228.125/32	DoH-IPs
+113.96.164.35/32	DoH-IPs
+113.105.172.35/32	Chris-DoH
+113.113.73.35/32	Chris-DoH
+113.137.52.35/32	DoH-IPs
+113.196.55.130/32	DoH-IPs
+113.200.16.234/32	DoH-IPs
+114.4.110.164/32	DoH-IPs
+114.34.162.81/32	DoH-IPs
+114.114.114.110/32	Chris-DoH
+114.114.114.114/32	Chris-DoH
+114.114.114.119/32	Chris-DoH
+114.114.115.110/32	Chris-DoH
+114.114.115.115/32	Chris-DoH
+114.114.115.119/32	Chris-DoH
+114.130.5.5/32	DoH-IPs
+114.130.5.6/32	DoH-IPs
+115.159.131.230/32	DibDot4, Chris-DoH, DoH-IPs
+115.178.73.100/32	DoH-IPs
+115.231.41.35/32	Chris-DoH
+115.238.187.35/32	DoH-IPs
+115.238.242.35/32	DoH-IPs
+116.0.2.86/32	DibDot4, Chris-DoH
+116.48.150.197/32	DoH-IPs
+116.90.165.50/32	DoH-IPs
+116.95.25.196/32	DoH-IPs
+116.202.120.165/32	DoH-IPs
+116.202.120.166/32	DoH-IPs
+116.202.176.26/32	DibDot4, Chris-DoH, DoH-IPs
+116.203.12.84/32	DoH-IPs
+116.203.117.199/32	Chris-DoH, DoH-IPs
+116.203.126.207/32	Chris-DoH, DoH-IPs
+116.212.96.75/32	DoH-IPs
+116.253.62.35/32	DoH-IPs
+117.34.37.35/32	Chris-DoH
+117.50.10.10/32	Chris-DoH
+117.50.11.11/32	Chris-DoH
+117.55.243.14/32	DoH-IPs
+117.91.181.35/32	DoH-IPs
+117.187.206.24/32	DoH-IPs
+118.112.225.35/32	Chris-DoH
+118.180.30.35/32	DoH-IPs
+118.180.40.35/32	Chris-DoH
+118.189.211.221/32	DoH-IPs
+118.212.234.144/32	DoH-IPs
+119.28.28.28/32	Chris-DoH
+119.29.29.29/32	Chris-DoH
+119.235.21.188/32	DoH-IPs
+120.220.188.42/32	DoH-IPs
+120.221.97.11/32	DoH-IPs
+120.221.163.145/32	DoH-IPs
+120.221.177.158/32	DoH-IPs
+120.221.216.150/32	DoH-IPs
+120.221.245.149/32	DoH-IPs
+120.221.245.159/32	DoH-IPs
+121.12.53.35/32	Chris-DoH
+121.31.30.236/32	DoH-IPs
+121.128.168.1/32	DoH-IPs
+121.227.7.35/32	Chris-DoH, DoH-IPs
+121.254.134.99/32	DoH-IPs
+122.56.105.82/32	DoH-IPs
+122.155.6.206/32	DoH-IPs
+123.1.150.117/32	DoH-IPs
+123.1.150.121/32	DoH-IPs
+123.30.184.132/32	DoH-IPs
+123.125.81.6/32	Chris-DoH
+123.193.34.20/32	DoH-IPs
+124.6.164.69/32	DoH-IPs
+124.6.165.193/32	DoH-IPs
+124.6.169.35/32	DoH-IPs
+124.6.174.103/32	DoH-IPs
+124.6.187.38/32	DoH-IPs
+124.6.188.203/32	DoH-IPs
+124.219.29.129/32	DoH-IPs
+124.219.73.220/32	DoH-IPs
+124.238.241.35/32	Chris-DoH, DoH-IPs
+124.239.243.35/32	Chris-DoH
+125.64.104.35/32	Chris-DoH, DoH-IPs
+125.74.40.35/32	Chris-DoH
+125.74.42.35/32	Chris-DoH
+125.206.220.10/32	DoH-IPs
+128.199.171.81/32	DibDot4
+128.238.2.38/32	DoH-IPs
+129.146.13.150/32	DibDot4
+129.146.14.174/32	DibDot4, Chris-DoH
+129.213.0.178/32	DibDot4
+129.213.2.162/32	DibDot4, Chris-DoH
+129.250.35.250/32	DoH-IPs
+130.59.31.248/32	DibDot4, Chris-DoH
+130.59.31.251/32	DibDot4, Chris-DoH
+130.61.0.178/32	DibDot4
+130.61.2.165/32	Chris-DoH
+130.61.4.165/32	DibDot4
+130.158.75.35/32	DoH-IPs
+130.185.242.224/32	DoH-IPs
+130.225.244.166/32	Chris-DoH, DoH-IPs
+130.226.161.34/32	Chris-DoH, DoH-IPs
+131.100.36.162/32	DoH-IPs
+131.196.220.10/32	DoH-IPs
+132.145.0.172/32	Chris-DoH
+132.145.2.168/32	DibDot4
+134.169.34.57/32	DibDot4, Chris-DoH
+134.213.59.60/32	DoH-IPs
+136.144.215.158/32	DibDot4, Chris-DoH, DoH-IPs
+136.243.19.234/32	DoH-IPs
+136.243.69.38/32	Chris-DoH, DoH-IPs
+137.82.1.1/32	DoH-IPs
+137.116.208.102/32	DoH-IPs
+138.36.1.14/32	DoH-IPs
+138.68.116.54/32	DoH-IPs
+138.78.49.150/32	DoH-IPs
+138.97.84.3/32	DoH-IPs
+138.197.103.178/32	DoH-IPs
+138.201.27.252/32	DoH-IPs
+138.201.140.70/32	DoH-IPs
+139.59.48.222/32	DibDot4, Chris-DoH, DoH-IPs
+139.59.51.46/32	Chris-DoH
+139.59.248.117/32	DibDot4
+139.99.69.216/32	DoH-IPs
+139.99.222.72/32	DibDot4, Chris-DoH, DoH-IPs
+139.130.4.4/32	DoH-IPs
+139.134.5.51/32	DoH-IPs
+139.162.3.123/32	Chris-DoH, DoH-IPs
+139.162.112.47/32	Chris-DoH, DoH-IPs
+140.82.59.231/32	DibDot4, Chris-DoH
+140.112.29.207/32	DibDot4, Chris-DoH
+140.207.198.6/32	Chris-DoH
+140.238.215.192/32	DibDot4, Chris-DoH
+141.193.213.20/31	DoH-IPs
+142.4.204.230/32	DoH-IPs
+142.165.78.223/32	DoH-IPs
+142.250.186.97/32	DoH-IPs
+143.204.98.3/32	DoH-IPs
+143.204.98.5/32	DoH-IPs
+143.204.98.6/32	DoH-IPs
+143.204.98.8/32	DoH-IPs
+143.204.98.16/31	DoH-IPs
+143.204.98.32/32	DoH-IPs
+143.204.98.36/32	DoH-IPs
+143.204.98.51/32	DoH-IPs
+143.204.98.61/32	DoH-IPs
+143.204.98.65/32	DoH-IPs
+143.204.98.72/32	DoH-IPs
+143.204.98.78/31	DoH-IPs
+143.204.98.81/32	DoH-IPs
+143.204.98.88/32	DoH-IPs
+143.204.98.90/32	DoH-IPs
+143.204.98.92/32	DoH-IPs
+143.204.98.99/32	DoH-IPs
+143.204.98.100/32	DoH-IPs
+143.204.98.106/32	DoH-IPs
+143.204.98.108/32	DoH-IPs
+143.204.98.112/32	DoH-IPs
+144.76.83.104/32	DoH-IPs
+144.76.157.242/32	DoH-IPs
+144.216.1.1/32	DoH-IPs
+145.100.185.15/32	Chris-DoH, DoH-IPs
+145.100.185.16/31	Chris-DoH, DoH-IPs
+145.100.185.18/32	Chris-DoH, DoH-IPs
+146.112.41.2/31	Chris-DoH, DoH-IPs
+146.112.41.4/32	Chris-DoH
+146.185.167.43/32	Chris-DoH
+146.255.56.98/32	DibDot4, Chris-DoH, DoH-IPs
+147.78.3.252/32	DibDot4, DoH-IPs
+149.56.228.45/32	DibDot4, Chris-DoH, DoH-IPs
+149.112.112.9/32	DibDot4, Chris-DoH, DoH-IPs
+149.112.112.10/31	Chris-DoH, DoH-IPs
+149.112.112.13/32	DoH-IPs
+149.112.112.112/32	DibDot4, Chris-DoH, DoH-IPs
+149.112.121.10/32	DibDot4, Chris-DoH, DoH-IPs
+149.112.121.20/32	DibDot4, Chris-DoH, DoH-IPs
+149.112.121.30/32	DibDot4, Chris-DoH, DoH-IPs
+149.112.122.10/32	DibDot4, Chris-DoH, DoH-IPs
+149.112.122.20/32	DibDot4, Chris-DoH, DoH-IPs
+149.112.122.30/32	DibDot4, Chris-DoH, DoH-IPs
+149.112.149.112/32	DoH-IPs
+149.154.153.153/32	DibDot4, Chris-DoH
+149.202.98.190/31	DoH-IPs
+151.80.222.79/32	DoH-IPs
+151.101.1.195/32	DoH-IPs
+151.101.2.133/32	DoH-IPs
+151.101.65.195/32	DoH-IPs
+151.101.66.133/32	DoH-IPs
+151.101.130.133/32	DoH-IPs
+151.101.194.133/32	DoH-IPs
+151.115.56.180/32	DibDot4, DoH-IPs
+151.139.128.10/32	DoH-IPs
+151.196.0.37/32	DoH-IPs
+151.197.0.37/32	DoH-IPs
+151.197.0.38/32	DoH-IPs
+151.198.0.38/31	DoH-IPs
+151.199.0.39/32	DoH-IPs
+151.201.0.38/31	DoH-IPs
+151.202.0.84/31	DoH-IPs
+152.67.165.26/32	DibDot4, Chris-DoH
+152.101.4.130/32	DoH-IPs
+153.19.105.120/32	DoH-IPs
+153.37.238.246/32	DoH-IPs
+153.142.244.29/32	DoH-IPs
+153.142.244.46/32	DoH-IPs
+154.32.107.18/32	DoH-IPs
+154.32.109.18/32	DoH-IPs
+154.72.197.138/32	DoH-IPs
+154.72.202.86/32	DoH-IPs
+154.73.209.69/32	DoH-IPs
+155.138.128.67/32	DoH-IPs
+156.154.70.1/32	Chris-DoH, DoH-IPs
+156.154.70.2/31	Chris-DoH
+156.154.70.4/31	Chris-DoH
+156.154.70.22/32	DoH-IPs
+156.154.70.25/32	DoH-IPs
+156.154.71.1/32	Chris-DoH
+156.154.71.2/31	Chris-DoH
+156.154.71.4/31	Chris-DoH
+158.43.128.72/32	DoH-IPs
+158.43.240.3/32	DoH-IPs
+158.43.240.4/32	DoH-IPs
+158.64.1.29/32	DibDot4, Chris-DoH, DoH-IPs
+158.69.158.186/32	DibDot4, Chris-DoH
+158.69.202.76/32	DoH-IPs
+158.69.213.59/32	DoH-IPs
+158.193.86.29/32	DoH-IPs
+159.69.48.240/32	Chris-DoH, DoH-IPs
+159.69.49.250/32	Chris-DoH, DoH-IPs
+159.69.114.157/32	Chris-DoH, DoH-IPs
+159.69.198.101/32	Chris-DoH
+159.89.143.75/32	DoH-IPs
+159.134.248.17/32	DoH-IPs
+159.192.137.80/32	DoH-IPs
+160.119.209.148/32	DoH-IPs
+161.200.96.9/32	DoH-IPs
+162.14.21.56/32	DibDot4, Chris-DoH
+162.14.21.178/32	DibDot4, Chris-DoH
+162.144.207.11/32	DoH-IPs
+162.210.196.167/32	DoH-IPs
+162.210.197.239/32	DoH-IPs
+162.210.197.245/32	DoH-IPs
+162.215.255.41/32	DoH-IPs
+162.243.19.47/32	DoH-IPs
+162.245.221.19/32	DoH-IPs
+162.247.147.98/32	DoH-IPs
+162.255.119.121/32	DoH-IPs
+162.255.119.243/32	DoH-IPs
+163.172.110.140/32	DoH-IPs
+163.172.152.14/32	DoH-IPs
+164.77.245.34/32	DoH-IPs
+164.163.1.90/32	DoH-IPs
+165.16.68.1/32	DoH-IPs
+165.87.13.129/32	DoH-IPs
+165.87.201.244/32	DoH-IPs
+165.246.10.2/32	DoH-IPs
+166.102.165.32/32	DoH-IPs
+167.71.43.43/32	DoH-IPs
+167.114.102.230/32	DoH-IPs
+167.114.118.4/32	DoH-IPs
+167.114.220.125/32	DibDot4, Chris-DoH, DoH-IPs
+168.95.192.1/32	DoH-IPs
+168.126.63.2/32	DoH-IPs
+168.138.243.216/32	DibDot4, Chris-DoH, DoH-IPs
+168.187.46.242/32	DoH-IPs
+168.235.81.167/32	DibDot4, Chris-DoH, DoH-IPs
+169.239.202.202/32	Chris-DoH
+169.255.152.118/32	DoH-IPs
+170.56.58.53/32	DoH-IPs
+170.210.83.110/32	DoH-IPs
+170.239.144.20/32	DoH-IPs
+171.25.229.166/32	DoH-IPs
+171.107.85.35/32	Chris-DoH
+171.107.86.35/32	Chris-DoH
+172.67.10.193/32	DoH-IPs
+172.67.11.75/32	DoH-IPs
+172.67.12.94/32	DoH-IPs
+172.67.15.100/32	DoH-IPs
+172.67.42.23/32	DoH-IPs
+172.67.43.201/32	DoH-IPs
+172.67.68.216/32	DoH-IPs
+172.67.70.80/32	DoH-IPs
+172.67.70.120/32	DoH-IPs
+172.67.70.165/32	DoH-IPs
+172.67.70.188/32	DoH-IPs
+172.67.71.16/32	DoH-IPs
+172.67.71.41/32	DoH-IPs
+172.67.72.76/32	DoH-IPs
+172.67.72.160/32	DoH-IPs
+172.67.73.144/32	DoH-IPs
+172.67.74.77/32	DoH-IPs
+172.67.75.100/32	DoH-IPs
+172.67.75.103/32	DoH-IPs
+172.67.75.125/32	DoH-IPs
+172.67.75.156/32	DoH-IPs
+172.67.129.50/32	DoH-IPs
+172.67.130.23/32	DoH-IPs
+172.67.130.97/32	DoH-IPs
+172.67.130.149/32	DoH-IPs
+172.67.131.24/32	DoH-IPs
+172.67.134.157/32	DibDot4, Chris-DoH, DoH-IPs
+172.67.135.197/32	DoH-IPs
+172.67.136.157/32	DoH-IPs
+172.67.136.198/32	DoH-IPs
+172.67.137.109/32	DoH-IPs
+172.67.140.75/32	DoH-IPs
+172.67.140.122/32	DoH-IPs
+172.67.141.109/32	DoH-IPs
+172.67.142.218/32	DoH-IPs
+172.67.148.106/32	DoH-IPs
+172.67.149.155/32	DoH-IPs
+172.67.150.146/32	DoH-IPs
+172.67.153.113/32	DoH-IPs
+172.67.153.197/32	DoH-IPs
+172.67.153.200/32	DoH-IPs
+172.67.154.200/32	DibDot4, Chris-DoH
+172.67.154.212/32	DoH-IPs
+172.67.154.236/32	DoH-IPs
+172.67.155.132/32	DoH-IPs
+172.67.157.210/32	DoH-IPs
+172.67.158.31/32	DoH-IPs
+172.67.158.162/32	DoH-IPs
+172.67.158.198/32	DibDot4
+172.67.159.43/32	DoH-IPs
+172.67.160.51/32	DoH-IPs
+172.67.161.35/32	DoH-IPs
+172.67.161.178/32	DoH-IPs
+172.67.164.166/32	DoH-IPs
+172.67.166.54/32	DoH-IPs
+172.67.167.86/32	DoH-IPs
+172.67.169.221/32	DoH-IPs
+172.67.170.39/32	DoH-IPs
+172.67.170.150/32	DibDot4, Chris-DoH, DoH-IPs
+172.67.170.184/32	DoH-IPs
+172.67.170.203/32	DoH-IPs
+172.67.171.230/32	DoH-IPs
+172.67.172.5/32	DoH-IPs
+172.67.172.172/32	DoH-IPs
+172.67.172.223/32	DoH-IPs
+172.67.173.59/32	Chris-DoH, DoH-IPs
+172.67.173.201/32	DoH-IPs
+172.67.177.80/32	DoH-IPs
+172.67.177.105/32	DoH-IPs
+172.67.177.252/32	DibDot4, Chris-DoH
+172.67.181.78/32	DoH-IPs
+172.67.182.233/32	DoH-IPs
+172.67.182.242/32	DibDot4, Chris-DoH
+172.67.183.240/32	DoH-IPs
+172.67.186.192/32	DoH-IPs
+172.67.187.132/32	DoH-IPs
+172.67.187.154/32	DoH-IPs
+172.67.189.147/32	DoH-IPs
+172.67.190.184/32	DoH-IPs
+172.67.190.197/32	DoH-IPs
+172.67.191.92/32	DoH-IPs
+172.67.192.199/32	DoH-IPs
+172.67.193.117/32	DoH-IPs
+172.67.194.69/32	DoH-IPs
+172.67.195.68/32	DoH-IPs
+172.67.195.85/32	DoH-IPs
+172.67.195.148/32	DibDot4, Chris-DoH
+172.67.196.75/32	DoH-IPs
+172.67.202.50/32	DoH-IPs
+172.67.202.102/32	DoH-IPs
+172.67.203.157/32	DoH-IPs
+172.67.204.189/32	DoH-IPs
+172.67.205.44/32	DoH-IPs
+172.67.207.222/32	DibDot4, Chris-DoH, DoH-IPs
+172.67.208.162/32	DoH-IPs
+172.67.211.25/32	DoH-IPs
+172.67.211.96/32	DoH-IPs
+172.67.212.29/32	DoH-IPs
+172.67.212.240/32	DoH-IPs
+172.67.214.95/32	DoH-IPs
+172.67.215.20/32	DoH-IPs
+172.67.215.158/32	Chris-DoH, DoH-IPs
+172.67.215.180/32	DoH-IPs
+172.67.217.218/32	DoH-IPs
+172.67.217.251/32	DoH-IPs
+172.67.218.88/31	DoH-IPs
+172.67.219.204/32	DoH-IPs
+172.67.223.135/32	DoH-IPs
+172.67.223.225/32	DoH-IPs
+172.81.177.237/32	DoH-IPs
+172.104.49.100/32	Chris-DoH, DoH-IPs
+172.104.59.35/32	DoH-IPs
+172.104.62.35/32	DoH-IPs
+172.104.93.80/32	DibDot4, Chris-DoH, DoH-IPs
+172.104.145.86/32	DoH-IPs
+172.104.237.57/32	Chris-DoH
+172.105.89.22/32	DoH-IPs
+172.105.162.206/32	DoH-IPs
+172.105.216.54/32	DibDot4, Chris-DoH
+172.105.241.93/32	Chris-DoH, DoH-IPs
+173.167.215.57/32	DoH-IPs
+173.199.52.250/32	DoH-IPs
+173.199.126.35/32	DibDot4, Chris-DoH
+173.208.81.207/32	DoH-IPs
+173.236.190.81/32	DoH-IPs
+173.236.191.131/32	DoH-IPs
+173.255.194.134/32	DoH-IPs
+173.255.218.225/32	DoH-IPs
+174.68.248.77/32	DibDot4, Chris-DoH, DoH-IPs
+174.127.79.51/32	DoH-IPs
+174.138.21.128/32	Chris-DoH
+174.138.29.175/32	DibDot4, Chris-DoH, DoH-IPs
+175.103.48.7/32	DoH-IPs
+176.9.1.117/32	DibDot4, Chris-DoH, DoH-IPs
+176.9.62.58/32	Chris-DoH, DoH-IPs
+176.9.93.198/32	DibDot4, Chris-DoH, DoH-IPs
+176.9.199.158/32	DibDot4, Chris-DoH
+176.94.20.4/32	DoH-IPs
+176.103.66.101/32	DoH-IPs
+176.103.130.130/31	DoH-IPs
+176.103.130.132/32	Chris-DoH
+176.103.130.136/31	DoH-IPs
+176.110.8.17/32	DoH-IPs
+176.221.23.252/32	DoH-IPs
+177.19.170.162/32	DoH-IPs
+177.19.212.19/32	DoH-IPs
+177.43.35.247/32	DoH-IPs
+177.92.0.90/32	DoH-IPs
+177.92.1.35/32	DoH-IPs
+177.104.118.42/32	DoH-IPs
+177.104.127.114/32	DoH-IPs
+177.131.114.86/32	DoH-IPs
+177.135.204.163/32	DoH-IPs
+177.135.239.132/32	DoH-IPs
+177.159.232.52/32	DoH-IPs
+177.184.131.180/32	DoH-IPs
+177.200.48.48/32	DoH-IPs
+177.220.163.150/32	DoH-IPs
+178.22.113.198/32	DoH-IPs
+178.32.232.224/32	DoH-IPs
+178.79.156.39/32	DibDot4
+178.82.102.190/32	Chris-DoH
+178.150.45.81/32	DoH-IPs
+178.237.150.2/32	DoH-IPs
+178.248.160.140/32	DoH-IPs
+179.60.235.209/32	DoH-IPs
+179.109.15.42/32	DoH-IPs
+180.76.76.76/32	DoH-IPs
+180.94.94.195/32	DoH-IPs
+180.101.38.35/32	Chris-DoH, DoH-IPs
+180.131.144.144/32	Chris-DoH
+180.131.145.145/32	Chris-DoH
+180.180.247.42/32	DoH-IPs
+181.14.245.186/32	DoH-IPs
+182.19.95.34/32	DoH-IPs
+182.93.14.178/32	DoH-IPs
+182.93.18.83/32	DoH-IPs
+182.93.18.84/32	DoH-IPs
+182.140.225.35/32	Chris-DoH, DoH-IPs
+184.71.101.186/32	DoH-IPs
+184.105.193.78/32	Chris-DoH, DoH-IPs
+184.149.50.25/32	DoH-IPs
+184.168.131.241/32	DoH-IPs
+185.2.139.203/32	DoH-IPs
+185.20.163.2/32	DoH-IPs
+185.23.131.73/32	DoH-IPs
+185.26.182.103/32	DoH-IPs
+185.26.182.104/32	DoH-IPs
+185.34.216.125/32	DoH-IPs
+185.38.27.139/32	Chris-DoH, DoH-IPs
+185.43.135.1/32	DibDot4, Chris-DoH, DoH-IPs
+185.49.141.37/32	Chris-DoH, DoH-IPs
+185.51.200.2/32	DoH-IPs
+185.51.200.10/32	DoH-IPs
+185.52.0.55/32	DoH-IPs
+185.53.177.11/32	DoH-IPs
+185.53.177.13/32	DoH-IPs
+185.53.177.14/32	DoH-IPs
+185.53.177.20/32	DoH-IPs
+185.53.177.31/32	DoH-IPs
+185.53.177.50/32	DoH-IPs
+185.53.177.52/32	DoH-IPs
+185.53.178.54/32	DoH-IPs
+185.55.225.25/32	DoH-IPs
+185.55.226.26/32	DoH-IPs
+185.76.65.52/32	DoH-IPs
+185.82.126.226/32	DoH-IPs
+185.95.218.42/31	Chris-DoH, DoH-IPs
+185.100.85.150/32	DoH-IPs
+185.107.56.53/32	DoH-IPs
+185.107.56.57/32	DoH-IPs
+185.107.56.58/31	DoH-IPs
+185.107.80.84/32	DoH-IPs
+185.112.147.95/32	DoH-IPs
+185.121.177.177/32	Chris-DoH
+185.134.196.52/32	Chris-DoH
+185.134.196.54/31	Chris-DoH, DoH-IPs
+185.150.99.255/32	DibDot4, Chris-DoH, DoH-IPs
+185.156.96.45/32	DoH-IPs
+185.159.159.140/31	DoH-IPs
+185.161.112.33/32	DoH-IPs
+185.161.112.34/32	DoH-IPs
+185.175.56.133/32	DibDot4, Chris-DoH
+185.184.222.222/32	Chris-DoH, DoH-IPs
+185.199.108.153/32	DoH-IPs
+185.199.109.153/32	DoH-IPs
+185.199.110.153/32	DoH-IPs
+185.199.111.153/32	DoH-IPs
+185.213.26.187/32	DibDot4, Chris-DoH, DoH-IPs
+185.216.27.142/32	DibDot4, Chris-DoH, DoH-IPs
+185.222.222.222/32	Chris-DoH, DoH-IPs
+185.228.168.0/22	DoH-IPs
+185.233.106.232/32	DibDot4, Chris-DoH, DoH-IPs
+185.233.107.4/32	DibDot4, Chris-DoH
+185.235.81.1/32	DibDot4, Chris-DoH, DoH-IPs
+185.235.81.2/31	Chris-DoH
+185.235.81.4/31	Chris-DoH
+185.235.81.6/32	Chris-DoH
+185.242.177.8/32	DoH-IPs
+185.253.46.199/32	DoH-IPs
+185.253.154.66/32	DibDot4, Chris-DoH
+186.38.56.11/32	DoH-IPs
+186.56.59.251/32	DoH-IPs
+186.120.184.35/32	DoH-IPs
+186.193.207.158/32	DoH-IPs
+186.194.224.82/32	DoH-IPs
+186.211.1.191/32	DoH-IPs
+186.215.128.142/32	DoH-IPs
+186.216.63.97/32	DoH-IPs
+186.225.45.138/32	DoH-IPs
+186.229.50.2/32	DoH-IPs
+186.248.139.42/32	DoH-IPs
+186.251.103.3/32	DoH-IPs
+186.251.103.10/32	DoH-IPs
+186.251.226.252/32	DoH-IPs
+187.6.84.178/32	DoH-IPs
+187.75.155.116/32	DoH-IPs
+187.120.48.47/32	DoH-IPs
+188.68.53.22/32	DoH-IPs
+188.118.227.21/32	DoH-IPs
+188.165.26.55/32	DoH-IPs
+188.165.45.169/32	DoH-IPs
+188.166.3.31/32	DoH-IPs
+188.172.219.167/32	DibDot4, DoH-IPs
+188.214.128.77/32	DoH-IPs
+188.225.179.158/32	DoH-IPs
+188.227.240.58/32	DoH-IPs
+188.252.69.3/32	DoH-IPs
+189.42.239.34/32	DoH-IPs
+189.44.104.13/32	DoH-IPs
+189.55.193.173/32	DoH-IPs
+189.56.88.82/32	DoH-IPs
+189.113.75.5/32	DoH-IPs
+189.113.132.101/32	DoH-IPs
+189.125.18.5/32	DoH-IPs
+189.126.192.4/32	DoH-IPs
+190.54.120.23/32	DoH-IPs
+190.56.163.189/32	DoH-IPs
+190.64.66.218/32	DoH-IPs
+190.64.140.243/32	DoH-IPs
+190.105.152.28/32	DoH-IPs
+190.108.85.3/32	DoH-IPs
+190.109.224.227/32	DoH-IPs
+190.122.186.214/32	DoH-IPs
+190.151.20.146/32	DoH-IPs
+190.151.20.148/32	DoH-IPs
+190.151.144.21/32	DoH-IPs
+190.211.104.93/32	DoH-IPs
+192.3.86.131/32	DoH-IPs
+192.53.175.149/32	DibDot4, Chris-DoH
+192.76.144.66/32	DoH-IPs
+192.95.4.124/31	DoH-IPs
+192.95.12.100/31	DoH-IPs
+192.96.205.2/31	DoH-IPs
+192.96.205.5/32	DoH-IPs
+192.99.195.130/32	DoH-IPs
+192.99.195.133/32	DoH-IPs
+192.124.249.3/32	DoH-IPs
+192.133.129.2/32	DoH-IPs
+192.146.229.22/32	DoH-IPs
+192.169.192.162/32	DoH-IPs
+192.221.134.0/32	DoH-IPs
+192.221.135.0/32	DoH-IPs
+192.241.169.122/32	DoH-IPs
+192.241.249.76/32	DoH-IPs
+193.17.47.1/32	DibDot4, Chris-DoH, DoH-IPs
+193.19.64.88/32	DoH-IPs
+193.19.108.2/31	Chris-DoH
+193.29.62.196/32	DibDot4, Chris-DoH
+193.32.86.1/32	DibDot4
+193.32.86.2/31	Summarized: 193.32.86.2/32, 193.32.86.3/32
+193.32.86.4/31	Summarized: 193.32.86.4/32, 193.32.86.5/32
+193.58.204.59/32	DoH-IPs
+193.58.251.251/32	Chris-DoH
+193.70.85.11/32	DibDot4, Chris-DoH
+193.89.248.1/32	DoH-IPs
+193.95.93.243/32	DoH-IPs
+193.101.111.10/32	DoH-IPs
+193.101.111.20/32	DoH-IPs
+193.109.160.177/32	DoH-IPs
+193.110.60.3/32	DoH-IPs
+193.180.80.1/32	DibDot4, Chris-DoH
+193.180.80.2/32	DibDot4, Chris-DoH
+193.183.18.21/32	DoH-IPs
+193.183.98.66/32	DoH-IPs
+193.190.213.42/32	DoH-IPs
+193.200.69.242/32	DoH-IPs
+193.200.150.82/32	DoH-IPs
+193.200.150.125/32	DoH-IPs
+193.200.150.152/32	DoH-IPs
+193.230.183.201/32	DoH-IPs
+193.231.236.25/32	DoH-IPs
+193.251.169.83/32	DoH-IPs
+194.7.1.4/32	DoH-IPs
+194.25.0.60/32	DoH-IPs
+194.27.192.5/32	DoH-IPs
+194.39.205.240/32	DoH-IPs
+194.60.210.66/32	DoH-IPs
+194.67.49.242/32	DoH-IPs
+194.67.109.176/32	DibDot4, DoH-IPs
+194.98.65.65/32	DoH-IPs
+194.110.115.97/32	DoH-IPs
+194.145.240.7/32	DoH-IPs
+194.145.241.6/32	DoH-IPs
+194.150.168.168/32	DoH-IPs
+194.156.162.9/32	DoH-IPs
+194.168.4.123/32	DoH-IPs
+194.179.1.100/32	DoH-IPs
+194.187.251.67/32	DoH-IPs
+194.219.110.187/32	DoH-IPs
+194.224.229.56/32	DoH-IPs
+194.225.152.10/32	DoH-IPs
+194.242.2.2/31	Chris-DoH
+194.247.190.70/32	DoH-IPs
+195.7.64.3/32	DoH-IPs
+195.8.8.2/32	DoH-IPs
+195.10.195.195/32	DoH-IPs
+195.20.52.75/32	DoH-IPs
+195.46.39.39/32	Chris-DoH, DoH-IPs
+195.46.39.40/32	Chris-DoH
+195.53.69.148/32	DoH-IPs
+195.67.27.18/32	DoH-IPs
+195.69.65.98/32	DoH-IPs
+195.76.233.2/32	DoH-IPs
+195.77.235.10/32	DoH-IPs
+195.110.24.248/32	DoH-IPs
+195.112.96.34/32	DoH-IPs
+195.129.12.83/32	DoH-IPs
+195.129.12.122/32	DoH-IPs
+195.138.74.246/32	DoH-IPs
+195.162.8.154/32	DoH-IPs
+195.186.1.107/32	DoH-IPs
+195.186.1.108/31	DoH-IPs
+195.186.1.110/32	DoH-IPs
+195.186.4.108/31	DoH-IPs
+195.186.4.111/32	DoH-IPs
+195.186.4.192/32	DoH-IPs
+195.189.130.1/32	DoH-IPs
+195.189.131.1/32	DoH-IPs
+195.189.150.37/32	DoH-IPs
+195.201.220.199/32	DibDot4, Chris-DoH, DoH-IPs
+195.202.147.102/32	DoH-IPs
+195.204.130.85/32	DoH-IPs
+195.243.99.35/32	DoH-IPs
+195.250.58.10/32	DoH-IPs
+195.252.95.208/32	DoH-IPs
+196.3.132.153/32	DoH-IPs
+196.13.141.10/32	DoH-IPs
+196.13.158.51/32	DoH-IPs
+196.15.170.131/32	DoH-IPs
+197.189.234.82/32	DoH-IPs
+197.248.116.74/32	DoH-IPs
+198.50.135.208/32	DoH-IPs
+198.50.152.58/32	DoH-IPs
+198.50.177.216/32	DoH-IPs
+198.50.212.61/32	DoH-IPs
+198.54.117.10/32	DoH-IPs
+198.58.118.167/32	DoH-IPs
+198.74.61.114/32	DoH-IPs
+198.82.247.34/32	DoH-IPs
+198.180.150.12/32	Chris-DoH, DoH-IPs
+198.251.81.85/32	DoH-IPs
+198.251.89.65/32	DoH-IPs
+198.251.89.118/32	DoH-IPs
+198.251.89.222/32	DoH-IPs
+198.251.90.89/32	Chris-DoH
+198.251.90.91/32	Chris-DoH
+199.2.252.10/32	DoH-IPs
+199.58.81.218/32	DibDot4, Chris-DoH, DoH-IPs
+199.59.242.153/32	DoH-IPs
+199.83.128.96/32	DoH-IPs
+199.83.132.96/32	DoH-IPs
+199.85.126.10/32	DoH-IPs
+199.115.116.162/32	DoH-IPs
+199.166.6.2/32	DoH-IPs
+199.180.252.51/32	DoH-IPs
+199.195.251.84/32	Chris-DoH, DoH-IPs
+199.247.16.158/32	DoH-IPs
+199.255.137.34/32	DoH-IPs
+200.1.123.46/32	Chris-DoH, DoH-IPs
+200.6.203.241/32	DoH-IPs
+200.10.231.190/32	DoH-IPs
+200.11.52.202/32	DoH-IPs
+200.40.255.101/32	DoH-IPs
+200.42.174.188/32	DoH-IPs
+200.45.184.43/32	DoH-IPs
+200.56.224.11/32	DoH-IPs
+200.57.2.108/32	DoH-IPs
+200.58.72.78/32	DoH-IPs
+200.62.147.66/32	DoH-IPs
+200.68.46.21/32	DoH-IPs
+200.69.193.2/32	DoH-IPs
+200.76.5.147/32	DoH-IPs
+200.87.195.70/32	DoH-IPs
+200.94.26.115/32	DoH-IPs
+200.99.138.13/32	DoH-IPs
+200.99.138.103/32	DoH-IPs
+200.105.133.162/32	DoH-IPs
+200.105.253.170/32	DoH-IPs
+200.110.130.194/31	DoH-IPs
+200.115.176.23/32	DoH-IPs
+200.142.160.54/32	DoH-IPs
+200.150.84.26/32	DoH-IPs
+200.150.112.58/32	DoH-IPs
+200.169.96.10/31	DoH-IPs
+200.179.97.194/32	DoH-IPs
+200.185.113.202/32	DoH-IPs
+200.194.198.75/32	DoH-IPs
+200.194.198.76/32	DoH-IPs
+200.195.148.170/32	DoH-IPs
+200.195.148.172/32	DoH-IPs
+200.195.154.122/32	DoH-IPs
+200.195.180.226/32	DoH-IPs
+200.220.192.86/32	DoH-IPs
+200.221.11.101/32	DoH-IPs
+200.252.235.19/32	DoH-IPs
+200.252.235.20/32	DoH-IPs
+201.30.200.130/32	DoH-IPs
+201.44.177.131/32	DoH-IPs
+201.144.94.245/32	DoH-IPs
+201.217.41.78/32	DoH-IPs
+201.222.48.206/32	DoH-IPs
+201.222.50.30/32	DoH-IPs
+201.222.52.6/32	DoH-IPs
+201.222.52.126/32	DoH-IPs
+201.222.55.246/32	DoH-IPs
+202.21.99.42/32	DoH-IPs
+202.28.197.202/32	DoH-IPs
+202.29.5.151/32	DoH-IPs
+202.39.47.200/32	DoH-IPs
+202.39.210.77/32	DoH-IPs
+202.43.162.37/32	DoH-IPs
+202.43.162.242/32	DoH-IPs
+202.44.53.251/32	DoH-IPs
+202.44.80.25/32	DoH-IPs
+202.46.34.74/32	DoH-IPs
+202.51.111.149/32	DoH-IPs
+202.56.128.30/32	DoH-IPs
+202.62.224.2/32	DoH-IPs
+202.64.161.118/32	DoH-IPs
+202.83.121.10/32	DoH-IPs
+202.86.133.35/32	DoH-IPs
+202.86.191.50/32	DoH-IPs
+202.87.249.2/32	DoH-IPs
+202.87.249.5/32	DoH-IPs
+202.130.102.211/32	DoH-IPs
+202.134.87.4/32	DoH-IPs
+202.138.120.6/32	DoH-IPs
+202.138.120.86/32	DoH-IPs
+202.147.193.108/32	DoH-IPs
+202.158.49.188/32	DoH-IPs
+202.174.158.10/32	DoH-IPs
+202.175.19.169/32	DoH-IPs
+202.175.66.122/32	DoH-IPs
+202.175.81.160/32	DoH-IPs
+202.182.0.1/32	DoH-IPs
+202.182.53.17/32	DoH-IPs
+202.191.98.131/32	DoH-IPs
+202.215.204.171/32	DoH-IPs
+202.222.192.35/32	DoH-IPs
+203.8.201.10/32	DoH-IPs
+203.56.69.35/32	Chris-DoH, DoH-IPs
+203.73.77.205/32	DoH-IPs
+203.81.75.37/32	DoH-IPs
+203.85.45.20/32	DoH-IPs
+203.85.45.24/32	DoH-IPs
+203.85.45.26/32	DoH-IPs
+203.85.45.131/32	DoH-IPs
+203.119.36.106/32	DoH-IPs
+203.143.0.25/32	DoH-IPs
+203.146.237.237/32	DoH-IPs
+203.186.61.66/32	DoH-IPs
+203.186.217.188/32	DoH-IPs
+203.189.89.15/32	DoH-IPs
+203.198.7.66/32	DoH-IPs
+203.198.68.197/32	DoH-IPs
+203.201.60.12/32	DoH-IPs
+203.239.130.3/32	DoH-IPs
+203.250.129.214/31	DoH-IPs
+204.11.56.48/32	DoH-IPs
+204.13.152.3/32	DoH-IPs
+204.13.164.63/32	DoH-IPs
+204.50.158.125/32	DoH-IPs
+204.152.204.10/32	DoH-IPs
+204.193.157.30/32	DoH-IPs
+204.194.232.200/32	DoH-IPs
+204.194.234.200/32	DoH-IPs
+205.171.2.25/32	DoH-IPs
+205.171.3.66/32	DoH-IPs
+205.171.202.25/32	DoH-IPs
+205.171.202.166/32	DoH-IPs
+205.207.150.9/32	DoH-IPs
+205.214.45.10/32	DoH-IPs
+205.242.187.234/32	DoH-IPs
+206.74.254.2/32	DoH-IPs
+206.165.6.12/32	DoH-IPs
+206.189.52.23/32	Chris-DoH
+206.189.144.214/32	Chris-DoH
+206.189.253.127/32	DoH-IPs
+206.190.150.37/32	DoH-IPs
+207.35.8.169/32	DoH-IPs
+207.59.153.242/32	DoH-IPs
+207.68.32.39/32	DoH-IPs
+207.69.188.185/32	DoH-IPs
+207.170.7.6/32	DoH-IPs
+207.188.83.213/32	DoH-IPs
+207.217.126.81/32	DoH-IPs
+207.248.57.11/32	DoH-IPs
+208.38.65.35/32	DoH-IPs
+208.67.220.123/32	Chris-DoH, DoH-IPs
+208.67.220.220/32	Chris-DoH, DoH-IPs
+208.67.220.222/32	Chris-DoH
+208.67.222.123/32	Chris-DoH, DoH-IPs
+208.67.222.220/32	Chris-DoH, DoH-IPs
+208.67.222.222/32	Chris-DoH, DoH-IPs
+208.76.175.29/32	DoH-IPs
+208.91.112.52/31	DoH-IPs
+208.91.112.220/32	DoH-IPs
+209.44.102.196/32	DoH-IPs
+209.51.161.14/32	DoH-IPs
+209.105.243.218/32	DoH-IPs
+209.130.139.2/32	DoH-IPs
+209.133.209.142/32	DoH-IPs
+209.141.34.95/32	Chris-DoH, DoH-IPs
+209.141.38.247/32	DoH-IPs
+209.143.0.10/32	DoH-IPs
+209.191.129.65/32	DoH-IPs
+209.209.217.168/32	DoH-IPs
+209.216.160.2/32	DoH-IPs
+209.216.160.131/32	DoH-IPs
+209.239.11.98/32	DoH-IPs
+209.244.0.4/32	DoH-IPs
+209.250.226.191/32	Chris-DoH, DoH-IPs
+209.252.188.103/32	DoH-IPs
+209.252.188.104/32	DoH-IPs
+209.253.113.10/32	DoH-IPs
+210.0.128.241/32	DoH-IPs
+210.0.128.242/32	DoH-IPs
+210.0.128.251/32	DoH-IPs
+210.0.255.144/32	DoH-IPs
+210.0.255.250/31	DoH-IPs
+210.60.147.4/32	DoH-IPs
+210.61.2.99/32	DoH-IPs
+210.61.2.237/32	DoH-IPs
+210.66.135.117/32	DoH-IPs
+210.87.250.59/32	DoH-IPs
+210.176.64.218/32	DoH-IPs
+210.177.222.168/32	DoH-IPs
+210.180.98.69/32	DoH-IPs
+210.181.4.25/32	DoH-IPs
+210.190.105.66/32	DoH-IPs
+210.225.128.98/32	DoH-IPs
+210.228.48.238/32	DoH-IPs
+210.242.68.59/32	DoH-IPs
+210.242.228.25/32	DoH-IPs
+211.63.64.11/32	DoH-IPs
+211.72.106.204/32	DoH-IPs
+211.72.210.250/32	DoH-IPs
+211.75.48.98/32	DoH-IPs
+211.75.84.238/32	DoH-IPs
+211.91.160.228/32	DoH-IPs
+211.105.7.5/32	DoH-IPs
+211.115.194.2/32	DoH-IPs
+211.188.11.201/32	DoH-IPs
+211.221.79.4/32	DoH-IPs
+211.237.65.21/32	DoH-IPs
+212.19.106.134/32	DoH-IPs
+212.19.159.50/32	DoH-IPs
+212.30.220.133/32	DoH-IPs
+212.31.32.130/31	DoH-IPs
+212.36.64.16/31	DoH-IPs
+212.43.98.12/32	DoH-IPs
+212.46.234.217/32	DoH-IPs
+212.58.212.83/32	DoH-IPs
+212.60.61.246/32	Chris-DoH
+212.60.63.246/32	Chris-DoH
+212.66.129.98/32	DoH-IPs
+212.85.112.32/32	DoH-IPs
+212.89.130.180/32	DoH-IPs
+212.97.32.2/32	DoH-IPs
+212.100.143.211/32	DoH-IPs
+212.118.241.33/32	DoH-IPs
+212.124.226.242/32	DoH-IPs
+212.211.132.4/32	DoH-IPs
+212.234.19.21/32	DoH-IPs
+212.236.250.4/32	DoH-IPs
+212.237.125.216/32	DoH-IPs
+212.244.48.137/32	DoH-IPs
+213.5.120.2/32	DoH-IPs
+213.24.238.26/32	DoH-IPs
+213.30.88.178/32	DoH-IPs
+213.52.192.198/32	DoH-IPs
+213.55.96.148/32	DoH-IPs
+213.55.96.166/32	DoH-IPs
+213.115.226.2/32	DoH-IPs
+213.133.127.250/32	DoH-IPs
+213.136.192.2/32	DoH-IPs
+213.167.231.6/32	DibDot4, Chris-DoH
+213.184.224.254/32	DoH-IPs
+213.196.191.96/32	DibDot4, Chris-DoH, DoH-IPs
+213.211.50.1/32	DoH-IPs
+213.239.207.143/32	Chris-DoH, DoH-IPs
+213.239.212.148/32	Chris-DoH, DoH-IPs
+213.241.88.98/32	DoH-IPs
+213.244.72.31/32	DoH-IPs
+216.17.128.2/32	DoH-IPs
+216.21.128.22/32	DoH-IPs
+216.21.129.22/32	DoH-IPs
+216.66.104.72/32	DoH-IPs
+216.83.236.227/32	DoH-IPs
+216.104.206.136/32	DoH-IPs
+216.106.1.3/32	DoH-IPs
+216.106.1.254/32	DoH-IPs
+216.106.88.3/32	DoH-IPs
+216.136.95.2/32	DoH-IPs
+216.146.35.35/32	Chris-DoH, DoH-IPs
+216.146.36.36/32	Chris-DoH
+216.165.129.158/32	DoH-IPs
+216.169.160.2/32	DoH-IPs
+216.169.187.240/32	DoH-IPs
+216.173.178.83/32	DoH-IPs
+216.183.90.190/32	DoH-IPs
+216.183.209.226/32	DoH-IPs
+216.183.210.18/32	DoH-IPs
+216.185.64.6/32	DoH-IPs
+216.187.93.250/32	DoH-IPs
+216.199.46.11/32	DoH-IPs
+216.199.54.9/32	DoH-IPs
+216.228.104.3/32	DoH-IPs
+216.237.114.148/31	DoH-IPs
+216.239.32.21/32	DoH-IPs
+216.239.34.21/32	DoH-IPs
+216.239.36.21/32	DoH-IPs
+216.239.38.21/32	DoH-IPs
+216.240.32.71/32	DoH-IPs
+216.240.32.72/32	DoH-IPs
+216.240.32.74/32	DoH-IPs
+216.240.32.140/32	DoH-IPs
+216.254.141.2/32	DoH-IPs
+217.0.43.146/32	DibDot4, Chris-DoH
+217.12.181.97/32	DoH-IPs
+217.14.128.50/32	DoH-IPs
+217.18.206.22/32	DoH-IPs
+217.19.153.3/32	DoH-IPs
+217.64.148.8/32	DoH-IPs
+217.77.71.1/32	DoH-IPs
+217.112.27.34/32	DoH-IPs
+217.146.22.163/32	DoH-IPs
+217.160.0.149/32	DoH-IPs
+217.169.20.22/31	Chris-DoH, DoH-IPs
+217.195.211.116/32	DoH-IPs
+217.219.72.194/32	DoH-IPs
+217.219.250.200/32	DoH-IPs
+217.219.250.202/32	DoH-IPs
+218.30.118.6/32	Chris-DoH
+218.93.204.35/32	Chris-DoH, DoH-IPs
+218.102.23.228/32	DoH-IPs
+218.103.37.238/32	DoH-IPs
+219.153.113.35/32	Chris-DoH, DoH-IPs
+219.250.36.130/32	DoH-IPs
+219.252.1.100/32	DoH-IPs
+219.252.2.100/32	DoH-IPs
+220.110.210.114/32	DoH-IPs
+220.128.99.157/32	DoH-IPs
+220.130.145.66/32	DoH-IPs
+220.130.192.226/32	DoH-IPs
+220.169.152.35/32	Chris-DoH, DoH-IPs
+220.241.92.140/32	DoH-IPs
+221.143.46.198/32	DoH-IPs
+221.154.98.205/32	DoH-IPs
+221.163.74.11/32	DoH-IPs
+221.186.117.10/32	DoH-IPs
+222.118.225.33/32	DoH-IPs
+222.118.225.37/32	DoH-IPs
+222.234.2.183/32	DoH-IPs
+223.5.5.5/32	DibDot4, Chris-DoH
+223.6.6.6/32	DibDot4, Chris-DoH, DoH-IPs
+223.111.97.143/32	DoH-IPs
+223.197.203.142/32	DoH-IPs
+223.197.220.13/32	DoH-IPs
+### BLACKLIST IPv6 ###
+::/32	DoH-IPs
+64:ff9b::/96	Chris-DoH
+2001:300::5/128	DibDot6, Chris-DoH, DoH-IPs
+2001:300::6/128	DibDot6, Chris-DoH, DoH-IPs
+2001:418:3ff::1:53/128	DoH-IPs
+2001:418:8006::12/128	Chris-DoH, DoH-IPs
+2001:468:c80:2101:0:100:0:22/128	DoH-IPs
+2001:470:1c:76d::53/128	DibDot6, Chris-DoH, DoH-IPs
+2001:470:20::2/128	DibDot6, Chris-DoH, DoH-IPs
+2001:470:1f1a:78e::2/128	DoH-IPs
+2001:470:2351::1/128	DoH-IPs
+2001:470:2351:11::1/128	DoH-IPs
+2001:470:7200:2d:12d8:9492:be02:2a83/128	DibDot6
+2001:470:b441:2d:12d8:9492:be02:2a83/128	Chris-DoH, DoH-IPs
+2001:470:ecbf::53/128	DibDot6, Chris-DoH
+2001:470:ecbf::666/128	DibDot6, Chris-DoH
+2001:558::/29	DoH-IPs
+2001:610:1:40ba:145:100:185:15/128	Chris-DoH, DoH-IPs
+2001:610:1:40ba:145:100:185:16/127	Chris-DoH, DoH-IPs
+2001:610:1:40ba:145:100:185:18/128	Chris-DoH, DoH-IPs
+2001:620:0:ff::2/127	Chris-DoH
+2001:638:602:1181:dcad:beff:feef:14/128	DibDot6, Chris-DoH
+2001:678:888:69:c45d:2738:c3f2:1878/128	DibDot6, Chris-DoH, DoH-IPs
+2001:678:b28::54/128	DoH-IPs
+2001:678:d08:ff::53/128	DibDot6, Chris-DoH
+2001:678:e68:f000::/128	DibDot6, Chris-DoH, DoH-IPs
+2001:678:ed0:f000::/128	DibDot6, Chris-DoH, DoH-IPs
+2001:67c:27e4::35/128	Chris-DoH, DoH-IPs
+2001:67c:28a4::/128	Chris-DoH, DoH-IPs
+2001:840:100::/128	DoH-IPs
+2001:840:200::/128	DoH-IPs
+2001:878:0:e000:82:e1:f4:a6/128	Chris-DoH
+2001:878:0:e000:82:e2:a1:22/128	Chris-DoH
+2001:8b0::2022/127	Chris-DoH, DoH-IPs
+2001:8b0:0:62::13/128	DoH-IPs
+2001:8b0:0:62::14/128	DoH-IPs
+2001:8b0:24:24::24/128	Chris-DoH
+2001:910:800::12/128	DoH-IPs
+2001:978:1:1::d/128	DoH-IPs
+2001:a18:1::29/128	DibDot6, Chris-DoH, DoH-IPs
+2001:bc8:1830:2018::1/128	DibDot6, Chris-DoH
+2001:bc8:2db9:100::853/128	DibDot6, Chris-DoH, DoH-IPs
+2001:de4::101/128	DibDot6, Chris-DoH, DoH-IPs
+2001:de4::102/128	DibDot6, Chris-DoH, DoH-IPs
+2001:1398:1:0:200:1:123:46/128	Chris-DoH, DoH-IPs
+2001:148f:fffe::1/128	DibDot6, Chris-DoH, DoH-IPs
+2001:148f:ffff::1/128	DibDot6, Chris-DoH, DoH-IPs
+2001:1608:10:25::1c04:b12f/128	Chris-DoH
+2001:1608:10:25::9249:d69b/128	Chris-DoH, DoH-IPs
+2001:1890:140c::159/128	DibDot6, Chris-DoH
+2001:1938:4002::222/128	DoH-IPs
+2001:19f0:5001:1faf:5400:2ff:fec8:7d49/128	DibDot6, DoH-IPs
+2001:19f0:5001:3a2f:5400:2ff:febd:3b1e/128	DibDot6, Chris-DoH
+2001:19f0:5801:b7c::1/128	DibDot6, Chris-DoH
+2001:19f0:7001:225d::1/128	DibDot6, Chris-DoH
+2001:19f0:7401:85d3:5400:2ff:fec8:749f/128	Chris-DoH, DoH-IPs
+2001:19f0:9002:1d74:5400::1/128	DibDot6, Chris-DoH
+2001:1a88:10:ffff::1/128	Chris-DoH
+2001:1a88:10:ffff::2/128	Chris-DoH
+2001:1af8:4020:a029:10::55/128	DoH-IPs
+2001:1af8:4700:a047:2::233/128	DoH-IPs
+2001:41d0:8:c95f::/128	DoH-IPs
+2001:41d0:302:2200::180/128	DibDot6, Chris-DoH
+2001:41d0:303:d269:aaaa:feed:dead:beef/128	DoH-IPs
+2001:41d0:403:2f9c:cccc:feed:dead:beef/128	DoH-IPs
+2001:41d0:602:3520:bbbb:feed:dead:beef/128	DoH-IPs
+2001:41d0:801:2000::d64/128	DibDot6, Chris-DoH, DoH-IPs
+2001:41d0:801:2000::1b28/128	Chris-DoH
+2001:4860:4860::64/128	DibDot6, Chris-DoH
+2001:4860:4860::6464/128	DibDot6, Chris-DoH
+2001:4860:4860::8844/128	DibDot6, Chris-DoH, DoH-IPs
+2001:4860:4860::8888/128	DibDot6, Chris-DoH, DoH-IPs
+2001:4b98:dc2:41:216:3eff:fe16:1080/128	DibDot6, Chris-DoH, DoH-IPs
+2001:4b98:dc2:41:216:3eff:fece:3e55/128	DibDot6, Chris-DoH, DoH-IPs
+2003:4:e0b0:102:0:4:0:53/128	DibDot6, Chris-DoH, DoH-IPs
+2003:180:2:8100:0:4:0:53/128	DibDot6
+2003:180:2:b000:0:4:0:53/128	DibDot6, Chris-DoH
+2400:3200::1/128	DibDot6, Chris-DoH
+2400:3200:baba::1/128	DibDot6, Chris-DoH
+2400:6180:0:d0::5f6e:4001/128	Chris-DoH
+2400:6180:0:d0::5f73:4001/128	DibDot6, Chris-DoH, DoH-IPs
+2400:8901::f03c:91ff:feed:8d47/128	Chris-DoH, DoH-IPs
+2400:8901::f03c:92ff:fe27:870a/128	DibDot6, Chris-DoH
+2400:8902::f03c:91ff:feda:c514/128	DibDot6, Chris-DoH, DoH-IPs
+2400:8902::f03c:91ff:feed:220b/128	Chris-DoH, DoH-IPs
+2400:8902::f03c:92ff:fe09:48cc/128	DibDot6, Chris-DoH
+2400:8902::f03c:92ff:fe27:344b/128	Chris-DoH, DoH-IPs
+2400:8904:e001:43::43/128	DibDot6, Chris-DoH
+2402:4e00:31:801::422/128	Chris-DoH
+2402:f000:1:416:101:6:6:6/128	DibDot6, Chris-DoH
+2406:da1a:c59:ae00:2d3a:5b0a:1206:d979/128	DibDot6, Chris-DoH
+2406:ef80:100:11::11/128	DibDot6, Chris-DoH
+2408:8001:a001:1:27::/128	DoH-IPs
+2408:8719:3000:6:18::/128	DoH-IPs
+2408:8719:3100:a:2d::/128	DoH-IPs
+2408:8719:3100:a:2f::/128	DoH-IPs
+2408:872b:e01:8:19::/128	DoH-IPs
+2408:8730:500:a:1a::/128	DoH-IPs
+2408:8738:b000:8:28::/128	DoH-IPs
+2408:873d:2010:6:2c::/128	DoH-IPs
+2408:8748:a104:11:2a::/128	DoH-IPs
+2408:874c:0:17:18::/128	DoH-IPs
+2408:874e:1000:3:1a::/128	DoH-IPs
+2408:8770:0:b:1e::/128	DoH-IPs
+2408:877f:30:a:14::/128	DoH-IPs
+240c::6644/128	Chris-DoH
+240c::6666/128	Chris-DoH
+2600:3c02::f03c:91ff:fee2:5b0f/128	DoH-IPs
+2600:3c03::f03c:91ff:fe50:94f2/128	DoH-IPs
+2600:6c7f:f000:202::7/128	DibDot6, Chris-DoH
+2600:6c7f:f000:202::8/128	DibDot6, Chris-DoH
+2600:9000:2156:2000:13:e34a:ca80:93a1/128	DoH-IPs
+2600:9000:2156:2000:1d:3229:71c0:93a1/128	DoH-IPs
+2600:9000:2156:2400:13:e34a:ca80:93a1/128	DoH-IPs
+2600:9000:2156:3400:13:e34a:ca80:93a1/128	DoH-IPs
+2600:9000:2156:3600:1d:3229:71c0:93a1/128	DoH-IPs
+2600:9000:2156:3800:13:e34a:ca80:93a1/128	DoH-IPs
+2600:9000:2156:3a00:1d:3229:71c0:93a1/128	DoH-IPs
+2600:9000:2156:4400:1d:3229:71c0:93a1/128	DoH-IPs
+2600:9000:2156:4a00:1d:3229:71c0:93a1/128	DoH-IPs
+2600:9000:2156:5e00:1d:3229:71c0:93a1/128	DoH-IPs
+2600:9000:2156:6000:1d:3229:71c0:93a1/128	DoH-IPs
+2600:9000:2156:6200:1d:3229:71c0:93a1/128	DoH-IPs
+2600:9000:2156:7400:1d:3229:71c0:93a1/128	DoH-IPs
+2600:9000:2156:7e00:13:e34a:ca80:93a1/128	DoH-IPs
+2600:9000:2156:8400:13:e34a:ca80:93a1/128	DoH-IPs
+2600:9000:2156:8600:13:e34a:ca80:93a1/128	DoH-IPs
+2600:9000:2156:9600:13:e34a:ca80:93a1/128	DoH-IPs
+2600:9000:2156:9e00:13:e34a:ca80:93a1/128	DoH-IPs
+2600:9000:2156:a000:13:e34a:ca80:93a1/128	DoH-IPs
+2600:9000:2156:a000:1d:3229:71c0:93a1/128	DoH-IPs
+2600:9000:2156:aa00:13:e34a:ca80:93a1/128	DoH-IPs
+2600:9000:2156:b600:1d:3229:71c0:93a1/128	DoH-IPs
+2600:9000:2156:c400:13:e34a:ca80:93a1/128	DoH-IPs
+2600:9000:2156:d200:1d:3229:71c0:93a1/128	DoH-IPs
+2600:9000:2156:da00:1d:3229:71c0:93a1/128	DoH-IPs
+2600:9000:2156:ec00:13:e34a:ca80:93a1/128	DoH-IPs
+2600:9000:2156:ee00:13:e34a:ca80:93a1/128	DoH-IPs
+2600:9000:2156:ee00:1d:3229:71c0:93a1/128	DoH-IPs
+2600:9000:2156:f200:13:e34a:ca80:93a1/128	DoH-IPs
+2600:9000:2156:f200:1d:3229:71c0:93a1/128	DoH-IPs
+2600:9000:2156:fc00:1d:3229:71c0:93a1/128	DoH-IPs
+2600:9000:2204:0:7:7266:1d00:93a1/128	DoH-IPs
+2600:9000:2204:800:7:7266:1d00:93a1/128	DoH-IPs
+2600:9000:2204:2400:7:7266:1d00:93a1/128	DoH-IPs
+2600:9000:2204:2600:7:7266:1d00:93a1/128	DoH-IPs
+2600:9000:2204:5c00:7:7266:1d00:93a1/128	DoH-IPs
+2600:9000:2204:9000:7:7266:1d00:93a1/128	DoH-IPs
+2600:9000:2204:c600:7:7266:1d00:93a1/128	DoH-IPs
+2600:9000:2204:f000:7:7266:1d00:93a1/128	DoH-IPs
+2603:c021:c001:31fa::a1c:401/128	Chris-DoH, DoH-IPs
+2604:180:f3::42/128	DibDot6, Chris-DoH, DoH-IPs
+2604:8800:5000:82:466:38ff:fecb:d46e/128	DoH-IPs
+2604:a880:1:20::51:f001/128	DibDot6, Chris-DoH, DoH-IPs
+2605:4840:3:c4::c4/128	DibDot6, Chris-DoH
+2605:6400:10:80e::1/128	Chris-DoH, DoH-IPs
+2605:6400:20:e6d::1/128	Chris-DoH, DoH-IPs
+2605:6400:30:f881::1/128	Chris-DoH, DoH-IPs
+2606:4700::6810:84e5/128	DibDot6, Chris-DoH, DoH-IPs
+2606:4700::6810:85e5/128	DibDot6, Chris-DoH, DoH-IPs
+2606:4700::6810:f8f9/128	DibDot6, Chris-DoH, DoH-IPs
+2606:4700::6810:f9f9/128	DibDot6, Chris-DoH, DoH-IPs
+2606:4700::6812:1ad3/128	Chris-DoH
+2606:4700::6812:1bd3/128	Chris-DoH
+2606:4700::6812:c763/128	DoH-IPs
+2606:4700::6812:c863/128	DoH-IPs
+2606:4700::6812:d1ed/128	DoH-IPs
+2606:4700::6812:d2ed/128	DoH-IPs
+2606:4700::6812:d4dc/128	DoH-IPs
+2606:4700::6812:d5dc/128	DoH-IPs
+2606:4700:10::6814:ae4d/128	DoH-IPs
+2606:4700:10::6814:af4d/128	DoH-IPs
+2606:4700:10::6816:44/128	DoH-IPs
+2606:4700:10::6816:144/128	DoH-IPs
+2606:4700:10::6816:85f/128	DoH-IPs
+2606:4700:10::6816:95f/128	DoH-IPs
+2606:4700:10::6816:2cf2/128	DoH-IPs
+2606:4700:10::6816:2df2/128	DoH-IPs
+2606:4700:10::6816:2ebf/128	DoH-IPs
+2606:4700:10::6816:2fbf/128	DoH-IPs
+2606:4700:10::6816:36a5/128	DoH-IPs
+2606:4700:10::6816:37a5/128	DoH-IPs
+2606:4700:10::ac43:ac1/128	DoH-IPs
+2606:4700:10::ac43:c5e/128	DoH-IPs
+2606:4700:10::ac43:f64/128	DoH-IPs
+2606:4700:10::ac43:2a17/128	DoH-IPs
+2606:4700:10::ac43:2bc9/128	DoH-IPs
+2606:4700:11::6817:8913/128	DoH-IPs
+2606:4700:11::6817:8a13/128	DoH-IPs
+2606:4700:20::681a:32/128	DoH-IPs
+2606:4700:20::681a:6f/128	DoH-IPs
+2606:4700:20::681a:ce/128	DoH-IPs
+2606:4700:20::681a:132/128	DoH-IPs
+2606:4700:20::681a:16f/128	DoH-IPs
+2606:4700:20::681a:1ce/128	DoH-IPs
+2606:4700:20::681a:20d/128	DoH-IPs
+2606:4700:20::681a:2cc/128	DoH-IPs
+2606:4700:20::681a:30d/128	DoH-IPs
+2606:4700:20::681a:3cc/128	DoH-IPs
+2606:4700:20::681a:42c/128	DoH-IPs
+2606:4700:20::681a:4ae/128	DoH-IPs
+2606:4700:20::681a:52c/128	DoH-IPs
+2606:4700:20::681a:5ae/128	DoH-IPs
+2606:4700:20::681a:a35/128	DoH-IPs
+2606:4700:20::681a:b35/128	DoH-IPs
+2606:4700:20::681a:c35/128	DoH-IPs
+2606:4700:20::681a:c53/128	DoH-IPs
+2606:4700:20::681a:d35/128	DoH-IPs
+2606:4700:20::681a:d53/128	DoH-IPs
+2606:4700:20::681a:ec5/128	DoH-IPs
+2606:4700:20::681a:fc5/128	DoH-IPs
+2606:4700:20::ac43:44d8/128	DoH-IPs
+2606:4700:20::ac43:4650/128	DoH-IPs
+2606:4700:20::ac43:4678/128	DoH-IPs
+2606:4700:20::ac43:4710/128	DoH-IPs
+2606:4700:20::ac43:484c/128	DoH-IPs
+2606:4700:20::ac43:48a0/128	DoH-IPs
+2606:4700:20::ac43:4990/128	DoH-IPs
+2606:4700:20::ac43:4a4d/128	DoH-IPs
+2606:4700:20::ac43:4b67/128	DoH-IPs
+2606:4700:20::ac43:4b7d/128	DoH-IPs
+2606:4700:20::ac43:4b9c/128	DoH-IPs
+2606:4700:21::681b:c660/128	DoH-IPs
+2606:4700:21::681b:c760/128	DoH-IPs
+2606:4700:3030::6815:8c2/128	DoH-IPs
+2606:4700:3030::6815:1db9/128	DoH-IPs
+2606:4700:3030::6815:1e72/128	DoH-IPs
+2606:4700:3030::6815:2037/128	DoH-IPs
+2606:4700:3030::6815:27f0/128	DoH-IPs
+2606:4700:3030::6815:37e1/128	DoH-IPs
+2606:4700:3030::6815:3acc/128	DoH-IPs
+2606:4700:3030::6815:4040/128	DoH-IPs
+2606:4700:3030::ac43:9ad4/128	DoH-IPs
+2606:4700:3030::ac43:9ea2/128	DoH-IPs
+2606:4700:3030::ac43:9f2b/128	DoH-IPs
+2606:4700:3030::ac43:a033/128	DoH-IPs
+2606:4700:3030::ac43:a9dd/128	DoH-IPs
+2606:4700:3030::ac43:aab8/128	DoH-IPs
+2606:4700:3030::ac43:ac05/128	DoH-IPs
+2606:4700:3030::ac43:ad3b/128	Chris-DoH, DoH-IPs
+2606:4700:3030::ac43:b6f2/128	DibDot6, Chris-DoH
+2606:4700:3030::ac43:bb84/128	DoH-IPs
+2606:4700:3030::ac43:bb9a/128	DoH-IPs
+2606:4700:3030::ac43:c175/128	DoH-IPs
+2606:4700:3030::ac43:d9da/128	DoH-IPs
+2606:4700:3031::6815:36d/128	DoH-IPs
+2606:4700:3031::6815:73d/128	DoH-IPs
+2606:4700:3031::6815:851/128	DoH-IPs
+2606:4700:3031::6815:9af/128	DoH-IPs
+2606:4700:3031::6815:161f/128	DoH-IPs
+2606:4700:3031::6815:31ea/128	DibDot6, Chris-DoH
+2606:4700:3031::6815:49f1/128	DoH-IPs
+2606:4700:3031::6815:4a1b/128	DoH-IPs
+2606:4700:3031::6815:4be7/128	DoH-IPs
+2606:4700:3031::6815:4ff1/128	DoH-IPs
+2606:4700:3031::6815:53cf/128	DoH-IPs
+2606:4700:3031::6815:56e4/128	DoH-IPs
+2606:4700:3031::6815:5999/128	DoH-IPs
+2606:4700:3031::6815:5b47/128	DoH-IPs
+2606:4700:3031::ac43:8132/128	DoH-IPs
+2606:4700:3031::ac43:8c4b/128	DoH-IPs
+2606:4700:3031::ac43:99c5/128	DoH-IPs
+2606:4700:3031::ac43:aacb/128	DoH-IPs
+2606:4700:3031::ac43:abe6/128	DoH-IPs
+2606:4700:3031::ac43:acac/128	DoH-IPs
+2606:4700:3031::ac43:b6e9/128	DoH-IPs
+2606:4700:3031::ac43:c355/128	DoH-IPs
+2606:4700:3031::ac43:ca66/128	DoH-IPs
+2606:4700:3031::ac43:ccbd/128	DoH-IPs
+2606:4700:3031::ac43:d714/128	DoH-IPs
+2606:4700:3031::ac43:dbcc/128	DoH-IPs
+2606:4700:3032::6815:173/128	DoH-IPs
+2606:4700:3032::6815:761/128	DoH-IPs
+2606:4700:3032::6815:791/128	DoH-IPs
+2606:4700:3032::6815:919/128	DoH-IPs
+2606:4700:3032::6815:d35/128	DibDot6, Chris-DoH
+2606:4700:3032::6815:1504/128	DoH-IPs
+2606:4700:3032::6815:2fd3/128	DoH-IPs
+2606:4700:3032::6815:4478/128	DoH-IPs
+2606:4700:3032::6815:4786/128	DibDot6, Chris-DoH, DoH-IPs
+2606:4700:3032::6815:4e46/128	DoH-IPs
+2606:4700:3032::6815:5203/128	DoH-IPs
+2606:4700:3032::6815:5b69/128	DibDot6, Chris-DoH, DoH-IPs
+2606:4700:3032::6815:5b81/128	DoH-IPs
+2606:4700:3032::6815:5d8f/128	DoH-IPs
+2606:4700:3032::6815:5ffa/128	DoH-IPs
+2606:4700:3032::ac43:889d/128	DoH-IPs
+2606:4700:3032::ac43:9971/128	DoH-IPs
+2606:4700:3032::ac43:a1b2/128	DoH-IPs
+2606:4700:3032::ac43:acdf/128	DoH-IPs
+2606:4700:3032::ac43:bac0/128	DoH-IPs
+2606:4700:3032::ac43:bd93/128	DoH-IPs
+2606:4700:3032::ac43:c344/128	DoH-IPs
+2606:4700:3032::ac43:c394/128	DibDot6, Chris-DoH
+2606:4700:3032::ac43:d0a2/128	DoH-IPs
+2606:4700:3032::ac43:d41d/128	DoH-IPs
+2606:4700:3033::6815:924/128	DoH-IPs
+2606:4700:3033::6815:16f3/128	DibDot6, Chris-DoH, DoH-IPs
+2606:4700:3033::6815:186f/128	DoH-IPs
+2606:4700:3033::6815:243e/128	DoH-IPs
+2606:4700:3033::6815:2b20/128	DoH-IPs
+2606:4700:3033::6815:2b5a/128	DoH-IPs
+2606:4700:3033::6815:3408/128	DoH-IPs
+2606:4700:3033::6815:36da/128	DoH-IPs
+2606:4700:3033::6815:4524/128	DoH-IPs
+2606:4700:3033::6815:52f7/128	DoH-IPs
+2606:4700:3033::6815:5631/128	DoH-IPs
+2606:4700:3033::6815:57e9/128	DoH-IPs
+2606:4700:3033::6815:590f/128	DoH-IPs
+2606:4700:3033::ac43:8217/128	DoH-IPs
+2606:4700:3033::ac43:88c6/128	DoH-IPs
+2606:4700:3033::ac43:9dd2/128	DoH-IPs
+2606:4700:3033::ac43:adc9/128	DoH-IPs
+2606:4700:3033::ac43:beb8/128	DoH-IPs
+2606:4700:3034::6815:659/128	DoH-IPs
+2606:4700:3034::6815:8ef/128	DoH-IPs
+2606:4700:3034::6815:e83/128	DoH-IPs
+2606:4700:3034::6815:2323/128	DoH-IPs
+2606:4700:3034::6815:3a97/128	DoH-IPs
+2606:4700:3034::6815:3e7a/128	DoH-IPs
+2606:4700:3034::6815:413c/128	DibDot6
+2606:4700:3034::6815:56ca/128	DoH-IPs
+2606:4700:3034::ac43:9692/128	DoH-IPs
+2606:4700:3034::ac43:a4a6/128	DoH-IPs
+2606:4700:3034::ac43:b169/128	DoH-IPs
+2606:4700:3034::ac43:b1fc/128	DibDot6, Chris-DoH
+2606:4700:3034::ac43:bf5c/128	DoH-IPs
+2606:4700:3034::ac43:c0c7/128	DoH-IPs
+2606:4700:3034::ac43:ca32/128	DoH-IPs
+2606:4700:3034::ac43:d4f0/128	DoH-IPs
+2606:4700:3034::ac43:da58/128	DoH-IPs
+2606:4700:3035::6815:630/128	DoH-IPs
+2606:4700:3035::6815:997/128	DoH-IPs
+2606:4700:3035::6815:186e/128	DoH-IPs
+2606:4700:3035::6815:1ea2/128	Chris-DoH, DoH-IPs
+2606:4700:3035::6815:250c/128	DoH-IPs
+2606:4700:3035::6815:3650/128	DoH-IPs
+2606:4700:3035::6815:4468/128	DoH-IPs
+2606:4700:3035::6815:58df/128	DoH-IPs
+2606:4700:3035::6815:5f4d/128	DoH-IPs
+2606:4700:3035::ac43:8261/128	DoH-IPs
+2606:4700:3035::ac43:8c7a/128	DoH-IPs
+2606:4700:3035::ac43:9e1f/128	DoH-IPs
+2606:4700:3035::ac43:9ec6/128	DibDot6
+2606:4700:3035::ac43:a123/128	DoH-IPs
+2606:4700:3035::ac43:aa96/128	DibDot6, Chris-DoH, DoH-IPs
+2606:4700:3035::ac43:b7f0/128	DoH-IPs
+2606:4700:3035::ac43:cb9d/128	DoH-IPs
+2606:4700:3035::ac43:d360/128	DoH-IPs
+2606:4700:3035::ac43:d65f/128	DoH-IPs
+2606:4700:3036::6815:1b0a/128	DoH-IPs
+2606:4700:3036::6815:2ce2/128	DoH-IPs
+2606:4700:3036::6815:4798/128	DoH-IPs
+2606:4700:3036::ac43:8295/128	DoH-IPs
+2606:4700:3036::ac43:869d/128	DibDot6, Chris-DoH, DoH-IPs
+2606:4700:3036::ac43:8eda/128	DoH-IPs
+2606:4700:3036::ac43:946a/128	DoH-IPs
+2606:4700:3036::ac43:959b/128	DoH-IPs
+2606:4700:3036::ac43:99c8/128	DoH-IPs
+2606:4700:3036::ac43:9ac8/128	DibDot6, Chris-DoH
+2606:4700:3036::ac43:9aec/128	DoH-IPs
+2606:4700:3036::ac43:a756/128	DoH-IPs
+2606:4700:3036::ac43:b54e/128	DoH-IPs
+2606:4700:3036::ac43:cd2c/128	DoH-IPs
+2606:4700:3036::ac43:d9fb/128	DoH-IPs
+2606:4700:3036::ac43:df87/128	DoH-IPs
+2606:4700:3037::6815:3ba/128	DoH-IPs
+2606:4700:3037::6815:64e/128	DibDot6, Chris-DoH, DoH-IPs
+2606:4700:3037::6815:ab4/128	DoH-IPs
+2606:4700:3037::6815:f31/128	DoH-IPs
+2606:4700:3037::6815:fef/128	DoH-IPs
+2606:4700:3037::6815:1432/128	DoH-IPs
+2606:4700:3037::6815:2788/128	DoH-IPs
+2606:4700:3037::6815:335a/128	DibDot6, Chris-DoH
+2606:4700:3037::6815:3bc5/128	DibDot6, Chris-DoH
+2606:4700:3037::6815:46ed/128	DoH-IPs
+2606:4700:3037::6815:50cb/128	DoH-IPs
+2606:4700:3037::6815:55ef/128	DoH-IPs
+2606:4700:3037::6815:5dcc/128	DoH-IPs
+2606:4700:3037::ac43:8318/128	DoH-IPs
+2606:4700:3037::ac43:896d/128	DoH-IPs
+2606:4700:3037::ac43:8d6d/128	DoH-IPs
+2606:4700:3037::ac43:9b84/128	DoH-IPs
+2606:4700:3037::ac43:a636/128	DoH-IPs
+2606:4700:3037::ac43:b150/128	DoH-IPs
+2606:4700:3037::ac43:c245/128	DoH-IPs
+2606:4700:3037::ac43:cfde/128	DibDot6, Chris-DoH, DoH-IPs
+2606:4700:3037::ac43:d319/128	DoH-IPs
+2606:4700:3037::ac43:d79e/128	DibDot6, Chris-DoH, DoH-IPs
+2606:4700:3037::ac43:da59/128	DoH-IPs
+2606:4700:3038::6815:ea04/127	DoH-IPs
+2606:4700:3038::6815:ea50/127	DoH-IPs
+2606:4700:3038::6815:eb03/128	DoH-IPs
+2606:4700:3038::6815:eb04/128	DoH-IPs
+2606:4700:3038::6815:eb0f/128	DoH-IPs
+2606:4700:3038::6815:eb10/128	DoH-IPs
+2606:4700:4700::64/128	DibDot6, Chris-DoH
+2606:4700:4700::1001/128	DibDot6, Chris-DoH, DoH-IPs
+2606:4700:4700::1002/127	Chris-DoH, DoH-IPs
+2606:4700:4700::1111/128	DibDot6, Chris-DoH, DoH-IPs
+2606:4700:4700::1112/127	Chris-DoH, DoH-IPs
+2606:4700:4700::6400/128	DibDot6, Chris-DoH
+2607:5300:60:652f::200/128	DibDot6, Chris-DoH, DoH-IPs
+2607:5300:61:95f:7283:11d9:f86:e689/128	DibDot6, Chris-DoH, DoH-IPs
+2607:5300:203:1735::8888/128	DoH-IPs
+2607:5300:203:1797::53/128	DoH-IPs
+2607:5300:203:7f27:5054:ff:fe45:85b5/128	DoH-IPs
+2607:5300:203:7f27:5054:ff:fe57:4a07/128	DoH-IPs
+2607:fad0:3801:4::1/128	DoH-IPs
+2610:a1:1018::1/128	Chris-DoH, DoH-IPs
+2610:a1:1018::2/127	Chris-DoH
+2610:a1:1018::4/127	Chris-DoH
+2610:a1:1019::1/128	Chris-DoH, DoH-IPs
+2610:a1:1019::2/127	Chris-DoH
+2610:a1:1019::4/127	Chris-DoH
+2620:0:ccc::2/128	Chris-DoH, DoH-IPs
+2620:0:ccd::2/128	Chris-DoH, DoH-IPs
+2620:74:1b::1:1/128	Chris-DoH, DoH-IPs
+2620:74:1c::2:2/128	Chris-DoH, DoH-IPs
+2620:fe::9/128	DibDot6, Chris-DoH, DoH-IPs
+2620:fe::10/127	Chris-DoH, DoH-IPs
+2620:fe::fe/128	DibDot6, Chris-DoH, DoH-IPs
+2620:fe::fe:9/128	DibDot6, Chris-DoH, DoH-IPs
+2620:fe::fe:10/127	Chris-DoH, DoH-IPs
+2620:ff:c000:0:1:0:64:25/128	Chris-DoH, DoH-IPs
+2620:10a:80bb::10/128	DibDot6, Chris-DoH, DoH-IPs
+2620:10a:80bb::20/128	DibDot6, Chris-DoH, DoH-IPs
+2620:10a:80bb::30/128	DibDot6, Chris-DoH, DoH-IPs
+2620:10a:80bc::10/128	DibDot6, Chris-DoH, DoH-IPs
+2620:10a:80bc::20/128	DibDot6, Chris-DoH, DoH-IPs
+2620:10a:80bc::30/128	DibDot6, Chris-DoH, DoH-IPs
+2620:119:35::35/128	Chris-DoH, DoH-IPs
+2620:119:53::53/128	Chris-DoH, DoH-IPs
+2620:119:fc::2/127	Chris-DoH, DoH-IPs
+2620:119:fc::4/128	Chris-DoH
+2a00:11c0:8:4::9/128	Chris-DoH, DoH-IPs
+2a00:11c0:e:ffff:1::d/128	DoH-IPs
+2a00:11c0:63:350::3/128	DibDot6, DoH-IPs
+2a00:1450:4001:829::2001/128	DoH-IPs
+2a00:1508:0:4::9/128	Chris-DoH, DoH-IPs
+2a00:5884:8209::2/128	Chris-DoH, DoH-IPs
+2a00:5a60::1:ff/128	Chris-DoH
+2a00:5a60::ad2:ff/128	Chris-DoH
+2a00:5a60::bad2:ff/128	Chris-DoH
+2a00:f826:8:1::254/128	DoH-IPs
+2a00:f826:8:2::195/128	DoH-IPs
+2a00:fbe0:1:3802::3/128	Chris-DoH, DoH-IPs
+2a01:3a0:53:53::/128	Chris-DoH, DoH-IPs
+2a01:4f8:a0:82c9:fe::148/128	Chris-DoH, DoH-IPs
+2a01:4f8:a0:8487::143/128	Chris-DoH, DoH-IPs
+2a01:4f8:b0:a033::2/128	DoH-IPs
+2a01:4f8:141:316d::117/128	DibDot6, Chris-DoH, DoH-IPs
+2a01:4f8:150:8023::58/128	Chris-DoH, DoH-IPs
+2a01:4f8:151:11b0::3/128	DibDot6, Chris-DoH
+2a01:4f8:151:34aa::198/128	DibDot6, Chris-DoH, DoH-IPs
+2a01:4f8:212:2325::38/128	Chris-DoH, DoH-IPs
+2a01:4f8:c0c:3bfc::2/128	Chris-DoH, DoH-IPs
+2a01:4f8:c0c:3c03::2/128	Chris-DoH, DoH-IPs
+2a01:4f8:c0c:83ed::1/128	Chris-DoH
+2a01:4f8:c17:739a::2/128	Chris-DoH, DoH-IPs
+2a01:4f8:c17:ec67::1/128	DibDot6, Chris-DoH, DoH-IPs
+2a01:4f8:c2c:491::199/128	Chris-DoH, DoH-IPs
+2a01:4f8:c2c:e25::207/128	Chris-DoH, DoH-IPs
+2a01:4f8:1c0c:40db::1/128	Chris-DoH
+2a01:4f8:1c0c:8233::1/128	DibDot6, Chris-DoH, DoH-IPs
+2a01:4f8:1c17:4df8::1/128	Chris-DoH
+2a01:4f8:1c17:6e44::240/128	Chris-DoH, DoH-IPs
+2a01:4f8:1c17:6fc7::250/128	Chris-DoH, DoH-IPs
+2a01:4f8:1c1c:6938::1/128	DibDot6, Chris-DoH, DoH-IPs
+2a01:4f8:1c1c:6b4b::1:8443/128	Chris-DoH
+2a01:4f8:fff0:4f:266:37ff:fe2c:5d19/128	DoH-IPs
+2a01:4f8:fff0:4f:266:37ff:feae:3bbc/128	DoH-IPs
+2a01:4f9:2a:1919::21/128	DibDot6, Chris-DoH, DoH-IPs
+2a01:4f9:2a:1919::9301/128	Chris-DoH
+2a01:4f9:2a:1a05::2/128	DoH-IPs
+2a01:4f9:c010:19eb::1/128	DoH-IPs
+2a01:4f9:c010:1cbd::29/128	Chris-DoH, DoH-IPs
+2a01:4f9:c010:3071::253/128	Chris-DoH, DoH-IPs
+2a01:4f9:c010:43ce::1/128	Chris-DoH, DoH-IPs
+2a01:4f9:c010:43ce::1:8443/128	Chris-DoH
+2a01:4f9:c01f:4::abcd/128	DibDot6, Chris-DoH, DoH-IPs
+2a01:4f9:c01f:74::1/128	DibDot6, Chris-DoH
+2a01:7c8:d002:1ef:5054:ff:fe40:3703/128	DibDot6, Chris-DoH, DoH-IPs
+2a01:9e00::54/127	Chris-DoH, DoH-IPs
+2a01:9e00:a217:80::2017/128	DoH-IPs
+2a01:9e01::54/127	Chris-DoH, DoH-IPs
+2a01:b740:a00:3000::1c2/128	Chris-DoH
+2a01:b740:a00:4000::1c2/128	Chris-DoH
+2a01:b740:a02:3000::1c2/128	Chris-DoH, DoH-IPs
+2a01:b740:a02:4000::1c2/128	DoH-IPs
+2a01:b740:a04:4000::1c2/128	DoH-IPs
+2a01:b740:a06:3000::b2/128	Chris-DoH
+2a01:b740:a06:4000::c2/128	Chris-DoH
+2a01:b740:a06:4000::1c2/128	Chris-DoH
+2a01:b740:a10:3000::b2/128	DoH-IPs
+2a01:b740:a10:4000::b2/128	DoH-IPs
+2a01:b740:a41:208::4/128	DoH-IPs
+2a01:b740:a41:208::6/127	DoH-IPs
+2a01:b740:a41:208::8/128	DoH-IPs
+2a01:b740:a41:208::a/127	DoH-IPs
+2a01:b740:a41:208::c/127	DoH-IPs
+2a02:180:2:c1:81:7:7:63/128	DoH-IPs
+2a02:1b8:10:234::2/128	DibDot6, Chris-DoH, DoH-IPs
+2a02:6b8::feed:ff/128	Chris-DoH
+2a02:6b8::feed:a11/128	Chris-DoH
+2a02:6b8::feed:bad/128	Chris-DoH, DoH-IPs
+2a02:6b8:0:1::feed:ff/128	Chris-DoH
+2a02:6b8:0:1::feed:a11/128	Chris-DoH, DoH-IPs
+2a02:6b8:0:1::feed:bad/128	Chris-DoH, DoH-IPs
+2a02:1205:5055:de60:b26e:bfff:fe1d:e19b/128	Chris-DoH
+2a02:1788:8ff::1/128	Chris-DoH
+2a02:1788:8ff::2/128	Chris-DoH
+2a02:6ea0:c226::2/128	Chris-DoH
+2a02:7b40:5eb0:e95d::1/128	Chris-DoH
+2a02:c205:3001:4558::1/128	Chris-DoH
+2a03:4000:6:12af::1/128	DibDot6, Chris-DoH, DoH-IPs
+2a03:4000:6:e5fc::1/128	DoH-IPs
+2a03:4000:24:361::6e73:32/128	DibDot6, Chris-DoH, DoH-IPs
+2a03:4000:24:688::6e73:31/128	DibDot6, Chris-DoH, DoH-IPs
+2a03:4000:4d:c92:88c0:96ff:fec6:b9d/128	DoH-IPs
+2a03:90c0:56::1a5/128	Chris-DoH
+2a03:90c0:b5::1a/128	Chris-DoH
+2a03:b0c0:0:1010::e9a:3001/128	Chris-DoH
+2a03:b0c0:3:d0::d23:e001/128	Chris-DoH
+2a04:2fc0:39::47/128	Chris-DoH
+2a04:3542:1000:910:305c:74ff:fe29:7c26/128	DibDot6, Chris-DoH, DoH-IPs
+2a04:52c0:101:75::75/128	DibDot6, Chris-DoH, DoH-IPs
+2a04:52c0:101:98d::/128	Chris-DoH
+2a04:b900:0:100::37/128	Chris-DoH, DoH-IPs
+2a04:bdc7:100:70::70/128	DibDot6, Chris-DoH
+2a04:bdc7:100:70::abcd/128	DibDot6, Chris-DoH, DoH-IPs
+2a05:d014:275:cb00:c26c:5b6d:e2c8:e5a/128	Chris-DoH
+2a05:d014:275:cb01:1f85:932b:b797:22f9/128	Chris-DoH
+2a05:d014:275:cb02:7bc2:ee46:f4f6:be94/128	Chris-DoH
+2a05:d014:9da:8c10:306e:3e07:a16f:a552/128	DoH-IPs
+2a05:dfc7:5::53/128	Chris-DoH
+2a05:dfc7:5::5353/128	DoH-IPs
+2a05:dfc7:5353::53/128	Chris-DoH
+2a05:f480:1800:8ed:5400:2ff:fec8:7e46/128	DoH-IPs
+2a05:fc84::42/127	Chris-DoH, DoH-IPs
+2a07:a8c0::/33	Chris-DoH, DoH-IPs
+2a07:a8c1::/33	Chris-DoH, DoH-IPs
+2a07:e340::2/127	Chris-DoH
+2a09::/127	Chris-DoH
+2a09:7:200b::/128	DibDot6
+2a09:7:200b::babe/128	DibDot6
+2a09:7:200b::cafe/128	DibDot6
+2a09:7:200b::dead/128	DibDot6
+2a09:7:200b::feed/128	DibDot6
+2a09:cd42:f:425b::1/128	DibDot6, Chris-DoH, DoH-IPs
+2a0b:4341:704:24:5054:ff:fe91:8a6c/128	DoH-IPs
+2a0c:8fc0:c3e5::1000/128	DoH-IPs
+2a0d:1a43:c010:135::/128	DibDot6, Chris-DoH
+2a0d:2a00:1::/48	DoH-IPs
+2a0d:2a00:2::/48	DoH-IPs
+2a0d:2a00:ab1::/48	DoH-IPs
+2a0d:2a00:ab2::/48	DoH-IPs
+2a0d:4d00:81::1/128	DibDot6, Chris-DoH, DoH-IPs
+2a0d:4d00:81::2/127	Chris-DoH
+2a0d:4d00:81::4/127	Chris-DoH
+2a0d:4d00:81::6/128	Chris-DoH
+2a0d:5600:30:28::28/128	DibDot6, Chris-DoH
+2a0d:5600:33:3::3/128	DibDot6, Chris-DoH, DoH-IPs
+2a0d:5600:33:3::abcd/128	DibDot6, Chris-DoH, DoH-IPs
+2a0d:5642:115:197:5054:ff:fef3:ccd4/128	DoH-IPs
+2a0e:dc0:6:23::2/128	DibDot6, Chris-DoH, DoH-IPs
+2a0e:dc0:7:d::d/128	DibDot6, Chris-DoH
+2a0e:dc0:8:12::12/128	DibDot6, Chris-DoH
+2a0e:dc0:9:17::17/128	DibDot6, Chris-DoH
+2a0e:1c80:1::5/128	DoH-IPs
+2a10:50c0::/48	Chris-DoH, DoH-IPs
+2a11::/128	Chris-DoH, DoH-IPs
+### BLACKLIST EOF ###

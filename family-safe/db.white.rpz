@@ -1,0 +1,15 @@
+; BIND RPZ whitelist
+$TTL 3600
+@ SOA dummy-1626223976-ns hostmaster 1626223976 12h 15m 3w 3h
+@ NS dummy-1626223976-ns
+dummy-1626223976-ns A 0.0.0.0
+dummy-1626223976-ns AAAA ::
+;
+; --- TLDS ---
+;
+; --- DOMAINS ---
+block.energized.pro CNAME .
+*.block.energized.pro CNAME .
+; --- IPv4 ---
+; --- IPv6 ---
+; --- EOF ---

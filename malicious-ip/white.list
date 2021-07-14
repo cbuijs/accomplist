@@ -1,0 +1,52 @@
+############################################
+### ACCOMPLIST GENERATED WHITELIST       ###
+### Version: 1626221478                  ###
+### Chris Buijs                          ###
+### https://github.com/cbuijs/accomplist ###
+############################################
+
+### SAFELIST DOMAINS ###
+### SAFEUNWHITELIST DOMAINS ###
+feodotracker.abuse.ch&	Unwhitelist
+ransomwaretracker.abuse.ch&	Unwhitelist
+sslbl.abuse.ch&	Unwhitelist
+zeustracker.abuse.ch&	Unwhitelist
+blocklist.greensnow.co&	Unwhitelist
+reputation.alienvault.com&	Unwhitelist
+www.badips.com&	Unwhitelist
+osint.bambenekconsulting.com&	Unwhitelist
+www.binarydefense.com&	Unwhitelist
+cinsscore.com&	Unwhitelist
+raw.githubusercontent.com&	Unwhitelist
+kriskintel.com&	Unwhitelist
+www.malwaredomainlist.com&	Unwhitelist
+www.stopforumspam.com&	Unwhitelist
+talosintelligence.com&	Unwhitelist
+project.turris.cz&	Unwhitelist
+lists.blocklist.de&	Unwhitelist
+www.botvrij.eu&	Unwhitelist
+zonefiles.io&	Unwhitelist
+www.myip.ms&	Unwhitelist
+rules.emergingthreats.net&	Unwhitelist
+www.cidr-report.org&	Unwhitelist
+feeds.dshield.org&	Unwhitelist
+www.dshield.org&	Unwhitelist
+iplists.firehol.org&	Unwhitelist
+www.spamhaus.org&	Unwhitelist
+www.team-cymru.org&	Unwhitelist
+check.torproject.org&	Unwhitelist
+### WHITELIST REGEXES ###
+### WHITELIST DOMAINS ###
+### WHITELIST ASN ###
+AS19679	Chris-ASN-White
+AS26415	Chris-ASN-White
+AS2818	Chris-ASN-White
+AS2906	Chris-ASN-White
+AS59630	Chris-ASN-White
+### WHITELIST IPv4 ###
+0.0.0.0/32	Chris-NFT-IgnoreIP
+134.122.51.205/32	Chris-NFT-IgnoreIP
+### WHITELIST IPv6 ###
+fc00::/7	Chris-NFT-IgnoreIP
+fe80::/10	Chris-NFT-IgnoreIP
+### WHITELIST EOF ###

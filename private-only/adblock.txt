@@ -1,0 +1,16 @@
+[Adblock Plus 1.1]
+! Title: Accomplist "Private-Only" AdBlock List
+! Version: 1626224896
+! Homepage: https://github.com/cbuijs/accomplist/tree/master/private-only
+!
+! BlackList Domains:
+||eecs.umich.edu^
+||example.com^
+||example.net^
+||example.org^
+||home.arpa^
+||in-addr-servers.arpa^
+||ip6-servers.arpa^
+||ipv4only.arpa^
+!
+! EOF
