@@ -1,0 +1,33 @@
+############################################
+### ACCOMPLIST GENERATED WHITELIST       ###
+### Version: 1711514263                  ###
+### Chris Buijs                          ###
+### https://github.com/cbuijs/accomplist ###
+############################################
+
+### SAFELIST DOMAINS ###
+concierge.analytics.console.aws.a2z.com!	Safelist-NEXTDNS-EXCLUDE
+geo2.adobe.com!	Safelist-NEXTDNS-EXCLUDE
+get3.adobe.com!	Safelist-NEXTDNS-EXCLUDE
+ae01.alicdn.com!	Safelist-NEXTDNS-EXCLUDE
+cloud.answerhub.com!	Safelist-NEXTDNS-EXCLUDE
+inc.com!	Safelist-NEXTDNS-EXCLUDE
+browser.pipe.aria.microsoft.com!	Safelist-NEXTDNS-EXCLUDE
+mobile.pipe.aria.microsoft.com!	Safelist-NEXTDNS-EXCLUDE
+v10.events.data.microsoft.com!	Safelist-NEXTDNS-EXCLUDE
+settings-win.data.microsoft.com!	Safelist-NEXTDNS-EXCLUDE
+smartsheet.com!	Safelist-NEXTDNS-EXCLUDE
+s.youtube.com!	Safelist-NEXTDNS-EXCLUDE
+gov!	Safelist-NEXTDNS-EXCLUDE
+teslarati-com-edge.ntv.io!	Safelist-NEXTDNS-EXCLUDE
+app.link!	Safelist-NEXTDNS-EXCLUDE
+whoami.akamai.net!	Safelist-NEXTDNS-EXCLUDE
+lenta.ru!	Safelist-NEXTDNS-EXCLUDE
+### SAFEUNWHITELIST DOMAINS ###
+### WHITELIST REGEXES ###
+### WHITELIST DOMAINS ###
+raw.githubusercontent.com	Source
+### WHITELIST ASN ###
+### WHITELIST IPv4 ###
+### WHITELIST IPv6 ###
+### WHITELIST EOF ###

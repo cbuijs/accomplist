@@ -1,0 +1,5 @@
+{
+	"name" : "Accomplist Dutch black-top-n-list",
+	"description" : "Accomplist *Dutch-top-n* blacklist (1711514504). See: https://github.com/cbuijs/accomplist",
+	"denied-remote-domains" : ["2k19.nl", "online-banners.nl", "ab.hwigroup.com", "sponsorkliks.com", "a.medialaancdn.be", "adconfigproxy.azurewebsites.net", "ads.nextday.media", "go2.go2cloud.org", "advertising-module.api.dpgmedia.cloud", "ds1.nl", "static-dscn.net", "ab.tweakers.nl", "content1.pu.nl", "sp.dpgmedia.net", "content1.zoom.nl", "vpscash.nl", "tools.islive.nl", "pexi.nl", "viadata.store", "optoutadvertising.com", "adshim.com", "content2.nrc.nl", "botndm.nl", "content2.besteproduct.nl", "partner.bol.com", "nojazz.eu", "advertising-cdn.dpgmedia.cloud", "content1.pcmweb.nl", "content2.pu.nl", "nonstoppartner.net", "t.bazarow.com", "aa.tweakers.nl", "aa.hwigroup.com", "dt71.net", "content2.zoom.nl", "dt51.net", "content2.kieskeurig.nl", "adcdn.ster.nl", "dummy"]
+}

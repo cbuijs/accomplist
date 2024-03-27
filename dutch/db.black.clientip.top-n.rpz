@@ -1,0 +1,92 @@
+; BIND RPZ blacklist
+$TTL 3600
+@ SOA dummy-1711514504-ns hostmaster 1711514504 12h 15m 3w 3h
+@ NS dummy-1711514504-ns
+dummy-1711514504-ns A 0.0.0.0
+dummy-1711514504-ns AAAA ::
+;
+; --- TLDS ---
+;
+; --- DOMAINS ---
+a.medialaancdn.be CNAME .
+*.a.medialaancdn.be CNAME .
+advertising-cdn.dpgmedia.cloud CNAME .
+*.advertising-cdn.dpgmedia.cloud CNAME .
+advertising-module.api.dpgmedia.cloud CNAME .
+*.advertising-module.api.dpgmedia.cloud CNAME .
+adshim.com CNAME .
+*.adshim.com CNAME .
+t.bazarow.com CNAME .
+*.t.bazarow.com CNAME .
+partner.bol.com CNAME .
+*.partner.bol.com CNAME .
+aa.hwigroup.com CNAME .
+*.aa.hwigroup.com CNAME .
+ab.hwigroup.com CNAME .
+*.ab.hwigroup.com CNAME .
+optoutadvertising.com CNAME .
+*.optoutadvertising.com CNAME .
+sponsorkliks.com CNAME .
+*.sponsorkliks.com CNAME .
+nojazz.eu CNAME .
+*.nojazz.eu CNAME .
+ads.nextday.media CNAME .
+*.ads.nextday.media CNAME .
+adconfigproxy.azurewebsites.net CNAME .
+*.adconfigproxy.azurewebsites.net CNAME .
+sp.dpgmedia.net CNAME .
+*.sp.dpgmedia.net CNAME .
+dt51.net CNAME .
+*.dt51.net CNAME .
+dt71.net CNAME .
+*.dt71.net CNAME .
+nonstoppartner.net CNAME .
+*.nonstoppartner.net CNAME .
+static-dscn.net CNAME .
+*.static-dscn.net CNAME .
+2k19.nl CNAME .
+*.2k19.nl CNAME .
+content2.besteproduct.nl CNAME .
+*.content2.besteproduct.nl CNAME .
+botndm.nl CNAME .
+*.botndm.nl CNAME .
+ds1.nl CNAME .
+*.ds1.nl CNAME .
+tools.islive.nl CNAME .
+*.tools.islive.nl CNAME .
+content2.kieskeurig.nl CNAME .
+*.content2.kieskeurig.nl CNAME .
+content2.nrc.nl CNAME .
+*.content2.nrc.nl CNAME .
+online-banners.nl CNAME .
+*.online-banners.nl CNAME .
+content1.pcmweb.nl CNAME .
+*.content1.pcmweb.nl CNAME .
+pexi.nl CNAME .
+*.pexi.nl CNAME .
+content1.pu.nl CNAME .
+*.content1.pu.nl CNAME .
+content2.pu.nl CNAME .
+*.content2.pu.nl CNAME .
+adcdn.ster.nl CNAME .
+*.adcdn.ster.nl CNAME .
+aa.tweakers.nl CNAME .
+*.aa.tweakers.nl CNAME .
+ab.tweakers.nl CNAME .
+*.ab.tweakers.nl CNAME .
+vpscash.nl CNAME .
+*.vpscash.nl CNAME .
+content1.zoom.nl CNAME .
+*.content1.zoom.nl CNAME .
+content2.zoom.nl CNAME .
+*.content2.zoom.nl CNAME .
+go2.go2cloud.org CNAME .
+*.go2.go2cloud.org CNAME .
+viadata.store CNAME .
+*.viadata.store CNAME .
+;
+; --- IPv4 ---
+;
+; --- IPv6 ---
+;
+; --- EOF ---

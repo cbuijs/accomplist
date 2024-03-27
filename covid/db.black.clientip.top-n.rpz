@@ -1,0 +1,62 @@
+; BIND RPZ blacklist
+$TTL 3600
+@ SOA dummy-1711514324-ns hostmaster 1711514324 12h 15m 3w 3h
+@ NS dummy-1711514324-ns
+dummy-1711514324-ns A 0.0.0.0
+dummy-1711514324-ns AAAA ::
+;
+; --- TLDS ---
+;
+; --- DOMAINS ---
+coronations.usa.cc CNAME .
+*.coronations.usa.cc CNAME .
+reward100rbpulsa-foruserfb-eventcovid19-prakerja.2waky.com CNAME .
+*.reward100rbpulsa-foruserfb-eventcovid19-prakerja.2waky.com CNAME .
+abopcr-covid19.com CNAME .
+*.abopcr-covid19.com CNAME .
+abopcr-covid19buy.com CNAME .
+*.abopcr-covid19buy.com CNAME .
+abopcr-covid19sales.com CNAME .
+*.abopcr-covid19sales.com CNAME .
+aircovid19virus.com CNAME .
+*.aircovid19virus.com CNAME .
+coronabreath.com CNAME .
+*.coronabreath.com CNAME .
+coronavirus-realtime.com CNAME .
+*.coronavirus-realtime.com CNAME .
+pulsagratiscovid19.ezua.com CNAME .
+*.pulsagratiscovid19.ezua.com CNAME .
+covid.getcurex.com CNAME .
+*.covid.getcurex.com CNAME .
+coronasex.mooo.com CNAME .
+*.coronasex.mooo.com CNAME .
+gratiscovid19.mrbonus.com CNAME .
+*.gratiscovid19.mrbonus.com CNAME .
+covid-19update.zap515988-1.plesk10.zap-webspace.com CNAME .
+*.covid-19update.zap515988-1.plesk10.zap-webspace.com CNAME .
+coronavirusupdate.zap515744-1.plesk11.zap-webspace.com CNAME .
+*.coronavirusupdate.zap515744-1.plesk11.zap-webspace.com CNAME .
+covid19.majenekab.go.id CNAME .
+*.covid19.majenekab.go.id CNAME .
+covid.smkn4-bdl.sch.id CNAME .
+*.covid.smkn4-bdl.sch.id CNAME .
+covid19alert.ddns.net CNAME .
+*.covid19alert.ddns.net CNAME .
+covid-19wellsfargo.spdns.org CNAME .
+*.covid-19wellsfargo.spdns.org CNAME .
+meflohin-covid19.r63489.msk3.dp10.ru CNAME .
+*.meflohin-covid19.r63489.msk3.dp10.ru CNAME .
+coronavirus-c19.co.uk CNAME .
+*.coronavirus-c19.co.uk CNAME .
+staging2.coronavirustestkit.co.uk CNAME .
+*.staging2.coronavirustestkit.co.uk CNAME .
+covidvirustest.co.uk CNAME .
+*.covidvirustest.co.uk CNAME .
+scalacovid19collaboration.co.uk CNAME .
+*.scalacovid19collaboration.co.uk CNAME .
+;
+; --- IPv4 ---
+;
+; --- IPv6 ---
+;
+; --- EOF ---

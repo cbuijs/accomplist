@@ -1,0 +1,36 @@
+; BIND RPZ whitelist
+$TTL 3600
+@ SOA dummy-1711505032-ns hostmaster 1711505032 12h 15m 3w 3h
+@ NS dummy-1711505032-ns
+dummy-1711505032-ns A 0.0.0.0
+dummy-1711505032-ns AAAA ::
+;
+; --- TLDS ---
+;
+; --- DOMAINS ---
+phishing.army CNAME .
+*.phishing.army CNAME .
+threatfox.abuse.ch CNAME .
+*.threatfox.abuse.ch CNAME .
+urlhaus.abuse.ch CNAME .
+*.urlhaus.abuse.ch CNAME .
+gist.githubusercontent.com CNAME .
+*.gist.githubusercontent.com CNAME .
+raw.githubusercontent.com CNAME .
+*.raw.githubusercontent.com CNAME .
+gitlab.com CNAME .
+*.gitlab.com CNAME .
+s4.scoutdns.com CNAME .
+*.s4.scoutdns.com CNAME .
+dl.red.flag.domains CNAME .
+*.dl.red.flag.domains CNAME .
+www.botvrij.eu CNAME .
+*.www.botvrij.eu CNAME .
+malware-filter.gitlab.io CNAME .
+*.malware-filter.gitlab.io CNAME .
+;
+; --- IPv4 ---
+;
+; --- IPv6 ---
+;
+; --- EOF ---

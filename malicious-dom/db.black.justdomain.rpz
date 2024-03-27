@@ -1,0 +1,7 @@
+; BIND RPZ blacklist
+$TTL 3600
+@ SOA dummy-1711505247-ns hostmaster 1711505247 12h 15m 3w 3h
+@ NS dummy-1711505247-ns
+dummy-1711505247-ns A 0.0.0.0
+dummy-1711505247-ns AAAA ::
+testentry.rpz.urlhaus.abuse.ch CNAME .
