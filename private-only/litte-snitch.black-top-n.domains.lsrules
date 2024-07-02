@@ -1,0 +1,5 @@
+{
+	"name" : "Accomplist Private-Only black-top-n-list",
+	"description" : "Accomplist *Private-Only-top-n* blacklist (1719892314). See: https://github.com/cbuijs/accomplist",
+	"denied-remote-domains" : ["miwifi.com", "primgw.vowifina.spcsdns.net", "wlan.three.com.hk", "asusrouter.com", "routerlogin.net", "example.org", "vowifi.jio.com", "my.keenetic.net", "epdg.epc.att.net", "weconnect.globe.com.ph", "epdg.mobileone.net.sg", "ip6-servers.arpa", "example.com", "tplinkrepeater.net", "tplinklogin.net", "home.arpa", "router.asus.com", "tplinkextender.net", "tplinkwifi.net", "tendawifi.com", "eecs.umich.edu", "ipv4only.arpa", "113.0.203.in-addr.arpa", "in-addr-servers.arpa", "fritz.box", "swu-loopback-epdg.qualcomm.com", "wo.vzwwo.com", "epdg.epc.aptg.com.tw", "example.net", "routerlogin.com", "repeater.asus.com", "netis.cc", "dengon.docomo.ne.jp", "dummy"]
+}

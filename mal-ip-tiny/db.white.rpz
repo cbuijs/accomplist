@@ -1,0 +1,50 @@
+; BIND RPZ whitelist
+$TTL 3600
+@ SOA dummy-1719881178-ns hostmaster 1719881178 12h 15m 3w 3h
+@ NS dummy-1719881178-ns
+dummy-1719881178-ns A 0.0.0.0
+dummy-1719881178-ns AAAA ::
+;
+; --- TLDS ---
+;
+; --- DOMAINS ---
+feodotracker.abuse.ch CNAME .
+*.feodotracker.abuse.ch CNAME .
+sslbl.abuse.ch CNAME .
+*.sslbl.abuse.ch CNAME .
+blocklist.greensnow.co CNAME .
+*.blocklist.greensnow.co CNAME .
+reputation.alienvault.com CNAME .
+*.reputation.alienvault.com CNAME .
+www.binarydefense.com CNAME .
+*.www.binarydefense.com CNAME .
+cinsscore.com CNAME .
+*.cinsscore.com CNAME .
+raw.githubusercontent.com CNAME .
+*.raw.githubusercontent.com CNAME .
+www.nubi-network.com CNAME .
+*.www.nubi-network.com CNAME .
+openai.com CNAME .
+*.openai.com CNAME .
+talosintelligence.com CNAME .
+*.talosintelligence.com CNAME .
+lists.blocklist.de CNAME .
+*.lists.blocklist.de CNAME .
+www.botvrij.eu CNAME .
+*.www.botvrij.eu CNAME .
+www.myip.ms CNAME .
+*.www.myip.ms CNAME .
+rules.emergingthreats.net CNAME .
+*.rules.emergingthreats.net CNAME .
+feeds.dshield.org CNAME .
+*.feeds.dshield.org CNAME .
+www.dshield.org CNAME .
+*.www.dshield.org CNAME .
+www.spamhaus.org CNAME .
+*.www.spamhaus.org CNAME .
+;
+; --- IPv4 ---
+;
+; --- IPv6 ---
+;
+; --- EOF ---

@@ -1,0 +1,20 @@
+; BIND RPZ whitelist
+$TTL 3600
+@ SOA dummy-1719878992-ns hostmaster 1719878992 12h 15m 3w 3h
+@ NS dummy-1719878992-ns
+dummy-1719878992-ns A 0.0.0.0
+dummy-1719878992-ns AAAA ::
+;
+; --- TLDS ---
+;
+; --- DOMAINS ---
+www.cidr-report.org CNAME .
+*.www.cidr-report.org CNAME .
+www.team-cymru.org CNAME .
+*.www.team-cymru.org CNAME .
+;
+; --- IPv4 ---
+;
+; --- IPv6 ---
+;
+; --- EOF ---
