@@ -1,0 +1,7 @@
+### Common file-extension TLD's - Partly covered by tlds.black file!!!
+/^(.*\.)*(do[ct]|p[op][ast]|pub|sld|vsd|x[lp][as])[ablmstx]{0,1}(\.)*$/
+/^(.*\.)*(csv|gz|pdf|tar|t[e]*xt|zip)(\.)*$/
+/^(.*\.)*(bat|cmd|dll|exe)(\.)*$/
+/^(.*\.)*(mov|mp3|mp4)(\.)*$/
+/^(.*\.)*(gif|jpeg|jpg|png|webp)(\.)*$/
+/^(.*\.)*(css|htm|html|htmls|jnpl|js|json|jsp|php|xhtm|xhtml|xml)(\.)*$/
