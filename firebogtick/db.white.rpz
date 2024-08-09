@@ -1,0 +1,38 @@
+; BIND RPZ whitelist
+$TTL 3600
+@ SOA dummy-1723185551-ns hostmaster 1723185551 12h 15m 3w 3h
+@ NS dummy-1723185551-ns
+dummy-1723185551-ns A 0.0.0.0
+dummy-1723185551-ns AAAA ::
+;
+; --- TLDS ---
+;
+; --- DOMAINS ---
+phishing.army CNAME .
+*.phishing.army CNAME .
+urlhaus.abuse.ch CNAME .
+*.urlhaus.abuse.ch CNAME .
+raw.githubusercontent.com CNAME .
+*.raw.githubusercontent.com CNAME .
+gitlab.com CNAME .
+*.gitlab.com CNAME .
+hostfiles.frogeye.fr CNAME .
+*.hostfiles.frogeye.fr CNAME .
+zerodot1.gitlab.io CNAME .
+*.zerodot1.gitlab.io CNAME .
+osint.digitalside.it CNAME .
+*.osint.digitalside.it CNAME .
+v.firebog.net CNAME .
+*.v.firebog.net CNAME .
+adaway.org CNAME .
+*.adaway.org CNAME .
+bitbucket.org CNAME .
+*.bitbucket.org CNAME .
+pgl.yoyo.org CNAME .
+*.pgl.yoyo.org CNAME .
+;
+; --- IPv4 ---
+;
+; --- IPv6 ---
+;
+; --- EOF ---
