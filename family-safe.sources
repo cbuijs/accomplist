@@ -1,0 +1,108 @@
+Common	black!	/opt/accomplist/common-adult-domains!	/opt/accomplist/work/common.list	7200	@DOMAIN	@IP
+
+Include	black!	/opt/accomplist/family-safe.include!	/opt/accomplist/work/include.list	7200	@DOMAIN	@IP
+
+Abuse-TLDs	black!	/opt/accomplist/chris/abuse-tlds.list!	/opt/accomplist/work/abuse-tlds.list	7200	@DOMAIN	@IP
+Suspicious-TLDs	black!	/opt/accomplist/chris/suspicious-tlds.list!	/opt/accomplist/work/suspicious-tlds.list	7200	@DOMAIN	@IP
+Test-TLDs	black!	/opt/accomplist/chris/iana-tld-test.list!	/opt/accomplist/work/test-tlds.list	7200	@DOMAIN	@IP
+Restricted-TLDs	black!	/opt/accomplist/chris/iana-tld-generic-restricted.list!	/opt/accomplist/work/restricted-tlds.list	7200	@DOMAIN	@IP
+
+#Chris-Porn-Regex-Black	black!	/opt/accomplist/chris/porn-regex.black!	/opt/accomplist/work/chris-porn-regex-black.list	7200	@REGEX
+
+BaddBoyz-Porn	black	https://raw.githubusercontent.com/mitchellkrogza/Badd-Boyz-Porn/master/porn.list	/opt/accomplist/work/baddboyz-porn.list	7200	@DOMAIN	@PORNEX
+
+#Clefspeare	black	https://raw.githubusercontent.com/Clefspeare13/pornhosts/master/0.0.0.0/hosts	/opt/accomplist/work/clefspeare-porn.list	7200	@HOST0	@PORNEX
+#Clefspeare	black	https://mypdns.org/clefspeare13/pornhosts/-/raw/master/download_here/0.0.0.0/hosts	/opt/accomplist/cleafspeare.list	7200	@HOST0	@PORNEX
+#Clefspeare-Mobile	black	https://mypdns.org/clefspeare13/pornhosts/-/raw/master/download_here/mobile/hosts	/opt/accomplist/cleafspeare-mobile.list	7200	@HOST0	@PORNEX
+
+
+#PornAway-Ads	black	https://raw.githubusercontent.com/mhxion/pornaway/master/hosts/porn_ads.txt	/opt/accomplist/work/pornaway-ads.list	7200	@HOST127	@PORNEX
+#PornAway-Sites	black	https://raw.githubusercontent.com/mhxion/pornaway/master/hosts/porn_sites.txt	/opt/accomplist/work/pornaway-sites.list	7200	@HOST127	@PORNEX
+
+Tiuxo	black	https://raw.githubusercontent.com/tiuxo/hosts/master/porn	/opt/accomplist/work/tiuxo.list	7200	@HOST0	@PORNEX
+
+Sinfonietta-Porn	black	https://raw.githubusercontent.com/Sinfonietta/hostfiles/master/pornography-hosts	/opt/accomplist/work/sinfonietta-porn.list	7200	@HOST0127	@IP
+Sinfonietta-Snuff	black	https://raw.githubusercontent.com/Sinfonietta/hostfiles/master/snuff-hosts	/opt/accomplist/work/sinfonietta-snuff.list	7200	@HOST0127	@IP
+
+#Airelle-Porn	black!	/opt/airelle/porn.domains.list!	/opt/accomplist/work/airelle-porn.list	7200	@DOMAIN	@PORNEX
+
+ChadPorn	black	https://raw.githubusercontent.com/chadmayfield/my-pihole-blocklists/master/lists/pi_blocklist_porn_all.list	/opt/accomplist/work/chadporn.list	7200	@DOMAIN	@IP
+
+UT1-Porn	black!	/opt/ut1/porn/domains!	/opt/accomplist/work/ut1-porn.list	7200	@DOMAIN	@PORNEX
+UT1-Porn-URL	black!	/opt/ut1/porn/urls!	/opt/accomplist/work/ut1-porn-url.list	7200	@URL	@PORNEX
+UT1-Drugs	black!	/opt/ut1/drugs/domains!	/opt/accomplist/work/ut1-drugs.list	7200	@DOMAIN	@PORNEX
+UT1-Drugs-URL	black!	/opt/ut1/drugs/urls!	/opt/accomplist/work/ut1-drugs-url.list	7200	@URL	@PORNEX
+UT1-Aggressive	black!	/opt/ut1/aggressive/domains!	/opt/accomplist/work/ut1-aggressive.list	7200	@DOMAIN	@IP
+UT1-Aggressive-URL	black!	/opt/ut1/aggressive/urls!	/opt/accomplist/work/ut1-aggressive-url.list	7200	@URL	@IP
+UT1-Gambling	black!	/opt/ut1/gambling/domains!	/opt/accomplist/work/ut1-gambling.list	7200	@DOMAIN	@IP
+UT1-Gambling-URL	black!	/opt/ut1/gambling/urls!	/opt/accomplist/work/ut1-gambling-url.list	7200	@URL	@IP
+UT1-StalkerWare	black!	/opt/ut1/stalkerware/domains!	/opt/accomplist/work/ut1-stalkerware.list	7200	@DOMAIN	@IP
+UT1-StalkerWare-URL	black!	/opt/ut1/stalkerware/urls!	/opt/accomplist/work/ut1-stalkerware-url.list	7200	@URL	@IP
+UT1-Violence	black!	/opt/ut1/violence/domains!	/opt/accomplist/work/ut1-violence.list	7200	@DOMAIN	@IP
+UT1-Violence-URL	black!	/opt/ut1/violence/urls!	/opt/accomplist/work/ut1-violence.list	7200	@URL	@IP
+
+SW-Adult	black	https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Adult	/opt/accomplist/work/sw-adult.list	7200	@DOMAIN	@IP
+SW-Shock	black	https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Shock	/opt/accomplist/work/sw-shock.list	7200	@DOMAIN	@IP
+
+#SomeOneWhoCares	black	https://someonewhocares.org/hosts/zero/hosts	/opt/accomplist/work/someonewhocares.list	7200	@HOST0	@IP
+
+#BlockList-Porn	black	https://blocklist.site/app/dl/porn	/opt/accomplist/work/blocklist-porn.list	7200	@DOMAIN	@IP
+
+EasyList-Adult-Servers	black	https://raw.githubusercontent.com/easylist/easylist/master/easylist_adult/adult_adservers.txt	/opt/accomplist/work/easylist-adult.list	7200	@ADBLOCK-BLACK,ADBLOCK-ELEMENT	@IP
+EasyList-Adult-Popup	black	https://raw.githubusercontent.com/easylist/easylist/master/easylist_adult/adult_adservers_popup.txt	/opt/accomplist/work/easylist-adult-popup.list	7200	@ADBLOCK-BLACK,ADBLOCK-ELEMENT	@IP
+EasyList-Adult-Specific	black	https://raw.githubusercontent.com/easylist/easylist/master/easylist_adult/adult_specific_block.txt	/opt/accomplist/work/easylist-adult-specific.list	7200	@ADBLOCK-BLACK,ADBLOCK-ELEMENT	@IP
+EasyList-Adult-Specific-Popup	black	https://raw.githubusercontent.com/easylist/easylist/master/easylist_adult/adult_specific_block_popup.txt	/opt/accomplist/work/easylist-adult-specific-popup.list	7200	@ADBLOCK-BLACK,ADBLOCK-ELEMENT	@IP
+EasyList-Adult-Thirdparty	black	https://raw.githubusercontent.com/easylist/easylist/master/easylist_adult/adult_thirdparty.txt	/opt/accomplist/work/easylist-adult-thirdparty.list	7200	@ADBLOCK-BLACK,ADBLOCK-ELEMENT	@IP
+EasyList-Adult-Thirdparty-Popup	black	https://raw.githubusercontent.com/easylist/easylist/master/easylist_adult/adult_thirdparty_popup.txt	/opt/accomplist/work/easylist-adult-thirdparty-popup.list	7200	@ADBLOCK-BLACK,ADBLOCK-ELEMENT	@IP
+
+FakeNews	black	https://raw.githubusercontent.com/marktron/fakenews/master/fakenews	/opt/accomplist/work/fakenews.list	7200	@HOST0	@IP
+Poynter	black	https://raw.githubusercontent.com/jumile/poynter/master/poynter_block_sites.txt	/opt/accomplist/work/poynter.list	7200	@HOST0	@IP
+
+#MyPDNS-DOM	black	https://raw.githubusercontent.com/mypdns/porn-records/master/submit_here/adult.mypdns.cloud/domains.list	/opt/accomplist/work/mypdns-dom.list	7200	@DOMAIN	@IP
+#MyPDNS-WC	black	https://raw.githubusercontent.com/mypdns/porn-records/master/submit_here/adult.mypdns.cloud/wildcard.list	/opt/accomplist/work/mypdns-wc.list	7200	@DOMAIN	@IP
+#MyPDNS-DOMS	black	https://raw.githubusercontent.com/mypdns/porn-records/master/active_domains/output/domains/ACTIVE/list	/opt/accomplist/work/mypdns-doms.list	7200	@DOMAIN	@IP
+#MyPDNS-Snuff	black	https://raw.githubusercontent.com/mypdns/porn-records/master/submit_here/adult.mypdns.cloud/snuff.list	/opt/accomplist/work/mypdns-snuff.list	7200	@DOMAIN	@IP
+
+MyPDNS-Porn	black	https://mypdns.org/my-privacy-dns/porn-records/-/raw/master/submit_here/adult.mypdns.cloud/domains.list	/opt/accomplist/work/mypdns-porn.list	7200	@DOMAIN	@IP
+MyPDNS-Porn-WC	black	https://mypdns.org/my-privacy-dns/porn-records/-/raw/master/submit_here/adult.mypdns.cloud/wildcard.list	/opt/accomplist/work/mypdns-porn-wc.list	7200	@DOMAIN	@IP
+MyPDNS-Snuff	black	https://mypdns.org/my-privacy-dns/porn-records/-/raw/master/submit_here/adult.mypdns.cloud/snuff.list	/opt/accomplist/work/mypdns-snuff.list	7200	@DOMAIN	@IP
+
+#BlockListProj-Abuse	black	https://raw.githubusercontent.com/blocklistproject/Lists/master/alt-version/abuse-nl.txt	/opt/accomplist/work/blocklistproj-abuse.list	7200	@DOMAIN	@IP
+#BlockListProj-Drugs	black	https://raw.githubusercontent.com/blocklistproject/Lists/master/alt-version/drugs-nl.txt	/opt/accomplist/work/blocklistproj-drugs.list	7200	@DOMAIN	@IP
+#BlockListProj-Gambling	black	https://raw.githubusercontent.com/blocklistproject/Lists/master/alt-version/gambling-nl.txt	/opt/accomplist/work/blocklistproj-gambling.list	7200	@DOMAIN	@IP
+#BlockListProj-Porn	black	https://raw.githubusercontent.com/blocklistproject/Lists/master/alt-version/porn-nl.txt	/opt/accomplist/blocklistproj-porn.list	7200	@DOMAIN	@IP
+
+ADGH-Porn	black	https://raw.githubusercontent.com/alexsannikov/adguardhome-filters/master/porn.txt	/opt/accomplist/work/adgh-porn.list	7200	@ADBLOCK-BLACK	@IP
+ADGH-Gamble	black	https://raw.githubusercontent.com/alexsannikov/adguardhome-filters/master/gambling.txt	/opt/accomplist/work/adgh-gamble.list	7200	@ADBLOCK-BLACK	@IP
+
+#RPiList-Porn1	black	https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/pornblock1	/opt/accomplist/work/rpipornlist1.list	7200	@DOMAIN	@IP
+#RPiList-Porn2	black	https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/pornblock2	/opt/accomplist/work/rpipornlist2.list	7200	@DOMAIN	@IP
+#RPiList-Porn3	black	https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/pornblock3	/opt/accomplist/work/rpipornlist3.list	7200	@DOMAIN	@IP
+#RPiList-Porn4	black	https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/pornblock4	/opt/accomplist/work/rpipornlist4.list	7200	@DOMAIN	@IP
+#RPiList-ChildProt	black	https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/child-protection	/opt/accomplist/work/rpilist-childprot.list	7200	@DOMAIN	@IP
+#RPiList-Gamble	black	https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/gambling	/opt/accomplist/work/rpigamble.list	7200	@DOMAIN	@IP
+
+OISD-NSFW	black!	/opt/oisd/nsfw/domains!	/opt/accomplist/work/oisd-nsfw.list	7200	@DOMAIN	@IP
+
+#GOV-GE	black	http://blacklists.cert.gov.ge/domains_nsfw.txt	/opt/accomplist/work/gov-ge.list	7200	@DOMAIN	@IP
+
+#Bon-Appetit	black	https://raw.githubusercontent.com/Bon-Appetit/porn-domains/master/block.txt	/opt/accomplist/work/bon-appetit.list	7200	@DOMAIN	@IP
+
+Brijrajparmar	black	https://raw.githubusercontent.com/brijrajparmar27/host-sources/master/Porn/hosts	/opt/accomplist/work/brijrajparmar.list	7200	@HOST0	@IP
+
+Mhhakim	black	https://raw.githubusercontent.com/mhhakim/pihole-blocklist/master/porn.txt	/opt/accomplist/work/mhhakim.list	7200	@DOMAIN	@IP
+
+KidSaf	black	https://raw.githubusercontent.com/badmojr/addons_1Hosts/main/kidSaf/domains.wildcards	/opt/accomplist/work/kidsaf.list	7200	@DOMAIN	@IP
+
+RPI-Phish	black	https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/Phishing-Angriffe	/opt/accomplist/work/rpi-phish.list	7200	@DOMAIN	@IP
+RPI-Kids	black	https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/child-protection	/opt/accomplist/work/rpi-kids.list	7200	@DOMAIN	@IP
+RPI-Spam	black	https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/spam.mails	/opt/accomplist/work/rpi-spam.list	7200	@DOMAIN	@IP
+
+No-SafeSearch	black	https://raw.githubusercontent.com/nextdns/no-safesearch/main/domains	/opt/accomplist/work/no-ss.list	7200	@DOMAIN	@IP
+
+Hagezi-Gambling	black	https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/gambling-onlydomains.txt	/opt/accomplist/work/hagezi-gambling.list	7200	@DOMAIN	@IP
+Hagezi-NoSafeSearch	black	https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/nosafesearch-onlydomains.txt	/opt/accomplist/work/hagezi-nosafesearch.list	7200	@DOMAIN	@IP
+Hagezi-Piracy	black	https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/anti.piracy-onlydomains.txt	/opt/accomplist/work/hagezi-piracy.list	7200	@DOMAIN	@IP
+Hagezi-BadWare	black	https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/hoster-onlydomains.txt	/opt/accomplist/work/hagezi-badware.list	7200	@DOMAIN	@IP
+Hagezi-DDNS	black	https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/dyndns-onlydomains.txt	/opt/accomplist/work/hagezi-ddns.list	7200	@DOMAIN	@IP
+
