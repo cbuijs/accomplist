@@ -1,0 +1,5 @@
+{
+	"name" : "Accomplist Ofac black-top-n-list",
+	"description" : "Accomplist *Ofac-top-n* blacklist (1728541660). See: https://github.com/cbuijs/accomplist",
+	"denied-remote-domains" : ["xk", "ci", "cn", "iq", "ir", "cg", "cf", "vn", "cd", "cy", "et", "zw", "cu", "er", "ni", "lb", "lk", "lr", "ro", "ly", "ba", "ru", "ye", "bi", "ht", "it", "hk", "by", "sy", "mm", "mk", "ve", "ss", "kp", "so", "ua", "sd", "dummy"]
+}
