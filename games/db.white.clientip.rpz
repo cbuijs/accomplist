@@ -1,0 +1,18 @@
+; BIND RPZ whitelist
+$TTL 3600
+@ SOA dummy-1729154851-ns hostmaster 1729154851 12h 15m 3w 3h
+@ NS dummy-1729154851-ns
+dummy-1729154851-ns A 0.0.0.0
+dummy-1729154851-ns AAAA ::
+;
+; --- TLDS ---
+;
+; --- DOMAINS ---
+content.spiceworksstatic.com CNAME .
+*.content.spiceworksstatic.com CNAME .
+;
+; --- IPv4 ---
+;
+; --- IPv6 ---
+;
+; --- EOF ---
