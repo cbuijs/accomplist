@@ -1,0 +1,15 @@
+0:0:0:0:0:0:0:0-0000:0000:0000:0000:0000:0000:ffff:ffff
+0:0:0:0:0:0:0:0-0000:0000:0000:0000:0000:0000:0000:0001
+0:0:0:0:0:ffff:0:0-0000:0000:0000:0000:0000:ffff:ffff:ffff
+0:0:0:0:ffff:0:0:0-0000:0000:0000:0000:ffff:0000:ffff:ffff
+64:ff9b:0:0:0:0:0:0-0064:ff9b:0000:0000:0000:0000:ffff:ffff
+64:ff9b:1:0:0:0:0:0-0064:ff9b:0001:0000:0000:0000:ffff:ffff
+100:0:0:0:0:0:0:0-0100:0000:0000:0000:ffff:ffff:ffff:ffff
+2001:0:0:0:0:0:0:0-2001:0000:ffff:ffff:ffff:ffff:ffff:ffff
+2001:20:0:0:0:0:0:0-2001:002f:ffff:ffff:ffff:ffff:ffff:ffff
+2001:db8:0:0:0:0:0:0-2001:0db8:ffff:ffff:ffff:ffff:ffff:ffff
+2002:0:0:0:0:0:0:0-2002:ffff:ffff:ffff:ffff:ffff:ffff:ffff
+fc00:0:0:0:0:0:0:0-fdff:ffff:ffff:ffff:ffff:ffff:ffff:ffff
+fe80:0:0:0:0:0:0:0-febf:ffff:ffff:ffff:ffff:ffff:ffff:ffff
+ff00:0:0:0:0:0:0:0-ffff:ffff:ffff:ffff:ffff:ffff:ffff:ffff
+ffff:ffff:ffff:ffff:ffff:ffff:ffff:ffff
