@@ -1,0 +1,75 @@
+Include	black>!	/opt/accomplist/adult-themed.include!	/opt/accomplist/work/adult-include.list	7200	@DOMAIN	@IP
+
+BaddBoyz-Porn	black	https://raw.githubusercontent.com/mitchellkrogza/Badd-Boyz-Porn/master/porn.list	/opt/accomplist/work/baddboyz-porn.list	7200	@DOMAIN	@IP
+
+Tiuxo	black	https://raw.githubusercontent.com/tiuxo/hosts/master/porn	/opt/accomplist/work/tiuxo.list	7200	@HOST0	@IP
+
+Sinfonietta-Porn	black	https://raw.githubusercontent.com/Sinfonietta/hostfiles/master/pornography-hosts	/opt/accomplist/work/sinfonietta-porn.list	7200	@HOST0127	@IP
+Sinfonietta-Snuff	black	https://raw.githubusercontent.com/Sinfonietta/hostfiles/master/snuff-hosts	/opt/accomplist/work/sinfonietta-snuff.list	7200	@HOST0127	@IP
+
+SW-Adult	black	https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Adult	/opt/accomplist/work/sw-adult.list	7200	@DOMAIN	@IP
+SW-Shock	black	https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Shock	/opt/accomplist/work/sw-shock.list	7200	@DOMAIN	@IP
+
+EasyList-Adult-Servers	black	https://raw.githubusercontent.com/easylist/easylist/master/easylist_adult/adult_adservers.txt	/opt/accomplist/work/easylist-adult.list	7200	@ADBLOCK-BLACK,ADBLOCK-ELEMENT	@IP
+EasyList-Adult-Popup	black	https://raw.githubusercontent.com/easylist/easylist/master/easylist_adult/adult_adservers_popup.txt	/opt/accomplist/work/easylist-adult-popup.list	7200	@ADBLOCK-BLACK,ADBLOCK-ELEMENT	@IP
+EasyList-Adult-Specific	black	https://raw.githubusercontent.com/easylist/easylist/master/easylist_adult/adult_specific_block.txt	/opt/accomplist/work/easylist-adult-specific.list	7200	@ADBLOCK-BLACK,ADBLOCK-ELEMENT	@IP
+EasyList-Adult-Specific-Popup	black	https://raw.githubusercontent.com/easylist/easylist/master/easylist_adult/adult_specific_block_popup.txt	/opt/accomplist/work/easylist-adult-specific-popup.list	7200	@ADBLOCK-BLACK,ADBLOCK-ELEMENT	@IP
+EasyList-Adult-Thirdparty	black	https://raw.githubusercontent.com/easylist/easylist/master/easylist_adult/adult_thirdparty.txt	/opt/accomplist/work/easylist-adult-thirdparty.list	7200	@ADBLOCK-BLACK,ADBLOCK-ELEMENT	@IP
+EasyList-Adult-Thirdparty-Popup	black	https://raw.githubusercontent.com/easylist/easylist/master/easylist_adult/adult_thirdparty_popup.txt	/opt/accomplist/work/easylist-adult-thirdparty-popup.list	7200	@ADBLOCK-BLACK,ADBLOCK-ELEMENT	@IP
+
+Brijrajparmar	black	https://raw.githubusercontent.com/brijrajparmar27/host-sources/master/Porn/hosts	/opt/accomplist/work/brijrajparmar.list	7200	@HOST0	@IP
+
+ADGH-Porn	black	https://raw.githubusercontent.com/alexsannikov/adguardhome-filters/master/porn.txt	/opt/accomplist/work/adgh-porn.list	7200	@ADBLOCK-BLACK	@IP
+ADGH-Gambling	black	https://raw.githubusercontent.com/alexsannikov/adguardhome-filters/master/gambling.txt	/opt/accomplist/work/adgh-gambling.list	7200	@ADBLOCK-BLACK	@IP
+
+UT1-Porn	black!	/opt/ut1/porn/domains!	/opt/accomplist/work/ut1-porn.list	7200	@DOMAIN	@IP
+UT1-Gambling	black!	/opt/ut1/porn/gambling!	/opt/accomplist/work/ut1-gambling.list	7200	@DOMAIN	@IP
+
+OISD-NSFW	black	https://nsfw.oisd.nl/domainswild2	/opt/accomplist/work/oisd-nsfw.list	7200	@DOMAIN	@IP
+
+#OISD-Pornmemo	black	https://local.oisd.nl/extract/pornmemo.com.php	/opt/accomplist/work/pornmemo.list	7200	@DOMAIN	@IP
+#OISD-Freesafeporn	black	https://local.oisd.nl/extract/freesafeporn.com.php	/opt/accomplist/work/oisd-freesafeporn.list	7200	@DOMAIN	@IP
+#OISD-Porngeek	black	https://local.oisd.nl/extract/porngeek.com.php	/opt/accomplist/work/oisd-porngeek.list	7200	@DOMAIN	@IP
+#OISD-Bestfetish	black	https://local.oisd.nl/extract/thebestfetishsites.com.php	/opt/accomplist/work/oisd-bestfetish.list	7200	@DOMAIN	@IP
+#OISD-Bestporn-net	black	https://local.oisd.nl/extract/bestpornsites.net.php	/opt/accomplist/work/oisd-bestpornnet.list	7200	@DOMAIN	@IP
+#OISD-Porndude	black	https://local.oisd.nl/extract/theporndude.com.php	/opt/accomplist/work/oisd-porndude.list	7200	@DOMAIN	@IP
+#OISD-Bestporn-org	black	https://local.oisd.nl/extract/bestpornsites.org.php	/opt/accomplist/work/oisd-bestpornorg.list	7200	@DOMAIN	@IP
+#OISD-Bestpremporn	black	https://local.oisd.nl/extract/bestpremiumpornsite.com.php	/opt/accomplist/work/oisd-bestpremporn.list	7200	@DOMAIN	@IP
+#OISD-Pornbox	black	https://local.oisd.nl/extract/pornbox.org.php	/opt/accomplist/work/oisd-pornbox.list	7200	@DOMAIN	@IP
+#OISD-Tubeporn	black	https://local.oisd.nl/extract/tubepornlist.com.php	/opt/accomplist/work/oisd-tubeporn.list	7200	@DOMAIN	@IP
+#OISD-Pornbest	black	https://local.oisd.nl/extract/thepornbest.com.php	/opt/accomplist/work/oisd-pornbest.list	7200	@DOMAIN	@IP
+#OISD-Allporn	black	https://local.oisd.nl/extract/allpornsite.net.php	/opt/accomplist/work/oisd-allporn.list	7200	@DOMAIN	@IP
+#OISD-Pornlist	black	https://local.oisd.nl/extract/pornlist18.com.php	/opt/accomplist/work/oisd-pornlist.list	7200	@DOMAIN	@IP
+#OISD-Youporn	black	https://local.oisd.nl/extract/youpornlist.com.php	/opt/accomplist/work/oisd-youporn.list	7200	@DOMAIN	@IP
+#OISD-Theporn	black	https://local.oisd.nl/extract/thepornlinks.com.php	/opt/accomplist/work/oisd-theporn.list	7200	@DOMAIN	@IP
+#OISD-Pornguy	black	https://local.oisd.nl/extract/thepornguy.org.php	/opt/accomplist/work/oisd-pornguy.list	7200	@DOMAIN	@IP
+#OISD-Pornmap	black	https://local.oisd.nl/extract/thepornmap.com.php	/opt/accomplist/work/oisd-pornmap.list	7200	@DOMAIN	@IP
+#OISD-Pornsites	black	https://local.oisd.nl/extract/pornsites.love.php	/opt/accomplist/work/oisd-pornsite.list	7200	@DOMAIN	@IP
+#OISD-Tommys	black	https://local.oisd.nl/extract/tommys-bookmarks.com.php	/opt/accomplist/work/oisd-tommys.list	7200	@DOMAIN	@IP
+#OISD-Similar	black	https://local.oisd.nl/extract/similar.porn.php	/opt/accomplist/work/oisd-similar.list	7200	@DOMAIN	@IP
+#OISD-Topporn	black	https://local.oisd.nl/extract/toppornsites.com.php	/opt/accomplist/work/oisd-topporn.list	7200	@DOMAIN	@IP
+
+RPIlist1	black	https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/pornblock1	/opt/accomplist/work/rpi1.list	7200	@ADBLOCK-BLACK	@IP
+RPIlist2	black	https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/pornblock2	/opt/accomplist/work/rpi2.list	7200	@ADBLOCK-BLACK	@IP
+RPIlist3	black	https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/pornblock3	/opt/accomplist/work/rpi3.list	7200	@ADBLOCK-BLACK	@IP
+RPIlist4	black	https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/pornblock4	/opt/accomplist/work/rpi4.list	7200	@ADBLOCK-BLACK	@IP
+RPIlist5	black	https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/pornblock5	/opt/accomplist/work/rpi5.list	7200	@ADBLOCK-BLACK	@IP
+RPIlist6	black	https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/pornblock6	/opt/accomplist/work/rpi6.list	7200	@ADBLOCK-BLACK	@IP
+
+StevenBlack-Gambling	black	https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/gambling-only/hosts	/opt/accomplist/work/stevenblack-gambling.list	7200	@HOST0	@IP
+StevenBlack-Porn	black	https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/porn-only/hosts	/opt/accomplist/work/stevenblack-porn.list	7200	@HOST0	@IP
+
+ThisIsu	black	black	https://raw.githubusercontent.com/thisisu/hosts_adultxxx/master/hosts	/opt/accomplist/work/thisisu.list	7200	@HOST0	@IP
+
+AntiPorn	black	https://raw.githubusercontent.com/4skinSkywalker/Anti-Porn-HOSTS-File/master/HOSTS.txt	/opt/accomplist/work/antiporn.list	7200	@HOST0	@IP
+
+BonApetit	black	https://raw.githubusercontent.com/Bon-Appetit/porn-domains/master/block.txt	/opt/accomplist/work/bonapp.list	7200	@DOMAIN	@IP
+
+Jarelllama	black	https://raw.githubusercontent.com/jarelllama/Scam-Blocklist/main/lists/adblock/nsfw.txt	/opt/accomplist/work/jarellama.list	7200	@ADBLOCK-BLACK	@IP
+
+Hagezi-Gambling	black	https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/wildcard/gambling-onlydomains.txt	/opt/accomplist/work/hagezi-gambling.list	7200	@DOMAIN	@IP
+
+1Hosts-KidSaf	black	https://raw.githubusercontent.com/badmojr/addons_1Hosts/main/kidSaf/domains.wildcards	/opt/accomplist/work/1hosts-kidsaf.list	7200	@DOMAIN	@IP
+
+#BLP-Porn	black	https://blocklistproject.github.io/Lists/alt-version/porn-nl.txt	/opt/accomplist/work/blp-porn.list	7200	@DOMAIN	@IP
+#BLP-Gambling	black	https://blocklistproject.github.io/Lists/alt-version/gambling-nl.txt	/opt/accomplist/work/blp-gambling.list	7200	@DOMAIN	@IP
