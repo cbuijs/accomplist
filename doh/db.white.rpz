@@ -1,0 +1,20 @@
+; BIND RPZ whitelist
+$TTL 3600
+@ SOA dummy-1729398190-ns hostmaster 1729398190 12h 15m 3w 3h
+@ NS dummy-1729398190-ns
+dummy-1729398190-ns A 0.0.0.0
+dummy-1729398190-ns AAAA ::
+;
+; --- TLDS ---
+;
+; --- DOMAINS ---
+raw.githubusercontent.com CNAME .
+*.raw.githubusercontent.com CNAME .
+public-dns.info CNAME .
+*.public-dns.info CNAME .
+;
+; --- IPv4 ---
+;
+; --- IPv6 ---
+;
+; --- EOF ---
