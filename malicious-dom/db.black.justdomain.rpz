@@ -1,0 +1,21 @@
+; BIND RPZ blacklist
+$TTL 3600
+@ SOA dummy-1733623356-ns hostmaster 1733623356 12h 15m 3w 3h
+@ NS dummy-1733623356-ns
+dummy-1733623356-ns A 0.0.0.0
+dummy-1733623356-ns AAAA ::
+anydo-user-uploads.s3.amazonaws.com CNAME .
+appchrolista.s3.amazonaws.com CNAME .
+autoren.s3.amazonaws.com CNAME .
+bd5w8-w6d9w-v3w6s.s3.amazonaws.com CNAME .
+d5g48-g6r89-d68re.s3.amazonaws.com CNAME .
+d5g48-g6r89-efw21.s3.amazonaws.com CNAME .
+dbbpps.s3.amazonaws.com CNAME .
+instcap.s3.amazonaws.com CNAME .
+myapt67.s3.amazonaws.com CNAME .
+newkstecccb8.s3.amazonaws.com CNAME .
+odrv.s3.amazonaws.com CNAME .
+pctattletalev2.s3.amazonaws.com CNAME .
+prod-be-source.s3.amazonaws.com CNAME .
+srcsrvdownloads.s3.amazonaws.com CNAME .
+v4e55-g45e8-g48ee.s3.amazonaws.com CNAME .
