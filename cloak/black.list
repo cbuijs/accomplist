@@ -1,0 +1,114 @@
+############################################
+### ACCOMPLIST GENERATED BLACKLIST       ###
+### Version: 1733721011                  ###
+### Chris Buijs                          ###
+### https://github.com/cbuijs/accomplist ###
+############################################
+
+### SAFELIST DOMAINS ###
+ads.bid!	Safelist-Include
+nc0.co!	Safelist-Include
+0i0i0i0.com!	Safelist-Include
+actonservice.com!	Safelist-Include
+actonsoftware.com!	Safelist-Include
+a351fec2c318c11ea9b9b0a0ae18fb0b-1529426863.eu-central-1.elb.amazonaws.com!	Safelist-Include
+a5e652663674a11e997c60ac8a4ec150-1684524385.eu-central-1.elb.amazonaws.com!	Safelist-Include
+a88045584548111e997c60ac8a4ec150-1610510072.eu-central-1.elb.amazonaws.com!	Safelist-Include
+afc4d9aa2a91d11e997c60ac8a4ec150-2082092489.eu-central-1.elb.amazonaws.com!	Safelist-Include
+appnexus.com!	Safelist-Include
+brightcove.com!	Safelist-Include
+clickaine.com!	Safelist-Include
+criteo.com!	Safelist-Include
+dataunlocker.com!	Safelist-Include
+eloqua.com!	Safelist-Include
+en25.com!	Safelist-Include
+ensighten.com!	Safelist-Include
+extole.com!	Safelist-Include
+fathomdns.com!	Safelist-Include
+admanager.l.google.com!	Safelist-Include
+google-analytics.l.google.com!	Safelist-Include
+pagead.l.google.com!	Safelist-Include
+pagead-googlehosted.l.google.com!	Safelist-Include
+partnerad.l.google.com!	Safelist-Include
+s0-2mdn-net.l.google.com!	Safelist-Include
+static-doubleclick-net.l.google.com!	Safelist-Include
+video-stats.l.google.com!	Safelist-Include
+www-google-analytics.l.google.com!	Safelist-Include
+www-googletagmanager.l.google.com!	Safelist-Include
+heleric.com!	Safelist-Include
+hugedomains.com!	Safelist-Include
+keyade.com!	Safelist-Include
+locationlabs.com!	Safelist-Include
+madmetrics.com!	Safelist-Include
+ntvforever.com!	Safelist-Include
+pardot.com!	Safelist-Include
+parsely.com!	Safelist-Include
+postrelease.com!	Safelist-Include
+a.rfihub.com!	Safelist-Include
+taboola.com!	Safelist-Include
+tagcommander.com!	Safelist-Include
+tracedock.com!	Safelist-Include
+usefathom.com!	Safelist-Include
+wizaly.com!	Safelist-Include
+affilbox.cz!	Safelist-Include
+monopoly-drain.ga!	Safelist-Include
+dnsdelegation.io!	Safelist-Include
+extole.io!	Safelist-Include
+ntv.io!	Safelist-Include
+oghub.io!	Safelist-Include
+plausible.io!	Safelist-Include
+rdtk.io!	Safelist-Include
+siteimproveanalytics.io!	Safelist-Include
+storetail.io!	Safelist-Include
+actionlink.jp!	Safelist-Include
+ad-cloud.jp!	Safelist-Include
+logly.co.jp!	Safelist-Include
+genieespv.jp!	Safelist-Include
+ebis.ne.jp!	Safelist-Include
+bnc.lt!	Safelist-Include
+ahacdn.me!	Safelist-Include
+delightful-development.ml!	Safelist-Include
+2cnt.net!	Safelist-Include
+2o7.net!	Safelist-Include
+a8.net!	Safelist-Include
+ab1n.net!	Safelist-Include
+adobedc.net!	Safelist-Include
+ak-is2.net!	Safelist-Include
+admob.com.akadns.net!	Safelist-Include
+appnexus.net!	Safelist-Include
+at-o.net!	Safelist-Include
+b-cdn.net!	Safelist-Include
+bp01.net!	Safelist-Include
+criteo.net!	Safelist-Include
+demdex.net!	Safelist-Include
+l.doubleclick.net!	Safelist-Include
+eulerian.net!	Safelist-Include
+sni.global.fastly.net!	Safelist-Include
+iocnt.net!	Safelist-Include
+omtrdc.net!	Safelist-Include
+online-metrix.net!	Safelist-Include
+trafficmanager.net!	Safelist-Include
+webtrekk.net!	Safelist-Include
+wt-eu02.net!	Safelist-Include
+affex.org!	Safelist-Include
+friendly-community.tk!	Safelist-Include
+### BLACKLIST REGEXES ###
+### BLACKLIST DOMAINS ###
+e.truedata.co	AdGuard-CName
+aquaplatform.com	AdGuard-CName
+e.customeriomail.com	AdGuard-CName
+customer.etracker.com	AdGuard-CName
+exacttarget.com	AdGuard-CName
+goatcounter.com	AdGuard-CName
+mr-in.com	AdGuard-CName
+ntvpforever.com	AdGuard-CName
+sailthru.com	AdGuard-CName
+track.sp.crdl.io	AdGuard-CName
+non.li	AdGuard-CName
+utiq-aws.net	AdGuard-CName
+mailgun.org	AdGuard-CName
+adocean.pl	AdGuard-CName
+### BLACKLIST ASN ###
+### BLACKLIST IPv4 ###
+### BLACKLIST IPv6 ###
+### BLACKLIST EOF ###

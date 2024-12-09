@@ -1,0 +1,26 @@
+; BIND RPZ whitelist
+$TTL 3600
+@ SOA dummy-1733721180-ns hostmaster 1733721180 12h 15m 3w 3h
+@ NS dummy-1733721180-ns
+dummy-1733721180-ns A 0.0.0.0
+dummy-1733721180-ns AAAA ::
+;
+; --- TLDS ---
+;
+; --- DOMAINS ---
+rescure.fruxlabs.com CNAME .
+*.rescure.fruxlabs.com CNAME .
+raw.githubusercontent.com CNAME .
+*.raw.githubusercontent.com CNAME .
+kriskintel.com CNAME .
+*.kriskintel.com CNAME .
+managedsentinel.com CNAME .
+*.managedsentinel.com CNAME .
+blocklist.cyberthreatcoalition.org CNAME .
+*.blocklist.cyberthreatcoalition.org CNAME .
+;
+; --- IPv4 ---
+;
+; --- IPv6 ---
+;
+; --- EOF ---
