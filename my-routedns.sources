@@ -1,0 +1,55 @@
+# Exclude
+Exclude	exclude	/opt/accomplist/my-routedns.exclude!	/opt/accomplist/work/exclude.list	7200	@DOMAIN	@IP
+
+# Bypassers
+NEXTDNS-APPLE-RELAY	black	https://raw.githubusercontent.com/nextdns/dns-bypass-methods/main/apple-private-relay	/opt/accomplist/work/apple-relay.list	7200	@DOMAIN	@IP
+NEXTDNS-BORWSERS	black	https://raw.githubusercontent.com/nextdns/dns-bypass-methods/main/browsers	/opt/accomplist/work/browsers.list	7200	@DOMAIN	@IP
+NEXTDNS-ENCRYPTED-DNS	black	https://raw.githubusercontent.com/nextdns/dns-bypass-methods/main/encrypted-dns	/opt/accomplist/work/encrypted-dns.list	7200	@DOMAIN	@IP
+NEXTDNS-LINUX	black	https://raw.githubusercontent.com/nextdns/dns-bypass-methods/main/linux	/opt/accomplist/work/linux.list	7200	@DOMAIN	@IP
+NEXTDNS-PROXIES	black	https://raw.githubusercontent.com/nextdns/dns-bypass-methods/main/proxies	/opt/accomplist/work/proxies.list	7200	@DOMAIN	@IP
+NEXTDNS-TOR	black	https://raw.githubusercontent.com/nextdns/dns-bypass-methods/main/tor	/opt/accomplist/work/tor.list	7200	@DOMAIN	@IP
+NEXTDNS-VPN	black	https://raw.githubusercontent.com/nextdns/dns-bypass-methods/main/vpn	/opt/accomplist/work/vpn.list	7200	@DOMAIN	@IP
+
+# Whitelist Domains
+Router-WL	white	/opt/droplet-routedns-config/lists/allow.list!	/opt/accomplist/work/routerwhitelist.list	7200	@DOMAIN	@IP
+Google-Allow	white	/opt/droplet-routedns-config/lists/allow.google.list!	/opt/accomplist/work/googlew.list	7200	@DOMAIN	@IP
+
+# Blacklist Domains
+Router-BL	black>!	/opt/droplet-routedns-config/lists/block.list!	/opt/accomplist/work/routerblacklist.list	7200	@DOMAIN	@IP
+Google-Block	black!	/opt/droplet-routedns-config/lists/block.google.list!	/opt/accomplist/work/googleb.list	7200	@DOMAIN	@IP
+Include	black>!	/opt/accomplist/my-routedns.include!	/opt/accomplist/work/include-black.list	7200	@DOMAIN	@IP
+Deny	black>!	/opt/nextdns-api/denylist.include!	/opt/accomplist/work/deny-black.list	7200	@DOMAIN	@IP
+Common-Adult	black!	/opt/accomplist/common-adult-domains!	/opt/accomplist/work/common-adult-black.list	7200	@DOMAIN	@IP
+DoX	black!	/opt/accomplist/chris/chris-dox-domain.black!	/opt/accomplist/work/dox-black.list	7200	@DOMAIN	@IP
+Abuse-TLDS	black>!	/opt/accomplist/tlds/plain.black.domain.list!	/opt/accomplist/work/abuse-tlds-black.list	7200	@DOMAIN	@IP
+SpamHaus-TLDS	black>!	/opt/accomplist/chris/spamhaus-abuse-tlds.list!	/opt/accomplist/work/spamhaus-tlds-black.list	7200	@DOMAIN	@IP
+Newly-Registered	black!	/opt/accomplist/chris/nrd.list!	/opt/accomplist/work/nrd-black.list	7200	@DOMAIN	@IP
+Dutch	black!	/opt/accomplist/dutch/plain.black.domain.list!	/opt/accomplist/work/dutch-black.list	7200	@DOMAIN	@IP
+French	black!	/opt/accomplist/french/plain.black.domain.list!	/opt/accomplist/work/french-black.list	7200	@DOMAIN	@IP
+Malicious	black!	/opt/accomplist/malicious-dom/plain.black.domain.list!	/opt/accomplist/work/malicious-black.list	7200	@DOMAIN	@IP
+Family-Safe	black!	/opt/accomplist/family-safe/plain.black.domain.list!	/opt/accomplist/work/family-safe-black.list	7200	@DOMAIN	@IP
+Covid	black!	/opt/accomplist/covid/plain.black.domain.list!	/opt/accomplist/work/covid-black.list	7200	@DOMAIN	@IP
+CryptoJack	black!	/opt/accomplist/cryptojack/plain.black.domain.list!	/opt/accomplist/work/cryptojack.list	7200	@DOMAIN	@IP
+TypoSquatting	black!	/opt/accomplist/chris/typosquatting.list!	/opt/accomplist/work/typo-squatting.list	7200	@DOMAIN	@IP
+
+# Special
+FirstParty	black!	/opt/accomplist/firstparty/plain.black.domain.list!	/opt/accomplist/work/first-party.list	7200	@DOMAIN	@IP
+
+# Some wellknown
+MVPS	black	https://winhelp2002.mvps.org/hosts.txt	/opt/accomplist/work/mvps.list	7200	@HOST0	@IP
+SomeOneWhoCares	black	https://someonewhocares.org/hosts/zero/hosts	/opt/accomplist/work/sowc.list	7200	@HOST0	@IP
+YoYo	black	https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext	/opt/accomplist/work/yoyo.list	7200	@HOST127	@IP
+StevenBlack	black!	/opt/accomplist/stevenblack/plain.black.domain.list!	/opt/accomplist/work/stevenblack.list	7200	@DOMAIN	@IP
+
+# various
+AdGuard-Disguised	black	https://raw.githubusercontent.com/AdguardTeam/cname-trackers/master/combined_disguised_trackers_justdomains.txt	/opt/accomplist/work/adguard-disguised.list	7200	@DOMAIN	@IP
+AutoDiscover	black!	/opt/accomplist/autodiscover/plain.black.domain.list!	/opt/accomplist/work/autodiscover.list	7200	@DOMAIN	@IP
+AdAway	black	https://raw.githubusercontent.com/AdAway/adaway.github.io/master/hosts.txt	/opt/accomplist/work/adaway.list	7200	@HOST127	@IP
+ClickTracking	black	https://raw.githubusercontent.com/nextdns/click-tracking-domains/main/domains	/opt/accomplist/work/clicktrack.list	7200	@DOMAIN	@IP
+OISD-FULL	black!	/opt/oisd/full/domains!	/opt/accomplist/work/oisd.list	7200	@DOMAIN	@IP
+Shady	black	https://raw.githubusercontent.com/shreyasminocha/shady-hosts/main/hosts	/opt/accomplist/work/shady.list	7200	@HOST0	@IP
+DDan-Hate	black	https://www.github.developerdan.com/hosts/lists/hate-and-junk-extended.txt	/opt/accomplist/work/ddan-hate.list	7200	@HOST0	@IP
+DDan-AdTrack	black	https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt	/opt/accomplist/work/ddan-adtrack.list	7200	@HOST0	@IP
+Hagezi-TikTok	black	https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/native.tiktok.txt	/opt/accomplist/work/tiktok.list	7200	@DOMAIN	@IP
+Hagezi-WebOs	black	https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/native.lgwebos.txt	/opt/accomplist/work/webos.list	7200	@DOMAIN	@IP
+D3Ward	black	https://raw.githubusercontent.com/d3ward/toolz/master/src/d3host.txt	/opt/accomplist/work/d3ward.list	7200	@HOST0	@IP

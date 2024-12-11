@@ -1,0 +1,5 @@
+Include	black!	/opt/accomplist/gambling.include!	/opt/accomplist/work/include.list	7200	@DOMAIN @IP
+UT1-Gambling	black!	/opt/ut1/gambling/domains!	/opt/accomplist/work/ut-gambling.list	7200	@DOMAIN	@IP
+Hagezi	black!	/opt/hagezi/Gambling/domains!	/opt/accomplist/work/hagezi.list	7200	@DOMAIN	@IP
+BLP-Gambling	black!	https://raw.githubusercontent.com/blocklistproject/Lists/refs/heads/master/gambling.txt	/opt/accomplist/work/blp-gambling.list	7200	@HOST0	@IP
+Sinfonietta	black!	https://raw.githubusercontent.com/Sinfonietta/hostfiles/refs/heads/master/gambling-hosts	/opt/accomplist/work/sinfonietta.list	7200	@HOST0	@IP
