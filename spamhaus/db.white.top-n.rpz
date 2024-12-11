@@ -1,0 +1,18 @@
+; BIND RPZ whitelist
+$TTL 3600
+@ SOA dummy-1733893599-ns hostmaster 1733893599 12h 15m 3w 3h
+@ NS dummy-1733893599-ns
+dummy-1733893599-ns A 0.0.0.0
+dummy-1733893599-ns AAAA ::
+;
+; --- TLDS ---
+;
+; --- DOMAINS ---
+www.spamhaus.org CNAME .
+*.www.spamhaus.org CNAME .
+;
+; --- IPv4 ---
+;
+; --- IPv6 ---
+;
+; --- EOF ---

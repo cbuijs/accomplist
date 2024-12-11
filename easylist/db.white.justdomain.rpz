@@ -1,0 +1,13 @@
+; BIND RPZ whitelist
+$TTL 3600
+@ SOA dummy-1733893284-ns hostmaster 1733893284 12h 15m 3w 3h
+@ NS dummy-1733893284-ns
+dummy-1733893284-ns A 0.0.0.0
+dummy-1733893284-ns AAAA ::
+autocomplete.clearbit.com CNAME .
+logo.clearbit.com CNAME .
+dashboard.mgid.com CNAME .
+identity.mparticle.com CNAME .
+chart-embed.service.newrelic.com CNAME .
+ondemand.sas.com CNAME .
+ads.taboola.com CNAME .
