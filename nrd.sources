@@ -1,0 +1,5 @@
+NRD	black!	/opt/accomplist/chris/nrd-7-days.list!	/opt/accomplist/work/newregdom.list	7200	@DOMAIN	@IP
+Shresta	black!	/opt/ioc2rpz-feeds/nrd.domain.list!	/opt/accomplist/work/shresta.list	7200	@DOMAIN	@IP
+NRD1	black	https://raw.githubusercontent.com/xRuffKez/NRD/refs/heads/main/lists/30-day/domains-only/nrd-30day_part1.txt	/opt/accomplist/work/nrd1.list	7200	@DOMAIN	@IP
+NRD2	black	https://raw.githubusercontent.com/xRuffKez/NRD/refs/heads/main/lists/30-day/domains-only/nrd-30day_part2.txt	/opt/accomplist/work/nrd2.list	7200	@DOMAIN	@IP
+NRD-PHISH	black	https://raw.githubusercontent.com/xRuffKez/NRD/refs/heads/main/lists/30-day/domains-only/nrd-phishing-30day.txt	/opt/accomplist/work/nrd-phish.list	7200	@DOMAIN	@IP
