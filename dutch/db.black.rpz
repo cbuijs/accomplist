@@ -1,0 +1,144 @@
+; BIND RPZ blacklist
+$TTL 3600
+@ SOA dummy-1734585442-ns hostmaster 1734585442 12h 15m 3w 3h
+@ NS dummy-1734585442-ns
+dummy-1734585442-ns A 0.0.0.0
+dummy-1734585442-ns AAAA ::
+;
+; --- TLDS ---
+;
+; --- DOMAINS ---
+believe-the-hype.be CNAME .
+*.believe-the-hype.be CNAME .
+a.medialaancdn.be CNAME .
+*.a.medialaancdn.be CNAME .
+travelads.be CNAME .
+*.travelads.be CNAME .
+cryptobeneluxbanner.care CNAME .
+*.cryptobeneluxbanner.care CNAME .
+cryptosplash.care CNAME .
+*.cryptosplash.care CNAME .
+advertising-cdn.dpgmedia.cloud CNAME .
+*.advertising-cdn.dpgmedia.cloud CNAME .
+advertising-module.api.dpgmedia.cloud CNAME .
+*.advertising-module.api.dpgmedia.cloud CNAME .
+traffic.12flirt.com CNAME .
+*.traffic.12flirt.com CNAME .
+adshim.com CNAME .
+*.adshim.com CNAME .
+affilaxy.com CNAME .
+*.affilaxy.com CNAME .
+affiliatepartners.com CNAME .
+*.affiliatepartners.com CNAME .
+nextdaymedia-ads.s3.amazonaws.com CNAME .
+*.nextdaymedia-ads.s3.amazonaws.com CNAME .
+t.bazarow.com CNAME .
+*.t.bazarow.com CNAME .
+partner.bol.com CNAME .
+*.partner.bol.com CNAME .
+partnerprogramma.bol.com CNAME .
+*.partnerprogramma.bol.com CNAME .
+gratis-neuken.com CNAME .
+*.gratis-neuken.com CNAME .
+aa.hwigroup.com CNAME .
+*.aa.hwigroup.com CNAME .
+ab.hwigroup.com CNAME .
+*.ab.hwigroup.com CNAME .
+optoutadvertising.com CNAME .
+*.optoutadvertising.com CNAME .
+bannersimages.s-bol.com CNAME .
+*.bannersimages.s-bol.com CNAME .
+sponsorkliks.com CNAME .
+*.sponsorkliks.com CNAME .
+tools-affil2.com CNAME .
+*.tools-affil2.com CNAME .
+affiliateprogramma.eu CNAME .
+*.affiliateprogramma.eu CNAME .
+cashpartners.eu CNAME .
+*.cashpartners.eu CNAME .
+nojazz.eu CNAME .
+*.nojazz.eu CNAME .
+ads.nextday.media CNAME .
+*.ads.nextday.media CNAME .
+adrequest.net CNAME .
+*.adrequest.net CNAME .
+adconfigproxy.azurewebsites.net CNAME .
+*.adconfigproxy.azurewebsites.net CNAME .
+kjdsfjisdfjr23.azurewebsites.net CNAME .
+*.kjdsfjisdfjr23.azurewebsites.net CNAME .
+wertuipsertj34.azurewebsites.net CNAME .
+*.wertuipsertj34.azurewebsites.net CNAME .
+sp.dpgmedia.net CNAME .
+*.sp.dpgmedia.net CNAME .
+dt51.net CNAME .
+*.dt51.net CNAME .
+dt71.net CNAME .
+*.dt71.net CNAME .
+mt67.net CNAME .
+*.mt67.net CNAME .
+nonstoppartner.net CNAME .
+*.nonstoppartner.net CNAME .
+static-dscn.net CNAME .
+*.static-dscn.net CNAME .
+2k19.nl CNAME .
+*.2k19.nl CNAME .
+banner-online.nl CNAME .
+*.banner-online.nl CNAME .
+content2.besteproduct.nl CNAME .
+*.content2.besteproduct.nl CNAME .
+botndm.nl CNAME .
+*.botndm.nl CNAME .
+crnsgngrpj.nl CNAME .
+*.crnsgngrpj.nl CNAME .
+dntblckmpls.nl CNAME .
+*.dntblckmpls.nl CNAME .
+ds1.nl CNAME .
+*.ds1.nl CNAME .
+tools.islive.nl CNAME .
+*.tools.islive.nl CNAME .
+content2.kieskeurig.nl CNAME .
+*.content2.kieskeurig.nl CNAME .
+content2.nrc.nl CNAME .
+*.content2.nrc.nl CNAME .
+online-banners.nl CNAME .
+*.online-banners.nl CNAME .
+content1.pcmweb.nl CNAME .
+*.content1.pcmweb.nl CNAME .
+pexi.nl CNAME .
+*.pexi.nl CNAME .
+pornokartel.nl CNAME .
+*.pornokartel.nl CNAME .
+content1.pu.nl CNAME .
+*.content1.pu.nl CNAME .
+content2.pu.nl CNAME .
+*.content2.pu.nl CNAME .
+adcdn.ster.nl CNAME .
+*.adcdn.ster.nl CNAME .
+aa.tweakers.nl CNAME .
+*.aa.tweakers.nl CNAME .
+ab.tweakers.nl CNAME .
+*.ab.tweakers.nl CNAME .
+vpscash.nl CNAME .
+*.vpscash.nl CNAME .
+content1.wasmachines.nl CNAME .
+*.content1.wasmachines.nl CNAME .
+content2.wasmachines.nl CNAME .
+*.content2.wasmachines.nl CNAME .
+xpartners.nl CNAME .
+*.xpartners.nl CNAME .
+content1.zoom.nl CNAME .
+*.content1.zoom.nl CNAME .
+content2.zoom.nl CNAME .
+*.content2.zoom.nl CNAME .
+https-filtering-check.adtidy.org CNAME .
+*.https-filtering-check.adtidy.org CNAME .
+go2.go2cloud.org CNAME .
+*.go2.go2cloud.org CNAME .
+viadata.store CNAME .
+*.viadata.store CNAME .
+;
+; --- IPv4 ---
+;
+; --- IPv6 ---
+;
+; --- EOF ---
