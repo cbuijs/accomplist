@@ -1,0 +1,9 @@
+; BIND RPZ whitelist
+$TTL 3600
+@ SOA dummy-1735017410-ns hostmaster 1735017410 12h 15m 3w 3h
+@ NS dummy-1735017410-ns
+dummy-1735017410-ns A 0.0.0.0
+dummy-1735017410-ns AAAA ::
+concierge.analytics.console.aws.a2z.com CNAME .
+cloud.answerhub.com CNAME .
+teslarati-com-edge.ntv.io CNAME .

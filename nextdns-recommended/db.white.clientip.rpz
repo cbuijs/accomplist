@@ -1,0 +1,54 @@
+; BIND RPZ whitelist
+$TTL 3600
+@ SOA dummy-1735017408-ns hostmaster 1735017408 12h 15m 3w 3h
+@ NS dummy-1735017408-ns
+dummy-1735017408-ns A 0.0.0.0
+dummy-1735017408-ns AAAA ::
+;
+; --- TLDS ---
+gov CNAME .
+*.gov CNAME .
+;
+; --- DOMAINS ---
+concierge.analytics.console.aws.a2z.com CNAME .
+*.concierge.analytics.console.aws.a2z.com CNAME .
+geo2.adobe.com CNAME .
+*.geo2.adobe.com CNAME .
+get3.adobe.com CNAME .
+*.get3.adobe.com CNAME .
+ae01.alicdn.com CNAME .
+*.ae01.alicdn.com CNAME .
+cloud.answerhub.com CNAME .
+*.cloud.answerhub.com CNAME .
+raw.githubusercontent.com CNAME .
+*.raw.githubusercontent.com CNAME .
+jnn-pa.googleapis.com CNAME .
+*.jnn-pa.googleapis.com CNAME .
+inc.com CNAME .
+*.inc.com CNAME .
+browser.pipe.aria.microsoft.com CNAME .
+*.browser.pipe.aria.microsoft.com CNAME .
+mobile.pipe.aria.microsoft.com CNAME .
+*.mobile.pipe.aria.microsoft.com CNAME .
+v10.events.data.microsoft.com CNAME .
+*.v10.events.data.microsoft.com CNAME .
+settings-win.data.microsoft.com CNAME .
+*.settings-win.data.microsoft.com CNAME .
+smartsheet.com CNAME .
+*.smartsheet.com CNAME .
+s.youtube.com CNAME .
+*.s.youtube.com CNAME .
+teslarati-com-edge.ntv.io CNAME .
+*.teslarati-com-edge.ntv.io CNAME .
+app.link CNAME .
+*.app.link CNAME .
+whoami.akamai.net CNAME .
+*.whoami.akamai.net CNAME .
+lenta.ru CNAME .
+*.lenta.ru CNAME .
+;
+; --- IPv4 ---
+;
+; --- IPv6 ---
+;
+; --- EOF ---

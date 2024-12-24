@@ -1,0 +1,72 @@
+; BIND RPZ whitelist
+$TTL 3600
+@ SOA dummy-1735005207-ns hostmaster 1735005207 12h 15m 3w 3h
+@ NS dummy-1735005207-ns
+dummy-1735005207-ns A 0.0.0.0
+dummy-1735005207-ns AAAA ::
+;
+; --- TLDS ---
+;
+; --- DOMAINS ---
+feodotracker.abuse.ch CNAME .
+*.feodotracker.abuse.ch CNAME .
+ransomwaretracker.abuse.ch CNAME .
+*.ransomwaretracker.abuse.ch CNAME .
+sslbl.abuse.ch CNAME .
+*.sslbl.abuse.ch CNAME .
+zeustracker.abuse.ch CNAME .
+*.zeustracker.abuse.ch CNAME .
+blocklist.greensnow.co CNAME .
+*.blocklist.greensnow.co CNAME .
+reputation.alienvault.com CNAME .
+*.reputation.alienvault.com CNAME .
+www.badips.com CNAME .
+*.www.badips.com CNAME .
+osint.bambenekconsulting.com CNAME .
+*.osint.bambenekconsulting.com CNAME .
+www.binarydefense.com CNAME .
+*.www.binarydefense.com CNAME .
+cinsscore.com CNAME .
+*.cinsscore.com CNAME .
+raw.githubusercontent.com CNAME .
+*.raw.githubusercontent.com CNAME .
+kriskintel.com CNAME .
+*.kriskintel.com CNAME .
+www.malwaredomainlist.com CNAME .
+*.www.malwaredomainlist.com CNAME .
+www.stopforumspam.com CNAME .
+*.www.stopforumspam.com CNAME .
+talosintelligence.com CNAME .
+*.talosintelligence.com CNAME .
+project.turris.cz CNAME .
+*.project.turris.cz CNAME .
+lists.blocklist.de CNAME .
+*.lists.blocklist.de CNAME .
+www.botvrij.eu CNAME .
+*.www.botvrij.eu CNAME .
+zonefiles.io CNAME .
+*.zonefiles.io CNAME .
+www.myip.ms CNAME .
+*.www.myip.ms CNAME .
+rules.emergingthreats.net CNAME .
+*.rules.emergingthreats.net CNAME .
+www.cidr-report.org CNAME .
+*.www.cidr-report.org CNAME .
+feeds.dshield.org CNAME .
+*.feeds.dshield.org CNAME .
+www.dshield.org CNAME .
+*.www.dshield.org CNAME .
+iplists.firehol.org CNAME .
+*.iplists.firehol.org CNAME .
+www.spamhaus.org CNAME .
+*.www.spamhaus.org CNAME .
+www.team-cymru.org CNAME .
+*.www.team-cymru.org CNAME .
+check.torproject.org CNAME .
+*.check.torproject.org CNAME .
+;
+; --- IPv4 ---
+;
+; --- IPv6 ---
+;
+; --- EOF ---
