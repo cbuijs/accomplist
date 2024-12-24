@@ -1,0 +1,12 @@
+UT1-BitCoin	black!	/opt/ut1/bitcoin/domains!	/opt/accomplist/work/ut1-bitcoin.list	7200	@DOMAIN	@IP
+UT1-CryptoJack	black!	/opt/ut1/cryptojacking/domains!	/opt/accomplist/work/ut1-cryptojack.list	7200	@DOMAIN	@IP
+Adguard-Cryptominers	black	https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/BaseFilter/sections/cryptominers.txt	/opt/accomplist/work/adguard-cryptominers.list	7200	@ADBLOCK-BLACK,ADBLOCK-ELEMENT	@IP
+Hoshsadiq	black	https://raw.githubusercontent.com/hoshsadiq/adblock-nocoin-list/master/hosts.txt	/opt/accomplist/work/hashsadiq.list	7200	@HOST0	@IP
+ZeroDot1-CoinBlocker	black	https://gitlab.com/ZeroDot1/CoinBlockerLists/-/raw/master/list.txt	/opt/accomplist/zerodot1-coinblocker.list	7200	@DOMAIN	@IP
+Hakkelaar	black	https://dehakkelaar.nl/lists/cryptojacking_campaign.list.txt	/opt/accomplist/work/hakkelaar.list	7200	@DOMAIN	@IP
+CryptoScam-FR	black	https://raw.githubusercontent.com/CryptoFR/crypto-scams-fr/master/websites.txt	/opt/accomplist/work/cryptoscam-fr.list	7200	@DOMAIN	@IP
+CryptoScam-Misc	black	https://raw.githubusercontent.com/CryptoFR/crypto-scams-fr/master/misc.txt	/opt/accomplist/work/cryptoscam-misc.list	7200	@DOMAIN	@IP
+AntiWebMiner	black	https://raw.githubusercontent.com/greatis/Anti-WebMiner/master/blacklist.txt	/opt/accomplist/work/antiwebminer.list	7200	@DOMAIN	@IP
+ShadowWhisperer	black	https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Cryptocurrency	/opt/accomplist/work/shadowwhisperer.list	7200	@DOMAIN	@IP
+#RPiList-Crypto	black	https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/crypto	/opt/accomplist/work/rpilist-crypto.list	7200	@DOMAIN	@IP
+#BLP-Crypto	black	https://blocklistproject.github.io/Lists/alt-version/crypto-nl.txt	/opt/accomplist/work/blp-crypto.list	7200	@DOMAIN	@IP
