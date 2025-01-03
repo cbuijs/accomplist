@@ -1,0 +1,78 @@
+############################################
+### ACCOMPLIST GENERATED BLACKLIST       ###
+### Version: 1735881426                  ###
+### Chris Buijs                          ###
+### https://github.com/cbuijs/accomplist ###
+############################################
+
+### SAFELIST DOMAINS ###
+### BLACKLIST REGEXES ###
+### BLACKLIST DOMAINS ###
+believe-the-hype.be	AdGuard, EasyList
+a.medialaancdn.be	AdGuard
+travelads.be	AdGuard, EasyList
+cryptobeneluxbanner.care	AdGuard
+cryptosplash.care	AdGuard
+advertising-cdn.dpgmedia.cloud	AdGuard, EasyList
+advertising-module.api.dpgmedia.cloud	AdGuard, EasyList
+traffic.12flirt.com	AdGuard, EasyList
+adshim.com	AdGuard, EasyList
+affilaxy.com	AdGuard, EasyList
+affiliatepartners.com	AdGuard, EasyList
+nextdaymedia-ads.s3.amazonaws.com	AdGuard, EasyList
+t.bazarow.com	AdGuard, EasyList
+partner.bol.com	AdGuard, EasyList
+partnerprogramma.bol.com	AdGuard, EasyList
+gratis-neuken.com	AdGuard, EasyList
+aa.hwigroup.com	AdGuard
+ab.hwigroup.com	AdGuard
+optoutadvertising.com	AdGuard, EasyList
+bannersimages.s-bol.com	AdGuard, EasyList
+sponsorkliks.com	AdGuard, EasyList
+tools-affil2.com	AdGuard, EasyList
+affiliateprogramma.eu	AdGuard, EasyList
+cashpartners.eu	AdGuard, EasyList
+nojazz.eu	AdGuard, EasyList
+ads.nextday.media	AdGuard, EasyList
+adrequest.net	AdGuard, EasyList
+adconfigproxy.azurewebsites.net	AdGuard
+kjdsfjisdfjr23.azurewebsites.net	AdGuard, EasyList
+wertuipsertj34.azurewebsites.net	AdGuard, EasyList
+sp.dpgmedia.net	AdGuard, EasyList
+dt51.net	AdGuard, EasyList
+dt71.net	AdGuard, EasyList
+mt67.net	AdGuard, EasyList
+nonstoppartner.net	AdGuard, EasyList
+static-dscn.net	AdGuard, EasyList
+2k19.nl	AdGuard, EasyList
+banner-online.nl	AdGuard, EasyList
+content2.besteproduct.nl	AdGuard, EasyList
+botndm.nl	AdGuard, EasyList
+crnsgngrpj.nl	AdGuard, EasyList
+dntblckmpls.nl	AdGuard, EasyList
+ds1.nl	AdGuard, EasyList
+tools.islive.nl	AdGuard, EasyList
+content2.kieskeurig.nl	AdGuard, EasyList
+content2.nrc.nl	AdGuard
+online-banners.nl	AdGuard, EasyList
+content1.pcmweb.nl	AdGuard, EasyList
+pexi.nl	AdGuard
+pornokartel.nl	AdGuard, EasyList
+content1.pu.nl	AdGuard, EasyList
+content2.pu.nl	AdGuard, EasyList
+adcdn.ster.nl	AdGuard, EasyList
+aa.tweakers.nl	AdGuard, EasyList
+ab.tweakers.nl	AdGuard
+vpscash.nl	AdGuard, EasyList
+content1.wasmachines.nl	AdGuard, EasyList
+content2.wasmachines.nl	AdGuard, EasyList
+xpartners.nl	AdGuard, EasyList
+content1.zoom.nl	AdGuard, EasyList
+content2.zoom.nl	AdGuard, EasyList
+https-filtering-check.adtidy.org	AdGuard
+go2.go2cloud.org	AdGuard, EasyList
+viadata.store	AdGuard, EasyList
+### BLACKLIST ASN ###
+### BLACKLIST IPv4 ###
+### BLACKLIST IPv6 ###
+### BLACKLIST EOF ###
