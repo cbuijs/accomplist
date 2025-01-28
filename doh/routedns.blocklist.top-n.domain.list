@@ -87,6 +87,7 @@
 .mask-h2.icloud.com
 .dns.islandnet.com
 .opencdn.jomodns.com
+.dns.kamilszczepanski.com
 .iterator.lazada.com
 .httpdns.meituan.com
 .inf-wan.vip.meituan.com
@@ -118,7 +119,6 @@
 .19a8b89bb6b2491ca5cccbeb0e84a4c4.pacloudflare.com
 .90c3f3bd03394bebaa20741314cef947.pacloudflare.com
 .dff029179c4246e385296ea8de0b8eb8.pacloudflare.com
-.doh.centraleu.pi-dns.com
 .pixie.porkbun.com
 .iterator.lazada.com.queniubl.com
 .dns.api.rackspacecloud.com
@@ -134,7 +134,6 @@
 .doh.gslb2.xfinity.com
 .doh2.gslb2.xfinity.com
 .odvr.nic.cz
-.doh.defaultroutes.de
 .dnsforge.de
 .dns.dnshome.de
 .dns1.in-berlin.de
@@ -150,6 +149,7 @@
 .pages.dev
 .cluster-0.gac.edu
 .cluster-1.gac.edu
+.dns.cert.ee
 .lelux.fi
 .doh.42l.fr
 .dns.aquilenet.fr
@@ -181,7 +181,9 @@
 .fly.io
 .dns.guard.io
 .doh.safesurfer.io
-.dns.flatuslifir.is
+.dns.shecan.ir
+.free.shecan.ir
+.pro.shecan.ir
 .home.daniil.it
 .pi.daniil.it
 .galileo.math.unipd.it
@@ -199,7 +201,6 @@
 .tetty-is.so-gorgeo.us.kg
 .yussy-is.so-gorgeo.us.kg
 .dns.njal.la
-.doh.li
 .eth.link
 .doh.domreg.lt
 .crd.circl.lu
@@ -255,13 +256,13 @@
 .pihole2.hoerli.net
 .pihole3.hoerli.net
 .pihole4.hoerli.net
-.dns.hostux.net
 .africadns1.liquidtelecom.net
 .africadns2.liquidtelecom.net
 .zrh1-ns01.monzoon.net
 .dns.mullvad.net
 .doh.mullvad.net
 .echoe1yidzu4ioo5.myfritz.net
+.doh-ca.naftalie.net
 .kiri.nonexiste.net
 .dns.novg.net
 .doh.onedns.net
@@ -291,6 +292,7 @@
 .safe.dot.dns.yandex.net
 .dns.daemon.za.net
 .doh.sidnlabs.nl
+.comss.one
 .one.one.one.one
 .dns.blokada.org
 .radia.bortzmeyer.org
@@ -312,6 +314,7 @@
 .dns.mayx.eu.org
 .arashi.net.eu.org
 .sukidayo.eu.org
+.d4yge1fn4wr.d.firewalla.org
 .dns.api.globus.org
 .dns.api.preview.globus.org
 .jichi.hopto.org
@@ -330,6 +333,7 @@
 .fi.dot.dns.snopyta.org
 .doh.tiarap.org
 .jp.tiarap.org
+.dns.pub
 .doh.pub
 .comss.ru
 .dns.ronc.ru
