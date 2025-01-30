@@ -110,7 +110,6 @@
 .sg1.dnswarden.com
 .uncensored-dot.dnswarden.com
 .doh.us.dnswarden.com
-.dns.ellichua.com
 .dns.enzonix.com
 .apple-relay.fastly-edge.com
 .dns.gamban.com
@@ -540,6 +539,7 @@
 .dns13.quad9.net
 .dns9.quad9.net
 .dnscrypt-cert.quad9.net
+.resolver.r0cket.net
 .dns.rotunneling.net
 .dns.sindominio.net
 .clientdns3.softcom.net
@@ -576,7 +576,6 @@
 .dns.csswg.org
 .home27.duckdns.org
 .jurre-home.duckdns.org
-.krtekvpn.duckdns.org
 .montmorot.duckdns.org
 .osefcorp.duckdns.org
 .punono.duckdns.org
