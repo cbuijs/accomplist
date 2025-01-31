@@ -48,6 +48,7 @@ graph.microsoft.com
 graph.windows.net
 informationprotection.hosting.portal.azure.net
 isrg.trustid.ocsp.identrust.com
+join.secure.skypeassets.com
 login-us.microsoftonline.com
 login.live.com
 login.microsoft.com
@@ -58,7 +59,6 @@ login.windows.net
 logincert.microsoftonline.com
 loginex.microsoftonline.com
 mem.gfx.ms
-mlccdn.blob.core.windows.net
 mlccdnprod.azureedge.net
 mscrl.microsoft.com
 msdn.microsoft.com
@@ -86,7 +86,6 @@ outlook.office365.com
 partnerservices.getmicrosoftkey.com
 passwordreset.microsoftonline.com
 platform.linkedin.com
-policykeyservice.dc.ad.msft.net
 prod.firstpartyapps.oaspapps.com.akadns.net
 prod.msocdn.com
 protection.office.com
