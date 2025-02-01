@@ -7699,6 +7699,9 @@ autoconfig.bplaced.de
 autoconfig.square7.de
 autoconfig.bplaced.net
 autoconfig.square7.net
+autoconfig.brave.app
+autoconfig.s.brave.app
+autoconfig.brave.io
 autoconfig.s.brave.io
 autoconfig.shop.brendly.hr
 autoconfig.shop.brendly.rs
@@ -8843,6 +8846,8 @@ autoconfig.ggff.net
 autoconfig.user.localcert.dev
 autoconfig.localcert.net
 autoconfig.localhostcert.net
+autoconfig.localtonet.com
+autoconfig.localto.net
 autoconfig.lodz.pl
 autoconfig.pabianice.pl
 autoconfig.plock.pl
@@ -9630,6 +9635,7 @@ autoconfig.it.com
 autoconfig.unison-services.cloud
 autoconfig.virtual-user.de
 autoconfig.virtualuser.de
+autoconfig.obj.ag
 autoconfig.name.pm
 autoconfig.sch.tf
 autoconfig.biz.wf
@@ -17418,6 +17424,9 @@ _autodiscover.bplaced.de
 _autodiscover.square7.de
 _autodiscover.bplaced.net
 _autodiscover.square7.net
+_autodiscover.brave.app
+_autodiscover.s.brave.app
+_autodiscover.brave.io
 _autodiscover.s.brave.io
 _autodiscover.shop.brendly.hr
 _autodiscover.shop.brendly.rs
@@ -18562,6 +18571,8 @@ _autodiscover.ggff.net
 _autodiscover.user.localcert.dev
 _autodiscover.localcert.net
 _autodiscover.localhostcert.net
+_autodiscover.localtonet.com
+_autodiscover.localto.net
 _autodiscover.lodz.pl
 _autodiscover.pabianice.pl
 _autodiscover.plock.pl
@@ -19349,6 +19360,7 @@ _autodiscover.it.com
 _autodiscover.unison-services.cloud
 _autodiscover.virtual-user.de
 _autodiscover.virtualuser.de
+_autodiscover.obj.ag
 _autodiscover.name.pm
 _autodiscover.sch.tf
 _autodiscover.biz.wf
@@ -27137,6 +27149,9 @@ autodiscover.bplaced.de
 autodiscover.square7.de
 autodiscover.bplaced.net
 autodiscover.square7.net
+autodiscover.brave.app
+autodiscover.s.brave.app
+autodiscover.brave.io
 autodiscover.s.brave.io
 autodiscover.shop.brendly.hr
 autodiscover.shop.brendly.rs
@@ -28281,6 +28296,8 @@ autodiscover.ggff.net
 autodiscover.user.localcert.dev
 autodiscover.localcert.net
 autodiscover.localhostcert.net
+autodiscover.localtonet.com
+autodiscover.localto.net
 autodiscover.lodz.pl
 autodiscover.pabianice.pl
 autodiscover.plock.pl
@@ -29068,6 +29085,7 @@ autodiscover.it.com
 autodiscover.unison-services.cloud
 autodiscover.virtual-user.de
 autodiscover.virtualuser.de
+autodiscover.obj.ag
 autodiscover.name.pm
 autodiscover.sch.tf
 autodiscover.biz.wf
@@ -36856,6 +36874,9 @@ b._dns-sd.bplaced.de
 b._dns-sd.square7.de
 b._dns-sd.bplaced.net
 b._dns-sd.square7.net
+b._dns-sd.brave.app
+b._dns-sd.s.brave.app
+b._dns-sd.brave.io
 b._dns-sd.s.brave.io
 b._dns-sd.shop.brendly.hr
 b._dns-sd.shop.brendly.rs
@@ -38000,6 +38021,8 @@ b._dns-sd.ggff.net
 b._dns-sd.user.localcert.dev
 b._dns-sd.localcert.net
 b._dns-sd.localhostcert.net
+b._dns-sd.localtonet.com
+b._dns-sd.localto.net
 b._dns-sd.lodz.pl
 b._dns-sd.pabianice.pl
 b._dns-sd.plock.pl
@@ -38787,6 +38810,7 @@ b._dns-sd.it.com
 b._dns-sd.unison-services.cloud
 b._dns-sd.virtual-user.de
 b._dns-sd.virtualuser.de
+b._dns-sd.obj.ag
 b._dns-sd.name.pm
 b._dns-sd.sch.tf
 b._dns-sd.biz.wf
@@ -46575,6 +46599,9 @@ db._dns-sd.bplaced.de
 db._dns-sd.square7.de
 db._dns-sd.bplaced.net
 db._dns-sd.square7.net
+db._dns-sd.brave.app
+db._dns-sd.s.brave.app
+db._dns-sd.brave.io
 db._dns-sd.s.brave.io
 db._dns-sd.shop.brendly.hr
 db._dns-sd.shop.brendly.rs
@@ -47719,6 +47746,8 @@ db._dns-sd.ggff.net
 db._dns-sd.user.localcert.dev
 db._dns-sd.localcert.net
 db._dns-sd.localhostcert.net
+db._dns-sd.localtonet.com
+db._dns-sd.localto.net
 db._dns-sd.lodz.pl
 db._dns-sd.pabianice.pl
 db._dns-sd.plock.pl
@@ -48506,6 +48535,7 @@ db._dns-sd.it.com
 db._dns-sd.unison-services.cloud
 db._dns-sd.virtual-user.de
 db._dns-sd.virtualuser.de
+db._dns-sd.obj.ag
 db._dns-sd.name.pm
 db._dns-sd.sch.tf
 db._dns-sd.biz.wf
@@ -56294,6 +56324,9 @@ isatap.bplaced.de
 isatap.square7.de
 isatap.bplaced.net
 isatap.square7.net
+isatap.brave.app
+isatap.s.brave.app
+isatap.brave.io
 isatap.s.brave.io
 isatap.shop.brendly.hr
 isatap.shop.brendly.rs
@@ -57438,6 +57471,8 @@ isatap.ggff.net
 isatap.user.localcert.dev
 isatap.localcert.net
 isatap.localhostcert.net
+isatap.localtonet.com
+isatap.localto.net
 isatap.lodz.pl
 isatap.pabianice.pl
 isatap.plock.pl
@@ -58225,6 +58260,7 @@ isatap.it.com
 isatap.unison-services.cloud
 isatap.virtual-user.de
 isatap.virtualuser.de
+isatap.obj.ag
 isatap.name.pm
 isatap.sch.tf
 isatap.biz.wf
@@ -66013,6 +66049,9 @@ lb._dns-sd.bplaced.de
 lb._dns-sd.square7.de
 lb._dns-sd.bplaced.net
 lb._dns-sd.square7.net
+lb._dns-sd.brave.app
+lb._dns-sd.s.brave.app
+lb._dns-sd.brave.io
 lb._dns-sd.s.brave.io
 lb._dns-sd.shop.brendly.hr
 lb._dns-sd.shop.brendly.rs
@@ -67157,6 +67196,8 @@ lb._dns-sd.ggff.net
 lb._dns-sd.user.localcert.dev
 lb._dns-sd.localcert.net
 lb._dns-sd.localhostcert.net
+lb._dns-sd.localtonet.com
+lb._dns-sd.localto.net
 lb._dns-sd.lodz.pl
 lb._dns-sd.pabianice.pl
 lb._dns-sd.plock.pl
@@ -67944,6 +67985,7 @@ lb._dns-sd.it.com
 lb._dns-sd.unison-services.cloud
 lb._dns-sd.virtual-user.de
 lb._dns-sd.virtualuser.de
+lb._dns-sd.obj.ag
 lb._dns-sd.name.pm
 lb._dns-sd.sch.tf
 lb._dns-sd.biz.wf
@@ -75732,6 +75774,9 @@ wpad.bplaced.de
 wpad.square7.de
 wpad.bplaced.net
 wpad.square7.net
+wpad.brave.app
+wpad.s.brave.app
+wpad.brave.io
 wpad.s.brave.io
 wpad.shop.brendly.hr
 wpad.shop.brendly.rs
@@ -76876,6 +76921,8 @@ wpad.ggff.net
 wpad.user.localcert.dev
 wpad.localcert.net
 wpad.localhostcert.net
+wpad.localtonet.com
+wpad.localto.net
 wpad.lodz.pl
 wpad.pabianice.pl
 wpad.plock.pl
@@ -77663,6 +77710,7 @@ wpad.it.com
 wpad.unison-services.cloud
 wpad.virtual-user.de
 wpad.virtualuser.de
+wpad.obj.ag
 wpad.name.pm
 wpad.sch.tf
 wpad.biz.wf
@@ -85451,6 +85499,9 @@ wpad.tcp.bplaced.de
 wpad.tcp.square7.de
 wpad.tcp.bplaced.net
 wpad.tcp.square7.net
+wpad.tcp.brave.app
+wpad.tcp.s.brave.app
+wpad.tcp.brave.io
 wpad.tcp.s.brave.io
 wpad.tcp.shop.brendly.hr
 wpad.tcp.shop.brendly.rs
@@ -86595,6 +86646,8 @@ wpad.tcp.ggff.net
 wpad.tcp.user.localcert.dev
 wpad.tcp.localcert.net
 wpad.tcp.localhostcert.net
+wpad.tcp.localtonet.com
+wpad.tcp.localto.net
 wpad.tcp.lodz.pl
 wpad.tcp.pabianice.pl
 wpad.tcp.plock.pl
@@ -87382,6 +87435,7 @@ wpad.tcp.it.com
 wpad.tcp.unison-services.cloud
 wpad.tcp.virtual-user.de
 wpad.tcp.virtualuser.de
+wpad.tcp.obj.ag
 wpad.tcp.name.pm
 wpad.tcp.sch.tf
 wpad.tcp.biz.wf
