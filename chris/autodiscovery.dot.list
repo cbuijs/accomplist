@@ -6926,6 +6926,7 @@
 .autoconfig.barsy.ca
 .autoconfig.compute.estate
 .autoconfig.alces.network
+.autoconfig.alibabacloudcs.com
 .autoconfig.kasserver.com
 .autoconfig.altervista.org
 .autoconfig.alwaysdata.net
@@ -16651,6 +16652,7 @@
 ._autodiscover.barsy.ca
 ._autodiscover.compute.estate
 ._autodiscover.alces.network
+._autodiscover.alibabacloudcs.com
 ._autodiscover.kasserver.com
 ._autodiscover.altervista.org
 ._autodiscover.alwaysdata.net
@@ -26376,6 +26378,7 @@
 .autodiscover.barsy.ca
 .autodiscover.compute.estate
 .autodiscover.alces.network
+.autodiscover.alibabacloudcs.com
 .autodiscover.kasserver.com
 .autodiscover.altervista.org
 .autodiscover.alwaysdata.net
@@ -36101,6 +36104,7 @@
 .b._dns-sd.barsy.ca
 .b._dns-sd.compute.estate
 .b._dns-sd.alces.network
+.b._dns-sd.alibabacloudcs.com
 .b._dns-sd.kasserver.com
 .b._dns-sd.altervista.org
 .b._dns-sd.alwaysdata.net
@@ -45826,6 +45830,7 @@
 .db._dns-sd.barsy.ca
 .db._dns-sd.compute.estate
 .db._dns-sd.alces.network
+.db._dns-sd.alibabacloudcs.com
 .db._dns-sd.kasserver.com
 .db._dns-sd.altervista.org
 .db._dns-sd.alwaysdata.net
@@ -55551,6 +55556,7 @@
 .isatap.barsy.ca
 .isatap.compute.estate
 .isatap.alces.network
+.isatap.alibabacloudcs.com
 .isatap.kasserver.com
 .isatap.altervista.org
 .isatap.alwaysdata.net
@@ -65276,6 +65282,7 @@
 .lb._dns-sd.barsy.ca
 .lb._dns-sd.compute.estate
 .lb._dns-sd.alces.network
+.lb._dns-sd.alibabacloudcs.com
 .lb._dns-sd.kasserver.com
 .lb._dns-sd.altervista.org
 .lb._dns-sd.alwaysdata.net
@@ -75001,6 +75008,7 @@
 .wpad.barsy.ca
 .wpad.compute.estate
 .wpad.alces.network
+.wpad.alibabacloudcs.com
 .wpad.kasserver.com
 .wpad.altervista.org
 .wpad.alwaysdata.net
@@ -84726,6 +84734,7 @@
 .wpad.tcp.barsy.ca
 .wpad.tcp.compute.estate
 .wpad.tcp.alces.network
+.wpad.tcp.alibabacloudcs.com
 .wpad.tcp.kasserver.com
 .wpad.tcp.altervista.org
 .wpad.tcp.alwaysdata.net
