@@ -616,6 +616,7 @@
 .dns.api.sandbox.globuscs.info
 .dns.api.staging.globuscs.info
 .dns.api.test.globuscs.info
+.doh.kekew.info
 .kilabit.info
 .testaghome.meshkov.info
 .adguard.onlyfriends.info
@@ -990,7 +991,6 @@
 .nsec.arnor.org
 .dns.artikel10.org
 .dns.blokada.org
-.console.carestyle.org
 .catdns.org
 .cfdjb.org
 .cleanbrowsing.org

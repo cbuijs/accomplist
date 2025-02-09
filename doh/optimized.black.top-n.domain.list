@@ -99,6 +99,7 @@ fr1.dnswarden.com
 sg1.dnswarden.com
 uncensored-dot.dnswarden.com
 doh.us.dnswarden.com
+edgy-dns.com
 dns.enzonix.com
 apple-relay.fastly-edge.com
 dns.gamban.com
@@ -359,6 +360,7 @@ pihole2.hoerli.net
 pihole3.hoerli.net
 pihole4.hoerli.net
 dns.hostux.net
+http-dns.imoim.net
 adguard1.jsanagustin.net
 adguard1.leadmon.net
 africadns1.liquidtelecom.net
@@ -568,9 +570,9 @@ resolver.sunet.se
 privacydns.go6lab.si
 dns.levonet.sk
 crypto.sx
+dns.startupstack.tech
 dns.koala.us.to
 dns2.cbio.top
-dns.chromeina.top
 doh.viatech.com.tw
 adguard.shuting.idv.tw
 dns.twnic.tw
