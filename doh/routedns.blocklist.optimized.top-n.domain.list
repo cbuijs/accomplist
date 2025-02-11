@@ -14,6 +14,7 @@
 .dns.simplylinux.ch
 .switch.ch
 .dnsotls.lab.nic.cl
+.justhost.bedro.cloud
 .doh.360.cn
 .dot.360.cn
 .dns.weixin.qq.com.cn
@@ -78,6 +79,7 @@
 .mask-h2.icloud.com
 .dns.islandnet.com
 .opencdn.jomodns.com
+.dns.kamilszczepanski.com
 .iterator.lazada.com
 .httpdns.meituan.com
 .dnstls.mobik.com
@@ -156,6 +158,9 @@
 .fly.io
 .dns.guard.io
 .doh.safesurfer.io
+.dns.shecan.ir
+.free.shecan.ir
+.pro.shecan.ir
 .dns.home.daniil.it
 .galileo.math.unipd.it
 .iij.jp
@@ -227,6 +232,7 @@
 .dns.mullvad.net
 .doh.mullvad.net
 .echoe1yidzu4ioo5.myfritz.net
+.doh-ca.naftalie.net
 .kiri.nonexiste.net
 .dns.novg.net
 .doh.onedns.net
@@ -286,6 +292,9 @@
 .doh.powerdns.org
 .fi.doh.dns.snopyta.org
 .fi.dot.dns.snopyta.org
+.doh.tiarap.org
+.jp.tiarap.org
+.dns.pub
 .doh.pub
 .comss.ru
 .dns.ronc.ru
