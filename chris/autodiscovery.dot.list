@@ -7709,6 +7709,8 @@
 .autoconfig.browsersafetymark.io
 .autoconfig.radio.am
 .autoconfig.radio.fm
+.autoconfig.cdn.bubble.io
+.autoconfig.bubbleapps.io
 .autoconfig.uk0.bigv.io
 .autoconfig.dh.bytemark.co.uk
 .autoconfig.vm.bytemark.co.uk
@@ -17436,6 +17438,8 @@
 ._autodiscover.browsersafetymark.io
 ._autodiscover.radio.am
 ._autodiscover.radio.fm
+._autodiscover.cdn.bubble.io
+._autodiscover.bubbleapps.io
 ._autodiscover.uk0.bigv.io
 ._autodiscover.dh.bytemark.co.uk
 ._autodiscover.vm.bytemark.co.uk
@@ -27163,6 +27167,8 @@
 .autodiscover.browsersafetymark.io
 .autodiscover.radio.am
 .autodiscover.radio.fm
+.autodiscover.cdn.bubble.io
+.autodiscover.bubbleapps.io
 .autodiscover.uk0.bigv.io
 .autodiscover.dh.bytemark.co.uk
 .autodiscover.vm.bytemark.co.uk
@@ -36890,6 +36896,8 @@
 .b._dns-sd.browsersafetymark.io
 .b._dns-sd.radio.am
 .b._dns-sd.radio.fm
+.b._dns-sd.cdn.bubble.io
+.b._dns-sd.bubbleapps.io
 .b._dns-sd.uk0.bigv.io
 .b._dns-sd.dh.bytemark.co.uk
 .b._dns-sd.vm.bytemark.co.uk
@@ -46617,6 +46625,8 @@
 .db._dns-sd.browsersafetymark.io
 .db._dns-sd.radio.am
 .db._dns-sd.radio.fm
+.db._dns-sd.cdn.bubble.io
+.db._dns-sd.bubbleapps.io
 .db._dns-sd.uk0.bigv.io
 .db._dns-sd.dh.bytemark.co.uk
 .db._dns-sd.vm.bytemark.co.uk
@@ -56344,6 +56354,8 @@
 .isatap.browsersafetymark.io
 .isatap.radio.am
 .isatap.radio.fm
+.isatap.cdn.bubble.io
+.isatap.bubbleapps.io
 .isatap.uk0.bigv.io
 .isatap.dh.bytemark.co.uk
 .isatap.vm.bytemark.co.uk
@@ -66071,6 +66083,8 @@
 .lb._dns-sd.browsersafetymark.io
 .lb._dns-sd.radio.am
 .lb._dns-sd.radio.fm
+.lb._dns-sd.cdn.bubble.io
+.lb._dns-sd.bubbleapps.io
 .lb._dns-sd.uk0.bigv.io
 .lb._dns-sd.dh.bytemark.co.uk
 .lb._dns-sd.vm.bytemark.co.uk
@@ -75798,6 +75812,8 @@
 .wpad.browsersafetymark.io
 .wpad.radio.am
 .wpad.radio.fm
+.wpad.cdn.bubble.io
+.wpad.bubbleapps.io
 .wpad.uk0.bigv.io
 .wpad.dh.bytemark.co.uk
 .wpad.vm.bytemark.co.uk
@@ -85525,6 +85541,8 @@
 .wpad.tcp.browsersafetymark.io
 .wpad.tcp.radio.am
 .wpad.tcp.radio.fm
+.wpad.tcp.cdn.bubble.io
+.wpad.tcp.bubbleapps.io
 .wpad.tcp.uk0.bigv.io
 .wpad.tcp.dh.bytemark.co.uk
 .wpad.tcp.vm.bytemark.co.uk
