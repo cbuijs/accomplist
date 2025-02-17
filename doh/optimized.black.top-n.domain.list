@@ -6,6 +6,10 @@ jp.tiar.app
 dns.kescher.at
 dns.belnet.be
 doh.beauty
+dns.7sec.com.br
+adguard.frutuozo.com.br
+adguard.gbrossi.com.br
+dns.joaofidelix.com.br
 doh.buzz
 doh.datahata.by
 canadianshield.cira.ca
@@ -109,7 +113,6 @@ google-public-dns-a.google.com
 google-public-dns-b.google.com
 dot.libredns.gr.com
 adguard.haneulo.com
-resolver-eu.haringstad.com
 httpdns-push.heytapmobile.com
 dns.hoody.com
 mask.icloud.com
@@ -292,6 +295,7 @@ sitha-is.so-gorgeo.us.kg
 tetty-is.so-gorgeo.us.kg
 yussy-is.so-gorgeo.us.kg
 dns.njal.la
+doh.li
 eth.link
 doh.domreg.lt
 o1.lt
@@ -376,8 +380,8 @@ doh.mullvad.net
 echoe1yidzu4ioo5.myfritz.net
 kiri.nonexiste.net
 dns.novg.net
-dns.ofdoom.net
 doh.onedns.net
+doh-pure.onedns.net
 ada.openbld.net
 ric.openbld.net
 rpz-public-resolver1.rrdns.pch.net
@@ -430,6 +434,8 @@ ueni.dyndns.org
 arashi.eu.org
 armorrush.eu.org
 doh.excdn.eu.org
+dns.de.futuredns.eu.org
+dns.us.futuredns.eu.org
 dns.fullaccesstointernet.jp.eu.org
 dns.mayx.eu.org
 arashi.net.eu.org
@@ -512,6 +518,7 @@ lis01.dnscry.pt
 llk01.dnscry.pt
 lon01.dnscry.pt
 mad01.dnscry.pt
+man01.dnscry.pt
 mia01.dnscry.pt
 mil01.dnscry.pt
 mru01.dnscry.pt
@@ -551,8 +558,10 @@ vie01.dnscry.pt
 vno01.dnscry.pt
 waw01.dnscry.pt
 waw02.dnscry.pt
+yhz01.dnscry.pt
 yul01.dnscry.pt
 yvr01.dnscry.pt
+yyc01.dnscry.pt
 yyz01.dnscry.pt
 zal01.dnscry.pt
 dns.pub
@@ -565,7 +574,6 @@ frog.dns.qwer.pw
 lion.dns.qwer.pw
 tiger.dns.qwer.pw
 comss.ru
-muxyuji.ru
 dns.ronc.ru
 dns.yandex.ru
 dns.sb
@@ -586,7 +594,6 @@ dns.korzhyk.pp.ua
 lindung.pp.ua
 sundalandia.pp.ua
 virga.pp.ua
-zxcvb.pp.ua
 dns.gayanalysing.co.uk
 dns.neilzone.co.uk
 dns.aa.net.uk
