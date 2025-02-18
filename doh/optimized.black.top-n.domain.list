@@ -6,10 +6,6 @@ jp.tiar.app
 dns.kescher.at
 dns.belnet.be
 doh.beauty
-dns.7sec.com.br
-adguard.frutuozo.com.br
-adguard.gbrossi.com.br
-dns.joaofidelix.com.br
 doh.buzz
 doh.datahata.by
 canadianshield.cira.ca
@@ -181,6 +177,7 @@ doh.xfinity.com
 dot.xfinity.com
 doh.gslb2.xfinity.com
 doh2.gslb2.xfinity.com
+ns3.cx
 odvr.nic.cz
 aqua.is.my.waifu.cz
 darkness.is.my.waifu.cz
@@ -226,7 +223,6 @@ lastentarvike.fi
 lelux.fi
 doh.42l.fr
 dns.aquilenet.fr
-dns.dgea.fr
 ns0.fdn.fr
 ns1.fdn.fr
 qlf-doh.inria.fr
@@ -276,6 +272,7 @@ dns.shecan.ir
 free.shecan.ir
 pro.shecan.ir
 dns.flatuslifir.is
+dns.rafn.is
 block.abstergo.it
 doh.ccb-net.it
 dns.home.daniil.it
@@ -295,7 +292,6 @@ sitha-is.so-gorgeo.us.kg
 tetty-is.so-gorgeo.us.kg
 yussy-is.so-gorgeo.us.kg
 dns.njal.la
-doh.li
 eth.link
 doh.domreg.lt
 o1.lt
@@ -351,6 +347,7 @@ adguard.lege.despagne.net
 tls-dns-u.odvr.dns-oarc.net
 dns4me.net
 dns.dnsoverhttps.net
+gustamadh.dynv6.net
 dnscache.e-utp.net
 doh.ersei.net
 pdns.faelix.net
@@ -378,6 +375,7 @@ zrh1-ns01.monzoon.net
 dns.mullvad.net
 doh.mullvad.net
 echoe1yidzu4ioo5.myfritz.net
+doh-ca.naftalie.net
 kiri.nonexiste.net
 dns.novg.net
 doh.onedns.net
