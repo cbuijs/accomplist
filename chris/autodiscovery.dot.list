@@ -8865,6 +8865,8 @@
 .autoconfig.loginline.site
 .autoconfig.lohmus.me
 .autoconfig.servers.run
+.autoconfig.lovable.app
+.autoconfig.lovableproject.com
 .autoconfig.krasnik.pl
 .autoconfig.leczna.pl
 .autoconfig.lubartow.pl
@@ -18594,6 +18596,8 @@
 ._autodiscover.loginline.site
 ._autodiscover.lohmus.me
 ._autodiscover.servers.run
+._autodiscover.lovable.app
+._autodiscover.lovableproject.com
 ._autodiscover.krasnik.pl
 ._autodiscover.leczna.pl
 ._autodiscover.lubartow.pl
@@ -28323,6 +28327,8 @@
 .autodiscover.loginline.site
 .autodiscover.lohmus.me
 .autodiscover.servers.run
+.autodiscover.lovable.app
+.autodiscover.lovableproject.com
 .autodiscover.krasnik.pl
 .autodiscover.leczna.pl
 .autodiscover.lubartow.pl
@@ -38052,6 +38058,8 @@
 .b._dns-sd.loginline.site
 .b._dns-sd.lohmus.me
 .b._dns-sd.servers.run
+.b._dns-sd.lovable.app
+.b._dns-sd.lovableproject.com
 .b._dns-sd.krasnik.pl
 .b._dns-sd.leczna.pl
 .b._dns-sd.lubartow.pl
@@ -47781,6 +47789,8 @@
 .db._dns-sd.loginline.site
 .db._dns-sd.lohmus.me
 .db._dns-sd.servers.run
+.db._dns-sd.lovable.app
+.db._dns-sd.lovableproject.com
 .db._dns-sd.krasnik.pl
 .db._dns-sd.leczna.pl
 .db._dns-sd.lubartow.pl
@@ -57510,6 +57520,8 @@
 .isatap.loginline.site
 .isatap.lohmus.me
 .isatap.servers.run
+.isatap.lovable.app
+.isatap.lovableproject.com
 .isatap.krasnik.pl
 .isatap.leczna.pl
 .isatap.lubartow.pl
@@ -67239,6 +67251,8 @@
 .lb._dns-sd.loginline.site
 .lb._dns-sd.lohmus.me
 .lb._dns-sd.servers.run
+.lb._dns-sd.lovable.app
+.lb._dns-sd.lovableproject.com
 .lb._dns-sd.krasnik.pl
 .lb._dns-sd.leczna.pl
 .lb._dns-sd.lubartow.pl
@@ -76968,6 +76982,8 @@
 .wpad.loginline.site
 .wpad.lohmus.me
 .wpad.servers.run
+.wpad.lovable.app
+.wpad.lovableproject.com
 .wpad.krasnik.pl
 .wpad.leczna.pl
 .wpad.lubartow.pl
@@ -86697,6 +86713,8 @@
 .wpad.tcp.loginline.site
 .wpad.tcp.lohmus.me
 .wpad.tcp.servers.run
+.wpad.tcp.lovable.app
+.wpad.tcp.lovableproject.com
 .wpad.tcp.krasnik.pl
 .wpad.tcp.leczna.pl
 .wpad.tcp.lubartow.pl
