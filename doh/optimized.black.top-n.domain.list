@@ -83,6 +83,7 @@ cloudflareresolve.com
 dns.controld.com
 freedns.controld.com
 dns.decloudus.com
+dns.dns-over-https.com
 ns1.recursive.dnsbycomodo.com
 ns2.recursive.dnsbycomodo.com
 dnscrypt-cert.shield-2.dnsbycomodo.com
@@ -336,6 +337,7 @@ iow-dns.bitdefender.net
 nvi-dns.bitdefender.net
 ore-dns.bitdefender.net
 tky-dns.bitdefender.net
+us1.blissdns.net
 dns.233py.com.cdn.cloudflare.net
 adguard.cloudmini.net
 doh.cox.net
@@ -347,7 +349,6 @@ adguard.lege.despagne.net
 tls-dns-u.odvr.dns-oarc.net
 dns4me.net
 dns.dnsoverhttps.net
-gustamadh.dynv6.net
 dnscache.e-utp.net
 doh.ersei.net
 pdns.faelix.net
@@ -582,7 +583,6 @@ dns.levonet.sk
 crypto.sx
 dns.startupstack.tech
 dns.koala.us.to
-dns2.cbio.top
 doh.viatech.com.tw
 adguard.shuting.idv.tw
 dns.twnic.tw
