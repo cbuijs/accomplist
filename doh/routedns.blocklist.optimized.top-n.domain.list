@@ -83,7 +83,6 @@
 .dns.controld.com
 .freedns.controld.com
 .dns.decloudus.com
-.dns.dns-over-https.com
 .ns1.recursive.dnsbycomodo.com
 .ns2.recursive.dnsbycomodo.com
 .dnscrypt-cert.shield-2.dnsbycomodo.com
@@ -376,7 +375,6 @@
 .dns.mullvad.net
 .doh.mullvad.net
 .echoe1yidzu4ioo5.myfritz.net
-.doh-ca.naftalie.net
 .kiri.nonexiste.net
 .dns.novg.net
 .doh.onedns.net
@@ -573,6 +571,7 @@
 .lion.dns.qwer.pw
 .tiger.dns.qwer.pw
 .comss.ru
+.dns.msxnet.ru
 .dns.ronc.ru
 .dns.yandex.ru
 .dns.sb
