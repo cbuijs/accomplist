@@ -1,6 +1,6 @@
 [Adblock Plus 1.1]
 ! Title: Accomplist "Doh" AdBlock List (Top-N Version)
-! Version: 1740206588
+! Version: 1740292688
 ! Homepage: https://github.com/cbuijs/accomplist/tree/master/doh
 !
 ! WhiteList Domains:
@@ -611,7 +611,6 @@
 ||dns.k3nny.fr^
 ||dns.kebree.fr^
 ||doh.lacontrevoie.fr^
-||dns.lvolland.fr^
 ||dns.maitrekuc.fr^
 ||dns.mestdag.fr^
 ||blockerads.multimediaconcept.fr^
@@ -744,18 +743,6 @@
 ||iij.jp^
 ||dns.cctld.kg^
 ||ns.net.kg^
-||nightlymoon.us.kg^
-||luna-is.so-gorgeo.us.kg^
-||mecca-is.so-gorgeo.us.kg^
-||mita-is.so-gorgeo.us.kg^
-||myrra-is.so-gorgeo.us.kg^
-||nana-is.so-gorgeo.us.kg^
-||nindy-is.so-gorgeo.us.kg^
-||nora-is.so-gorgeo.us.kg^
-||nova-is.so-gorgeo.us.kg^
-||sitha-is.so-gorgeo.us.kg^
-||tetty-is.so-gorgeo.us.kg^
-||yussy-is.so-gorgeo.us.kg^
 ||dns.eliv.kr^
 ||adblock.leenit.kr^
 ||dns.nako.kr^
@@ -1168,8 +1155,6 @@
 ||de.teradns.org^
 ||ny.teradns.org^
 ||sg.teradns.org^
-||tx.teradns.org^
-||uk.teradns.org^
 ||dns.thebuckners.org^
 ||blocker.thethorsens.org^
 ||doh.tiarap.org^
