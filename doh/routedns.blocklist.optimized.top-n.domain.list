@@ -122,6 +122,7 @@
 .iterator.lazada.com
 .httpdns.meituan.com
 .dnstls.mobik.com
+.dns.moonssif.com
 .ns.mtsoln.com
 .dns.nhtsky.com
 .dns1.nordvpn.com
@@ -251,6 +252,7 @@
 .dns.bitgeek.in
 .dnscrypt-cert.captnemo.in
 .doh.captnemo.in
+.dns.d365.in
 .dns.api.integration.globuscs.info
 .dns.api.sandbox.globuscs.info
 .dns.api.staging.globuscs.info
@@ -280,6 +282,18 @@
 .doh.luigi.nexific.it
 .galileo.math.unipd.it
 .iij.jp
+.nightlymoon.us.kg
+.luna-is.so-gorgeo.us.kg
+.mecca-is.so-gorgeo.us.kg
+.mita-is.so-gorgeo.us.kg
+.myrra-is.so-gorgeo.us.kg
+.nana-is.so-gorgeo.us.kg
+.nindy-is.so-gorgeo.us.kg
+.nora-is.so-gorgeo.us.kg
+.nova-is.so-gorgeo.us.kg
+.sitha-is.so-gorgeo.us.kg
+.tetty-is.so-gorgeo.us.kg
+.yussy-is.so-gorgeo.us.kg
 .dns.njal.la
 .eth.link
 .doh.domreg.lt
@@ -337,6 +351,7 @@
 .tls-dns-u.odvr.dns-oarc.net
 .dns4me.net
 .dns.dnsoverhttps.net
+.gustamadh.dynv6.net
 .dnscache.e-utp.net
 .doh.ersei.net
 .pdns.faelix.net
@@ -364,7 +379,6 @@
 .dns.mullvad.net
 .doh.mullvad.net
 .echoe1yidzu4ioo5.myfritz.net
-.doh-ca.naftalie.net
 .kiri.nonexiste.net
 .dns.novg.net
 .doh.onedns.net
@@ -398,6 +412,7 @@
 .family.mydns.network
 .freedom.mydns.network
 .paranoia.mydns.network
+.dns.unerror.network
 .dns.linkr.ninja
 .ipoac.nl
 .doh.sidnlabs.nl
@@ -552,7 +567,6 @@
 .dns.pub
 .doh.pub
 .dot.pub
-.ttag.dns.nomu.pw
 .ant.dns.qwer.pw
 .dog.dns.qwer.pw
 .frog.dns.qwer.pw
