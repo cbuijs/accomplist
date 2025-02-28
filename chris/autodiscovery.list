@@ -9727,6 +9727,7 @@ autoconfig.za.net
 autoconfig.za.org
 autoconfig.zap.cloud
 autoconfig.zeabur.app
+autoconfig.zerops.app
 autoconfig.bss.design
 autoconfig.basicserver.io
 autoconfig.virtualserver.io
@@ -19460,6 +19461,7 @@ _autodiscover.za.net
 _autodiscover.za.org
 _autodiscover.zap.cloud
 _autodiscover.zeabur.app
+_autodiscover.zerops.app
 _autodiscover.bss.design
 _autodiscover.basicserver.io
 _autodiscover.virtualserver.io
@@ -29193,6 +29195,7 @@ autodiscover.za.net
 autodiscover.za.org
 autodiscover.zap.cloud
 autodiscover.zeabur.app
+autodiscover.zerops.app
 autodiscover.bss.design
 autodiscover.basicserver.io
 autodiscover.virtualserver.io
@@ -38926,6 +38929,7 @@ b._dns-sd.za.net
 b._dns-sd.za.org
 b._dns-sd.zap.cloud
 b._dns-sd.zeabur.app
+b._dns-sd.zerops.app
 b._dns-sd.bss.design
 b._dns-sd.basicserver.io
 b._dns-sd.virtualserver.io
@@ -48659,6 +48663,7 @@ db._dns-sd.za.net
 db._dns-sd.za.org
 db._dns-sd.zap.cloud
 db._dns-sd.zeabur.app
+db._dns-sd.zerops.app
 db._dns-sd.bss.design
 db._dns-sd.basicserver.io
 db._dns-sd.virtualserver.io
@@ -58392,6 +58397,7 @@ isatap.za.net
 isatap.za.org
 isatap.zap.cloud
 isatap.zeabur.app
+isatap.zerops.app
 isatap.bss.design
 isatap.basicserver.io
 isatap.virtualserver.io
@@ -68125,6 +68131,7 @@ lb._dns-sd.za.net
 lb._dns-sd.za.org
 lb._dns-sd.zap.cloud
 lb._dns-sd.zeabur.app
+lb._dns-sd.zerops.app
 lb._dns-sd.bss.design
 lb._dns-sd.basicserver.io
 lb._dns-sd.virtualserver.io
@@ -77858,6 +77865,7 @@ wpad.za.net
 wpad.za.org
 wpad.zap.cloud
 wpad.zeabur.app
+wpad.zerops.app
 wpad.bss.design
 wpad.basicserver.io
 wpad.virtualserver.io
@@ -87591,6 +87599,7 @@ wpad.tcp.za.net
 wpad.tcp.za.org
 wpad.tcp.zap.cloud
 wpad.tcp.zeabur.app
+wpad.tcp.zerops.app
 wpad.tcp.bss.design
 wpad.tcp.basicserver.io
 wpad.tcp.virtualserver.io
