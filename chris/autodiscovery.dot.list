@@ -9732,6 +9732,7 @@
 .autoconfig.basicserver.io
 .autoconfig.virtualserver.io
 .autoconfig.enterprisecloud.nu
+.autoconfig.zone.id
 ._autodiscover.ac
 ._autodiscover.com.ac
 ._autodiscover.edu.ac
@@ -19466,6 +19467,7 @@
 ._autodiscover.basicserver.io
 ._autodiscover.virtualserver.io
 ._autodiscover.enterprisecloud.nu
+._autodiscover.zone.id
 .autodiscover.ac
 .autodiscover.com.ac
 .autodiscover.edu.ac
@@ -29200,6 +29202,7 @@
 .autodiscover.basicserver.io
 .autodiscover.virtualserver.io
 .autodiscover.enterprisecloud.nu
+.autodiscover.zone.id
 .b._dns-sd.ac
 .b._dns-sd.com.ac
 .b._dns-sd.edu.ac
@@ -38934,6 +38937,7 @@
 .b._dns-sd.basicserver.io
 .b._dns-sd.virtualserver.io
 .b._dns-sd.enterprisecloud.nu
+.b._dns-sd.zone.id
 .db._dns-sd.ac
 .db._dns-sd.com.ac
 .db._dns-sd.edu.ac
@@ -48668,6 +48672,7 @@
 .db._dns-sd.basicserver.io
 .db._dns-sd.virtualserver.io
 .db._dns-sd.enterprisecloud.nu
+.db._dns-sd.zone.id
 .isatap.ac
 .isatap.com.ac
 .isatap.edu.ac
@@ -58402,6 +58407,7 @@
 .isatap.basicserver.io
 .isatap.virtualserver.io
 .isatap.enterprisecloud.nu
+.isatap.zone.id
 .lb._dns-sd.ac
 .lb._dns-sd.com.ac
 .lb._dns-sd.edu.ac
@@ -68136,6 +68142,7 @@
 .lb._dns-sd.basicserver.io
 .lb._dns-sd.virtualserver.io
 .lb._dns-sd.enterprisecloud.nu
+.lb._dns-sd.zone.id
 .wpad.ac
 .wpad.com.ac
 .wpad.edu.ac
@@ -77870,6 +77877,7 @@
 .wpad.basicserver.io
 .wpad.virtualserver.io
 .wpad.enterprisecloud.nu
+.wpad.zone.id
 .wpad.tcp.ac
 .wpad.tcp.com.ac
 .wpad.tcp.edu.ac
@@ -87604,3 +87612,4 @@
 .wpad.tcp.basicserver.io
 .wpad.tcp.virtualserver.io
 .wpad.tcp.enterprisecloud.nu
+.wpad.tcp.zone.id
