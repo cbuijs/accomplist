@@ -6254,7 +6254,6 @@
 .autoconfig.kaufen
 .autoconfig.kddi
 .autoconfig.kerryhotels
-.autoconfig.kerrylogistics
 .autoconfig.kerryproperties
 .autoconfig.kfh
 .autoconfig.kia
@@ -6304,7 +6303,6 @@
 .autoconfig.limo
 .autoconfig.lincoln
 .autoconfig.link
-.autoconfig.lipsy
 .autoconfig.live
 .autoconfig.living
 .autoconfig.llc
@@ -9680,6 +9678,7 @@
 .autoconfig.wp2.host
 .autoconfig.pdns.page
 .autoconfig.plesk.page
+.autoconfig.cpanel.site
 .autoconfig.wpsquared.site
 .autoconfig.wadl.top
 .autoconfig.remotewd.com
@@ -15989,7 +15988,6 @@
 ._autodiscover.kaufen
 ._autodiscover.kddi
 ._autodiscover.kerryhotels
-._autodiscover.kerrylogistics
 ._autodiscover.kerryproperties
 ._autodiscover.kfh
 ._autodiscover.kia
@@ -16039,7 +16037,6 @@
 ._autodiscover.limo
 ._autodiscover.lincoln
 ._autodiscover.link
-._autodiscover.lipsy
 ._autodiscover.live
 ._autodiscover.living
 ._autodiscover.llc
@@ -19415,6 +19412,7 @@
 ._autodiscover.wp2.host
 ._autodiscover.pdns.page
 ._autodiscover.plesk.page
+._autodiscover.cpanel.site
 ._autodiscover.wpsquared.site
 ._autodiscover.wadl.top
 ._autodiscover.remotewd.com
@@ -25724,7 +25722,6 @@
 .autodiscover.kaufen
 .autodiscover.kddi
 .autodiscover.kerryhotels
-.autodiscover.kerrylogistics
 .autodiscover.kerryproperties
 .autodiscover.kfh
 .autodiscover.kia
@@ -25774,7 +25771,6 @@
 .autodiscover.limo
 .autodiscover.lincoln
 .autodiscover.link
-.autodiscover.lipsy
 .autodiscover.live
 .autodiscover.living
 .autodiscover.llc
@@ -29150,6 +29146,7 @@
 .autodiscover.wp2.host
 .autodiscover.pdns.page
 .autodiscover.plesk.page
+.autodiscover.cpanel.site
 .autodiscover.wpsquared.site
 .autodiscover.wadl.top
 .autodiscover.remotewd.com
@@ -35459,7 +35456,6 @@
 .b._dns-sd.kaufen
 .b._dns-sd.kddi
 .b._dns-sd.kerryhotels
-.b._dns-sd.kerrylogistics
 .b._dns-sd.kerryproperties
 .b._dns-sd.kfh
 .b._dns-sd.kia
@@ -35509,7 +35505,6 @@
 .b._dns-sd.limo
 .b._dns-sd.lincoln
 .b._dns-sd.link
-.b._dns-sd.lipsy
 .b._dns-sd.live
 .b._dns-sd.living
 .b._dns-sd.llc
@@ -38885,6 +38880,7 @@
 .b._dns-sd.wp2.host
 .b._dns-sd.pdns.page
 .b._dns-sd.plesk.page
+.b._dns-sd.cpanel.site
 .b._dns-sd.wpsquared.site
 .b._dns-sd.wadl.top
 .b._dns-sd.remotewd.com
@@ -45194,7 +45190,6 @@
 .db._dns-sd.kaufen
 .db._dns-sd.kddi
 .db._dns-sd.kerryhotels
-.db._dns-sd.kerrylogistics
 .db._dns-sd.kerryproperties
 .db._dns-sd.kfh
 .db._dns-sd.kia
@@ -45244,7 +45239,6 @@
 .db._dns-sd.limo
 .db._dns-sd.lincoln
 .db._dns-sd.link
-.db._dns-sd.lipsy
 .db._dns-sd.live
 .db._dns-sd.living
 .db._dns-sd.llc
@@ -48620,6 +48614,7 @@
 .db._dns-sd.wp2.host
 .db._dns-sd.pdns.page
 .db._dns-sd.plesk.page
+.db._dns-sd.cpanel.site
 .db._dns-sd.wpsquared.site
 .db._dns-sd.wadl.top
 .db._dns-sd.remotewd.com
@@ -54929,7 +54924,6 @@
 .isatap.kaufen
 .isatap.kddi
 .isatap.kerryhotels
-.isatap.kerrylogistics
 .isatap.kerryproperties
 .isatap.kfh
 .isatap.kia
@@ -54979,7 +54973,6 @@
 .isatap.limo
 .isatap.lincoln
 .isatap.link
-.isatap.lipsy
 .isatap.live
 .isatap.living
 .isatap.llc
@@ -58355,6 +58348,7 @@
 .isatap.wp2.host
 .isatap.pdns.page
 .isatap.plesk.page
+.isatap.cpanel.site
 .isatap.wpsquared.site
 .isatap.wadl.top
 .isatap.remotewd.com
@@ -64664,7 +64658,6 @@
 .lb._dns-sd.kaufen
 .lb._dns-sd.kddi
 .lb._dns-sd.kerryhotels
-.lb._dns-sd.kerrylogistics
 .lb._dns-sd.kerryproperties
 .lb._dns-sd.kfh
 .lb._dns-sd.kia
@@ -64714,7 +64707,6 @@
 .lb._dns-sd.limo
 .lb._dns-sd.lincoln
 .lb._dns-sd.link
-.lb._dns-sd.lipsy
 .lb._dns-sd.live
 .lb._dns-sd.living
 .lb._dns-sd.llc
@@ -68090,6 +68082,7 @@
 .lb._dns-sd.wp2.host
 .lb._dns-sd.pdns.page
 .lb._dns-sd.plesk.page
+.lb._dns-sd.cpanel.site
 .lb._dns-sd.wpsquared.site
 .lb._dns-sd.wadl.top
 .lb._dns-sd.remotewd.com
@@ -74399,7 +74392,6 @@
 .wpad.kaufen
 .wpad.kddi
 .wpad.kerryhotels
-.wpad.kerrylogistics
 .wpad.kerryproperties
 .wpad.kfh
 .wpad.kia
@@ -74449,7 +74441,6 @@
 .wpad.limo
 .wpad.lincoln
 .wpad.link
-.wpad.lipsy
 .wpad.live
 .wpad.living
 .wpad.llc
@@ -77825,6 +77816,7 @@
 .wpad.wp2.host
 .wpad.pdns.page
 .wpad.plesk.page
+.wpad.cpanel.site
 .wpad.wpsquared.site
 .wpad.wadl.top
 .wpad.remotewd.com
@@ -84134,7 +84126,6 @@
 .wpad.tcp.kaufen
 .wpad.tcp.kddi
 .wpad.tcp.kerryhotels
-.wpad.tcp.kerrylogistics
 .wpad.tcp.kerryproperties
 .wpad.tcp.kfh
 .wpad.tcp.kia
@@ -84184,7 +84175,6 @@
 .wpad.tcp.limo
 .wpad.tcp.lincoln
 .wpad.tcp.link
-.wpad.tcp.lipsy
 .wpad.tcp.live
 .wpad.tcp.living
 .wpad.tcp.llc
@@ -87560,6 +87550,7 @@
 .wpad.tcp.wp2.host
 .wpad.tcp.pdns.page
 .wpad.tcp.plesk.page
+.wpad.tcp.cpanel.site
 .wpad.tcp.wpsquared.site
 .wpad.tcp.wadl.top
 .wpad.tcp.remotewd.com
