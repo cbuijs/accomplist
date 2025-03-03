@@ -214,7 +214,6 @@
 .dns.paesa.es
 .3dns.eu
 .dns.almir1904.eu
-.xray.krnl.eu
 .lastentarvike.fi
 .lelux.fi
 .doh.42l.fr
@@ -373,6 +372,7 @@
 .dns.mullvad.net
 .doh.mullvad.net
 .echoe1yidzu4ioo5.myfritz.net
+.doh-ca.naftalie.net
 .kiri.nonexiste.net
 .dns.novg.net
 .doh.onedns.net
@@ -396,6 +396,7 @@
 .resolv1.trash.net
 .resolv2.trash.net
 .resolv3.trash.net
+.adfree.usableprivacy.net
 .use-application-dns.net
 .dnscrypt-cert.browser.yandex.net
 .common.dot.dns.yandex.net
@@ -406,7 +407,6 @@
 .family.mydns.network
 .freedom.mydns.network
 .paranoia.mydns.network
-.dns.unerror.network
 .dns.linkr.ninja
 .doh.sidnlabs.nl
 .nat64.tuxis.nl
