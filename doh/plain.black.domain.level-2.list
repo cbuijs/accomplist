@@ -4,9 +4,6 @@ jpdns.cola16.app
 doh.disconnect.app
 doh.futa.app
 dns.narl.app
-doh.tiar.app
-dot.tiar.app
-jp.tiar.app
 dns.redhosting.com.ar
 dns.wang.art
 dns.sarak.as
@@ -58,9 +55,6 @@ deep-henchman-excuse.cfd
 dns.chenu.ch
 c.cicitt.ch
 doh.datacore.ch
-dns.digitale-gesellschaft.ch
-dns1.digitale-gesellschaft.ch
-dns2.digitale-gesellschaft.ch
 doh.immerda.ch
 eu1.dns.lavate.ch
 us1.dns.lavate.ch
@@ -76,10 +70,8 @@ adguard.ruby.ci
 dns.michelo.cl
 dnsotls.lab.nic.cl
 farewellkou.click
-dns.listo.click
 justhost.bedro.cloud
 dns.brembeck.cloud
-dns.brono.cloud
 dns.clanto.cloud
 doh.cnetwork.cloud
 gateway.fomichev.cloud
@@ -91,7 +83,6 @@ dns-2.wil.cloud
 wyx.cloud
 adguard.ef67daisuki.club
 ps1.modr.club
-dns.qrtz.club
 dns.soldier.terumi.club
 clearweb.woodbridge.club
 dns.23-4.cn
@@ -118,7 +109,6 @@ family.5ososea.com
 kids.5ososea.com
 dns.7vpn.com
 adb.aadityakushwaha.com
-doh.dns.apple.com.v.aaplimg.com
 adblockersite.com
 dns.adguard.com
 dns-family.adguard.com
@@ -167,13 +157,11 @@ dns.braene.com
 bravedns.com
 doh.bt.com
 c-dns.com
-dns.cahlen.com
 dns.carson-family.com
 dns.chriswservers.com
 dns.chunghwamc.com
 oraclejp2.chungyu.com
 doh.cippapp.com
-dns.cloudflare.com
 cloudflare-gateway.com
 dns-fr-psv1.cloudsides.com
 dns.coderoria.com
@@ -190,7 +178,6 @@ dns.decloudus.com
 doh.denypradana.com
 doh-primary-pool.detoxifypornblocker.com
 dns.dev-umbrellagov.com
-dns.dns-53.com
 dns.dns-over-https.com
 ns1.recursive.dnsbycomodo.com
 ns2.recursive.dnsbycomodo.com
@@ -200,7 +187,6 @@ ns.dnslify.com
 adblock-dot.dnswarden.com
 adult-filter-dot.dnswarden.com
 doh.asia.dnswarden.com
-dns.dnswarden.com
 doh.dnswarden.com
 ecs-doh.dnswarden.com
 doh.eu.dnswarden.com
@@ -221,7 +207,6 @@ dns.flwagners.com
 biying.flymlc.com
 dns.gamban.com
 gclouddns.com
-dns.glorydns.com
 doh-primary-pool.goodbyegambling.com
 dns.google.com
 google-public-dns-a.google.com
@@ -334,7 +319,6 @@ r1bnc.com
 dns.api.rackspacecloud.com
 dns.rayanbab.com
 dns.renardyre.com
-dns.repinger.com
 dns.retakecs.com
 rethinkdns.com
 newd.rezyro.com
@@ -381,7 +365,6 @@ ns3.wuyouss.com
 xbcpb668.com
 doh.xfinity.com
 dot.xfinity.com
-doh2.gslb2.xfinity.com
 dns.xusqui.com
 dns.yameenassotally.com
 yovbak.com
@@ -421,7 +404,6 @@ dns.dremaxx.de
 dukun.de
 dns.dyn1.de
 opennic1.eth-services.de
-dns.farshidhakimy.de
 dns.fehlsprache.de
 dns.ffnw.de
 dns.floriantinney.de
@@ -429,7 +411,6 @@ doh.funil.de
 dns.furrydns.de
 dnsblock.grisumedia.de
 dns.grqu.de
-dns.hahnjo.de
 dns.hanmey.de
 doh.hottis.de
 dns.imchristian.de
@@ -540,16 +521,12 @@ adguard.ender.fr
 ns0.fdn.fr
 ns1.fdn.fr
 dns.freopc.fr
-adguard.maison.gifino.fr
 qlf-doh.inria.fr
 dns.k3nny.fr
 dns.kebree.fr
 doh.lacontrevoie.fr
-dns.maitrekuc.fr
 dns.mestdag.fr
 blockerads.multimediaconcept.fr
-doh-own-recursion.nicolas-dorriere.fr
-doh-random-upstream.nicolas-dorriere.fr
 rayneau.fr
 dns.sellan.fr
 pates.services.sfr.fr.casepp.sfr.fr
@@ -581,7 +558,6 @@ dns.gi.co.id
 dns.spil.co.id
 dns.diarbagus.id
 dns.gnb09.id
-dns.marasov.id
 d.apemlegit.my.id
 dns.iki.my.id
 dns.lista.my.id
@@ -591,7 +567,6 @@ dns.velyn.my.id
 dns.vmath.my.id
 doh.infotek.net.id
 doh.max.net.id
-dns.ningkelle.id
 doh.runsel.id
 dns.engineer.web.id
 doh.this.web.id
@@ -621,7 +596,6 @@ dns.api.test.globuscs.info
 doh.kekew.info
 kilabit.info
 testaghome.meshkov.info
-adguard.onlyfriends.info
 agh.printk.info
 dns.kxy.ink
 dns.tracker.ink
@@ -655,9 +629,7 @@ pro.shecan.ir
 dns.flatuslifir.is
 dns.rafn.is
 ricko.is
-block.abstergo.it
 doh.ccb-net.it
-dns.home.daniil.it
 dns2.guidocioni.it
 adguard.kiboko.it
 dns.neeb.it
@@ -792,8 +764,6 @@ dot1.appliedprivacy.net
 dns.ashleyjackson.net
 dohtrial.att.net
 dns.azsopro.net
-doh1.b-cdn.net
-doh2.b-cdn.net
 dns.bitdefender.net
 fra-dns.bitdefender.net
 iow-dns.bitdefender.net
@@ -814,7 +784,6 @@ dns1.conne.net
 doh.cox.net
 dot.cox.net
 dohdot.coxlab.net
-dns.criena.net
 dns.crystalyx.net
 dns.cynthialabs.net
 jit.ddns.net
@@ -869,7 +838,6 @@ dns.marbledfennec.net
 securenet.mhsystems.net
 zrh1-ns01.monzoon.net
 dns.moulticast.net
-dns.mullvad.net
 doh.mullvad.net
 doh-ca.naftalie.net
 ae-fuj-w-p-1.nashkan.net
@@ -960,7 +928,6 @@ freedom.mydns.network
 paranoia.mydns.network
 dns.pari.network
 dns.unerror.network
-agh.gloom.nexus
 dns.linkr.ninja
 ns3.bit-trail.nl
 dns.ginovs.nl
@@ -1019,7 +986,6 @@ dns.fullaccesstointernet.jp.eu.org
 dns.mayx.eu.org
 arashi.net.eu.org
 sukidayo.eu.org
-dns.faked.org
 dns.falkenthal.org
 adguard.gambini.org
 dns.girino.org
@@ -1086,11 +1052,9 @@ adguard.kss.ovh
 dns.mateo.ovh
 dns.neowutran.ovh
 orpi.privado.ovh
-dns.szpadel.ovh
 dns.hotta.page
 doh.kel.pe
 dns.panszelescik.pl
-adguard.piekacz.pl
 dns.pierzchlewicz.pl
 doh.apad.pro
 dns.burgas.pro
@@ -1217,7 +1181,6 @@ ad.anym0re.ru
 comss.ru
 qual.cuprum.ru
 adguard.dekonix.ru
-geshido.vpn.geshido.ru
 vd.i81.ru
 dns.iamninja.ru
 dns.lashes-brow.ru
@@ -1236,10 +1199,8 @@ dns.sb
 doh.sb
 dns.butterfly87.sbs
 myatris.sbs
-dns.haka.se
 resolver.sunet.se
 dns.9999.sg
-dns.rin.sh
 hfgx.shop
 moamao.shop
 paradise-human.shop
@@ -1295,6 +1256,7 @@ dns.wahr.top
 xholgm.top
 agh.xinfeng16m.top
 zburger.top
+mnrv.trade
 doh.funtopia.tv
 emby.rasp.tv
 dns.yatima.tv
@@ -1311,9 +1273,7 @@ lindung.pp.ua
 sundalandia.pp.ua
 virga.pp.ua
 zxcvb.pp.ua
-dns.gayanalysing.co.uk
 dns.neilzone.co.uk
-dns.dns-53.uk
 do.dnscrypt.uk
 doh.dnscrypt.uk
 v.dnscrypt.uk
@@ -1321,7 +1281,6 @@ dns.dooks.uk
 dns.aa.net.uk
 resolver.dnsprivacy.org.uk
 princez.uk
-dns.dns-53.us
 agh.fltn.us
 dns.jhangy.us
 adg.jnorton.us
@@ -1344,18 +1303,15 @@ dns.dotnet.win
 agh.kyusang.win
 dns.meeo.win
 adguard.sscw.win
-doh.ntu.ssooss.win
 dns.superstefan.win
 dns.trust404.win
 dns.huseynov.work
 dns.brahma.world
 dns.busold.ws
-dns.glf.wtf
 003153.xyz
 123000123.xyz
 dns.240527.xyz
 351242444.xyz
-dns.354688.xyz
 3dcosas.xyz
 dns.444723.xyz
 dns.688447.xyz
@@ -1394,9 +1350,6 @@ maqgie.xyz
 dns.mh4ckt3mh4ckt1c4s.xyz
 mikezhang.xyz
 dns.nixnet.xyz
-lux1.nixnet.xyz
-lv1.nixnet.xyz
-ny1.nixnet.xyz
 a.passcloud.xyz
 i.passcloud.xyz
 pepetio.xyz

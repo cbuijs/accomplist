@@ -1,11 +1,5 @@
-doh.tiar.app
-dot.tiar.app
-jp.tiar.app
 dns1.dnscrypt.ca
 dns.keweon.center
-dns.digitale-gesellschaft.ch
-dns1.digitale-gesellschaft.ch
-dns2.digitale-gesellschaft.ch
 eu1.dns.lavate.ch
 us1.dns.lavate.ch
 doh.quickline.ch
@@ -32,7 +26,6 @@ doh2.blahdns.com
 dot-de.blahdns.com
 dot-sg.blahdns.com
 bravedns.com
-dns.cloudflare.com
 freedns.controld.com
 dns.decloudus.com
 dns.dns-over-https.com
@@ -115,8 +108,6 @@ dot1.applied-privacy.net
 doh.appliedprivacy.net
 dot1.appliedprivacy.net
 dohtrial.att.net
-doh1.b-cdn.net
-doh2.b-cdn.net
 dns-tls.bitwiseshift.net
 ibuki.cgnat.net
 dns.cmrg.net
@@ -156,8 +147,5 @@ dns.twnic.tw
 dns.aa.net.uk
 dns.brahma.world
 opennic.i2pd.xyz
-lux1.nixnet.xyz
-lv1.nixnet.xyz
-ny1.nixnet.xyz
 a.passcloud.xyz
 i.passcloud.xyz
