@@ -1,6 +1,6 @@
 [Adblock Plus 1.1]
 ! Title: Accomplist "Doh" AdBlock List (Top-N Version)
-! Version: 1741157805
+! Version: 1741245587
 ! Homepage: https://github.com/cbuijs/accomplist/tree/master/doh
 !
 ! WhiteList Domains:
@@ -278,6 +278,7 @@
 ||dns.flwagners.com^
 ||biying.flymlc.com^
 ||dns.gamban.com^
+||gclouddns.com^
 ||doh-primary-pool.goodbyegambling.com^
 ||dns.google.com^
 ||google-public-dns-a.google.com^
@@ -509,7 +510,6 @@
 ||vps153.brueggus.de^
 ||vps183.brueggus.de^
 ||vps19.brueggus.de^
-||vps190.brueggus.de^
 ||vps214.brueggus.de^
 ||vps216.brueggus.de^
 ||vps217.brueggus.de^
@@ -1070,9 +1070,9 @@
 ||dns.chilimac.net^
 ||home.chilimac.net^
 ||dns.233py.com.cdn.cloudflare.net^
-||doh.apad.pro.cdn.cloudflare.net^
 ||d2bphvjyj895l0.cloudfront.net^
 ||adguard.cloudmini.net^
+||panel.cloudns.net^
 ||dns.cmrg.net^
 ||dns.comff.net^
 ||dns1.conne.net^
@@ -1301,6 +1301,8 @@
 ||dns.csswg.org^
 ||home27.duckdns.org^
 ||jurre-home.duckdns.org^
+||krtekvpn.duckdns.org^
+||montmorot.duckdns.org^
 ||osefcorp.duckdns.org^
 ||punono.duckdns.org^
 ||tuandns.duckdns.org^
