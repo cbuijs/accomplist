@@ -7880,6 +7880,7 @@ autoconfig.definima.io
 autoconfig.definima.net
 autoconfig.deno.dev
 autoconfig.deno-staging.dev
+autoconfig.deno.net
 autoconfig.dedyn.io
 autoconfig.deta.app
 autoconfig.deta.dev
@@ -17614,6 +17615,7 @@ _autodiscover.definima.io
 _autodiscover.definima.net
 _autodiscover.deno.dev
 _autodiscover.deno-staging.dev
+_autodiscover.deno.net
 _autodiscover.dedyn.io
 _autodiscover.deta.app
 _autodiscover.deta.dev
@@ -27348,6 +27350,7 @@ autodiscover.definima.io
 autodiscover.definima.net
 autodiscover.deno.dev
 autodiscover.deno-staging.dev
+autodiscover.deno.net
 autodiscover.dedyn.io
 autodiscover.deta.app
 autodiscover.deta.dev
@@ -37082,6 +37085,7 @@ b._dns-sd.definima.io
 b._dns-sd.definima.net
 b._dns-sd.deno.dev
 b._dns-sd.deno-staging.dev
+b._dns-sd.deno.net
 b._dns-sd.dedyn.io
 b._dns-sd.deta.app
 b._dns-sd.deta.dev
@@ -46816,6 +46820,7 @@ db._dns-sd.definima.io
 db._dns-sd.definima.net
 db._dns-sd.deno.dev
 db._dns-sd.deno-staging.dev
+db._dns-sd.deno.net
 db._dns-sd.dedyn.io
 db._dns-sd.deta.app
 db._dns-sd.deta.dev
@@ -56550,6 +56555,7 @@ isatap.definima.io
 isatap.definima.net
 isatap.deno.dev
 isatap.deno-staging.dev
+isatap.deno.net
 isatap.dedyn.io
 isatap.deta.app
 isatap.deta.dev
@@ -66284,6 +66290,7 @@ lb._dns-sd.definima.io
 lb._dns-sd.definima.net
 lb._dns-sd.deno.dev
 lb._dns-sd.deno-staging.dev
+lb._dns-sd.deno.net
 lb._dns-sd.dedyn.io
 lb._dns-sd.deta.app
 lb._dns-sd.deta.dev
@@ -76018,6 +76025,7 @@ wpad.definima.io
 wpad.definima.net
 wpad.deno.dev
 wpad.deno-staging.dev
+wpad.deno.net
 wpad.dedyn.io
 wpad.deta.app
 wpad.deta.dev
@@ -85752,6 +85760,7 @@ wpad.tcp.definima.io
 wpad.tcp.definima.net
 wpad.tcp.deno.dev
 wpad.tcp.deno-staging.dev
+wpad.tcp.deno.net
 wpad.tcp.dedyn.io
 wpad.tcp.deta.app
 wpad.tcp.deta.dev
