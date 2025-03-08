@@ -8672,6 +8672,7 @@ autoconfig.in-dsl.net
 autoconfig.in-vpn.net
 autoconfig.in-dsl.org
 autoconfig.in-vpn.org
+autoconfig.oninferno.net
 autoconfig.biz.at
 autoconfig.info.at
 autoconfig.info.cx
@@ -9664,6 +9665,7 @@ autoconfig.now.sh
 autoconfig.2038.io
 autoconfig.router.management
 autoconfig.v-info.info
+autoconfig.deus-canvas.com
 autoconfig.voorloper.cloud
 autoconfig.vultrobjects.com
 autoconfig.wafflecell.com
@@ -18407,6 +18409,7 @@ _autodiscover.in-dsl.net
 _autodiscover.in-vpn.net
 _autodiscover.in-dsl.org
 _autodiscover.in-vpn.org
+_autodiscover.oninferno.net
 _autodiscover.biz.at
 _autodiscover.info.at
 _autodiscover.info.cx
@@ -19399,6 +19402,7 @@ _autodiscover.now.sh
 _autodiscover.2038.io
 _autodiscover.router.management
 _autodiscover.v-info.info
+_autodiscover.deus-canvas.com
 _autodiscover.voorloper.cloud
 _autodiscover.vultrobjects.com
 _autodiscover.wafflecell.com
@@ -28142,6 +28146,7 @@ autodiscover.in-dsl.net
 autodiscover.in-vpn.net
 autodiscover.in-dsl.org
 autodiscover.in-vpn.org
+autodiscover.oninferno.net
 autodiscover.biz.at
 autodiscover.info.at
 autodiscover.info.cx
@@ -29134,6 +29139,7 @@ autodiscover.now.sh
 autodiscover.2038.io
 autodiscover.router.management
 autodiscover.v-info.info
+autodiscover.deus-canvas.com
 autodiscover.voorloper.cloud
 autodiscover.vultrobjects.com
 autodiscover.wafflecell.com
@@ -37877,6 +37883,7 @@ b._dns-sd.in-dsl.net
 b._dns-sd.in-vpn.net
 b._dns-sd.in-dsl.org
 b._dns-sd.in-vpn.org
+b._dns-sd.oninferno.net
 b._dns-sd.biz.at
 b._dns-sd.info.at
 b._dns-sd.info.cx
@@ -38869,6 +38876,7 @@ b._dns-sd.now.sh
 b._dns-sd.2038.io
 b._dns-sd.router.management
 b._dns-sd.v-info.info
+b._dns-sd.deus-canvas.com
 b._dns-sd.voorloper.cloud
 b._dns-sd.vultrobjects.com
 b._dns-sd.wafflecell.com
@@ -47612,6 +47620,7 @@ db._dns-sd.in-dsl.net
 db._dns-sd.in-vpn.net
 db._dns-sd.in-dsl.org
 db._dns-sd.in-vpn.org
+db._dns-sd.oninferno.net
 db._dns-sd.biz.at
 db._dns-sd.info.at
 db._dns-sd.info.cx
@@ -48604,6 +48613,7 @@ db._dns-sd.now.sh
 db._dns-sd.2038.io
 db._dns-sd.router.management
 db._dns-sd.v-info.info
+db._dns-sd.deus-canvas.com
 db._dns-sd.voorloper.cloud
 db._dns-sd.vultrobjects.com
 db._dns-sd.wafflecell.com
@@ -57347,6 +57357,7 @@ isatap.in-dsl.net
 isatap.in-vpn.net
 isatap.in-dsl.org
 isatap.in-vpn.org
+isatap.oninferno.net
 isatap.biz.at
 isatap.info.at
 isatap.info.cx
@@ -58339,6 +58350,7 @@ isatap.now.sh
 isatap.2038.io
 isatap.router.management
 isatap.v-info.info
+isatap.deus-canvas.com
 isatap.voorloper.cloud
 isatap.vultrobjects.com
 isatap.wafflecell.com
@@ -67082,6 +67094,7 @@ lb._dns-sd.in-dsl.net
 lb._dns-sd.in-vpn.net
 lb._dns-sd.in-dsl.org
 lb._dns-sd.in-vpn.org
+lb._dns-sd.oninferno.net
 lb._dns-sd.biz.at
 lb._dns-sd.info.at
 lb._dns-sd.info.cx
@@ -68074,6 +68087,7 @@ lb._dns-sd.now.sh
 lb._dns-sd.2038.io
 lb._dns-sd.router.management
 lb._dns-sd.v-info.info
+lb._dns-sd.deus-canvas.com
 lb._dns-sd.voorloper.cloud
 lb._dns-sd.vultrobjects.com
 lb._dns-sd.wafflecell.com
@@ -76817,6 +76831,7 @@ wpad.in-dsl.net
 wpad.in-vpn.net
 wpad.in-dsl.org
 wpad.in-vpn.org
+wpad.oninferno.net
 wpad.biz.at
 wpad.info.at
 wpad.info.cx
@@ -77809,6 +77824,7 @@ wpad.now.sh
 wpad.2038.io
 wpad.router.management
 wpad.v-info.info
+wpad.deus-canvas.com
 wpad.voorloper.cloud
 wpad.vultrobjects.com
 wpad.wafflecell.com
@@ -86552,6 +86568,7 @@ wpad.tcp.in-dsl.net
 wpad.tcp.in-vpn.net
 wpad.tcp.in-dsl.org
 wpad.tcp.in-vpn.org
+wpad.tcp.oninferno.net
 wpad.tcp.biz.at
 wpad.tcp.info.at
 wpad.tcp.info.cx
@@ -87544,6 +87561,7 @@ wpad.tcp.now.sh
 wpad.tcp.2038.io
 wpad.tcp.router.management
 wpad.tcp.v-info.info
+wpad.tcp.deus-canvas.com
 wpad.tcp.voorloper.cloud
 wpad.tcp.vultrobjects.com
 wpad.tcp.wafflecell.com
