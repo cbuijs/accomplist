@@ -1,4 +1,3 @@
-.jpdns.cola16.app
 .doh.disconnect.app
 .tiar.app
 .dns.kescher.at
@@ -117,8 +116,6 @@
 .google-public-dns-a.google.com
 .google-public-dns-b.google.com
 .dot.libredns.gr.com
-.adguard.haneulo.com
-.oko.haneulo.com
 .resolver-eu.haringstad.com
 .httpdns-push.heytapmobile.com
 .dns.hoody.com
@@ -332,7 +329,6 @@
 .cluster-1.gac.edu
 .dns.cert.ee
 .enter.rfer.ee
-.dns.paesa.es
 .3dns.eu
 .dns.almir1904.eu
 .lastentarvike.fi
@@ -404,7 +400,6 @@
 .pro.shecan.ir
 .dns.flatuslifir.is
 .dns.rafn.is
-.abstergo.it
 .doh.ccb-net.it
 .home.daniil.it
 .pi.daniil.it
@@ -426,7 +421,6 @@
 .dns.njal.la
 .eth.link
 .doh.domreg.lt
-.o1.lt
 .crd.circl.lu
 .dns.circl.lu
 .dnspub.restena.lu
@@ -472,7 +466,6 @@
 .nvi-dns.bitdefender.net
 .ore-dns.bitdefender.net
 .tky-dns.bitdefender.net
-.us1.blissdns.net
 .dns.233py.com.cdn.cloudflare.net
 .doh.apad.pro.cdn.cloudflare.net
 .d2bphvjyj895l0.cloudfront.net
@@ -518,6 +511,7 @@
 .dns.mullvad.net
 .doh.mullvad.net
 .echoe1yidzu4ioo5.myfritz.net
+.doh-ca.naftalie.net
 .kiri.nonexiste.net
 .dns.novg.net
 .doh.onedns.net
@@ -752,7 +746,6 @@
 .dns.neilzone.co.uk
 .dns.aa.net.uk
 .doh.netweaver.uk
-.adg.jnorton.us
 .vps-33e5a7f3.vps.ovh.us
 .tienpham.id.vn
 .chungocoai.name.vn
