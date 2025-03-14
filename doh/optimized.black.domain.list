@@ -118,6 +118,7 @@ hkvps.hshoe.cn
 dns.hujiayucc.cn
 dns.mbrjun.cn
 hk.mbrjun.cn
+mc-sft.cn
 dns.muxinghe.cn
 dns.mzrme.cn
 dns.rubyfish.cn
@@ -376,7 +377,6 @@ dns1.oryxlabs.com
 90c3f3bd03394bebaa20741314cef947.pacloudflare.com
 dff029179c4246e385296ea8de0b8eb8.pacloudflare.com
 pashagame456.com
-ark.pesaventofilippo.com
 dns.pesaventofilippo.com
 home.pesaventofilippo.com
 doh.centraleu.pi-dns.com
@@ -840,6 +840,7 @@ dns.api.integration.globuscs.info
 dns.api.sandbox.globuscs.info
 dns.api.staging.globuscs.info
 dns.api.test.globuscs.info
+doh.kekew.info
 kilabit.info
 testaghome.meshkov.info
 onlyfriends.info
@@ -1273,9 +1274,12 @@ dns.colorfreedom.org
 dns.csswg.org
 home27.duckdns.org
 jurre-home.duckdns.org
+krtekvpn.duckdns.org
 montmorot.duckdns.org
 osefcorp.duckdns.org
+punono.duckdns.org
 tuandns.duckdns.org
+tungdnsne.duckdns.org
 ueni.dyndns.org
 arashi.eu.org
 armorrush.eu.org
@@ -1293,7 +1297,6 @@ dns.girino.org
 dns.api.globus.org
 dns.api.preview.globus.org
 dns.goldplate.org
-jichi.hopto.org
 keithchung.hopto.org
 hshh.org
 dns.jundev.org
