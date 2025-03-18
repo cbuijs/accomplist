@@ -7828,6 +7828,8 @@ autoconfig.csb.app
 autoconfig.preview.csb.app
 autoconfig.co.nl
 autoconfig.co.no
+autoconfig.devinapps.com
+autoconfig.staging.devinapps.com
 autoconfig.webhosting.be
 autoconfig.hosting-cluster.nl
 autoconfig.ctfcloud.net
@@ -17573,6 +17575,8 @@ _autodiscover.csb.app
 _autodiscover.preview.csb.app
 _autodiscover.co.nl
 _autodiscover.co.no
+_autodiscover.devinapps.com
+_autodiscover.staging.devinapps.com
 _autodiscover.webhosting.be
 _autodiscover.hosting-cluster.nl
 _autodiscover.ctfcloud.net
@@ -27318,6 +27322,8 @@ autodiscover.csb.app
 autodiscover.preview.csb.app
 autodiscover.co.nl
 autodiscover.co.no
+autodiscover.devinapps.com
+autodiscover.staging.devinapps.com
 autodiscover.webhosting.be
 autodiscover.hosting-cluster.nl
 autodiscover.ctfcloud.net
@@ -37063,6 +37069,8 @@ b._dns-sd.csb.app
 b._dns-sd.preview.csb.app
 b._dns-sd.co.nl
 b._dns-sd.co.no
+b._dns-sd.devinapps.com
+b._dns-sd.staging.devinapps.com
 b._dns-sd.webhosting.be
 b._dns-sd.hosting-cluster.nl
 b._dns-sd.ctfcloud.net
@@ -46808,6 +46816,8 @@ db._dns-sd.csb.app
 db._dns-sd.preview.csb.app
 db._dns-sd.co.nl
 db._dns-sd.co.no
+db._dns-sd.devinapps.com
+db._dns-sd.staging.devinapps.com
 db._dns-sd.webhosting.be
 db._dns-sd.hosting-cluster.nl
 db._dns-sd.ctfcloud.net
@@ -56553,6 +56563,8 @@ isatap.csb.app
 isatap.preview.csb.app
 isatap.co.nl
 isatap.co.no
+isatap.devinapps.com
+isatap.staging.devinapps.com
 isatap.webhosting.be
 isatap.hosting-cluster.nl
 isatap.ctfcloud.net
@@ -66298,6 +66310,8 @@ lb._dns-sd.csb.app
 lb._dns-sd.preview.csb.app
 lb._dns-sd.co.nl
 lb._dns-sd.co.no
+lb._dns-sd.devinapps.com
+lb._dns-sd.staging.devinapps.com
 lb._dns-sd.webhosting.be
 lb._dns-sd.hosting-cluster.nl
 lb._dns-sd.ctfcloud.net
@@ -76043,6 +76057,8 @@ wpad.csb.app
 wpad.preview.csb.app
 wpad.co.nl
 wpad.co.no
+wpad.devinapps.com
+wpad.staging.devinapps.com
 wpad.webhosting.be
 wpad.hosting-cluster.nl
 wpad.ctfcloud.net
@@ -85788,6 +85804,8 @@ wpad.tcp.csb.app
 wpad.tcp.preview.csb.app
 wpad.tcp.co.nl
 wpad.tcp.co.no
+wpad.tcp.devinapps.com
+wpad.tcp.staging.devinapps.com
 wpad.tcp.webhosting.be
 wpad.tcp.hosting-cluster.nl
 wpad.tcp.ctfcloud.net
