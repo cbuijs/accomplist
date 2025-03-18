@@ -424,9 +424,7 @@ dns.alekberg.net
 dns2.alekberg.net
 dnses.alekberg.net
 dnsnl.alekberg.net
-dnsnl-noads.alekberg.net
 dnsse.alekberg.net
-dnsse-noads.alekberg.net
 boss.apple-dns.net
 mask-api.fe2.apple-dns.net
 mask.apple-dns.net
@@ -490,6 +488,7 @@ zrh1-ns01.monzoon.net
 dns.mullvad.net
 doh.mullvad.net
 echoe1yidzu4ioo5.myfritz.net
+doh-ca.naftalie.net
 kiri.nonexiste.net
 dns.novg.net
 doh.onedns.net
@@ -584,7 +583,6 @@ doh.tiarap.org
 jp.tiarap.org
 uncensoreddns.org
 wikimedia-dns.org
-jackyes.ovh
 dns.panszelescik.pl
 dns-ovh.panszelescik.pl
 ovh.panszelescik.pl
