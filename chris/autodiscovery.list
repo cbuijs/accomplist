@@ -7896,6 +7896,7 @@ autoconfig.you2.pl
 autoconfig.ondigitalocean.app
 autoconfig.digitaloceanspaces.com
 autoconfig.us.kg
+autoconfig.dpdns.org
 autoconfig.discordsays.com
 autoconfig.discordsez.com
 autoconfig.jozi.biz
@@ -9673,7 +9674,6 @@ autoconfig.vercel.dev
 autoconfig.vusercontent.net
 autoconfig.now.sh
 autoconfig.2038.io
-autoconfig.router.management
 autoconfig.v-info.info
 autoconfig.deus-canvas.com
 autoconfig.voorloper.cloud
@@ -17643,6 +17643,7 @@ _autodiscover.you2.pl
 _autodiscover.ondigitalocean.app
 _autodiscover.digitaloceanspaces.com
 _autodiscover.us.kg
+_autodiscover.dpdns.org
 _autodiscover.discordsays.com
 _autodiscover.discordsez.com
 _autodiscover.jozi.biz
@@ -19420,7 +19421,6 @@ _autodiscover.vercel.dev
 _autodiscover.vusercontent.net
 _autodiscover.now.sh
 _autodiscover.2038.io
-_autodiscover.router.management
 _autodiscover.v-info.info
 _autodiscover.deus-canvas.com
 _autodiscover.voorloper.cloud
@@ -27390,6 +27390,7 @@ autodiscover.you2.pl
 autodiscover.ondigitalocean.app
 autodiscover.digitaloceanspaces.com
 autodiscover.us.kg
+autodiscover.dpdns.org
 autodiscover.discordsays.com
 autodiscover.discordsez.com
 autodiscover.jozi.biz
@@ -29167,7 +29168,6 @@ autodiscover.vercel.dev
 autodiscover.vusercontent.net
 autodiscover.now.sh
 autodiscover.2038.io
-autodiscover.router.management
 autodiscover.v-info.info
 autodiscover.deus-canvas.com
 autodiscover.voorloper.cloud
@@ -37137,6 +37137,7 @@ b._dns-sd.you2.pl
 b._dns-sd.ondigitalocean.app
 b._dns-sd.digitaloceanspaces.com
 b._dns-sd.us.kg
+b._dns-sd.dpdns.org
 b._dns-sd.discordsays.com
 b._dns-sd.discordsez.com
 b._dns-sd.jozi.biz
@@ -38914,7 +38915,6 @@ b._dns-sd.vercel.dev
 b._dns-sd.vusercontent.net
 b._dns-sd.now.sh
 b._dns-sd.2038.io
-b._dns-sd.router.management
 b._dns-sd.v-info.info
 b._dns-sd.deus-canvas.com
 b._dns-sd.voorloper.cloud
@@ -46884,6 +46884,7 @@ db._dns-sd.you2.pl
 db._dns-sd.ondigitalocean.app
 db._dns-sd.digitaloceanspaces.com
 db._dns-sd.us.kg
+db._dns-sd.dpdns.org
 db._dns-sd.discordsays.com
 db._dns-sd.discordsez.com
 db._dns-sd.jozi.biz
@@ -48661,7 +48662,6 @@ db._dns-sd.vercel.dev
 db._dns-sd.vusercontent.net
 db._dns-sd.now.sh
 db._dns-sd.2038.io
-db._dns-sd.router.management
 db._dns-sd.v-info.info
 db._dns-sd.deus-canvas.com
 db._dns-sd.voorloper.cloud
@@ -56631,6 +56631,7 @@ isatap.you2.pl
 isatap.ondigitalocean.app
 isatap.digitaloceanspaces.com
 isatap.us.kg
+isatap.dpdns.org
 isatap.discordsays.com
 isatap.discordsez.com
 isatap.jozi.biz
@@ -58408,7 +58409,6 @@ isatap.vercel.dev
 isatap.vusercontent.net
 isatap.now.sh
 isatap.2038.io
-isatap.router.management
 isatap.v-info.info
 isatap.deus-canvas.com
 isatap.voorloper.cloud
@@ -66378,6 +66378,7 @@ lb._dns-sd.you2.pl
 lb._dns-sd.ondigitalocean.app
 lb._dns-sd.digitaloceanspaces.com
 lb._dns-sd.us.kg
+lb._dns-sd.dpdns.org
 lb._dns-sd.discordsays.com
 lb._dns-sd.discordsez.com
 lb._dns-sd.jozi.biz
@@ -68155,7 +68156,6 @@ lb._dns-sd.vercel.dev
 lb._dns-sd.vusercontent.net
 lb._dns-sd.now.sh
 lb._dns-sd.2038.io
-lb._dns-sd.router.management
 lb._dns-sd.v-info.info
 lb._dns-sd.deus-canvas.com
 lb._dns-sd.voorloper.cloud
@@ -76125,6 +76125,7 @@ wpad.you2.pl
 wpad.ondigitalocean.app
 wpad.digitaloceanspaces.com
 wpad.us.kg
+wpad.dpdns.org
 wpad.discordsays.com
 wpad.discordsez.com
 wpad.jozi.biz
@@ -77902,7 +77903,6 @@ wpad.vercel.dev
 wpad.vusercontent.net
 wpad.now.sh
 wpad.2038.io
-wpad.router.management
 wpad.v-info.info
 wpad.deus-canvas.com
 wpad.voorloper.cloud
@@ -85872,6 +85872,7 @@ wpad.tcp.you2.pl
 wpad.tcp.ondigitalocean.app
 wpad.tcp.digitaloceanspaces.com
 wpad.tcp.us.kg
+wpad.tcp.dpdns.org
 wpad.tcp.discordsays.com
 wpad.tcp.discordsez.com
 wpad.tcp.jozi.biz
@@ -87649,7 +87650,6 @@ wpad.tcp.vercel.dev
 wpad.tcp.vusercontent.net
 wpad.tcp.now.sh
 wpad.tcp.2038.io
-wpad.tcp.router.management
 wpad.tcp.v-info.info
 wpad.tcp.deus-canvas.com
 wpad.tcp.voorloper.cloud
