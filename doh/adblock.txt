@@ -1,6 +1,6 @@
 [Adblock Plus 1.1]
 ! Title: Accomplist "Doh" AdBlock List (Top-N Version)
-! Version: 1742368904
+! Version: 1742455491
 ! Homepage: https://github.com/cbuijs/accomplist/tree/master/doh
 !
 ! WhiteList Domains:
@@ -569,7 +569,6 @@
 ||vps382.brueggus.de^
 ||vps384.brueggus.de^
 ||vps386.brueggus.de^
-||vps387.brueggus.de^
 ||vps388.brueggus.de^
 ||vps389.brueggus.de^
 ||vps391.brueggus.de^
@@ -588,6 +587,7 @@
 ||vps421.brueggus.de^
 ||vps422.brueggus.de^
 ||vps427.brueggus.de^
+||vps434.brueggus.de^
 ||vps66.brueggus.de^
 ||chaos-system.de^
 ||dns.csa-rz.de^
@@ -859,6 +859,7 @@
 ||fly.io^
 ||dns.guard.io^
 ||query.hdns.io^
+||dns.jichi.io^
 ||doh.kidzonet.io^
 ||dns.n23.io^
 ||resolver4.dns.openinternet.io^
@@ -914,6 +915,7 @@
 ||dns.txq.life^
 ||mabuktogel.limited^
 ||polisitogel.limo^
+||dns-free.link^
 ||eth.link^
 ||ns3.link^
 ||lifeisa.live^
@@ -923,6 +925,7 @@
 ||d.bod.lol^
 ||johneldenring.lol^
 ||lewsha.lol^
+||quic.lol^
 ||doh.domreg.lt^
 ||o1.lt^
 ||dns.ourvau.lt^
@@ -949,7 +952,6 @@
 ||secure.anudeep.me^
 ||dns.b612.me^
 ||bluemood.me^
-||doh.boje8.me^
 ||doh.cornes.me^
 ||ocph05.cornes.me^
 ||dns.dekedin.me^
