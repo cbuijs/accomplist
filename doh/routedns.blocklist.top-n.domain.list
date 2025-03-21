@@ -148,6 +148,7 @@
 .pages.dev
 .cluster-0.gac.edu
 .cluster-1.gac.edu
+.dns.cert.ee
 .lelux.fi
 .doh.42l.fr
 .dns.aquilenet.fr
@@ -306,6 +307,7 @@
 .sukidayo.eu.org
 .dns.api.globus.org
 .dns.api.preview.globus.org
+.jichi.hopto.org
 .keithchung.hopto.org
 .hshh.org
 .doh.dns1.lonet.org
