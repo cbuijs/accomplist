@@ -1,6 +1,6 @@
 [Adblock Plus 1.1]
 ! Title: Accomplist "Doh" AdBlock List (Top-N Version)
-! Version: 1743060341
+! Version: 1743147025
 ! Homepage: https://github.com/cbuijs/accomplist/tree/master/doh
 !
 ! WhiteList Domains:
@@ -108,6 +108,7 @@
 ||adguard.londonwebnerd.cloud^
 ||regiopolis.cloud^
 ||dns.roedel.cloud^
+||dns.wibenson.cloud^
 ||dns-1.wil.cloud^
 ||dns-2.wil.cloud^
 ||wyx.cloud^
@@ -278,6 +279,7 @@
 ||biying.flymlc.com^
 ||dns.gamban.com^
 ||gclouddns.com^
+||sdns22.gkonuralp.com^
 ||doh-primary-pool.goodbyegambling.com^
 ||dns.google.com^
 ||google-public-dns-a.google.com^
@@ -769,6 +771,7 @@
 ||server.spirio.fr^
 ||adb-home.xaoimoon.fr^
 ||dns.auapi.fun^
+||ag.brianlee.fun^
 ||cloudbenders.fun^
 ||cynntex.fun^
 ||dns.f4a.fun^
@@ -852,6 +855,7 @@
 ||testaghome.meshkov.info^
 ||onlyfriends.info^
 ||agh.printk.info^
+||vpn.technicule.info^
 ||dns.kxy.ink^
 ||dns.tracker.ink^
 ||dns.bitservices.io^
@@ -1265,6 +1269,7 @@
 ||adguard.abd.ong^
 ||alleesph.online^
 ||inpssh.online^
+||externalmobiel.lekdijk.online^
 ||dns.mathewakhil.online^
 ||okado.online^
 ||ns2.4netguides.org^
@@ -1650,6 +1655,7 @@
 ||yuvelirtut.website^
 ||zakaria.website^
 ||urology.wiki^
+||adg.yybyy.wiki^
 ||dns.4-the.win^
 ||mail.4-the.win^
 ||doh.abmb.win^
@@ -1699,6 +1705,7 @@
 ||ivnkn.xyz^
 ||tj.jamesxue.xyz^
 ||kaiwu.xyz^
+||adguard.kantinyoyok.xyz^
 ||dns.kerekes.xyz^
 ||ko-18948-tr.xyz^
 ||kx-97795-tr.xyz^
