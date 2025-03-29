@@ -7537,6 +7537,8 @@
 .autoconfig.analytics-gateway.us-east-1.amazonaws.com
 .autoconfig.analytics-gateway.us-east-2.amazonaws.com
 .autoconfig.analytics-gateway.us-west-2.amazonaws.com
+.autoconfig.appwrite.global
+.autoconfig.appwrite.run
 .autoconfig.amplifyapp.com
 .autoconfig.awsapprunner.com
 .autoconfig.webview-assets.aws-cloud9.af-south-1.amazonaws.com
@@ -9531,6 +9533,8 @@
 .autoconfig.researched.cx
 .autoconfig.tests.cx
 .autoconfig.surveys.so
+.autoconfig.ipfs.storacha.link
+.autoconfig.ipfs.w3s.link
 .autoconfig.storebase.store
 .autoconfig.storipress.app
 .autoconfig.storj.farm
@@ -17284,6 +17288,8 @@
 ._autodiscover.analytics-gateway.us-east-1.amazonaws.com
 ._autodiscover.analytics-gateway.us-east-2.amazonaws.com
 ._autodiscover.analytics-gateway.us-west-2.amazonaws.com
+._autodiscover.appwrite.global
+._autodiscover.appwrite.run
 ._autodiscover.amplifyapp.com
 ._autodiscover.awsapprunner.com
 ._autodiscover.webview-assets.aws-cloud9.af-south-1.amazonaws.com
@@ -19278,6 +19284,8 @@
 ._autodiscover.researched.cx
 ._autodiscover.tests.cx
 ._autodiscover.surveys.so
+._autodiscover.ipfs.storacha.link
+._autodiscover.ipfs.w3s.link
 ._autodiscover.storebase.store
 ._autodiscover.storipress.app
 ._autodiscover.storj.farm
@@ -27031,6 +27039,8 @@
 .autodiscover.analytics-gateway.us-east-1.amazonaws.com
 .autodiscover.analytics-gateway.us-east-2.amazonaws.com
 .autodiscover.analytics-gateway.us-west-2.amazonaws.com
+.autodiscover.appwrite.global
+.autodiscover.appwrite.run
 .autodiscover.amplifyapp.com
 .autodiscover.awsapprunner.com
 .autodiscover.webview-assets.aws-cloud9.af-south-1.amazonaws.com
@@ -29025,6 +29035,8 @@
 .autodiscover.researched.cx
 .autodiscover.tests.cx
 .autodiscover.surveys.so
+.autodiscover.ipfs.storacha.link
+.autodiscover.ipfs.w3s.link
 .autodiscover.storebase.store
 .autodiscover.storipress.app
 .autodiscover.storj.farm
@@ -36778,6 +36790,8 @@
 .b._dns-sd.analytics-gateway.us-east-1.amazonaws.com
 .b._dns-sd.analytics-gateway.us-east-2.amazonaws.com
 .b._dns-sd.analytics-gateway.us-west-2.amazonaws.com
+.b._dns-sd.appwrite.global
+.b._dns-sd.appwrite.run
 .b._dns-sd.amplifyapp.com
 .b._dns-sd.awsapprunner.com
 .b._dns-sd.webview-assets.aws-cloud9.af-south-1.amazonaws.com
@@ -38772,6 +38786,8 @@
 .b._dns-sd.researched.cx
 .b._dns-sd.tests.cx
 .b._dns-sd.surveys.so
+.b._dns-sd.ipfs.storacha.link
+.b._dns-sd.ipfs.w3s.link
 .b._dns-sd.storebase.store
 .b._dns-sd.storipress.app
 .b._dns-sd.storj.farm
@@ -46525,6 +46541,8 @@
 .db._dns-sd.analytics-gateway.us-east-1.amazonaws.com
 .db._dns-sd.analytics-gateway.us-east-2.amazonaws.com
 .db._dns-sd.analytics-gateway.us-west-2.amazonaws.com
+.db._dns-sd.appwrite.global
+.db._dns-sd.appwrite.run
 .db._dns-sd.amplifyapp.com
 .db._dns-sd.awsapprunner.com
 .db._dns-sd.webview-assets.aws-cloud9.af-south-1.amazonaws.com
@@ -48519,6 +48537,8 @@
 .db._dns-sd.researched.cx
 .db._dns-sd.tests.cx
 .db._dns-sd.surveys.so
+.db._dns-sd.ipfs.storacha.link
+.db._dns-sd.ipfs.w3s.link
 .db._dns-sd.storebase.store
 .db._dns-sd.storipress.app
 .db._dns-sd.storj.farm
@@ -56272,6 +56292,8 @@
 .isatap.analytics-gateway.us-east-1.amazonaws.com
 .isatap.analytics-gateway.us-east-2.amazonaws.com
 .isatap.analytics-gateway.us-west-2.amazonaws.com
+.isatap.appwrite.global
+.isatap.appwrite.run
 .isatap.amplifyapp.com
 .isatap.awsapprunner.com
 .isatap.webview-assets.aws-cloud9.af-south-1.amazonaws.com
@@ -58266,6 +58288,8 @@
 .isatap.researched.cx
 .isatap.tests.cx
 .isatap.surveys.so
+.isatap.ipfs.storacha.link
+.isatap.ipfs.w3s.link
 .isatap.storebase.store
 .isatap.storipress.app
 .isatap.storj.farm
@@ -66019,6 +66043,8 @@
 .lb._dns-sd.analytics-gateway.us-east-1.amazonaws.com
 .lb._dns-sd.analytics-gateway.us-east-2.amazonaws.com
 .lb._dns-sd.analytics-gateway.us-west-2.amazonaws.com
+.lb._dns-sd.appwrite.global
+.lb._dns-sd.appwrite.run
 .lb._dns-sd.amplifyapp.com
 .lb._dns-sd.awsapprunner.com
 .lb._dns-sd.webview-assets.aws-cloud9.af-south-1.amazonaws.com
@@ -68013,6 +68039,8 @@
 .lb._dns-sd.researched.cx
 .lb._dns-sd.tests.cx
 .lb._dns-sd.surveys.so
+.lb._dns-sd.ipfs.storacha.link
+.lb._dns-sd.ipfs.w3s.link
 .lb._dns-sd.storebase.store
 .lb._dns-sd.storipress.app
 .lb._dns-sd.storj.farm
@@ -75766,6 +75794,8 @@
 .wpad.analytics-gateway.us-east-1.amazonaws.com
 .wpad.analytics-gateway.us-east-2.amazonaws.com
 .wpad.analytics-gateway.us-west-2.amazonaws.com
+.wpad.appwrite.global
+.wpad.appwrite.run
 .wpad.amplifyapp.com
 .wpad.awsapprunner.com
 .wpad.webview-assets.aws-cloud9.af-south-1.amazonaws.com
@@ -77760,6 +77790,8 @@
 .wpad.researched.cx
 .wpad.tests.cx
 .wpad.surveys.so
+.wpad.ipfs.storacha.link
+.wpad.ipfs.w3s.link
 .wpad.storebase.store
 .wpad.storipress.app
 .wpad.storj.farm
@@ -85513,6 +85545,8 @@
 .wpad.tcp.analytics-gateway.us-east-1.amazonaws.com
 .wpad.tcp.analytics-gateway.us-east-2.amazonaws.com
 .wpad.tcp.analytics-gateway.us-west-2.amazonaws.com
+.wpad.tcp.appwrite.global
+.wpad.tcp.appwrite.run
 .wpad.tcp.amplifyapp.com
 .wpad.tcp.awsapprunner.com
 .wpad.tcp.webview-assets.aws-cloud9.af-south-1.amazonaws.com
@@ -87507,6 +87541,8 @@
 .wpad.tcp.researched.cx
 .wpad.tcp.tests.cx
 .wpad.tcp.surveys.so
+.wpad.tcp.ipfs.storacha.link
+.wpad.tcp.ipfs.w3s.link
 .wpad.tcp.storebase.store
 .wpad.tcp.storipress.app
 .wpad.tcp.storj.farm
