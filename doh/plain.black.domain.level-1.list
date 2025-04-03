@@ -128,7 +128,6 @@ alidns.com
 httpdns-sc.aliyuncs.com
 dns.alvosec.com
 ag.apollohct.com
-apple-relay.apple.com
 doh.dns.apple.com
 dns.arapurayil.com
 dns.ares-taiwan.com
@@ -177,7 +176,6 @@ dns.chriswservers.com
 dns.chunghwamc.com
 oraclejp2.chungyu.com
 doh.cippapp.com
-apple-relay.cloudfare.com
 cloudflare-gateway.com
 api.cloudflareclient.com
 cloudflareresolve.com
@@ -224,7 +222,6 @@ dns.efficientdocuments.com
 dns.ellichua.com
 dns.emiliyan.com
 dns.enzonix.com
-apple-relay.fastly-edge.com
 dns.flwagners.com
 biying.flymlc.com
 dns.gamban.com
@@ -247,8 +244,6 @@ ads.hunga1k47.com
 doth.huque.com
 mask.icloud.com
 mask-api.icloud.com
-mask-boot.icloud.com
-mask-canary.icloud.com
 mask-h2.icloud.com
 dns.ihaveacloud.com
 dns.ikataruto.com
@@ -581,6 +576,7 @@ dns.sellan.fr
 pates.services.sfr.fr.casepp.sfr.fr
 dns.spirio.fr
 adb-home.xaoimoon.fr
+dns.auapi.fun
 ag.brianlee.fun
 cloudbenders.fun
 cynntex.fun
@@ -801,7 +797,6 @@ per.adfilter.net
 syd.adfilter.net
 affcdn.net
 ahadns.net
-apple-relay.akamaized.net
 dns.alekberg.net
 dns2.alekberg.net
 dnses.alekberg.net

@@ -1,6 +1,6 @@
 [Adblock Plus 1.1]
 ! Title: Accomplist "Doh" AdBlock List (Top-N Version)
-! Version: 1743575966
+! Version: 1743661916
 ! Homepage: https://github.com/cbuijs/accomplist/tree/master/doh
 !
 ! WhiteList Domains:
@@ -165,7 +165,6 @@
 ||dns-staging-alb-849259019.us-east-1.elb.amazonaws.com^
 ||dns-test-alb-2081756747.us-east-1.elb.amazonaws.com^
 ||ag.apollohct.com^
-||apple-relay.apple.com^
 ||doh.dns.apple.com^
 ||dns.arapurayil.com^
 ||dns.ares-taiwan.com^
@@ -221,7 +220,6 @@
 ||dns.chunghwamc.com^
 ||oraclejp2.chungyu.com^
 ||doh.cippapp.com^
-||apple-relay.cloudfare.com^
 ||cloudflare.com^
 ||cloudflare-dns.com^
 ||cloudflare-gateway.com^
@@ -272,7 +270,6 @@
 ||dns.ellichua.com^
 ||dns.emiliyan.com^
 ||dns.enzonix.com^
-||apple-relay.fastly-edge.com^
 ||dns.flwagners.com^
 ||biying.flymlc.com^
 ||dns.gamban.com^
@@ -299,8 +296,6 @@
 ||doth.huque.com^
 ||mask.icloud.com^
 ||mask-api.icloud.com^
-||mask-boot.icloud.com^
-||mask-canary.icloud.com^
 ||mask-h2.icloud.com^
 ||dns.ihaveacloud.com^
 ||dns.ikataruto.com^
@@ -769,6 +764,7 @@
 ||dns.spirio.fr^
 ||server.spirio.fr^
 ||adb-home.xaoimoon.fr^
+||dns.auapi.fun^
 ||ag.brianlee.fun^
 ||cloudbenders.fun^
 ||cynntex.fun^
@@ -1014,7 +1010,6 @@
 ||affcdn.net^
 ||ahadns.net^
 ||a1781.dscdi3.akamai.net^
-||apple-relay.akamaized.net^
 ||dns.alekberg.net^
 ||dns2.alekberg.net^
 ||dnses.alekberg.net^

@@ -1,5 +1,6 @@
 doh.disconnect.app
 tiar.app
+penta.aeins.at
 dns.kescher.at
 kudns.kescher.at
 dns.belnet.be
@@ -52,7 +53,6 @@ dns-prod-alb-194669935.us-east-1.elb.amazonaws.com
 dns-sandbox-alb-275183166.us-east-1.elb.amazonaws.com
 dns-staging-alb-849259019.us-east-1.elb.amazonaws.com
 dns-test-alb-2081756747.us-east-1.elb.amazonaws.com
-apple-relay.apple.com
 doh.dns.apple.com
 dns.arapurayil.com
 dandelionsprout.asuscomm.com
@@ -83,7 +83,6 @@ dot-sg.blahdns.com
 96421.bodis.com
 bravedns.com
 doh.bt.com
-apple-relay.cloudfare.com
 cloudflare.com
 cloudflare-dns.com
 cloudflare-gateway.com
@@ -93,6 +92,7 @@ dns.controld.com
 freedns.controld.com
 dns.cryptomize.com
 dns.decloudus.com
+dns.dns-over-https.com
 ns1.recursive.dnsbycomodo.com
 ns2.recursive.dnsbycomodo.com
 dnscrypt-cert.shield-2.dnsbycomodo.com
@@ -113,7 +113,6 @@ doh.us.dnswarden.com
 resolver1.dyndnsinternetguide.com
 resolver2.dyndnsinternetguide.com
 dns.enzonix.com
-apple-relay.fastly-edge.com
 dns.gamban.com
 dns.google.com
 google-public-dns-a.google.com
@@ -125,8 +124,6 @@ expired.hichina.com
 dns.hoody.com
 mask.icloud.com
 mask-api.icloud.com
-mask-boot.icloud.com
-mask-canary.icloud.com
 mask-h2.icloud.com
 dns.ikataruto.com
 dns1.irumatech.com
@@ -422,7 +419,6 @@ resolver2.absolight.net
 resolver3.absolight.net
 ahadns.net
 a1781.dscdi3.akamai.net
-apple-relay.akamaized.net
 dns.alekberg.net
 dns2.alekberg.net
 dnses.alekberg.net
@@ -492,7 +488,6 @@ zrh1-ns01.monzoon.net
 dns.mullvad.net
 doh.mullvad.net
 echoe1yidzu4ioo5.myfritz.net
-doh-ca.naftalie.net
 kiri.nonexiste.net
 dns.novg.net
 doh.onedns.net

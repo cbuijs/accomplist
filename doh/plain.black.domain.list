@@ -184,7 +184,6 @@ dns-sandbox-alb-275183166.us-east-1.elb.amazonaws.com
 dns-staging-alb-849259019.us-east-1.elb.amazonaws.com
 dns-test-alb-2081756747.us-east-1.elb.amazonaws.com
 ag.apollohct.com
-apple-relay.apple.com
 doh.dns.apple.com
 dns.arapurayil.com
 dns.ares-taiwan.com
@@ -244,9 +243,7 @@ dns.chriswservers.com
 dns.chunghwamc.com
 oraclejp2.chungyu.com
 doh.cippapp.com
-apple-relay.cloudfare.com
 cloudflare.com
-apple-relay.cloudflare.com
 dns.cloudflare.com
 cloudflare-dns.com
 1dot1dot1dot1.cloudflare-dns.com
@@ -322,7 +319,6 @@ dns.efficientdocuments.com
 dns.ellichua.com
 dns.emiliyan.com
 dns.enzonix.com
-apple-relay.fastly-edge.com
 dns.flwagners.com
 biying.flymlc.com
 dns.gamban.com
@@ -349,8 +345,6 @@ ads.hunga1k47.com
 doth.huque.com
 mask.icloud.com
 mask-api.icloud.com
-mask-boot.icloud.com
-mask-canary.icloud.com
 mask-h2.icloud.com
 dns.ihaveacloud.com
 dns.ikataruto.com
@@ -840,6 +834,7 @@ pates.services.sfr.fr.casepp.sfr.fr
 dns.spirio.fr
 server.spirio.fr
 adb-home.xaoimoon.fr
+dns.auapi.fun
 ag.brianlee.fun
 cloudbenders.fun
 cynntex.fun
@@ -1114,7 +1109,6 @@ dot.ny.ahadns.net
 doh.pl.ahadns.net
 dot.pl.ahadns.net
 a1781.dscdi3.akamai.net
-apple-relay.akamaized.net
 dns.alekberg.net
 dns2.alekberg.net
 dnses.alekberg.net
@@ -1126,11 +1120,6 @@ mask-api.fe2.apple-dns.net
 mask.apple-dns.net
 apple-relay.mask.apple-dns.net
 canary.mask.apple-dns.net
-africa-mask.wrr.mask.apple-dns.net
-apac-mask.wrr.mask.apple-dns.net
-emea-mask.wrr.mask.apple-dns.net
-north-america-mask.wrr.mask.apple-dns.net
-south-america-mask.wrr.mask.apple-dns.net
 doh.applied-privacy.net
 dot1.applied-privacy.net
 doh.appliedprivacy.net
