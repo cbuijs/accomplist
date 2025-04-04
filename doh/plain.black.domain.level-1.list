@@ -136,7 +136,6 @@ doh.asecdns.com
 dot.asecdns.com
 dns.asterimoon.com
 dandelionsprout.asuscomm.com
-dns.asysec.com
 adguardhome.atakorah.com
 africa.avastdns.com
 secure.avastdns.com
@@ -176,6 +175,7 @@ dns.chriswservers.com
 dns.chunghwamc.com
 oraclejp2.chungyu.com
 doh.cippapp.com
+dns.cloudflare.com
 cloudflare-gateway.com
 api.cloudflareclient.com
 cloudflareresolve.com
@@ -220,7 +220,6 @@ edgy-dns.com
 dns.editechstudio.com
 dns.efficientdocuments.com
 dns.ellichua.com
-dns.emiliyan.com
 dns.enzonix.com
 dns.flwagners.com
 biying.flymlc.com
@@ -1192,7 +1191,6 @@ rdd01.dnscry.pt
 rdu01.dnscry.pt
 sea01.dnscry.pt
 sgn01.dnscry.pt
-sin01.dnscry.pt
 sin02.dnscry.pt
 sin03.dnscry.pt
 sjc01.dnscry.pt
@@ -1454,8 +1452,8 @@ tiar.app
 penta.aeins.at
 kudns.kescher.at
 dns.pietjacobs.be
-_fw._lo.ovpn.bond
-fw.ovpn.bond
+l._fw.ovpn.bond
+l.ovpn.bond
 heimdall.ff0x.ca
 keeflix.chenu.ch
 digitale-gesellschaft.ch
@@ -1482,7 +1480,6 @@ dnssurobe.southeastasia.cloudapp.azure.com
 77980.bodis.com
 96421.bodis.com
 cahlen.com
-cloudflare.com
 cloudflare-dns.com
 dns-53.com
 dns.dnswarden.com
@@ -1651,8 +1648,6 @@ hz1.h.indust.me
 myip.pyry.me
 cork-oak.christian.moe
 paimon.sev.monster
-a1781.dscdi3.akamai.net
-boss.apple-dns.net
 mask-api.fe2.apple-dns.net
 mask.apple-dns.net
 resolver.as203038.net
@@ -1690,7 +1685,6 @@ cname-for-doh.go-behind.one
 gtm-sg-5r538sziu04.go-behind.one
 rocket.hakim.one
 radia.bortzmeyer.org
-montmorot.duckdns.org
 faked.org
 d4yge1fn4wr.d.firewalla.org
 jichi.hopto.org

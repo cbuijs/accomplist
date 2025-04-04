@@ -34,9 +34,9 @@ doh.beauty
 polisitogel.beauty
 ad.tzockt.beer
 dns.schlagheck.berlin
-_fw._lo.ovpn.bond
+l._fw.ovpn.bond
 dns.ovpn.bond
-fw.ovpn.bond
+l.ovpn.bond
 dns.7sec.com.br
 adguard.frutuozo.com.br
 adguard.gbrossi.com.br
@@ -192,7 +192,6 @@ doh.asecdns.com
 dot.asecdns.com
 dns.asterimoon.com
 dandelionsprout.asuscomm.com
-dns.asysec.com
 adguardhome.atakorah.com
 srv-revprox-01.atakorah.com
 africa.avastdns.com
@@ -243,7 +242,6 @@ dns.chriswservers.com
 dns.chunghwamc.com
 oraclejp2.chungyu.com
 doh.cippapp.com
-cloudflare.com
 dns.cloudflare.com
 cloudflare-dns.com
 1dot1dot1dot1.cloudflare-dns.com
@@ -317,7 +315,6 @@ edgy-dns.com
 dns.editechstudio.com
 dns.efficientdocuments.com
 dns.ellichua.com
-dns.emiliyan.com
 dns.enzonix.com
 dns.flwagners.com
 biying.flymlc.com
@@ -1108,18 +1105,14 @@ doh.ny.ahadns.net
 dot.ny.ahadns.net
 doh.pl.ahadns.net
 dot.pl.ahadns.net
-a1781.dscdi3.akamai.net
 dns.alekberg.net
 dns2.alekberg.net
 dnses.alekberg.net
 dnsnl.alekberg.net
 dnsse.alekberg.net
 doh.amonsul.net
-boss.apple-dns.net
 mask-api.fe2.apple-dns.net
 mask.apple-dns.net
-apple-relay.mask.apple-dns.net
-canary.mask.apple-dns.net
 doh.applied-privacy.net
 dot1.applied-privacy.net
 doh.appliedprivacy.net
@@ -1415,7 +1408,6 @@ dns.csswg.org
 home27.duckdns.org
 jurre-home.duckdns.org
 krtekvpn.duckdns.org
-montmorot.duckdns.org
 osefcorp.duckdns.org
 punono.duckdns.org
 tuandns.duckdns.org
@@ -1598,7 +1590,6 @@ rdd01.dnscry.pt
 rdu01.dnscry.pt
 sea01.dnscry.pt
 sgn01.dnscry.pt
-sin01.dnscry.pt
 sin02.dnscry.pt
 sin03.dnscry.pt
 sjc01.dnscry.pt

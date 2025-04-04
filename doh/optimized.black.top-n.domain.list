@@ -83,7 +83,7 @@ dot-sg.blahdns.com
 96421.bodis.com
 bravedns.com
 doh.bt.com
-cloudflare.com
+dns.cloudflare.com
 cloudflare-dns.com
 cloudflare-gateway.com
 api.cloudflareclient.com
@@ -92,7 +92,6 @@ dns.controld.com
 freedns.controld.com
 dns.cryptomize.com
 dns.decloudus.com
-dns.dns-over-https.com
 ns1.recursive.dnsbycomodo.com
 ns2.recursive.dnsbycomodo.com
 dnscrypt-cert.shield-2.dnsbycomodo.com
@@ -418,13 +417,11 @@ resolver1.absolight.net
 resolver2.absolight.net
 resolver3.absolight.net
 ahadns.net
-a1781.dscdi3.akamai.net
 dns.alekberg.net
 dns2.alekberg.net
 dnses.alekberg.net
 dnsnl.alekberg.net
 dnsse.alekberg.net
-boss.apple-dns.net
 mask-api.fe2.apple-dns.net
 mask.apple-dns.net
 doh.applied-privacy.net
@@ -508,7 +505,6 @@ dns13.quad9.net
 dns9.quad9.net
 dnscrypt-cert.quad9.net
 resolver.r0cket.net
-dns.scarx.net
 dns.sindominio.net
 clientdns3.softcom.net
 doh.sunoaki.net
@@ -545,7 +541,6 @@ dns.csswg.org
 home27.duckdns.org
 jurre-home.duckdns.org
 krtekvpn.duckdns.org
-montmorot.duckdns.org
 osefcorp.duckdns.org
 punono.duckdns.org
 tuandns.duckdns.org
@@ -652,7 +647,6 @@ rdd01.dnscry.pt
 rdu01.dnscry.pt
 sea01.dnscry.pt
 sgn01.dnscry.pt
-sin01.dnscry.pt
 sin02.dnscry.pt
 sin03.dnscry.pt
 sjc01.dnscry.pt
