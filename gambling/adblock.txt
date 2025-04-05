@@ -1,6 +1,6 @@
 [Adblock Plus 1.1]
 ! Title: Accomplist "Gambling" AdBlock List (Top-N Version)
-! Version: 1743737506
+! Version: 1743823720
 ! Homepage: https://github.com/cbuijs/accomplist/tree/master/gambling
 !
 ! WhiteList Domains:
@@ -53,6 +53,7 @@
 ||wgh.ag^
 ||wildcasino.ag^
 ||onlinecasino.amsterdam^
+||bplay.bet.ar^
 ||codere.bet.ar^
 ||bwin.com.ar^
 ||mejorescasinosenlinea.com.ar^
@@ -140,9 +141,11 @@
 ||apostaganha.bet^
 ||bcc.bet^
 ||bizzo-casino.bet^
+||casasdeapuestas.bet^
 ||casinorio.bet^
 ||casinozeus.bet^
 ||cyber.bet^
+||ecua.bet^
 ||ezcasino.bet^
 ||f12.bet^
 ||fresh-casino.bet^
@@ -601,6 +604,7 @@
 ||aquacasino.co^
 ||betplace88.co^
 ||blackcasino.co^
+||sports.bwin.co^
 ||casino-th.co^
 ||casinoberjalan.co^
 ||casinobonus2.co^
@@ -647,6 +651,7 @@
 ||opencasinos.co^
 ||pgslot-casino.co^
 ||pinkcasinos.co^
+||rushbet.co^
 ||simplecasinos.co^
 ||smartcasinos.co^
 ||sodocasino.co^
@@ -725,6 +730,7 @@
 ||1xbet-casino-bonus.com^
 ||1xbet-casino-news.com^
 ||1xbetcasinoz.com^
+||1xslot.com^
 ||1xslots-online-casino.com^
 ||20bet.com^
 ||20dollars2surf.com^
@@ -896,6 +902,11 @@
 ||apollobet.com^
 ||app-vavada-casino.com^
 ||aprcasino.com^
+||apuestasdeportivas.com^
+||apuestasdeportivas24.com^
+||apuestasganadas.com^
+||apuestatotal.com^
+||apwin.com^
 ||aquariuscasinoresort.com^
 ||aquateencentral.com^
 ||aqvacasino.com^
@@ -1033,6 +1044,7 @@
 ||betbanks.com^
 ||betbigdollar.com^
 ||sports.br.betboo.com^
+||betboom.com^
 ||betboro.com^
 ||betbright.com^
 ||betbuckeyesports.com^
@@ -1083,6 +1095,7 @@
 ||betliner.com^
 ||betmclean.com^
 ||betmgm.com^
+||betmines.com^
 ||betmira.com^
 ||betmonarch.com^
 ||betmotion.com^
@@ -1091,6 +1104,7 @@
 ||betn1.com^
 ||betnacional.com^
 ||betngo.com^
+||betobet.com^
 ||betondunhill.com^
 ||betonline.com^
 ||betonline247.com^
@@ -1129,6 +1143,7 @@
 ||betsonic.com^
 ||betspawn.com^
 ||betsson.com^
+||betsson1001.com^
 ||betsson37.com^
 ||betstars.com^
 ||betswar.com^
@@ -1143,6 +1158,7 @@
 ||betting-mostbet-casino.com^
 ||betting195.com^
 ||bettingexpress.com^
+||bettingguide.com^
 ||bettopsport.com^
 ||bettor.com^
 ||bettripledraw.com^
@@ -1247,10 +1263,12 @@
 ||buckyscasino.com^
 ||bulldog777.com^
 ||bulletbets.com^
+||bumbet.com^
 ||burancasino.com^
 ||bustabit.com^
 ||bustadice.com^
 ||butterflybingo.com^
+||bw-prm.com^
 ||bwin.com^
 ||bycasinodenemebonusu.com^
 ||bycasinogir.com^
@@ -2185,6 +2203,7 @@
 ||funmagicjackpot.com^
 ||funplacewin.com^
 ||furby.com^
+||gainblers.com^
 ||galacasino.com^
 ||galaksipokerqq.com^
 ||galaxiworld.com^
@@ -2245,6 +2264,7 @@
 ||glimmercasino.com^
 ||globalcasinobrand.com^
 ||globetworld.com^
+||globusbet.com^
 ||glory-casino-bangladesh.com^
 ||glory-casino-giris.com^
 ||glory-casino-indir.com^
@@ -2484,6 +2504,7 @@
 ||isleofcapricasinos.com^
 ||itvcasino.itv.com^
 ||itvbingo.com^
+||ivibet.com^
 ||iwon.com^
 ||jack-21.com^
 ||jackbit.com^
@@ -2942,6 +2963,8 @@
 ||obzor-vavada-casino.com^
 ||octcasino.com^
 ||odawacasino.com^
+||oddschecker.com^
+||oddspedia.com^
 ||oddsring.com^
 ||oddsshark.com^
 ||odinbet.com^
@@ -3174,6 +3197,7 @@
 ||playerzpot.com^
 ||playfrank.com^
 ||playgrandcasino.com^
+||playgreen.com^
 ||playnow.com^
 ||playojo.com^
 ||playonlinegamez.com^
@@ -3305,6 +3329,7 @@
 ||registration-1xbet-casino.com^
 ||rendezvouscasino.com^
 ||resortscasino.com^
+||resultados-futbol.com^
 ||reviewed-casinos.com^
 ||reviews-online-casino.com^
 ||revmasters.com^
@@ -3435,6 +3460,7 @@
 ||skinhunt.com^
 ||skinprofit.com^
 ||skinsdream.com^
+||skrill.com^
 ||skybet.com^
 ||skybook.com^
 ||skycasino.com^
@@ -3486,6 +3512,7 @@
 ||spelacasinosvenska.com^
 ||spicycasinos.com^
 ||spinallwincasino.com^
+||spinbookie.com^
 ||spincasino.com^
 ||spincasinozones.com^
 ||spincity777-casinos.com^
@@ -3531,6 +3558,7 @@
 ||sportsplace88.com^
 ||sportsspread.com^
 ||sportybet.com^
+||sportytrader.com^
 ||sportzbookz.com^
 ||spreadex.com^
 ||squaregamer.com^
@@ -3596,6 +3624,7 @@
 ||t4cgamers.com^
 ||atlantis-evolution.tacgames.com^
 ||tatts.com^
+||tdsspark.com^
 ||templenile.com^
 ||tempobet.com^
 ||testcasinoenligne.com^
@@ -3699,6 +3728,7 @@
 ||tr-pin-up-casino-tr.com^
 ||track-casino.com^
 ||trcasinoerisim.com^
+||trebalia.com^
 ||trendsnowcasinos.com^
 ||tribupoker.com^
 ||triobet.com^
@@ -3903,6 +3933,7 @@
 ||wymhoki.com^
 ||xcasinoxslots.com^
 ||xinweide.com^
+||xlbet.com^
 ||xn--ntcasinoutanlicens-ltb.com^
 ||xpress-design.com^
 ||xtremegambling.com^
@@ -4113,11 +4144,26 @@
 ||xn--casinonrderne-hnb.dk^
 ||xn--casinopnettet-vfb.dk^
 ||wager.dm^
+||1xbet.ec^
+||apuestalegal.ec^
+||bet593.ec^
+||betssonecuador.ec^
+||apostar.com.ec^
+||apuestas.com.ec^
+||ecuabet.com.ec^
 ||loteria.com.ec^
+||databet.ec^
+||ganaplay.ec^
+||latribet.ec^
+||melbet.ec^
+||pronosticosdeportivos.ec^
+||solbet.ec^
+||sportbet.ec^
 ||eestiloto.ee^
 ||888casino.es^
 ||888sport.es^
 ||admiralbet.es^
+||apuestas-deportivas.es^
 ||bet365.es^
 ||bet777.es^
 ||betfair.es^
@@ -4134,6 +4180,7 @@
 ||codere.es^
 ||horizonsports.es^
 ||ice-casino.es^
+||interwetten.es^
 ||los-casinos-online.es^
 ||loteriasyapuestas.es^
 ||luckia.es^
@@ -4143,6 +4190,7 @@
 ||paf.es^
 ||platincasino.es^
 ||pokerstarscasino.es^
+||protipster.es^
 ||spinsambacasino.es^
 ||sportium.es^
 ||srcasino.es^
@@ -4150,6 +4198,7 @@
 ||vegaspluscasino.es^
 ||versus.es^
 ||williamhill.es^
+||winamax.es^
 ||xn--casinoonlineespaa-uxb.es^
 ||yocasino.es^
 ||5dimes.eu^
@@ -4715,6 +4764,7 @@
 ||828bet.net^
 ||accasino.net^
 ||aguacalientecasinoshowroom.net^
+||apuestasonline.net^
 ||astuces-jeux.net^
 ||auscasinos.net^
 ||bandarklik4d.net^
@@ -5035,6 +5085,7 @@
 ||australian-casinos.online^
 ||bet365-casino.online^
 ||betano-casino.online^
+||betting-software.online^
 ||bizzocasino-pl.online^
 ||blazingsevensonlinecasinoa.online^
 ||boaboacasino.online^
@@ -5170,6 +5221,7 @@
 ||jeudepoker.org^
 ||jeudepokergratuit.org^
 ||jeuxdepoker.org^
+||karstunderwater.org^
 ||kassucasino.org^
 ||lafiesta-casino.org^
 ||lariviera-casino.org^
@@ -5220,6 +5272,7 @@
 ||casinos-online-en-peru.pe^
 ||mejores-casinos.pe^
 ||pinuponlinecasino.pe^
+||teapuesto.pe^
 ||casinoplus.com.ph^
 ||casinoplus.net.ph^
 ||online-casino.ph^
@@ -5648,6 +5701,7 @@
 ||reddog-casino.site^
 ||spin-city-casino.site^
 ||vegaspluscasino.site^
+||bcgame.sk^
 ||etipos.sk^
 ||fortuna-casino.sk^
 ||ice-casino.sk^
