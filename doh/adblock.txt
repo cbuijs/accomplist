@@ -1,6 +1,6 @@
 [Adblock Plus 1.1]
 ! Title: Accomplist "Doh" AdBlock List (Top-N Version)
-! Version: 1743748858
+! Version: 1743835029
 ! Homepage: https://github.com/cbuijs/accomplist/tree/master/doh
 !
 ! WhiteList Domains:
@@ -300,7 +300,6 @@
 ||dns.imaicool.com^
 ||noads.imbuffering.com^
 ||dns.inclusioproject.com^
-||dns.indybanipal.com^
 ||dns.inforlogia.com^
 ||dns1.irumatech.com^
 ||dns.is0mino.com^
@@ -952,7 +951,6 @@
 ||dns.dekedin.me^
 ||dnslow.me^
 ||doh.dscloud.me^
-||dns.futuredns.me^
 ||adg.geili.me^
 ||gztech.me^
 ||hitian.me^
@@ -1053,7 +1051,7 @@
 ||doh.cox.net^
 ||dot.cox.net^
 ||dohdot.coxlab.net^
-||criena.net^
+||dns.criena.net^
 ||dns.crystalyx.net^
 ||ender.crystalyx.net^
 ||dns.cynthialabs.net^
@@ -1592,7 +1590,6 @@
 ||xholgm.top^
 ||agh.xinfeng16m.top^
 ||zburger.top^
-||mnrv.trade^
 ||doh.funtopia.tv^
 ||emby.rasp.tv^
 ||dns.yatima.tv^
