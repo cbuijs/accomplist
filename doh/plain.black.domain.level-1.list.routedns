@@ -162,7 +162,6 @@
 .dot-jp.blahdns.com
 .dot-sg.blahdns.com
 .doh.blockerdns.com
-.adguard.blogssl.com
 .dns.bmwhocking.com
 .dns.bobstrecansky.com
 .dns.braene.com
@@ -383,7 +382,6 @@
 .typaza.com
 .dns.umbrella.com
 .doh.umbrella.com
-.dns.uplenk.com
 .doh.valscosmos.com
 .dns.vishalk.com
 .dns.wechat.com
@@ -606,6 +604,7 @@
 .dns.iki.my.id
 .dns.lista.my.id
 .dns.mikrotikrumahan.my.id
+.dns.pnh.my.id
 .dns.repinger.my.id
 .dns.velyn.my.id
 .dns.vmath.my.id
@@ -695,6 +694,7 @@
 .adblock.leenit.kr
 .dns.nako.kr
 .dns.njal.la
+.xmr.land
 .dns.developer.li
 .dns2.developer.li
 .doh.li
@@ -1116,6 +1116,7 @@
 .dns.pierzchlewicz.pl
 .doh.apad.pro
 .dns.burgas.pro
+.dns.dynx.pro
 .ntwrkh.pro
 .dns.swin.pro
 .doh.xcom.pro
@@ -1278,7 +1279,6 @@
 .adg.rueiliu.space
 .dns.sy.st
 .home-server.store
-.minilla.store
 .dns.fizz.studio
 .dns.xuming.studio
 .crypto.sx
@@ -1336,6 +1336,7 @@
 .sundalandia.pp.ua
 .virga.pp.ua
 .zxcvb.pp.ua
+.adguard.aa4.co.uk
 .dns.neilzone.co.uk
 .do.dnscrypt.uk
 .doh.dnscrypt.uk
@@ -1373,7 +1374,6 @@
 .dns.meeo.win
 .adguard.sscw.win
 .dns.superstefan.win
-.dns.trust404.win
 .dns.huseynov.work
 .dns.brahma.world
 .dns.busold.ws
@@ -1472,7 +1472,6 @@
 .europe.avastdns.com
 .europe-west.avastdns.com
 .dnssurobe.southeastasia.cloudapp.azure.com
-.77980.bodis.com
 .96421.bodis.com
 .cahlen.com
 .cloudflare-dns.com
@@ -1679,6 +1678,7 @@
 .gtm-sg-5r538sziu04.go-behind.one
 .rocket.hakim.one
 .radia.bortzmeyer.org
+.montmorot.duckdns.org
 .faked.org
 .d4yge1fn4wr.d.firewalla.org
 .jichi.hopto.org

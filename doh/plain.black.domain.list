@@ -222,10 +222,8 @@ dot-jp.blahdns.com
 dot-sg.blahdns.com
 doh.blockerdns.com
 example.doh.blockerdns.com
-adguard.blogssl.com
 dns.bmwhocking.com
 dns.bobstrecansky.com
-77980.bodis.com
 96421.bodis.com
 dns.braene.com
 bravedns.com
@@ -505,7 +503,6 @@ d.toairs.com
 typaza.com
 dns.umbrella.com
 doh.umbrella.com
-dns.uplenk.com
 hsv.uplenk.com
 doh.valscosmos.com
 dns.vishalk.com
@@ -866,6 +863,7 @@ d.apemlegit.my.id
 dns.iki.my.id
 dns.lista.my.id
 dns.mikrotikrumahan.my.id
+dns.pnh.my.id
 dns.repinger.my.id
 dns.velyn.my.id
 dyn.velyn.my.id
@@ -977,6 +975,7 @@ dns.eliv.kr
 adblock.leenit.kr
 dns.nako.kr
 dns.njal.la
+xmr.land
 dns.developer.li
 dns2.developer.li
 doh.li
@@ -1401,6 +1400,7 @@ dns.csswg.org
 home27.duckdns.org
 jurre-home.duckdns.org
 krtekvpn.duckdns.org
+montmorot.duckdns.org
 osefcorp.duckdns.org
 punono.duckdns.org
 tuandns.duckdns.org
@@ -1512,6 +1512,7 @@ dns.pierzchlewicz.pl
 oracle1.pierzchlewicz.pl
 doh.apad.pro
 dns.burgas.pro
+dns.dynx.pro
 ntwrkh.pro
 dns.swin.pro
 doh.xcom.pro
@@ -1707,7 +1708,6 @@ adguard.neon0404.space
 adg.rueiliu.space
 dns.sy.st
 home-server.store
-minilla.store
 dns.fizz.studio
 dns.xuming.studio
 crypto.sx
@@ -1769,6 +1769,7 @@ lindung.pp.ua
 sundalandia.pp.ua
 virga.pp.ua
 zxcvb.pp.ua
+adguard.aa4.co.uk
 gayanalysing.co.uk
 dns.gayanalysing.co.uk
 dns.neilzone.co.uk
@@ -1816,7 +1817,6 @@ adguard.sscw.win
 ntu.ssooss.win
 doh.ntu.ssooss.win
 dns.superstefan.win
-dns.trust404.win
 dns.huseynov.work
 dns.brahma.world
 dns.busold.ws
