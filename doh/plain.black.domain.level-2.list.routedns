@@ -555,6 +555,7 @@
 .dns.iki.my.id
 .dns.lista.my.id
 .dns.mikrotikrumahan.my.id
+.dns.pnh.my.id
 .dns.repinger.my.id
 .dns.velyn.my.id
 .dns.vmath.my.id
@@ -586,7 +587,6 @@
 .dns.api.sandbox.globuscs.info
 .dns.api.staging.globuscs.info
 .dns.api.test.globuscs.info
-.doh.kekew.info
 .kilabit.info
 .testaghome.meshkov.info
 .agh.printk.info
