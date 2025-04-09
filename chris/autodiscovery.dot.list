@@ -9705,6 +9705,8 @@
 .autoconfig.wmcloud.org
 .autoconfig.wmflabs.org
 .autoconfig.wdh.app
+.autoconfig.windsurf.app
+.autoconfig.windsurf.build
 .autoconfig.panel.gg
 .autoconfig.daemon.panel.gg
 .autoconfig.wixsite.com
@@ -19456,6 +19458,8 @@
 ._autodiscover.wmcloud.org
 ._autodiscover.wmflabs.org
 ._autodiscover.wdh.app
+._autodiscover.windsurf.app
+._autodiscover.windsurf.build
 ._autodiscover.panel.gg
 ._autodiscover.daemon.panel.gg
 ._autodiscover.wixsite.com
@@ -29207,6 +29211,8 @@
 .autodiscover.wmcloud.org
 .autodiscover.wmflabs.org
 .autodiscover.wdh.app
+.autodiscover.windsurf.app
+.autodiscover.windsurf.build
 .autodiscover.panel.gg
 .autodiscover.daemon.panel.gg
 .autodiscover.wixsite.com
@@ -38958,6 +38964,8 @@
 .b._dns-sd.wmcloud.org
 .b._dns-sd.wmflabs.org
 .b._dns-sd.wdh.app
+.b._dns-sd.windsurf.app
+.b._dns-sd.windsurf.build
 .b._dns-sd.panel.gg
 .b._dns-sd.daemon.panel.gg
 .b._dns-sd.wixsite.com
@@ -48709,6 +48717,8 @@
 .db._dns-sd.wmcloud.org
 .db._dns-sd.wmflabs.org
 .db._dns-sd.wdh.app
+.db._dns-sd.windsurf.app
+.db._dns-sd.windsurf.build
 .db._dns-sd.panel.gg
 .db._dns-sd.daemon.panel.gg
 .db._dns-sd.wixsite.com
@@ -58460,6 +58470,8 @@
 .isatap.wmcloud.org
 .isatap.wmflabs.org
 .isatap.wdh.app
+.isatap.windsurf.app
+.isatap.windsurf.build
 .isatap.panel.gg
 .isatap.daemon.panel.gg
 .isatap.wixsite.com
@@ -68211,6 +68223,8 @@
 .lb._dns-sd.wmcloud.org
 .lb._dns-sd.wmflabs.org
 .lb._dns-sd.wdh.app
+.lb._dns-sd.windsurf.app
+.lb._dns-sd.windsurf.build
 .lb._dns-sd.panel.gg
 .lb._dns-sd.daemon.panel.gg
 .lb._dns-sd.wixsite.com
@@ -77962,6 +77976,8 @@
 .wpad.wmcloud.org
 .wpad.wmflabs.org
 .wpad.wdh.app
+.wpad.windsurf.app
+.wpad.windsurf.build
 .wpad.panel.gg
 .wpad.daemon.panel.gg
 .wpad.wixsite.com
@@ -87713,6 +87729,8 @@
 .wpad.tcp.wmcloud.org
 .wpad.tcp.wmflabs.org
 .wpad.tcp.wdh.app
+.wpad.tcp.windsurf.app
+.wpad.tcp.windsurf.build
 .wpad.tcp.panel.gg
 .wpad.tcp.daemon.panel.gg
 .wpad.tcp.wixsite.com
