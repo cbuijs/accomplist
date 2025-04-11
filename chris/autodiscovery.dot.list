@@ -6980,6 +6980,7 @@
 .autoconfig.auth.ap-southeast-2.amazoncognito.com
 .autoconfig.auth.ap-southeast-3.amazoncognito.com
 .autoconfig.auth.ap-southeast-4.amazoncognito.com
+.autoconfig.auth.ap-southeast-5.amazoncognito.com
 .autoconfig.auth.ca-central-1.amazoncognito.com
 .autoconfig.auth.ca-west-1.amazoncognito.com
 .autoconfig.auth.eu-central-1.amazoncognito.com
@@ -6998,6 +6999,7 @@
 .autoconfig.auth-fips.us-east-1.amazoncognito.com
 .autoconfig.auth.us-east-2.amazoncognito.com
 .autoconfig.auth-fips.us-east-2.amazoncognito.com
+.autoconfig.auth-fips.us-gov-east-1.amazoncognito.com
 .autoconfig.auth-fips.us-gov-west-1.amazoncognito.com
 .autoconfig.auth.us-west-1.amazoncognito.com
 .autoconfig.auth-fips.us-west-1.amazoncognito.com
@@ -8397,6 +8399,7 @@
 .autoconfig.app.os.stg.fedoraproject.org
 .autoconfig.mydobiss.com
 .autoconfig.fh-muenster.io
+.autoconfig.figma.site
 .autoconfig.filegear.me
 .autoconfig.firebaseapp.com
 .autoconfig.fldrv.com
@@ -16733,6 +16736,7 @@
 ._autodiscover.auth.ap-southeast-2.amazoncognito.com
 ._autodiscover.auth.ap-southeast-3.amazoncognito.com
 ._autodiscover.auth.ap-southeast-4.amazoncognito.com
+._autodiscover.auth.ap-southeast-5.amazoncognito.com
 ._autodiscover.auth.ca-central-1.amazoncognito.com
 ._autodiscover.auth.ca-west-1.amazoncognito.com
 ._autodiscover.auth.eu-central-1.amazoncognito.com
@@ -16751,6 +16755,7 @@
 ._autodiscover.auth-fips.us-east-1.amazoncognito.com
 ._autodiscover.auth.us-east-2.amazoncognito.com
 ._autodiscover.auth-fips.us-east-2.amazoncognito.com
+._autodiscover.auth-fips.us-gov-east-1.amazoncognito.com
 ._autodiscover.auth-fips.us-gov-west-1.amazoncognito.com
 ._autodiscover.auth.us-west-1.amazoncognito.com
 ._autodiscover.auth-fips.us-west-1.amazoncognito.com
@@ -18150,6 +18155,7 @@
 ._autodiscover.app.os.stg.fedoraproject.org
 ._autodiscover.mydobiss.com
 ._autodiscover.fh-muenster.io
+._autodiscover.figma.site
 ._autodiscover.filegear.me
 ._autodiscover.firebaseapp.com
 ._autodiscover.fldrv.com
@@ -26486,6 +26492,7 @@
 .autodiscover.auth.ap-southeast-2.amazoncognito.com
 .autodiscover.auth.ap-southeast-3.amazoncognito.com
 .autodiscover.auth.ap-southeast-4.amazoncognito.com
+.autodiscover.auth.ap-southeast-5.amazoncognito.com
 .autodiscover.auth.ca-central-1.amazoncognito.com
 .autodiscover.auth.ca-west-1.amazoncognito.com
 .autodiscover.auth.eu-central-1.amazoncognito.com
@@ -26504,6 +26511,7 @@
 .autodiscover.auth-fips.us-east-1.amazoncognito.com
 .autodiscover.auth.us-east-2.amazoncognito.com
 .autodiscover.auth-fips.us-east-2.amazoncognito.com
+.autodiscover.auth-fips.us-gov-east-1.amazoncognito.com
 .autodiscover.auth-fips.us-gov-west-1.amazoncognito.com
 .autodiscover.auth.us-west-1.amazoncognito.com
 .autodiscover.auth-fips.us-west-1.amazoncognito.com
@@ -27903,6 +27911,7 @@
 .autodiscover.app.os.stg.fedoraproject.org
 .autodiscover.mydobiss.com
 .autodiscover.fh-muenster.io
+.autodiscover.figma.site
 .autodiscover.filegear.me
 .autodiscover.firebaseapp.com
 .autodiscover.fldrv.com
@@ -36239,6 +36248,7 @@
 .b._dns-sd.auth.ap-southeast-2.amazoncognito.com
 .b._dns-sd.auth.ap-southeast-3.amazoncognito.com
 .b._dns-sd.auth.ap-southeast-4.amazoncognito.com
+.b._dns-sd.auth.ap-southeast-5.amazoncognito.com
 .b._dns-sd.auth.ca-central-1.amazoncognito.com
 .b._dns-sd.auth.ca-west-1.amazoncognito.com
 .b._dns-sd.auth.eu-central-1.amazoncognito.com
@@ -36257,6 +36267,7 @@
 .b._dns-sd.auth-fips.us-east-1.amazoncognito.com
 .b._dns-sd.auth.us-east-2.amazoncognito.com
 .b._dns-sd.auth-fips.us-east-2.amazoncognito.com
+.b._dns-sd.auth-fips.us-gov-east-1.amazoncognito.com
 .b._dns-sd.auth-fips.us-gov-west-1.amazoncognito.com
 .b._dns-sd.auth.us-west-1.amazoncognito.com
 .b._dns-sd.auth-fips.us-west-1.amazoncognito.com
@@ -37656,6 +37667,7 @@
 .b._dns-sd.app.os.stg.fedoraproject.org
 .b._dns-sd.mydobiss.com
 .b._dns-sd.fh-muenster.io
+.b._dns-sd.figma.site
 .b._dns-sd.filegear.me
 .b._dns-sd.firebaseapp.com
 .b._dns-sd.fldrv.com
@@ -45992,6 +46004,7 @@
 .db._dns-sd.auth.ap-southeast-2.amazoncognito.com
 .db._dns-sd.auth.ap-southeast-3.amazoncognito.com
 .db._dns-sd.auth.ap-southeast-4.amazoncognito.com
+.db._dns-sd.auth.ap-southeast-5.amazoncognito.com
 .db._dns-sd.auth.ca-central-1.amazoncognito.com
 .db._dns-sd.auth.ca-west-1.amazoncognito.com
 .db._dns-sd.auth.eu-central-1.amazoncognito.com
@@ -46010,6 +46023,7 @@
 .db._dns-sd.auth-fips.us-east-1.amazoncognito.com
 .db._dns-sd.auth.us-east-2.amazoncognito.com
 .db._dns-sd.auth-fips.us-east-2.amazoncognito.com
+.db._dns-sd.auth-fips.us-gov-east-1.amazoncognito.com
 .db._dns-sd.auth-fips.us-gov-west-1.amazoncognito.com
 .db._dns-sd.auth.us-west-1.amazoncognito.com
 .db._dns-sd.auth-fips.us-west-1.amazoncognito.com
@@ -47409,6 +47423,7 @@
 .db._dns-sd.app.os.stg.fedoraproject.org
 .db._dns-sd.mydobiss.com
 .db._dns-sd.fh-muenster.io
+.db._dns-sd.figma.site
 .db._dns-sd.filegear.me
 .db._dns-sd.firebaseapp.com
 .db._dns-sd.fldrv.com
@@ -55745,6 +55760,7 @@
 .isatap.auth.ap-southeast-2.amazoncognito.com
 .isatap.auth.ap-southeast-3.amazoncognito.com
 .isatap.auth.ap-southeast-4.amazoncognito.com
+.isatap.auth.ap-southeast-5.amazoncognito.com
 .isatap.auth.ca-central-1.amazoncognito.com
 .isatap.auth.ca-west-1.amazoncognito.com
 .isatap.auth.eu-central-1.amazoncognito.com
@@ -55763,6 +55779,7 @@
 .isatap.auth-fips.us-east-1.amazoncognito.com
 .isatap.auth.us-east-2.amazoncognito.com
 .isatap.auth-fips.us-east-2.amazoncognito.com
+.isatap.auth-fips.us-gov-east-1.amazoncognito.com
 .isatap.auth-fips.us-gov-west-1.amazoncognito.com
 .isatap.auth.us-west-1.amazoncognito.com
 .isatap.auth-fips.us-west-1.amazoncognito.com
@@ -57162,6 +57179,7 @@
 .isatap.app.os.stg.fedoraproject.org
 .isatap.mydobiss.com
 .isatap.fh-muenster.io
+.isatap.figma.site
 .isatap.filegear.me
 .isatap.firebaseapp.com
 .isatap.fldrv.com
@@ -65498,6 +65516,7 @@
 .lb._dns-sd.auth.ap-southeast-2.amazoncognito.com
 .lb._dns-sd.auth.ap-southeast-3.amazoncognito.com
 .lb._dns-sd.auth.ap-southeast-4.amazoncognito.com
+.lb._dns-sd.auth.ap-southeast-5.amazoncognito.com
 .lb._dns-sd.auth.ca-central-1.amazoncognito.com
 .lb._dns-sd.auth.ca-west-1.amazoncognito.com
 .lb._dns-sd.auth.eu-central-1.amazoncognito.com
@@ -65516,6 +65535,7 @@
 .lb._dns-sd.auth-fips.us-east-1.amazoncognito.com
 .lb._dns-sd.auth.us-east-2.amazoncognito.com
 .lb._dns-sd.auth-fips.us-east-2.amazoncognito.com
+.lb._dns-sd.auth-fips.us-gov-east-1.amazoncognito.com
 .lb._dns-sd.auth-fips.us-gov-west-1.amazoncognito.com
 .lb._dns-sd.auth.us-west-1.amazoncognito.com
 .lb._dns-sd.auth-fips.us-west-1.amazoncognito.com
@@ -66915,6 +66935,7 @@
 .lb._dns-sd.app.os.stg.fedoraproject.org
 .lb._dns-sd.mydobiss.com
 .lb._dns-sd.fh-muenster.io
+.lb._dns-sd.figma.site
 .lb._dns-sd.filegear.me
 .lb._dns-sd.firebaseapp.com
 .lb._dns-sd.fldrv.com
@@ -75251,6 +75272,7 @@
 .wpad.auth.ap-southeast-2.amazoncognito.com
 .wpad.auth.ap-southeast-3.amazoncognito.com
 .wpad.auth.ap-southeast-4.amazoncognito.com
+.wpad.auth.ap-southeast-5.amazoncognito.com
 .wpad.auth.ca-central-1.amazoncognito.com
 .wpad.auth.ca-west-1.amazoncognito.com
 .wpad.auth.eu-central-1.amazoncognito.com
@@ -75269,6 +75291,7 @@
 .wpad.auth-fips.us-east-1.amazoncognito.com
 .wpad.auth.us-east-2.amazoncognito.com
 .wpad.auth-fips.us-east-2.amazoncognito.com
+.wpad.auth-fips.us-gov-east-1.amazoncognito.com
 .wpad.auth-fips.us-gov-west-1.amazoncognito.com
 .wpad.auth.us-west-1.amazoncognito.com
 .wpad.auth-fips.us-west-1.amazoncognito.com
@@ -76668,6 +76691,7 @@
 .wpad.app.os.stg.fedoraproject.org
 .wpad.mydobiss.com
 .wpad.fh-muenster.io
+.wpad.figma.site
 .wpad.filegear.me
 .wpad.firebaseapp.com
 .wpad.fldrv.com
@@ -85004,6 +85028,7 @@
 .wpad.tcp.auth.ap-southeast-2.amazoncognito.com
 .wpad.tcp.auth.ap-southeast-3.amazoncognito.com
 .wpad.tcp.auth.ap-southeast-4.amazoncognito.com
+.wpad.tcp.auth.ap-southeast-5.amazoncognito.com
 .wpad.tcp.auth.ca-central-1.amazoncognito.com
 .wpad.tcp.auth.ca-west-1.amazoncognito.com
 .wpad.tcp.auth.eu-central-1.amazoncognito.com
@@ -85022,6 +85047,7 @@
 .wpad.tcp.auth-fips.us-east-1.amazoncognito.com
 .wpad.tcp.auth.us-east-2.amazoncognito.com
 .wpad.tcp.auth-fips.us-east-2.amazoncognito.com
+.wpad.tcp.auth-fips.us-gov-east-1.amazoncognito.com
 .wpad.tcp.auth-fips.us-gov-west-1.amazoncognito.com
 .wpad.tcp.auth.us-west-1.amazoncognito.com
 .wpad.tcp.auth-fips.us-west-1.amazoncognito.com
@@ -86421,6 +86447,7 @@
 .wpad.tcp.app.os.stg.fedoraproject.org
 .wpad.tcp.mydobiss.com
 .wpad.tcp.fh-muenster.io
+.wpad.tcp.figma.site
 .wpad.tcp.filegear.me
 .wpad.tcp.firebaseapp.com
 .wpad.tcp.fldrv.com
