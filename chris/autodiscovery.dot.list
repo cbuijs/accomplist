@@ -157,6 +157,7 @@
 .autoconfig.mutual.ar
 .autoconfig.net.ar
 .autoconfig.org.ar
+.autoconfig.seg.ar
 .autoconfig.senasa.ar
 .autoconfig.tur.ar
 .autoconfig.arpa
@@ -7833,10 +7834,11 @@
 .autoconfig.co.nl
 .autoconfig.co.no
 .autoconfig.devinapps.com
-.autoconfig.staging.devinapps.com
 .autoconfig.webhosting.be
 .autoconfig.hosting-cluster.nl
 .autoconfig.ctfcloud.net
+.autoconfig.convex.app
+.autoconfig.convex.cloud
 .autoconfig.convex.site
 .autoconfig.ac.ru
 .autoconfig.edu.ru
@@ -8410,6 +8412,7 @@
 .autoconfig.edgeapp.net
 .autoconfig.forgeblocks.com
 .autoconfig.id.forgerock.io
+.autoconfig.e2b.app
 .autoconfig.framer.ai
 .autoconfig.framer.app
 .autoconfig.framercanvas.com
@@ -9913,6 +9916,7 @@
 ._autodiscover.mutual.ar
 ._autodiscover.net.ar
 ._autodiscover.org.ar
+._autodiscover.seg.ar
 ._autodiscover.senasa.ar
 ._autodiscover.tur.ar
 ._autodiscover.arpa
@@ -17589,10 +17593,11 @@
 ._autodiscover.co.nl
 ._autodiscover.co.no
 ._autodiscover.devinapps.com
-._autodiscover.staging.devinapps.com
 ._autodiscover.webhosting.be
 ._autodiscover.hosting-cluster.nl
 ._autodiscover.ctfcloud.net
+._autodiscover.convex.app
+._autodiscover.convex.cloud
 ._autodiscover.convex.site
 ._autodiscover.ac.ru
 ._autodiscover.edu.ru
@@ -18166,6 +18171,7 @@
 ._autodiscover.edgeapp.net
 ._autodiscover.forgeblocks.com
 ._autodiscover.id.forgerock.io
+._autodiscover.e2b.app
 ._autodiscover.framer.ai
 ._autodiscover.framer.app
 ._autodiscover.framercanvas.com
@@ -19669,6 +19675,7 @@
 .autodiscover.mutual.ar
 .autodiscover.net.ar
 .autodiscover.org.ar
+.autodiscover.seg.ar
 .autodiscover.senasa.ar
 .autodiscover.tur.ar
 .autodiscover.arpa
@@ -27345,10 +27352,11 @@
 .autodiscover.co.nl
 .autodiscover.co.no
 .autodiscover.devinapps.com
-.autodiscover.staging.devinapps.com
 .autodiscover.webhosting.be
 .autodiscover.hosting-cluster.nl
 .autodiscover.ctfcloud.net
+.autodiscover.convex.app
+.autodiscover.convex.cloud
 .autodiscover.convex.site
 .autodiscover.ac.ru
 .autodiscover.edu.ru
@@ -27922,6 +27930,7 @@
 .autodiscover.edgeapp.net
 .autodiscover.forgeblocks.com
 .autodiscover.id.forgerock.io
+.autodiscover.e2b.app
 .autodiscover.framer.ai
 .autodiscover.framer.app
 .autodiscover.framercanvas.com
@@ -29425,6 +29434,7 @@
 .b._dns-sd.mutual.ar
 .b._dns-sd.net.ar
 .b._dns-sd.org.ar
+.b._dns-sd.seg.ar
 .b._dns-sd.senasa.ar
 .b._dns-sd.tur.ar
 .b._dns-sd.arpa
@@ -37101,10 +37111,11 @@
 .b._dns-sd.co.nl
 .b._dns-sd.co.no
 .b._dns-sd.devinapps.com
-.b._dns-sd.staging.devinapps.com
 .b._dns-sd.webhosting.be
 .b._dns-sd.hosting-cluster.nl
 .b._dns-sd.ctfcloud.net
+.b._dns-sd.convex.app
+.b._dns-sd.convex.cloud
 .b._dns-sd.convex.site
 .b._dns-sd.ac.ru
 .b._dns-sd.edu.ru
@@ -37678,6 +37689,7 @@
 .b._dns-sd.edgeapp.net
 .b._dns-sd.forgeblocks.com
 .b._dns-sd.id.forgerock.io
+.b._dns-sd.e2b.app
 .b._dns-sd.framer.ai
 .b._dns-sd.framer.app
 .b._dns-sd.framercanvas.com
@@ -39181,6 +39193,7 @@
 .db._dns-sd.mutual.ar
 .db._dns-sd.net.ar
 .db._dns-sd.org.ar
+.db._dns-sd.seg.ar
 .db._dns-sd.senasa.ar
 .db._dns-sd.tur.ar
 .db._dns-sd.arpa
@@ -46857,10 +46870,11 @@
 .db._dns-sd.co.nl
 .db._dns-sd.co.no
 .db._dns-sd.devinapps.com
-.db._dns-sd.staging.devinapps.com
 .db._dns-sd.webhosting.be
 .db._dns-sd.hosting-cluster.nl
 .db._dns-sd.ctfcloud.net
+.db._dns-sd.convex.app
+.db._dns-sd.convex.cloud
 .db._dns-sd.convex.site
 .db._dns-sd.ac.ru
 .db._dns-sd.edu.ru
@@ -47434,6 +47448,7 @@
 .db._dns-sd.edgeapp.net
 .db._dns-sd.forgeblocks.com
 .db._dns-sd.id.forgerock.io
+.db._dns-sd.e2b.app
 .db._dns-sd.framer.ai
 .db._dns-sd.framer.app
 .db._dns-sd.framercanvas.com
@@ -48937,6 +48952,7 @@
 .isatap.mutual.ar
 .isatap.net.ar
 .isatap.org.ar
+.isatap.seg.ar
 .isatap.senasa.ar
 .isatap.tur.ar
 .isatap.arpa
@@ -56613,10 +56629,11 @@
 .isatap.co.nl
 .isatap.co.no
 .isatap.devinapps.com
-.isatap.staging.devinapps.com
 .isatap.webhosting.be
 .isatap.hosting-cluster.nl
 .isatap.ctfcloud.net
+.isatap.convex.app
+.isatap.convex.cloud
 .isatap.convex.site
 .isatap.ac.ru
 .isatap.edu.ru
@@ -57190,6 +57207,7 @@
 .isatap.edgeapp.net
 .isatap.forgeblocks.com
 .isatap.id.forgerock.io
+.isatap.e2b.app
 .isatap.framer.ai
 .isatap.framer.app
 .isatap.framercanvas.com
@@ -58693,6 +58711,7 @@
 .lb._dns-sd.mutual.ar
 .lb._dns-sd.net.ar
 .lb._dns-sd.org.ar
+.lb._dns-sd.seg.ar
 .lb._dns-sd.senasa.ar
 .lb._dns-sd.tur.ar
 .lb._dns-sd.arpa
@@ -66369,10 +66388,11 @@
 .lb._dns-sd.co.nl
 .lb._dns-sd.co.no
 .lb._dns-sd.devinapps.com
-.lb._dns-sd.staging.devinapps.com
 .lb._dns-sd.webhosting.be
 .lb._dns-sd.hosting-cluster.nl
 .lb._dns-sd.ctfcloud.net
+.lb._dns-sd.convex.app
+.lb._dns-sd.convex.cloud
 .lb._dns-sd.convex.site
 .lb._dns-sd.ac.ru
 .lb._dns-sd.edu.ru
@@ -66946,6 +66966,7 @@
 .lb._dns-sd.edgeapp.net
 .lb._dns-sd.forgeblocks.com
 .lb._dns-sd.id.forgerock.io
+.lb._dns-sd.e2b.app
 .lb._dns-sd.framer.ai
 .lb._dns-sd.framer.app
 .lb._dns-sd.framercanvas.com
@@ -68449,6 +68470,7 @@
 .wpad.mutual.ar
 .wpad.net.ar
 .wpad.org.ar
+.wpad.seg.ar
 .wpad.senasa.ar
 .wpad.tur.ar
 .wpad.arpa
@@ -76125,10 +76147,11 @@
 .wpad.co.nl
 .wpad.co.no
 .wpad.devinapps.com
-.wpad.staging.devinapps.com
 .wpad.webhosting.be
 .wpad.hosting-cluster.nl
 .wpad.ctfcloud.net
+.wpad.convex.app
+.wpad.convex.cloud
 .wpad.convex.site
 .wpad.ac.ru
 .wpad.edu.ru
@@ -76702,6 +76725,7 @@
 .wpad.edgeapp.net
 .wpad.forgeblocks.com
 .wpad.id.forgerock.io
+.wpad.e2b.app
 .wpad.framer.ai
 .wpad.framer.app
 .wpad.framercanvas.com
@@ -78205,6 +78229,7 @@
 .wpad.tcp.mutual.ar
 .wpad.tcp.net.ar
 .wpad.tcp.org.ar
+.wpad.tcp.seg.ar
 .wpad.tcp.senasa.ar
 .wpad.tcp.tur.ar
 .wpad.tcp.arpa
@@ -85881,10 +85906,11 @@
 .wpad.tcp.co.nl
 .wpad.tcp.co.no
 .wpad.tcp.devinapps.com
-.wpad.tcp.staging.devinapps.com
 .wpad.tcp.webhosting.be
 .wpad.tcp.hosting-cluster.nl
 .wpad.tcp.ctfcloud.net
+.wpad.tcp.convex.app
+.wpad.tcp.convex.cloud
 .wpad.tcp.convex.site
 .wpad.tcp.ac.ru
 .wpad.tcp.edu.ru
@@ -86458,6 +86484,7 @@
 .wpad.tcp.edgeapp.net
 .wpad.tcp.forgeblocks.com
 .wpad.tcp.id.forgerock.io
+.wpad.tcp.e2b.app
 .wpad.tcp.framer.ai
 .wpad.tcp.framer.app
 .wpad.tcp.framercanvas.com
