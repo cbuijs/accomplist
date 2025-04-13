@@ -1,6 +1,6 @@
 [Adblock Plus 1.1]
 ! Title: Accomplist "Doh" AdBlock List (Top-N Version)
-! Version: 1744439727
+! Version: 1744525850
 ! Homepage: https://github.com/cbuijs/accomplist/tree/master/doh
 !
 ! WhiteList Domains:
@@ -115,7 +115,6 @@
 ||qrtz.club^
 ||dns.soldier.terumi.club^
 ||clearweb.woodbridge.club^
-||dns.23-4.cn^
 ||doh.360.cn^
 ||dot.360.cn^
 ||dns.baishiyuan.cn^
@@ -331,6 +330,7 @@
 ||msr177.com^
 ||ns.mtsoln.com^
 ||dpeddi.myddns.com^
+||dns.mzjtechnology.com^
 ||dns.nguyendn.com^
 ||dns.nhtsky.com^
 ||d.niaox.com^
@@ -836,6 +836,7 @@
 ||dns.api.sandbox.globuscs.info^
 ||dns.api.staging.globuscs.info^
 ||dns.api.test.globuscs.info^
+||doh.kekew.info^
 ||kilabit.info^
 ||testaghome.meshkov.info^
 ||onlyfriends.info^
@@ -1267,6 +1268,7 @@
 ||us.doh.cloudveil.org^
 ||dns.colorfreedom.org^
 ||dns.csswg.org^
+||aattwwss.duckdns.org^
 ||home27.duckdns.org^
 ||jurre-home.duckdns.org^
 ||krtekvpn.duckdns.org^
@@ -1635,7 +1637,7 @@
 ||urology.wiki^
 ||adg.yybyy.wiki^
 ||dns.4-the.win^
-||mail.4-the.win^
+||vpn.4-the.win^
 ||doh.abmb.win^
 ||doh2.abmb.win^
 ||dns.dotnet.win^
