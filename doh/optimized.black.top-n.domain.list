@@ -70,6 +70,8 @@ ns1.recursive.dnsbycomodo.com
 ns2.recursive.dnsbycomodo.com
 dnscrypt-cert.shield-2.dnsbycomodo.com
 dnsforfamily.com
+doh.dnslify.com
+ns.dnslify.com
 dns.gamban.com
 dns.google.com
 google-public-dns-a.google.com
@@ -82,6 +84,7 @@ mask-api.icloud.com
 mask-h2.icloud.com
 dns.islandnet.com
 opencdn.jomodns.com
+dns.kamilszczepanski.com
 iterator.lazada.com
 httpdns.meituan.com
 inf-wan.vip.meituan.com
@@ -180,6 +183,9 @@ de.dns.privex.io
 nl.dns.privex.io
 doh.qis.io
 doh.safesurfer.io
+dns.shecan.ir
+free.shecan.ir
+pro.shecan.ir
 home.daniil.it
 pi.daniil.it
 galileo.math.unipd.it
@@ -226,6 +232,7 @@ dnscrypt-cert.ffmuc.net
 doh.ffmuc.net
 dot.ffmuc.net
 dns.beta.gandi.net
+getdnsapi.net
 ordns.he.net
 dns.hinet.net
 pihole1.hoerli.net
@@ -295,6 +302,7 @@ dns.fullaccesstointernet.jp.eu.org
 dns.mayx.eu.org
 arashi.net.eu.org
 sukidayo.eu.org
+d4yge1fn4wr.d.firewalla.org
 dns.api.globus.org
 dns.api.preview.globus.org
 jichi.hopto.org
@@ -315,6 +323,7 @@ doh.tiarap.org
 jp.tiarap.org
 dns.pub
 doh.pub
+dot.pub
 comss.ru
 dns.ronc.ru
 dns.yandex.ru
