@@ -1,6 +1,6 @@
+jpdns.cola16.app
 doh.disconnect.app
 tiar.app
-penta.aeins.at
 dns.kescher.at
 kudns.kescher.at
 dns.belnet.be
@@ -116,9 +116,6 @@ dns.google.com
 google-public-dns-a.google.com
 google-public-dns-b.google.com
 dot.libredns.gr.com
-adguard.haneulo.com
-oko.haneulo.com
-resolver-eu.haringstad.com
 httpdns-push.heytapmobile.com
 expired.hichina.com
 dns.hoody.com
@@ -179,8 +176,6 @@ kronos.plan9-dns.com
 pluton.plan9-dns.com
 privacy.plumedns.com
 pixie.porkbun.com
-dns.porteii.com
-dnsvps.porteii.com
 dns2.prima-solusindo.com
 iterator.lazada.com.queniubl.com
 r1bnc.com
@@ -429,11 +424,6 @@ resolver1.absolight.net
 resolver2.absolight.net
 resolver3.absolight.net
 ahadns.net
-dns.alekberg.net
-dns2.alekberg.net
-dnses.alekberg.net
-dnsnl.alekberg.net
-dnsse.alekberg.net
 mask-api.fe2.apple-dns.net
 mask.apple-dns.net
 doh.applied-privacy.net
@@ -594,6 +584,7 @@ jackyes.ovh
 dns.panszelescik.pl
 dns-ovh.panszelescik.pl
 ovh.panszelescik.pl
+public.panszelescik.pl
 doh.apad.pro
 abe01.dnscry.pt
 abn01.dnscry.pt
