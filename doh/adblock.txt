@@ -1,6 +1,6 @@
 [Adblock Plus 1.1]
 ! Title: Accomplist "Doh" AdBlock List (Top-N Version)
-! Version: 1744871687
+! Version: 1744958753
 ! Homepage: https://github.com/cbuijs/accomplist/tree/master/doh
 !
 ! WhiteList Domains:
@@ -125,7 +125,6 @@
 ||dns.hujiayucc.cn^
 ||dns.mbrjun.cn^
 ||hk.mbrjun.cn^
-||mc-sft.cn^
 ||dns.muxinghe.cn^
 ||dns.mzrme.cn^
 ||dns.rubyfish.cn^
@@ -282,7 +281,7 @@
 ||dns.hellozhao.com^
 ||ww2.hellozhao.com^
 ||httpdns-push.heytapmobile.com^
-||expired.hichina.com^
+||himedns.com^
 ||dns.hoody.com^
 ||dns.internal.hosmatic.com^
 ||ads.hunga1k47.com^
@@ -295,6 +294,7 @@
 ||dns.imaicool.com^
 ||noads.imbuffering.com^
 ||dns.inclusioproject.com^
+||dns.indybanipal.com^
 ||dns.inforlogia.com^
 ||dns1.irumatech.com^
 ||dns.is0mino.com^
@@ -330,6 +330,7 @@
 ||msr177.com^
 ||ns.mtsoln.com^
 ||dpeddi.myddns.com^
+||dns.mzjtechnology.com^
 ||dns.nguyendn.com^
 ||dns.nhtsky.com^
 ||d.niaox.com^
@@ -393,6 +394,7 @@
 ||helios.plan9-dns.com^
 ||kronos.plan9-dns.com^
 ||pluton.plan9-dns.com^
+||hydra.plan9-ns1.com^
 ||draco.plan9-ns2.com^
 ||secure-dns.pleumkungz.com^
 ||privacy.plumedns.com^
@@ -460,6 +462,7 @@
 ||dns.xusqui.com^
 ||dns.yameenassotally.com^
 ||lion.yazilimatolye.com^
+||sg.yepdns.com^
 ||yovbak.com^
 ||adguard.zachitect.com^
 ||polisitogel.contractors^
@@ -1543,6 +1546,7 @@
 ||adg.rueiliu.space^
 ||dns.sy.st^
 ||home-server.store^
+||dns.fizz.studio^
 ||dns.xuming.studio^
 ||crypto.sx^
 ||3jjxxl.tech^
