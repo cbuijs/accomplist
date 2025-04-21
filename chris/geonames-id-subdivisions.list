@@ -144,7 +144,6 @@
 752014	Amasya	TR
 3665361	Amazonas	BR
 3689982	Amazonas	CO
-3699699	Amazonas	PE
 444180	Amhara Region	ET
 250439	Amman Governorate	JO
 7670904	Amoron'i Mania Region	MG
@@ -156,7 +155,6 @@
 7670856	Analamanga Region	MG
 7670848	Analanjirofo Region	MG
 2349961	Anambra State	NG
-3699674	Ancash	PE
 2593109	Andalusia	ES
 1484846	Andijan Region	UZ
 3041566	Andorra la Vella	AD
@@ -191,7 +189,6 @@
 413931	Ardabil Province	IR
 862470	Ardahan	TR
 4562640	Arecibo	PR
-3947319	Arequipa	PE
 686192	Arge?	RO
 2032855	Arhangay Aymag	MN
 3575052	Arima	TT
@@ -242,13 +239,13 @@
 703883	Autonomous Republic of Crimea	UA
 11071625	Auvergne-Rh?ne-Alpes	FR
 11839537	Avannaata	GL
-3947018	Ayacucho	PE
 322819	Ayd?n	TR
 1321850	Ayeyarwady Region	MM
 2218972	Az Z?wiyah	LY
 411739	Az? Z?hirah	OM
 1184196	Azad Jammu and Kashmir	PK
 3411865	Azores	PT
+3512209	Azua	DO
 3055744	B?cs-Kiskun county	HU
 1147707	B?dgh?s	AF
 11281878	B?ni Mellal-Kh?nifra	MA
@@ -291,7 +288,9 @@
 3343954	Banska Bystrica	SK
 1899273	Banteay Meanchey	KH
 1923045	Banten	ID
+3512050	Baoruco	DO
 3204508	Bar	ME
+3512042	Barahona	DO
 3055399	Baranya county	HU
 3576390	Barbuda	AG
 4562771	Barceloneta	PR
@@ -457,11 +456,9 @@
 7521297	Cagayan Valley	PH
 4563011	Caguas Municipio	PR
 360631	Cairo Governorate	EG
-3699087	Cajamarca	PE
 7521303	Calabarzon	PH
 2525468	Calabria	IT
 5332921	California	US
-3946080	Callao	PE
 3181042	Campania	IT
 4563065	Camuy Municipio	PR
 4563169	Can?vanas Municipio	PR
@@ -735,7 +732,6 @@
 3349234	Cuanza-Sul	AO
 4564071	Culebra Municipio	PR
 3349096	Cunene Province	AO
-3941583	Cusco	PE
 2260487	Cuvette	CG
 2593118	Cuvette-Ouest	CG
 3379023	Cuyuni-Mazaruni Region	GY
@@ -756,6 +752,7 @@
 1642907	Daerah Khusus Ibukota Jakarta	ID
 1337280	Dagana Dzongkhag	BT
 567293	Dagestan	RU
+3508951	Dajab?n	DO
 2253350	Dakar	SN
 11281886	Dakhla-Oued Ed-Dahab	MA
 2380426	Dakhlet Nouadhibou	MR
@@ -902,6 +899,17 @@
 3688650	Departamento de Bol?var	CO
 3689717	Departamento de Arauca	CO
 3689815	Departamento de Antioquia	CO
+3691099	Departamento de Ucayali	PE
+3691146	Departamento de Tumbes	PE
+3692385	Departamento de San Mart?n	PE
+3693525	Departamento de Piura	PE
+3695238	Departamento de Loreto	PE
+3695753	Departamento de Lambayeque	PE
+3695781	Departamento de La Libertad	PE
+3696416	Departamento de Hu?nuco	PE
+3699087	Departamento de Cajamarca	PE
+3699674	Departamento de Ancash	PE
+3699699	Departamento de Amazonas	PE
 3867442	Departamento de Boquer?n	PY
 3903319	Departamento de Tarija	BO
 3904907	Departamento de Santa Cruz	BO
@@ -911,7 +919,19 @@
 3911924	Departamento de La Paz	BO
 3919966	Departamento de Cochabamba	BO
 3920177	Departamento de Chuquisaca	BO
+3928127	Departamento de Tacna	PE
+3931275	Departamento de Puno	PE
+3932834	Departamento de Pasco	PE
 3934607	Departamento de Moquegua	PE
+3935619	Departamento de Madre de Dios	PE
+3936452	Departamento de Lima	PE
+3937485	Departamento de Jun?n	PE
+3938526	Departamento de Ica	PE
+3939467	Departamento de Huancavelica	PE
+3941583	Departamento de Cusco	PE
+3947018	Departamento de Ayacucho	PE
+3947319	Departamento de Arequipa	PE
+3947421	Departamento de Apur?mac	PE
 3438049	Departamento del Guair?	PY
 3439433	Departamento del Amambay	PY
 3439440	Departamento del Alto Paran?	PY
@@ -1052,7 +1072,9 @@
 12226389	El Menia	DZ
 12226391	El Mghair	DZ
 2497406	El Oued	DZ
+3506189	El Seibo	DO
 2497322	El Tarf	DZ
+3507269	El?as Pi?a	DO
 315807	El?z?	TR
 7667646	Elegeyo-Marakwet	KE
 7303686	Ember?-Wounaan	PA
@@ -1199,7 +1221,7 @@
 12095450	Gandaki Pradesh	NP
 1843125	Gangwon	KR
 828298	Ganja City	AZ
-1810676	Gansu Sheng	CN
+1810676	Gansu	CN
 2457161	Gao Region	ML
 197744	Garissa	KE
 7303651	Gasa	BT
@@ -1326,7 +1348,7 @@
 11281884	Guelmim-Oued Noun	MA
 2431555	Guera Region	TD
 2379216	Guidimaka	MR
-1809445	Guizhou Sheng	CN
+1809445	Guizhou	CN
 459664	Gulbenes novads	LV
 2096633	Gulf Province	PG
 3701537	Guna Yala	PA
@@ -1375,6 +1397,7 @@
 730436	Haskovo	BG
 312394	Hatay	TR
 4565348	Hatillo Municipio	PR
+3504766	Hato Mayor	DO
 216140	Haut Uele	CD
 216141	Haut-Lomani	CD
 238639	Haut-Mbomou	CF
@@ -1418,7 +1441,6 @@
 3199296	Hrastnik	SI
 3239050	Hrpelje-Kozina	SI
 3348310	Huambo	AO
-3939467	Huancavelica	PE
 1806949	Hubei	CN
 3348303	Huila Province	AO
 4565449	Humacao Municipio	PR
@@ -1436,7 +1458,6 @@
 617991	Ialoveni	MD
 2112669	Ibaraki	JP
 6201196	Ibb	YE
-3938526	Ica	PE
 592075	Ida-Virumaa	EE
 5596512	Idaho	US
 169387	Idlib Governorate	SY
@@ -1482,6 +1503,7 @@
 4044041	Inarajan Municipality	GU
 1843561	Incheon	KR
 2378903	Inchiri	MR
+3504326	Independencia	DO
 4921868	Indiana	US
 1045110	Inhambane Province	MZ
 2035607	Inner Mongolia Autonomous Region	CN
@@ -1559,7 +1581,6 @@
 4565713	Juana D?az Municipio	PR
 11821181	Judea and Samaria Area	IL
 3853404	Jujuy Province	AR
-3937485	Jun?n	PE
 9782172	Jurby	IM
 11778170	Jwaneng	BW
 611716	K'alak'i T'bilisi	GE
@@ -1789,12 +1810,13 @@
 7628341	L?v?nu Novads	LV
 241311	La Digue	SC
 3564073	La Habana	CU
-3695781	La Libertad	PE
 3040131	La Massana	AD
 3849574	La Pampa Province	AR
 3336897	La Rioja	ES
 3848949	La Rioja Province	AR
+3500955	La Romana	DO
 6690917	La Terre-Ad?lie	TF
+3499977	La Vega	DO
 147626	La?n Rayonu	AZ
 11281885	La?youne-Sakia El Hamra	MA
 1282101	Laamu Atholhu	MV
@@ -1810,7 +1832,6 @@
 189794	Laikipia	KE
 4565900	Lajas Municipio	PR
 408647	Lakes	SS
-3695753	Lambayeque	PE
 7667643	Lamu	KE
 2950157	Land Berlin	DE
 147613	Lankaran Rayon	AZ
@@ -1847,7 +1868,6 @@
 7303504	Likiep Atoll	MH
 2258431	Likouala	CG
 12902747	Lim-Pend?	CF
-3936452	Lima	PE
 146383	Limassol District	CY
 457889	Limba?u novads	LV
 1085597	Limpopo	ZA
@@ -1874,7 +1894,6 @@
 1575788	Long An	VN
 3572005	Long Island	BS
 125605	Lorestan Province	IR
-3695238	Loreto	PE
 828263	Lori	AM
 1655561	Louangnamtha	LA
 2249221	Louga	SN
@@ -1917,7 +1936,6 @@
 12095448	Madhesh	NP
 1264542	Madhya Pradesh	IN
 457712	Madona Municipality	LV
-3935619	Madre de Dios	PE
 448501	Maekel Region	ER
 932615	Mafeteng District	LS
 2123627	Magadan Oblast	RU
@@ -2088,10 +2106,13 @@
 1337285	Mongar Dzongkhag	BT
 4044148	Mongmong-Toto-Maite Municipality	GU
 2392716	Mono	BJ
+3496274	Monse?or Nouel	DO
 241252	Mont Buxton	SC
 241251	Mont Fleuri	SC
 11153058	Montagnes	CI
 5667009	Montana	US
+3496200	Monte Cristi	DO
+3496132	Monte Plata	DO
 2274890	Montserrado County	LR
 8030550	Moore's Island District	BS
 2453347	Mopti Region	ML
@@ -2581,7 +2602,6 @@
 3578045	Parish of Saint Anthony	MS
 1337286	Paro Dzongkhag	BT
 1131054	Parw?n	AF
-3932834	Pasco	PE
 3653392	Pastaza	EC
 4566654	Patillas Municipio	PR
 9782187	Patrick	IM
@@ -2590,6 +2610,7 @@
 728379	Pazardzhik	BG
 4566689	Pe?uelas Municipio	PR
 10097359	Pec District	XK
+3495136	Pedernales	DO
 9782188	Peel	IM
 6697807	Peloponnese	GR
 1337287	Pemagatshel Dzongkhag	BT
@@ -2603,6 +2624,7 @@
 11695388	Penrhyn	CK
 511555	Penza Oblast	RU
 1733041	Perak	MY
+3495015	Peravia	DO
 1733040	Perlis	MY
 511180	Perm Krai	RU
 3392268	Pernambuco	BR
@@ -2620,7 +2642,6 @@
 3193340	Piran	SI
 830704	Pirkanmaa	FI
 4038478	Piti Municipality	GU
-3693525	Piura	PE
 3239054	Pivka	SI
 934166	Plaines Wilhems District	MU
 241224	Plaisance	SC
@@ -2711,6 +2732,7 @@
 11288215	Province du Nord-Ubangi	CD
 11288216	Province du Sud-Ubangi	CD
 1225265	Province of Uva	LK
+3946080	Provincia Constitucional del Callao	PE
 3508718	Provincia Duarte	DO
 3505867	Provincia Espaillat	DO
 3558052	Provincia Granma	CU
@@ -2724,30 +2746,8 @@
 2566981	Provincia de Ki?-Ntem	GQ
 2566982	Provincia de Litoral	GQ
 2566983	Provincia de Wele-Nzas	GQ
-3492112	Provincia de Valverde	DO
-3492912	Provincia de Santiago Rodr?guez	DO
-3492918	Provincia de Santiago	DO
-3493031	Provincia de San Pedro de Macor?s	DO
-3493091	Provincia de San Juan	DO
-3493186	Provincia de San Crist?bal	DO
 3493282	Provincia de Hermanas Mirabal	DO
-3494267	Provincia de Puerto Plata	DO
-3495015	Provincia de Peravia	DO
-3495136	Provincia de Pedernales	DO
-3496132	Provincia de Monte Plata	DO
-3496200	Provincia de Monte Cristi	DO
-3496274	Provincia de Monse?or Nouel	DO
-3499977	Provincia de La Vega	DO
-3500955	Provincia de La Romana	DO
 3503706	Provincia de La Altagracia	DO
-3504326	Provincia de Independencia	DO
-3504766	Provincia de Hato Mayor	DO
-3506189	Provincia de El Seibo	DO
-3507269	Provincia de El?as Pi?a	DO
-3508951	Provincia de Dajab?n	DO
-3512042	Provincia de Barahona	DO
-3512050	Provincia de Baoruco	DO
-3512209	Provincia de Azua	DO
 3534168	Provincia de Villa Clara	CU
 3536725	Provincia de Santiago de Cuba	CU
 3540665	Provincia de Sancti Sp?ritus	CU
@@ -2826,12 +2826,12 @@
 504338	Pskov Oblast	RU
 3192240	Ptuj	SI
 3239268	Puconci	SI
+3494267	Puerto Plata	DO
 3169778	Puglia	IT
 11695389	Pukapuka	CK
 1733047	Pulau Pinang	MY
 1337288	Punakha Dzongkhag	BT
 1167710	Punjab Province	PK
-3931275	Puno	PE
 1821301	Pursat	KH
 1996552	Putrajaya	MY
 1871856	Pyongyang	KP
@@ -2855,7 +2855,7 @@
 443793	Qazvin Province	IR
 11839534	Qeqertalik	GL
 7602006	Qeqqata	GL
-1280239	Qinghai Sheng	CN
+1280239	Qinghai	CN
 443794	Qom Province	IR
 8299742	Qormi	MT
 1521671	Qostanay Oblysy	KZ
@@ -2878,7 +2878,6 @@
 7303937	R?gion de S?dhiou	SN
 2256175	R?gion du Niari	CG
 2258738	R?gion du Kouilou	CG
-1337166	R?jsh?hi Division	BD
 4567823	R?o Grande Municipio	PR
 3838830	R?o Negro Province	AR
 6690283	R?union	RE
@@ -2902,6 +2901,7 @@
 617366	Raionul Soroca	MD
 617301	Raionul Str?eni	MD
 617181	Raionul Ungheni	MD
+1337166	Rajshahi	BD
 11695390	Rakahanga	CK
 1298852	Rakhine State	MM
 9782191	Ramsey	IM
@@ -2918,8 +2918,6 @@
 3900333	Regi?n Ays?n	CL
 3873544	Regi?n Metropolitana	CL
 2513413	Regi?n de Murcia	ES
-3692385	Regi?n de San Mart?n	PE
-3696416	Regi?n de Hu?nuco	PE
 3868621	Regi?n de Valpara?so	CL
 3870116	Regi?n de Tarapac?	CL
 3881974	Regi?n de los Lagos	CL
@@ -2927,7 +2925,6 @@
 3899191	Regi?n de Atacama	CL
 3899463	Regi?n de la Araucan?a	CL
 3899537	Regi?n de Antofagasta	CL
-3947421	Regi?n de Apur?mac	PE
 4036650	Regi?n de Magallanes y Ant?rtica Chilena	CL
 6693562	Regi?n de Arica y Parinacota	CL
 6693563	Regi?n de los R?os	CL
@@ -3120,13 +3117,16 @@
 1337289	Samtse Dzongkhag	BT
 865544	Samtskhe-Javakheti	GE
 828302	Samukh Rayon	AZ
+3493186	San Crist?bal	DO
 3573739	San Fernando	TT
 4568105	San Germ?n Municipio	PR
+3493091	San Juan	DO
 3837152	San Juan Province	AR
 4568138	San Juan	PR
 7521946	San Juan/Laventille	TT
 4568150	San Lorenzo Municipio	PR
 3837029	San Luis Province	AR
+3493031	San Pedro de Macor?s	DO
 3571493	San Salvador District	BS
 4568177	San Sebasti?n Municipio	PR
 71132	Sanaa	YE
@@ -3146,6 +3146,8 @@
 3836276	Santa Fe Province	AR
 4568213	Santa Isabel Municipio	PR
 4038555	Santa Rita Municipality	GU
+3492918	Santiago	DO
+3492912	Santiago Rodr?guez	DO
 3835868	Santiago del Estero Province	AR
 11875155	Santo Ant?nio	MO
 9782193	Santon	IM
@@ -3439,7 +3441,6 @@
 3344904	Tabor	SI
 149653	Tabora Region	TZ
 101627	Tabuk Region	SA
-3928127	Tacna	PE
 220781	Tadjourah	DJ
 2134739	Tafea Province	VU
 2376551	Tagant	MR
@@ -3578,7 +3579,6 @@
 454771	Tukuma novads	LV
 480508	Tula Oblast	RU
 664517	Tulcea	RO
-3691146	Tumbes	PE
 7521947	Tunapuna/Piarco	TT
 298845	Tunceli	TR
 3650445	Tungurahua	EC
@@ -3591,7 +3591,6 @@
 298298	U?ak	TR
 2110420	Uaboe District	NR
 178837	Uasin Gishu	KE
-3691099	Ucayali	PE
 479613	Udmurtskaya Respublika	RU
 7303514	Ujae Atoll	MH
 584783	Ujar Rayon	AZ
@@ -3647,6 +3646,7 @@
 11153061	Vall?e du Bandama	CI
 8334638	Valletta	MT
 454564	Valmiera	LV
+3492112	Valverde	DO
 298113	Van	TR
 3337528	Vara?din County	HR
 7628342	Varak?nu Novads	LV
