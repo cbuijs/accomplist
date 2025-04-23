@@ -7823,6 +7823,8 @@
 .autoconfig.cust.cloudscale.ch
 .autoconfig.objects.lpg.cloudscale.ch
 .autoconfig.objects.rma.cloudscale.ch
+.autoconfig.lpg.objectstorage.ch
+.autoconfig.rma.objectstorage.ch
 .autoconfig.wnext.app
 .autoconfig.cnpy.gdn
 .autoconfig.otap.co
@@ -8924,6 +8926,8 @@
 .autoconfig.barsy.uk
 .autoconfig.barsy.co.uk
 .autoconfig.barsyonline.co.uk
+.autoconfig.luyani.app
+.autoconfig.luyani.net
 .autoconfig.magentosite.cloud
 .autoconfig.hb.cldmail.ru
 .autoconfig.matlab.cloud
@@ -9675,7 +9679,7 @@
 .autoconfig.dnsupdate.info
 .autoconfig.us.org
 .autoconfig.v.ua
-.autoconfig.express.val.run
+.autoconfig.val.run
 .autoconfig.web.val.run
 .autoconfig.vercel.app
 .autoconfig.v0.build
@@ -17581,6 +17585,8 @@
 ._autodiscover.cust.cloudscale.ch
 ._autodiscover.objects.lpg.cloudscale.ch
 ._autodiscover.objects.rma.cloudscale.ch
+._autodiscover.lpg.objectstorage.ch
+._autodiscover.rma.objectstorage.ch
 ._autodiscover.wnext.app
 ._autodiscover.cnpy.gdn
 ._autodiscover.otap.co
@@ -18682,6 +18688,8 @@
 ._autodiscover.barsy.uk
 ._autodiscover.barsy.co.uk
 ._autodiscover.barsyonline.co.uk
+._autodiscover.luyani.app
+._autodiscover.luyani.net
 ._autodiscover.magentosite.cloud
 ._autodiscover.hb.cldmail.ru
 ._autodiscover.matlab.cloud
@@ -19433,7 +19441,7 @@
 ._autodiscover.dnsupdate.info
 ._autodiscover.us.org
 ._autodiscover.v.ua
-._autodiscover.express.val.run
+._autodiscover.val.run
 ._autodiscover.web.val.run
 ._autodiscover.vercel.app
 ._autodiscover.v0.build
@@ -27339,6 +27347,8 @@
 .autodiscover.cust.cloudscale.ch
 .autodiscover.objects.lpg.cloudscale.ch
 .autodiscover.objects.rma.cloudscale.ch
+.autodiscover.lpg.objectstorage.ch
+.autodiscover.rma.objectstorage.ch
 .autodiscover.wnext.app
 .autodiscover.cnpy.gdn
 .autodiscover.otap.co
@@ -28440,6 +28450,8 @@
 .autodiscover.barsy.uk
 .autodiscover.barsy.co.uk
 .autodiscover.barsyonline.co.uk
+.autodiscover.luyani.app
+.autodiscover.luyani.net
 .autodiscover.magentosite.cloud
 .autodiscover.hb.cldmail.ru
 .autodiscover.matlab.cloud
@@ -29191,7 +29203,7 @@
 .autodiscover.dnsupdate.info
 .autodiscover.us.org
 .autodiscover.v.ua
-.autodiscover.express.val.run
+.autodiscover.val.run
 .autodiscover.web.val.run
 .autodiscover.vercel.app
 .autodiscover.v0.build
@@ -37097,6 +37109,8 @@
 .b._dns-sd.cust.cloudscale.ch
 .b._dns-sd.objects.lpg.cloudscale.ch
 .b._dns-sd.objects.rma.cloudscale.ch
+.b._dns-sd.lpg.objectstorage.ch
+.b._dns-sd.rma.objectstorage.ch
 .b._dns-sd.wnext.app
 .b._dns-sd.cnpy.gdn
 .b._dns-sd.otap.co
@@ -38198,6 +38212,8 @@
 .b._dns-sd.barsy.uk
 .b._dns-sd.barsy.co.uk
 .b._dns-sd.barsyonline.co.uk
+.b._dns-sd.luyani.app
+.b._dns-sd.luyani.net
 .b._dns-sd.magentosite.cloud
 .b._dns-sd.hb.cldmail.ru
 .b._dns-sd.matlab.cloud
@@ -38949,7 +38965,7 @@
 .b._dns-sd.dnsupdate.info
 .b._dns-sd.us.org
 .b._dns-sd.v.ua
-.b._dns-sd.express.val.run
+.b._dns-sd.val.run
 .b._dns-sd.web.val.run
 .b._dns-sd.vercel.app
 .b._dns-sd.v0.build
@@ -46855,6 +46871,8 @@
 .db._dns-sd.cust.cloudscale.ch
 .db._dns-sd.objects.lpg.cloudscale.ch
 .db._dns-sd.objects.rma.cloudscale.ch
+.db._dns-sd.lpg.objectstorage.ch
+.db._dns-sd.rma.objectstorage.ch
 .db._dns-sd.wnext.app
 .db._dns-sd.cnpy.gdn
 .db._dns-sd.otap.co
@@ -47956,6 +47974,8 @@
 .db._dns-sd.barsy.uk
 .db._dns-sd.barsy.co.uk
 .db._dns-sd.barsyonline.co.uk
+.db._dns-sd.luyani.app
+.db._dns-sd.luyani.net
 .db._dns-sd.magentosite.cloud
 .db._dns-sd.hb.cldmail.ru
 .db._dns-sd.matlab.cloud
@@ -48707,7 +48727,7 @@
 .db._dns-sd.dnsupdate.info
 .db._dns-sd.us.org
 .db._dns-sd.v.ua
-.db._dns-sd.express.val.run
+.db._dns-sd.val.run
 .db._dns-sd.web.val.run
 .db._dns-sd.vercel.app
 .db._dns-sd.v0.build
@@ -56613,6 +56633,8 @@
 .isatap.cust.cloudscale.ch
 .isatap.objects.lpg.cloudscale.ch
 .isatap.objects.rma.cloudscale.ch
+.isatap.lpg.objectstorage.ch
+.isatap.rma.objectstorage.ch
 .isatap.wnext.app
 .isatap.cnpy.gdn
 .isatap.otap.co
@@ -57714,6 +57736,8 @@
 .isatap.barsy.uk
 .isatap.barsy.co.uk
 .isatap.barsyonline.co.uk
+.isatap.luyani.app
+.isatap.luyani.net
 .isatap.magentosite.cloud
 .isatap.hb.cldmail.ru
 .isatap.matlab.cloud
@@ -58465,7 +58489,7 @@
 .isatap.dnsupdate.info
 .isatap.us.org
 .isatap.v.ua
-.isatap.express.val.run
+.isatap.val.run
 .isatap.web.val.run
 .isatap.vercel.app
 .isatap.v0.build
@@ -66371,6 +66395,8 @@
 .lb._dns-sd.cust.cloudscale.ch
 .lb._dns-sd.objects.lpg.cloudscale.ch
 .lb._dns-sd.objects.rma.cloudscale.ch
+.lb._dns-sd.lpg.objectstorage.ch
+.lb._dns-sd.rma.objectstorage.ch
 .lb._dns-sd.wnext.app
 .lb._dns-sd.cnpy.gdn
 .lb._dns-sd.otap.co
@@ -67472,6 +67498,8 @@
 .lb._dns-sd.barsy.uk
 .lb._dns-sd.barsy.co.uk
 .lb._dns-sd.barsyonline.co.uk
+.lb._dns-sd.luyani.app
+.lb._dns-sd.luyani.net
 .lb._dns-sd.magentosite.cloud
 .lb._dns-sd.hb.cldmail.ru
 .lb._dns-sd.matlab.cloud
@@ -68223,7 +68251,7 @@
 .lb._dns-sd.dnsupdate.info
 .lb._dns-sd.us.org
 .lb._dns-sd.v.ua
-.lb._dns-sd.express.val.run
+.lb._dns-sd.val.run
 .lb._dns-sd.web.val.run
 .lb._dns-sd.vercel.app
 .lb._dns-sd.v0.build
@@ -76129,6 +76157,8 @@
 .wpad.cust.cloudscale.ch
 .wpad.objects.lpg.cloudscale.ch
 .wpad.objects.rma.cloudscale.ch
+.wpad.lpg.objectstorage.ch
+.wpad.rma.objectstorage.ch
 .wpad.wnext.app
 .wpad.cnpy.gdn
 .wpad.otap.co
@@ -77230,6 +77260,8 @@
 .wpad.barsy.uk
 .wpad.barsy.co.uk
 .wpad.barsyonline.co.uk
+.wpad.luyani.app
+.wpad.luyani.net
 .wpad.magentosite.cloud
 .wpad.hb.cldmail.ru
 .wpad.matlab.cloud
@@ -77981,7 +78013,7 @@
 .wpad.dnsupdate.info
 .wpad.us.org
 .wpad.v.ua
-.wpad.express.val.run
+.wpad.val.run
 .wpad.web.val.run
 .wpad.vercel.app
 .wpad.v0.build
@@ -85887,6 +85919,8 @@
 .wpad.tcp.cust.cloudscale.ch
 .wpad.tcp.objects.lpg.cloudscale.ch
 .wpad.tcp.objects.rma.cloudscale.ch
+.wpad.tcp.lpg.objectstorage.ch
+.wpad.tcp.rma.objectstorage.ch
 .wpad.tcp.wnext.app
 .wpad.tcp.cnpy.gdn
 .wpad.tcp.otap.co
@@ -86988,6 +87022,8 @@
 .wpad.tcp.barsy.uk
 .wpad.tcp.barsy.co.uk
 .wpad.tcp.barsyonline.co.uk
+.wpad.tcp.luyani.app
+.wpad.tcp.luyani.net
 .wpad.tcp.magentosite.cloud
 .wpad.tcp.hb.cldmail.ru
 .wpad.tcp.matlab.cloud
@@ -87739,7 +87775,7 @@
 .wpad.tcp.dnsupdate.info
 .wpad.tcp.us.org
 .wpad.tcp.v.ua
-.wpad.tcp.express.val.run
+.wpad.tcp.val.run
 .wpad.tcp.web.val.run
 .wpad.tcp.vercel.app
 .wpad.tcp.v0.build
