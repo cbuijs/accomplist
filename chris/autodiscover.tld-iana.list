@@ -1069,15 +1069,6 @@ db._dns-sd.beer
 lb._dns-sd.beer
 wpad.beer
 wpad.tcp.beer
-autoconfig.bentley
-autodiscover.bentley
-_autodiscover._tcp.bentley
-isatap.bentley
-b._dns-sd.bentley
-db._dns-sd.bentley
-lb._dns-sd.bentley
-wpad.bentley
-wpad.tcp.bentley
 autoconfig.berlin
 autodiscover.berlin
 _autodiscover._tcp.berlin

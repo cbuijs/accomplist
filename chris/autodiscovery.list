@@ -8233,6 +8233,7 @@ autoconfig.mytuleap.com
 autoconfig.tuleap-partners.com
 autoconfig.encr.app
 autoconfig.encoreapi.com
+autoconfig.lp.dev
 autoconfig.eu.encoway.cloud
 autoconfig.eu.org
 autoconfig.al.eu.org
@@ -8404,6 +8405,7 @@ autoconfig.app.os.stg.fedoraproject.org
 autoconfig.mydobiss.com
 autoconfig.fh-muenster.io
 autoconfig.figma.site
+autoconfig.preview.site
 autoconfig.filegear.me
 autoconfig.firebaseapp.com
 autoconfig.fldrv.com
@@ -9244,6 +9246,9 @@ autoconfig.xen.prgmr.com
 autoconfig.priv.at
 autoconfig.c01.kr
 autoconfig.eliv-dns.kr
+autoconfig.mmv.kr
+autoconfig.vki.kr
+autoconfig.dev.project-study.com
 autoconfig.protonet.io
 autoconfig.sub.psl.hrsn.dev
 autoconfig.wc.psl.hrsn.dev
@@ -17995,6 +18000,7 @@ _autodiscover.mytuleap.com
 _autodiscover.tuleap-partners.com
 _autodiscover.encr.app
 _autodiscover.encoreapi.com
+_autodiscover.lp.dev
 _autodiscover.eu.encoway.cloud
 _autodiscover.eu.org
 _autodiscover.al.eu.org
@@ -18166,6 +18172,7 @@ _autodiscover.app.os.stg.fedoraproject.org
 _autodiscover.mydobiss.com
 _autodiscover.fh-muenster.io
 _autodiscover.figma.site
+_autodiscover.preview.site
 _autodiscover.filegear.me
 _autodiscover.firebaseapp.com
 _autodiscover.fldrv.com
@@ -19006,6 +19013,9 @@ _autodiscover.xen.prgmr.com
 _autodiscover.priv.at
 _autodiscover.c01.kr
 _autodiscover.eliv-dns.kr
+_autodiscover.mmv.kr
+_autodiscover.vki.kr
+_autodiscover.dev.project-study.com
 _autodiscover.protonet.io
 _autodiscover.sub.psl.hrsn.dev
 _autodiscover.wc.psl.hrsn.dev
@@ -27757,6 +27767,7 @@ autodiscover.mytuleap.com
 autodiscover.tuleap-partners.com
 autodiscover.encr.app
 autodiscover.encoreapi.com
+autodiscover.lp.dev
 autodiscover.eu.encoway.cloud
 autodiscover.eu.org
 autodiscover.al.eu.org
@@ -27928,6 +27939,7 @@ autodiscover.app.os.stg.fedoraproject.org
 autodiscover.mydobiss.com
 autodiscover.fh-muenster.io
 autodiscover.figma.site
+autodiscover.preview.site
 autodiscover.filegear.me
 autodiscover.firebaseapp.com
 autodiscover.fldrv.com
@@ -28768,6 +28780,9 @@ autodiscover.xen.prgmr.com
 autodiscover.priv.at
 autodiscover.c01.kr
 autodiscover.eliv-dns.kr
+autodiscover.mmv.kr
+autodiscover.vki.kr
+autodiscover.dev.project-study.com
 autodiscover.protonet.io
 autodiscover.sub.psl.hrsn.dev
 autodiscover.wc.psl.hrsn.dev
@@ -37519,6 +37534,7 @@ b._dns-sd.mytuleap.com
 b._dns-sd.tuleap-partners.com
 b._dns-sd.encr.app
 b._dns-sd.encoreapi.com
+b._dns-sd.lp.dev
 b._dns-sd.eu.encoway.cloud
 b._dns-sd.eu.org
 b._dns-sd.al.eu.org
@@ -37690,6 +37706,7 @@ b._dns-sd.app.os.stg.fedoraproject.org
 b._dns-sd.mydobiss.com
 b._dns-sd.fh-muenster.io
 b._dns-sd.figma.site
+b._dns-sd.preview.site
 b._dns-sd.filegear.me
 b._dns-sd.firebaseapp.com
 b._dns-sd.fldrv.com
@@ -38530,6 +38547,9 @@ b._dns-sd.xen.prgmr.com
 b._dns-sd.priv.at
 b._dns-sd.c01.kr
 b._dns-sd.eliv-dns.kr
+b._dns-sd.mmv.kr
+b._dns-sd.vki.kr
+b._dns-sd.dev.project-study.com
 b._dns-sd.protonet.io
 b._dns-sd.sub.psl.hrsn.dev
 b._dns-sd.wc.psl.hrsn.dev
@@ -47281,6 +47301,7 @@ db._dns-sd.mytuleap.com
 db._dns-sd.tuleap-partners.com
 db._dns-sd.encr.app
 db._dns-sd.encoreapi.com
+db._dns-sd.lp.dev
 db._dns-sd.eu.encoway.cloud
 db._dns-sd.eu.org
 db._dns-sd.al.eu.org
@@ -47452,6 +47473,7 @@ db._dns-sd.app.os.stg.fedoraproject.org
 db._dns-sd.mydobiss.com
 db._dns-sd.fh-muenster.io
 db._dns-sd.figma.site
+db._dns-sd.preview.site
 db._dns-sd.filegear.me
 db._dns-sd.firebaseapp.com
 db._dns-sd.fldrv.com
@@ -48292,6 +48314,9 @@ db._dns-sd.xen.prgmr.com
 db._dns-sd.priv.at
 db._dns-sd.c01.kr
 db._dns-sd.eliv-dns.kr
+db._dns-sd.mmv.kr
+db._dns-sd.vki.kr
+db._dns-sd.dev.project-study.com
 db._dns-sd.protonet.io
 db._dns-sd.sub.psl.hrsn.dev
 db._dns-sd.wc.psl.hrsn.dev
@@ -57043,6 +57068,7 @@ isatap.mytuleap.com
 isatap.tuleap-partners.com
 isatap.encr.app
 isatap.encoreapi.com
+isatap.lp.dev
 isatap.eu.encoway.cloud
 isatap.eu.org
 isatap.al.eu.org
@@ -57214,6 +57240,7 @@ isatap.app.os.stg.fedoraproject.org
 isatap.mydobiss.com
 isatap.fh-muenster.io
 isatap.figma.site
+isatap.preview.site
 isatap.filegear.me
 isatap.firebaseapp.com
 isatap.fldrv.com
@@ -58054,6 +58081,9 @@ isatap.xen.prgmr.com
 isatap.priv.at
 isatap.c01.kr
 isatap.eliv-dns.kr
+isatap.mmv.kr
+isatap.vki.kr
+isatap.dev.project-study.com
 isatap.protonet.io
 isatap.sub.psl.hrsn.dev
 isatap.wc.psl.hrsn.dev
@@ -66805,6 +66835,7 @@ lb._dns-sd.mytuleap.com
 lb._dns-sd.tuleap-partners.com
 lb._dns-sd.encr.app
 lb._dns-sd.encoreapi.com
+lb._dns-sd.lp.dev
 lb._dns-sd.eu.encoway.cloud
 lb._dns-sd.eu.org
 lb._dns-sd.al.eu.org
@@ -66976,6 +67007,7 @@ lb._dns-sd.app.os.stg.fedoraproject.org
 lb._dns-sd.mydobiss.com
 lb._dns-sd.fh-muenster.io
 lb._dns-sd.figma.site
+lb._dns-sd.preview.site
 lb._dns-sd.filegear.me
 lb._dns-sd.firebaseapp.com
 lb._dns-sd.fldrv.com
@@ -67816,6 +67848,9 @@ lb._dns-sd.xen.prgmr.com
 lb._dns-sd.priv.at
 lb._dns-sd.c01.kr
 lb._dns-sd.eliv-dns.kr
+lb._dns-sd.mmv.kr
+lb._dns-sd.vki.kr
+lb._dns-sd.dev.project-study.com
 lb._dns-sd.protonet.io
 lb._dns-sd.sub.psl.hrsn.dev
 lb._dns-sd.wc.psl.hrsn.dev
@@ -76567,6 +76602,7 @@ wpad.mytuleap.com
 wpad.tuleap-partners.com
 wpad.encr.app
 wpad.encoreapi.com
+wpad.lp.dev
 wpad.eu.encoway.cloud
 wpad.eu.org
 wpad.al.eu.org
@@ -76738,6 +76774,7 @@ wpad.app.os.stg.fedoraproject.org
 wpad.mydobiss.com
 wpad.fh-muenster.io
 wpad.figma.site
+wpad.preview.site
 wpad.filegear.me
 wpad.firebaseapp.com
 wpad.fldrv.com
@@ -77578,6 +77615,9 @@ wpad.xen.prgmr.com
 wpad.priv.at
 wpad.c01.kr
 wpad.eliv-dns.kr
+wpad.mmv.kr
+wpad.vki.kr
+wpad.dev.project-study.com
 wpad.protonet.io
 wpad.sub.psl.hrsn.dev
 wpad.wc.psl.hrsn.dev
@@ -86329,6 +86369,7 @@ wpad.tcp.mytuleap.com
 wpad.tcp.tuleap-partners.com
 wpad.tcp.encr.app
 wpad.tcp.encoreapi.com
+wpad.tcp.lp.dev
 wpad.tcp.eu.encoway.cloud
 wpad.tcp.eu.org
 wpad.tcp.al.eu.org
@@ -86500,6 +86541,7 @@ wpad.tcp.app.os.stg.fedoraproject.org
 wpad.tcp.mydobiss.com
 wpad.tcp.fh-muenster.io
 wpad.tcp.figma.site
+wpad.tcp.preview.site
 wpad.tcp.filegear.me
 wpad.tcp.firebaseapp.com
 wpad.tcp.fldrv.com
@@ -87340,6 +87382,9 @@ wpad.tcp.xen.prgmr.com
 wpad.tcp.priv.at
 wpad.tcp.c01.kr
 wpad.tcp.eliv-dns.kr
+wpad.tcp.mmv.kr
+wpad.tcp.vki.kr
+wpad.tcp.dev.project-study.com
 wpad.tcp.protonet.io
 wpad.tcp.sub.psl.hrsn.dev
 wpad.tcp.wc.psl.hrsn.dev
