@@ -1,6 +1,6 @@
 [Adblock Plus 1.1]
 ! Title: Accomplist "Doh" AdBlock List (Top-N Version)
-! Version: 1745472978
+! Version: 1745820477
 ! Homepage: https://github.com/cbuijs/accomplist/tree/master/doh
 !
 ! WhiteList Domains:
@@ -43,9 +43,8 @@
 ||polisitogel.beauty^
 ||ad.tzockt.beer^
 ||dns.schlagheck.berlin^
-||_fw._io.ovpn.bond^
+||_local._io._nx._cname.ovpn.bond^
 ||dns.ovpn.bond^
-||fw.io.ovpn.bond^
 ||dns.7sec.com.br^
 ||adguard.frutuozo.com.br^
 ||adguard.gbrossi.com.br^
@@ -170,6 +169,7 @@
 ||dot.asecdns.com^
 ||dns.asterimoon.com^
 ||dandelionsprout.asuscomm.com^
+||dns.asysec.com^
 ||adguardhome.atakorah.com^
 ||srv-revprox-01.atakorah.com^
 ||africa.avastdns.com^
@@ -203,6 +203,7 @@
 ||doh.blockerdns.com^
 ||dns.bmwhocking.com^
 ||dns.bobstrecansky.com^
+||94950.bodis.com^
 ||96421.bodis.com^
 ||dns.braene.com^
 ||bravedns.com^
@@ -437,6 +438,7 @@
 ||doh-02.spectrum.com^
 ||dns.stirringphoto.com^
 ||sunnygyl.com^
+||dns.surfshark.com^
 ||dns.surobe.com^
 ||dns.syaifullah.com^
 ||dns-server-public.sz-dns.com^
@@ -533,7 +535,6 @@
 ||vps343.brueggus.de^
 ||vps344.brueggus.de^
 ||vps345.brueggus.de^
-||vps347.brueggus.de^
 ||vps349.brueggus.de^
 ||vps350.brueggus.de^
 ||vps351.brueggus.de^
@@ -588,7 +589,6 @@
 ||dns2.dns-ga.de^
 ||dns3.dns-ga.de^
 ||doh.dns-ga.de^
-||secure-dns.dns-ga.de^
 ||dnsforge.de^
 ||dns.dnshome.de^
 ||dns.dremaxx.de^
@@ -754,7 +754,6 @@
 ||dns.spirio.fr^
 ||server.spirio.fr^
 ||adb-home.xaoimoon.fr^
-||dns.auapi.fun^
 ||axaxa.fun^
 ||ag.brianlee.fun^
 ||cloudbenders.fun^
@@ -996,7 +995,6 @@
 ||adl.adfilter.net^
 ||per.adfilter.net^
 ||syd.adfilter.net^
-||affcdn.net^
 ||ahadns.net^
 ||dns.alekberg.net^
 ||dns2.alekberg.net^
@@ -1353,7 +1351,6 @@
 ||cloudns.bosco.ovh^
 ||dns.clanless.ovh^
 ||mimile.despagne.ovh^
-||eliatofani.ovh^
 ||fezgate.ovh^
 ||dns.henek.ovh^
 ||jackyes.ovh^
@@ -1411,7 +1408,6 @@
 ||hel01.dnscry.pt^
 ||hkg01.dnscry.pt^
 ||hkg02.dnscry.pt^
-||hrk01.dnscry.pt^
 ||isb01.dnscry.pt^
 ||ist01.dnscry.pt^
 ||jhb01.dnscry.pt^
@@ -1523,7 +1519,6 @@
 ||resolver.sunet.se^
 ||dns.9999.sg^
 ||rin.sh^
-||hfgx.shop^
 ||moamao.shop^
 ||paradise-human.shop^
 ||polisitogel.show^

@@ -34,9 +34,8 @@ doh.beauty
 polisitogel.beauty
 ad.tzockt.beer
 dns.schlagheck.berlin
-_fw._io.ovpn.bond
+_local._io._nx._cname.ovpn.bond
 dns.ovpn.bond
-fw.io.ovpn.bond
 dns.7sec.com.br
 adguard.frutuozo.com.br
 adguard.gbrossi.com.br
@@ -188,6 +187,7 @@ doh.asecdns.com
 dot.asecdns.com
 dns.asterimoon.com
 dandelionsprout.asuscomm.com
+dns.asysec.com
 adguardhome.atakorah.com
 srv-revprox-01.atakorah.com
 africa.avastdns.com
@@ -222,6 +222,7 @@ doh.blockerdns.com
 example.doh.blockerdns.com
 dns.bmwhocking.com
 dns.bobstrecansky.com
+94950.bodis.com
 96421.bodis.com
 dns.braene.com
 bravedns.com
@@ -490,6 +491,7 @@ doh-01.spectrum.com
 doh-02.spectrum.com
 dns.stirringphoto.com
 sunnygyl.com
+dns.surfshark.com
 dns.surobe.com
 dns.syaifullah.com
 dns-server-public.sz-dns.com
@@ -586,7 +588,6 @@ vps341.brueggus.de
 vps343.brueggus.de
 vps344.brueggus.de
 vps345.brueggus.de
-vps347.brueggus.de
 vps349.brueggus.de
 vps350.brueggus.de
 vps351.brueggus.de
@@ -641,7 +642,6 @@ dns1.dns-ga.de
 dns2.dns-ga.de
 dns3.dns-ga.de
 doh.dns-ga.de
-secure-dns.dns-ga.de
 dnsforge.de
 clean.dnsforge.de
 hard.dnsforge.de
@@ -822,7 +822,6 @@ pates.services.sfr.fr.casepp.sfr.fr
 dns.spirio.fr
 server.spirio.fr
 adb-home.xaoimoon.fr
-dns.auapi.fun
 axaxa.fun
 ag.brianlee.fun
 cloudbenders.fun
@@ -1073,7 +1072,6 @@ resolver3.absolight.net
 adl.adfilter.net
 per.adfilter.net
 syd.adfilter.net
-affcdn.net
 ahadns.net
 doh.au.ahadns.net
 dot.au.ahadns.net
@@ -1488,7 +1486,6 @@ doh.azoris.ovh
 cloudns.bosco.ovh
 dns.clanless.ovh
 mimile.despagne.ovh
-eliatofani.ovh
 fezgate.ovh
 dns.henek.ovh
 jackyes.ovh
@@ -1548,7 +1545,6 @@ han01.dnscry.pt
 hel01.dnscry.pt
 hkg01.dnscry.pt
 hkg02.dnscry.pt
-hrk01.dnscry.pt
 isb01.dnscry.pt
 ist01.dnscry.pt
 jhb01.dnscry.pt
@@ -1686,7 +1682,6 @@ resolver.sunet.se
 dns.9999.sg
 rin.sh
 dns.rin.sh
-hfgx.shop
 moamao.shop
 paradise-human.shop
 polisitogel.show
