@@ -1,6 +1,6 @@
 [Adblock Plus 1.1]
 ! Title: Accomplist "Doh" AdBlock List (Top-N Version)
-! Version: 1745907463
+! Version: 1745992448
 ! Homepage: https://github.com/cbuijs/accomplist/tree/master/doh
 !
 ! WhiteList Domains:
@@ -490,7 +490,6 @@
 ||gw-pk.brueggus.de^
 ||vps03.brueggus.de^
 ||vps119.brueggus.de^
-||vps132.brueggus.de^
 ||vps149.brueggus.de^
 ||vps153.brueggus.de^
 ||vps183.brueggus.de^
@@ -553,6 +552,7 @@
 ||vps372.brueggus.de^
 ||vps373.brueggus.de^
 ||vps375.brueggus.de^
+||vps377.brueggus.de^
 ||vps379.brueggus.de^
 ||vps382.brueggus.de^
 ||vps384.brueggus.de^
@@ -1166,7 +1166,6 @@
 ||dns.us-ashburn-1.oci.oraclecloud.net^
 ||dns.us-phoenix-1.oci.oraclecloud.net^
 ||rpz-public-resolver1.rrdns.pch.net^
-||dns.pernika.net^
 ||darya.persiannit.net^
 ||dns.phillipjberry.net^
 ||dns.princex.net^
