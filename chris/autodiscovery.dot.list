@@ -9177,6 +9177,7 @@
 .autoconfig.simplesite.pl
 .autoconfig.123paginaweb.pt
 .autoconfig.123minsida.se
+.autoconfig.onid.ca
 .autoconfig.is-a-fullstack.dev
 .autoconfig.is-cool.dev
 .autoconfig.is-not-a.dev
@@ -18943,6 +18944,7 @@
 ._autodiscover.simplesite.pl
 ._autodiscover.123paginaweb.pt
 ._autodiscover.123minsida.se
+._autodiscover.onid.ca
 ._autodiscover.is-a-fullstack.dev
 ._autodiscover.is-cool.dev
 ._autodiscover.is-not-a.dev
@@ -28709,6 +28711,7 @@
 .autodiscover.simplesite.pl
 .autodiscover.123paginaweb.pt
 .autodiscover.123minsida.se
+.autodiscover.onid.ca
 .autodiscover.is-a-fullstack.dev
 .autodiscover.is-cool.dev
 .autodiscover.is-not-a.dev
@@ -38475,6 +38478,7 @@
 .b._dns-sd.simplesite.pl
 .b._dns-sd.123paginaweb.pt
 .b._dns-sd.123minsida.se
+.b._dns-sd.onid.ca
 .b._dns-sd.is-a-fullstack.dev
 .b._dns-sd.is-cool.dev
 .b._dns-sd.is-not-a.dev
@@ -48241,6 +48245,7 @@
 .db._dns-sd.simplesite.pl
 .db._dns-sd.123paginaweb.pt
 .db._dns-sd.123minsida.se
+.db._dns-sd.onid.ca
 .db._dns-sd.is-a-fullstack.dev
 .db._dns-sd.is-cool.dev
 .db._dns-sd.is-not-a.dev
@@ -58007,6 +58012,7 @@
 .isatap.simplesite.pl
 .isatap.123paginaweb.pt
 .isatap.123minsida.se
+.isatap.onid.ca
 .isatap.is-a-fullstack.dev
 .isatap.is-cool.dev
 .isatap.is-not-a.dev
@@ -67773,6 +67779,7 @@
 .lb._dns-sd.simplesite.pl
 .lb._dns-sd.123paginaweb.pt
 .lb._dns-sd.123minsida.se
+.lb._dns-sd.onid.ca
 .lb._dns-sd.is-a-fullstack.dev
 .lb._dns-sd.is-cool.dev
 .lb._dns-sd.is-not-a.dev
@@ -77539,6 +77546,7 @@
 .wpad.simplesite.pl
 .wpad.123paginaweb.pt
 .wpad.123minsida.se
+.wpad.onid.ca
 .wpad.is-a-fullstack.dev
 .wpad.is-cool.dev
 .wpad.is-not-a.dev
@@ -87305,6 +87313,7 @@
 .wpad.tcp.simplesite.pl
 .wpad.tcp.123paginaweb.pt
 .wpad.tcp.123minsida.se
+.wpad.tcp.onid.ca
 .wpad.tcp.is-a-fullstack.dev
 .wpad.tcp.is-cool.dev
 .wpad.tcp.is-not-a.dev
