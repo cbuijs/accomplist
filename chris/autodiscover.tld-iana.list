@@ -5920,15 +5920,6 @@ db._dns-sd.lamer
 lb._dns-sd.lamer
 wpad.lamer
 wpad.tcp.lamer
-autoconfig.lancaster
-autodiscover.lancaster
-_autodiscover._tcp.lancaster
-isatap.lancaster
-b._dns-sd.lancaster
-db._dns-sd.lancaster
-lb._dns-sd.lancaster
-wpad.lancaster
-wpad.tcp.lancaster
 autoconfig.land
 autodiscover.land
 _autodiscover._tcp.land
