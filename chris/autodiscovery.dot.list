@@ -6278,7 +6278,6 @@
 .autoconfig.lacaixa
 .autoconfig.lamborghini
 .autoconfig.lamer
-.autoconfig.lancaster
 .autoconfig.land
 .autoconfig.landrover
 .autoconfig.lanxess
@@ -16045,7 +16044,6 @@
 ._autodiscover.lacaixa
 ._autodiscover.lamborghini
 ._autodiscover.lamer
-._autodiscover.lancaster
 ._autodiscover.land
 ._autodiscover.landrover
 ._autodiscover.lanxess
@@ -25812,7 +25810,6 @@
 .autodiscover.lacaixa
 .autodiscover.lamborghini
 .autodiscover.lamer
-.autodiscover.lancaster
 .autodiscover.land
 .autodiscover.landrover
 .autodiscover.lanxess
@@ -35579,7 +35576,6 @@
 .b._dns-sd.lacaixa
 .b._dns-sd.lamborghini
 .b._dns-sd.lamer
-.b._dns-sd.lancaster
 .b._dns-sd.land
 .b._dns-sd.landrover
 .b._dns-sd.lanxess
@@ -45346,7 +45342,6 @@
 .db._dns-sd.lacaixa
 .db._dns-sd.lamborghini
 .db._dns-sd.lamer
-.db._dns-sd.lancaster
 .db._dns-sd.land
 .db._dns-sd.landrover
 .db._dns-sd.lanxess
@@ -55113,7 +55108,6 @@
 .isatap.lacaixa
 .isatap.lamborghini
 .isatap.lamer
-.isatap.lancaster
 .isatap.land
 .isatap.landrover
 .isatap.lanxess
@@ -64880,7 +64874,6 @@
 .lb._dns-sd.lacaixa
 .lb._dns-sd.lamborghini
 .lb._dns-sd.lamer
-.lb._dns-sd.lancaster
 .lb._dns-sd.land
 .lb._dns-sd.landrover
 .lb._dns-sd.lanxess
@@ -74647,7 +74640,6 @@
 .wpad.lacaixa
 .wpad.lamborghini
 .wpad.lamer
-.wpad.lancaster
 .wpad.land
 .wpad.landrover
 .wpad.lanxess
@@ -84414,7 +84406,6 @@
 .wpad.tcp.lacaixa
 .wpad.tcp.lamborghini
 .wpad.tcp.lamer
-.wpad.tcp.lancaster
 .wpad.tcp.land
 .wpad.tcp.landrover
 .wpad.tcp.lanxess
