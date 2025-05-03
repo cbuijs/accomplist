@@ -1,6 +1,7 @@
-.jpdns.cola16.app
 .doh.disconnect.app
 .tiar.app
+.rfree1.blue-shield.at
+.rfree2.blue-shield.at
 .dns.kescher.at
 .kudns.kescher.at
 .dns.belnet.be
@@ -180,7 +181,6 @@
 .r1bnc.com
 .dns.api.rackspacecloud.com
 .rethinkdns.com
-.dns1.ryan-palmer.com
 .privatnas.servebeer.com
 .doh-01.spectrum.com
 .doh-02.spectrum.com
@@ -327,8 +327,6 @@
 .enter.rfer.ee
 .dns.paesa.es
 .3dns.eu
-.dns.almir1904.eu
-.xray.krnl.eu
 .lastentarvike.fi
 .lelux.fi
 .doh.42l.fr
@@ -387,6 +385,10 @@
 .doh.seby.io
 .doh-2.seby.io
 .dot.seby.io
+.dns.seia.io
+.icn-aa.objet.seia.io
+.xstl.objet.seia.io
+.xstl.seia.io
 .iana.tenta.io
 .opennic.tenta.io
 .dns.shecan.ir
@@ -454,7 +456,6 @@
 .tls-dns-u.odvr.dns-oarc.net
 .dns4me.net
 .dns.dnsoverhttps.net
-.gustamadh.dynv6.net
 .dnscache.e-utp.net
 .doh.ersei.net
 .pdns.faelix.net
@@ -730,7 +731,6 @@
 .privacydns.go6lab.si
 .dns.levonet.sk
 .crypto.sx
-.dns.startupstack.tech
 .dns.koala.us.to
 .doh.viatech.com.tw
 .adguard.shuting.idv.tw
