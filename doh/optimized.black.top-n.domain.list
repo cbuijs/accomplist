@@ -92,6 +92,7 @@ cloudflareresolve.com
 dns.controld.com
 freedns.controld.com
 dns.decloudus.com
+dns.dns-over-https.com
 ns1.recursive.dnsbycomodo.com
 ns2.recursive.dnsbycomodo.com
 dnscrypt-cert.shield-2.dnsbycomodo.com
@@ -578,6 +579,7 @@ dns.csswg.org
 home27.duckdns.org
 jurre-home.duckdns.org
 krtekvpn.duckdns.org
+montmorot.duckdns.org
 osefcorp.duckdns.org
 punono.duckdns.org
 tuandns.duckdns.org
@@ -731,6 +733,7 @@ resolver.sunet.se
 privacydns.go6lab.si
 dns.levonet.sk
 crypto.sx
+dns.startupstack.tech
 dns.koala.us.to
 doh.viatech.com.tw
 adguard.shuting.idv.tw
