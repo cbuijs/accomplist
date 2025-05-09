@@ -1,6 +1,6 @@
 [Adblock Plus 1.1]
 ! Title: Accomplist "Cryptojack" AdBlock List (Top-N Version)
-! Version: 1746685963
+! Version: 1746772996
 ! Homepage: https://github.com/cbuijs/accomplist/tree/master/cryptojack
 !
 ! WhiteList Domains:
@@ -3180,6 +3180,7 @@
 ||ec2-13-251-80-183.ap-southeast-1.compute.amazonaws.com^
 ||ec2-54-193-58-54.us-west-1.compute.amazonaws.com^
 ||bitfex.s3.amazonaws.com^
+||wallet-api-production.s3.amazonaws.com^
 ||amazonhash.com^
 ||amberescoin.com^
 ||amerextrade.com^
@@ -10108,6 +10109,7 @@
 ||cocozuma.net^
 ||coin-mining.net^
 ||coinalyze.net^
+||coinbasecdn.net^
 ||coinexplorer.net^
 ||coinhive.net^
 ||coinimp.net^

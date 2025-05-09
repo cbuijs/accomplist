@@ -358,6 +358,7 @@
 .ec2-13-251-80-183.ap-southeast-1.compute.amazonaws.com
 .ec2-54-193-58-54.us-west-1.compute.amazonaws.com
 .bitfex.s3.amazonaws.com
+.wallet-api-production.s3.amazonaws.com
 .antpool.com
 .aod-tech.com
 .vkcdnservice.appspot.com
@@ -808,7 +809,6 @@
 .winupdate.firewall-gateway.de
 .adder.lima-city.de
 .zeus-nevo.pages.dev
-.joys.digital
 .hot-girls-sexy-pictures.blogspot.dk
 .hot-girls2014.blogspot.dk
 .hot-glamour-big-tits-sexy.blogspot.dk
@@ -1200,7 +1200,6 @@
 .infura.io
 .infura-ipfs.io
 .bafybeidravcab5p3acvthxtwosm4rfpl4yypwwm52s7sazgxaezfzn5xn4.ipfs.infura-ipfs.io
-.jambler.io
 .eosbp.kuna.io
 .letsexchange.io
 .luckypool.io
@@ -1532,6 +1531,7 @@
 .d3iz6lralvg77g.cloudfront.net
 .d3iz6ralvg77g.cloudfront.net
 .coinalyze.net
+.coinbasecdn.net
 .coinomi.net
 .vmi503011.contaboserver.net
 .cryptobubbles.net
@@ -2202,6 +2202,7 @@
 .v90327ux.beget.tech
 .y95906u4.beget.tech
 .zvezdigr.beget.tech
+.expanse.tech
 .luxor.tech
 .sia.tech
 .mj.gov.tl
