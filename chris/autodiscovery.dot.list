@@ -7538,8 +7538,6 @@
 .autoconfig.analytics-gateway.us-east-1.amazonaws.com
 .autoconfig.analytics-gateway.us-east-2.amazonaws.com
 .autoconfig.analytics-gateway.us-west-2.amazonaws.com
-.autoconfig.appwrite.global
-.autoconfig.appwrite.run
 .autoconfig.amplifyapp.com
 .autoconfig.awsapprunner.com
 .autoconfig.webview-assets.aws-cloud9.af-south-1.amazonaws.com
@@ -7657,6 +7655,8 @@
 .autoconfig.appspacehosted.com
 .autoconfig.appspaceusercontent.com
 .autoconfig.appudo.net
+.autoconfig.appwrite.global
+.autoconfig.appwrite.run
 .autoconfig.on-aptible.com
 .autoconfig.f5.si
 .autoconfig.arvanedge.ir
@@ -8619,7 +8619,6 @@
 .autoconfig.xn--gnstigbestellen-zvb.de
 .autoconfig.xn--gnstigliefern-wob.de
 .autoconfig.xn--hkkinen-5wa.fi
-.autoconfig.hrsn.dev
 .autoconfig.hashbang.sh
 .autoconfig.hasura.app
 .autoconfig.hasura-app.io
@@ -8869,7 +8868,6 @@
 .autoconfig.ggff.net
 .autoconfig.user.localcert.dev
 .autoconfig.localcert.net
-.autoconfig.localhostcert.net
 .autoconfig.localtonet.com
 .autoconfig.localto.net
 .autoconfig.lodz.pl
@@ -9249,11 +9247,6 @@
 .autoconfig.vki.kr
 .autoconfig.dev.project-study.com
 .autoconfig.protonet.io
-.autoconfig.sub.psl.hrsn.dev
-.autoconfig.wc.psl.hrsn.dev
-.autoconfig.ignored.wc.psl.hrsn.dev
-.autoconfig.sub.wc.psl.hrsn.dev
-.autoconfig.ignored.sub.wc.psl.hrsn.dev
 .autoconfig.chirurgiens-dentistes-en-france.fr
 .autoconfig.byen.site
 .autoconfig.pubtls.org
@@ -9718,6 +9711,7 @@
 .autoconfig.wmcloud.org
 .autoconfig.wmflabs.org
 .autoconfig.wdh.app
+.autoconfig.hrsn.dev
 .autoconfig.windsurf.app
 .autoconfig.windsurf.build
 .autoconfig.panel.gg
@@ -17304,8 +17298,6 @@
 ._autodiscover.analytics-gateway.us-east-1.amazonaws.com
 ._autodiscover.analytics-gateway.us-east-2.amazonaws.com
 ._autodiscover.analytics-gateway.us-west-2.amazonaws.com
-._autodiscover.appwrite.global
-._autodiscover.appwrite.run
 ._autodiscover.amplifyapp.com
 ._autodiscover.awsapprunner.com
 ._autodiscover.webview-assets.aws-cloud9.af-south-1.amazonaws.com
@@ -17423,6 +17415,8 @@
 ._autodiscover.appspacehosted.com
 ._autodiscover.appspaceusercontent.com
 ._autodiscover.appudo.net
+._autodiscover.appwrite.global
+._autodiscover.appwrite.run
 ._autodiscover.on-aptible.com
 ._autodiscover.f5.si
 ._autodiscover.arvanedge.ir
@@ -18385,7 +18379,6 @@
 ._autodiscover.xn--gnstigbestellen-zvb.de
 ._autodiscover.xn--gnstigliefern-wob.de
 ._autodiscover.xn--hkkinen-5wa.fi
-._autodiscover.hrsn.dev
 ._autodiscover.hashbang.sh
 ._autodiscover.hasura.app
 ._autodiscover.hasura-app.io
@@ -18635,7 +18628,6 @@
 ._autodiscover.ggff.net
 ._autodiscover.user.localcert.dev
 ._autodiscover.localcert.net
-._autodiscover.localhostcert.net
 ._autodiscover.localtonet.com
 ._autodiscover.localto.net
 ._autodiscover.lodz.pl
@@ -19015,11 +19007,6 @@
 ._autodiscover.vki.kr
 ._autodiscover.dev.project-study.com
 ._autodiscover.protonet.io
-._autodiscover.sub.psl.hrsn.dev
-._autodiscover.wc.psl.hrsn.dev
-._autodiscover.ignored.wc.psl.hrsn.dev
-._autodiscover.sub.wc.psl.hrsn.dev
-._autodiscover.ignored.sub.wc.psl.hrsn.dev
 ._autodiscover.chirurgiens-dentistes-en-france.fr
 ._autodiscover.byen.site
 ._autodiscover.pubtls.org
@@ -19484,6 +19471,7 @@
 ._autodiscover.wmcloud.org
 ._autodiscover.wmflabs.org
 ._autodiscover.wdh.app
+._autodiscover.hrsn.dev
 ._autodiscover.windsurf.app
 ._autodiscover.windsurf.build
 ._autodiscover.panel.gg
@@ -27070,8 +27058,6 @@
 .autodiscover.analytics-gateway.us-east-1.amazonaws.com
 .autodiscover.analytics-gateway.us-east-2.amazonaws.com
 .autodiscover.analytics-gateway.us-west-2.amazonaws.com
-.autodiscover.appwrite.global
-.autodiscover.appwrite.run
 .autodiscover.amplifyapp.com
 .autodiscover.awsapprunner.com
 .autodiscover.webview-assets.aws-cloud9.af-south-1.amazonaws.com
@@ -27189,6 +27175,8 @@
 .autodiscover.appspacehosted.com
 .autodiscover.appspaceusercontent.com
 .autodiscover.appudo.net
+.autodiscover.appwrite.global
+.autodiscover.appwrite.run
 .autodiscover.on-aptible.com
 .autodiscover.f5.si
 .autodiscover.arvanedge.ir
@@ -28151,7 +28139,6 @@
 .autodiscover.xn--gnstigbestellen-zvb.de
 .autodiscover.xn--gnstigliefern-wob.de
 .autodiscover.xn--hkkinen-5wa.fi
-.autodiscover.hrsn.dev
 .autodiscover.hashbang.sh
 .autodiscover.hasura.app
 .autodiscover.hasura-app.io
@@ -28401,7 +28388,6 @@
 .autodiscover.ggff.net
 .autodiscover.user.localcert.dev
 .autodiscover.localcert.net
-.autodiscover.localhostcert.net
 .autodiscover.localtonet.com
 .autodiscover.localto.net
 .autodiscover.lodz.pl
@@ -28781,11 +28767,6 @@
 .autodiscover.vki.kr
 .autodiscover.dev.project-study.com
 .autodiscover.protonet.io
-.autodiscover.sub.psl.hrsn.dev
-.autodiscover.wc.psl.hrsn.dev
-.autodiscover.ignored.wc.psl.hrsn.dev
-.autodiscover.sub.wc.psl.hrsn.dev
-.autodiscover.ignored.sub.wc.psl.hrsn.dev
 .autodiscover.chirurgiens-dentistes-en-france.fr
 .autodiscover.byen.site
 .autodiscover.pubtls.org
@@ -29250,6 +29231,7 @@
 .autodiscover.wmcloud.org
 .autodiscover.wmflabs.org
 .autodiscover.wdh.app
+.autodiscover.hrsn.dev
 .autodiscover.windsurf.app
 .autodiscover.windsurf.build
 .autodiscover.panel.gg
@@ -36836,8 +36818,6 @@
 .b._dns-sd.analytics-gateway.us-east-1.amazonaws.com
 .b._dns-sd.analytics-gateway.us-east-2.amazonaws.com
 .b._dns-sd.analytics-gateway.us-west-2.amazonaws.com
-.b._dns-sd.appwrite.global
-.b._dns-sd.appwrite.run
 .b._dns-sd.amplifyapp.com
 .b._dns-sd.awsapprunner.com
 .b._dns-sd.webview-assets.aws-cloud9.af-south-1.amazonaws.com
@@ -36955,6 +36935,8 @@
 .b._dns-sd.appspacehosted.com
 .b._dns-sd.appspaceusercontent.com
 .b._dns-sd.appudo.net
+.b._dns-sd.appwrite.global
+.b._dns-sd.appwrite.run
 .b._dns-sd.on-aptible.com
 .b._dns-sd.f5.si
 .b._dns-sd.arvanedge.ir
@@ -37917,7 +37899,6 @@
 .b._dns-sd.xn--gnstigbestellen-zvb.de
 .b._dns-sd.xn--gnstigliefern-wob.de
 .b._dns-sd.xn--hkkinen-5wa.fi
-.b._dns-sd.hrsn.dev
 .b._dns-sd.hashbang.sh
 .b._dns-sd.hasura.app
 .b._dns-sd.hasura-app.io
@@ -38167,7 +38148,6 @@
 .b._dns-sd.ggff.net
 .b._dns-sd.user.localcert.dev
 .b._dns-sd.localcert.net
-.b._dns-sd.localhostcert.net
 .b._dns-sd.localtonet.com
 .b._dns-sd.localto.net
 .b._dns-sd.lodz.pl
@@ -38547,11 +38527,6 @@
 .b._dns-sd.vki.kr
 .b._dns-sd.dev.project-study.com
 .b._dns-sd.protonet.io
-.b._dns-sd.sub.psl.hrsn.dev
-.b._dns-sd.wc.psl.hrsn.dev
-.b._dns-sd.ignored.wc.psl.hrsn.dev
-.b._dns-sd.sub.wc.psl.hrsn.dev
-.b._dns-sd.ignored.sub.wc.psl.hrsn.dev
 .b._dns-sd.chirurgiens-dentistes-en-france.fr
 .b._dns-sd.byen.site
 .b._dns-sd.pubtls.org
@@ -39016,6 +38991,7 @@
 .b._dns-sd.wmcloud.org
 .b._dns-sd.wmflabs.org
 .b._dns-sd.wdh.app
+.b._dns-sd.hrsn.dev
 .b._dns-sd.windsurf.app
 .b._dns-sd.windsurf.build
 .b._dns-sd.panel.gg
@@ -46602,8 +46578,6 @@
 .db._dns-sd.analytics-gateway.us-east-1.amazonaws.com
 .db._dns-sd.analytics-gateway.us-east-2.amazonaws.com
 .db._dns-sd.analytics-gateway.us-west-2.amazonaws.com
-.db._dns-sd.appwrite.global
-.db._dns-sd.appwrite.run
 .db._dns-sd.amplifyapp.com
 .db._dns-sd.awsapprunner.com
 .db._dns-sd.webview-assets.aws-cloud9.af-south-1.amazonaws.com
@@ -46721,6 +46695,8 @@
 .db._dns-sd.appspacehosted.com
 .db._dns-sd.appspaceusercontent.com
 .db._dns-sd.appudo.net
+.db._dns-sd.appwrite.global
+.db._dns-sd.appwrite.run
 .db._dns-sd.on-aptible.com
 .db._dns-sd.f5.si
 .db._dns-sd.arvanedge.ir
@@ -47683,7 +47659,6 @@
 .db._dns-sd.xn--gnstigbestellen-zvb.de
 .db._dns-sd.xn--gnstigliefern-wob.de
 .db._dns-sd.xn--hkkinen-5wa.fi
-.db._dns-sd.hrsn.dev
 .db._dns-sd.hashbang.sh
 .db._dns-sd.hasura.app
 .db._dns-sd.hasura-app.io
@@ -47933,7 +47908,6 @@
 .db._dns-sd.ggff.net
 .db._dns-sd.user.localcert.dev
 .db._dns-sd.localcert.net
-.db._dns-sd.localhostcert.net
 .db._dns-sd.localtonet.com
 .db._dns-sd.localto.net
 .db._dns-sd.lodz.pl
@@ -48313,11 +48287,6 @@
 .db._dns-sd.vki.kr
 .db._dns-sd.dev.project-study.com
 .db._dns-sd.protonet.io
-.db._dns-sd.sub.psl.hrsn.dev
-.db._dns-sd.wc.psl.hrsn.dev
-.db._dns-sd.ignored.wc.psl.hrsn.dev
-.db._dns-sd.sub.wc.psl.hrsn.dev
-.db._dns-sd.ignored.sub.wc.psl.hrsn.dev
 .db._dns-sd.chirurgiens-dentistes-en-france.fr
 .db._dns-sd.byen.site
 .db._dns-sd.pubtls.org
@@ -48782,6 +48751,7 @@
 .db._dns-sd.wmcloud.org
 .db._dns-sd.wmflabs.org
 .db._dns-sd.wdh.app
+.db._dns-sd.hrsn.dev
 .db._dns-sd.windsurf.app
 .db._dns-sd.windsurf.build
 .db._dns-sd.panel.gg
@@ -56368,8 +56338,6 @@
 .isatap.analytics-gateway.us-east-1.amazonaws.com
 .isatap.analytics-gateway.us-east-2.amazonaws.com
 .isatap.analytics-gateway.us-west-2.amazonaws.com
-.isatap.appwrite.global
-.isatap.appwrite.run
 .isatap.amplifyapp.com
 .isatap.awsapprunner.com
 .isatap.webview-assets.aws-cloud9.af-south-1.amazonaws.com
@@ -56487,6 +56455,8 @@
 .isatap.appspacehosted.com
 .isatap.appspaceusercontent.com
 .isatap.appudo.net
+.isatap.appwrite.global
+.isatap.appwrite.run
 .isatap.on-aptible.com
 .isatap.f5.si
 .isatap.arvanedge.ir
@@ -57449,7 +57419,6 @@
 .isatap.xn--gnstigbestellen-zvb.de
 .isatap.xn--gnstigliefern-wob.de
 .isatap.xn--hkkinen-5wa.fi
-.isatap.hrsn.dev
 .isatap.hashbang.sh
 .isatap.hasura.app
 .isatap.hasura-app.io
@@ -57699,7 +57668,6 @@
 .isatap.ggff.net
 .isatap.user.localcert.dev
 .isatap.localcert.net
-.isatap.localhostcert.net
 .isatap.localtonet.com
 .isatap.localto.net
 .isatap.lodz.pl
@@ -58079,11 +58047,6 @@
 .isatap.vki.kr
 .isatap.dev.project-study.com
 .isatap.protonet.io
-.isatap.sub.psl.hrsn.dev
-.isatap.wc.psl.hrsn.dev
-.isatap.ignored.wc.psl.hrsn.dev
-.isatap.sub.wc.psl.hrsn.dev
-.isatap.ignored.sub.wc.psl.hrsn.dev
 .isatap.chirurgiens-dentistes-en-france.fr
 .isatap.byen.site
 .isatap.pubtls.org
@@ -58548,6 +58511,7 @@
 .isatap.wmcloud.org
 .isatap.wmflabs.org
 .isatap.wdh.app
+.isatap.hrsn.dev
 .isatap.windsurf.app
 .isatap.windsurf.build
 .isatap.panel.gg
@@ -66134,8 +66098,6 @@
 .lb._dns-sd.analytics-gateway.us-east-1.amazonaws.com
 .lb._dns-sd.analytics-gateway.us-east-2.amazonaws.com
 .lb._dns-sd.analytics-gateway.us-west-2.amazonaws.com
-.lb._dns-sd.appwrite.global
-.lb._dns-sd.appwrite.run
 .lb._dns-sd.amplifyapp.com
 .lb._dns-sd.awsapprunner.com
 .lb._dns-sd.webview-assets.aws-cloud9.af-south-1.amazonaws.com
@@ -66253,6 +66215,8 @@
 .lb._dns-sd.appspacehosted.com
 .lb._dns-sd.appspaceusercontent.com
 .lb._dns-sd.appudo.net
+.lb._dns-sd.appwrite.global
+.lb._dns-sd.appwrite.run
 .lb._dns-sd.on-aptible.com
 .lb._dns-sd.f5.si
 .lb._dns-sd.arvanedge.ir
@@ -67215,7 +67179,6 @@
 .lb._dns-sd.xn--gnstigbestellen-zvb.de
 .lb._dns-sd.xn--gnstigliefern-wob.de
 .lb._dns-sd.xn--hkkinen-5wa.fi
-.lb._dns-sd.hrsn.dev
 .lb._dns-sd.hashbang.sh
 .lb._dns-sd.hasura.app
 .lb._dns-sd.hasura-app.io
@@ -67465,7 +67428,6 @@
 .lb._dns-sd.ggff.net
 .lb._dns-sd.user.localcert.dev
 .lb._dns-sd.localcert.net
-.lb._dns-sd.localhostcert.net
 .lb._dns-sd.localtonet.com
 .lb._dns-sd.localto.net
 .lb._dns-sd.lodz.pl
@@ -67845,11 +67807,6 @@
 .lb._dns-sd.vki.kr
 .lb._dns-sd.dev.project-study.com
 .lb._dns-sd.protonet.io
-.lb._dns-sd.sub.psl.hrsn.dev
-.lb._dns-sd.wc.psl.hrsn.dev
-.lb._dns-sd.ignored.wc.psl.hrsn.dev
-.lb._dns-sd.sub.wc.psl.hrsn.dev
-.lb._dns-sd.ignored.sub.wc.psl.hrsn.dev
 .lb._dns-sd.chirurgiens-dentistes-en-france.fr
 .lb._dns-sd.byen.site
 .lb._dns-sd.pubtls.org
@@ -68314,6 +68271,7 @@
 .lb._dns-sd.wmcloud.org
 .lb._dns-sd.wmflabs.org
 .lb._dns-sd.wdh.app
+.lb._dns-sd.hrsn.dev
 .lb._dns-sd.windsurf.app
 .lb._dns-sd.windsurf.build
 .lb._dns-sd.panel.gg
@@ -75900,8 +75858,6 @@
 .wpad.analytics-gateway.us-east-1.amazonaws.com
 .wpad.analytics-gateway.us-east-2.amazonaws.com
 .wpad.analytics-gateway.us-west-2.amazonaws.com
-.wpad.appwrite.global
-.wpad.appwrite.run
 .wpad.amplifyapp.com
 .wpad.awsapprunner.com
 .wpad.webview-assets.aws-cloud9.af-south-1.amazonaws.com
@@ -76019,6 +75975,8 @@
 .wpad.appspacehosted.com
 .wpad.appspaceusercontent.com
 .wpad.appudo.net
+.wpad.appwrite.global
+.wpad.appwrite.run
 .wpad.on-aptible.com
 .wpad.f5.si
 .wpad.arvanedge.ir
@@ -76981,7 +76939,6 @@
 .wpad.xn--gnstigbestellen-zvb.de
 .wpad.xn--gnstigliefern-wob.de
 .wpad.xn--hkkinen-5wa.fi
-.wpad.hrsn.dev
 .wpad.hashbang.sh
 .wpad.hasura.app
 .wpad.hasura-app.io
@@ -77231,7 +77188,6 @@
 .wpad.ggff.net
 .wpad.user.localcert.dev
 .wpad.localcert.net
-.wpad.localhostcert.net
 .wpad.localtonet.com
 .wpad.localto.net
 .wpad.lodz.pl
@@ -77611,11 +77567,6 @@
 .wpad.vki.kr
 .wpad.dev.project-study.com
 .wpad.protonet.io
-.wpad.sub.psl.hrsn.dev
-.wpad.wc.psl.hrsn.dev
-.wpad.ignored.wc.psl.hrsn.dev
-.wpad.sub.wc.psl.hrsn.dev
-.wpad.ignored.sub.wc.psl.hrsn.dev
 .wpad.chirurgiens-dentistes-en-france.fr
 .wpad.byen.site
 .wpad.pubtls.org
@@ -78080,6 +78031,7 @@
 .wpad.wmcloud.org
 .wpad.wmflabs.org
 .wpad.wdh.app
+.wpad.hrsn.dev
 .wpad.windsurf.app
 .wpad.windsurf.build
 .wpad.panel.gg
@@ -85666,8 +85618,6 @@
 .wpad.tcp.analytics-gateway.us-east-1.amazonaws.com
 .wpad.tcp.analytics-gateway.us-east-2.amazonaws.com
 .wpad.tcp.analytics-gateway.us-west-2.amazonaws.com
-.wpad.tcp.appwrite.global
-.wpad.tcp.appwrite.run
 .wpad.tcp.amplifyapp.com
 .wpad.tcp.awsapprunner.com
 .wpad.tcp.webview-assets.aws-cloud9.af-south-1.amazonaws.com
@@ -85785,6 +85735,8 @@
 .wpad.tcp.appspacehosted.com
 .wpad.tcp.appspaceusercontent.com
 .wpad.tcp.appudo.net
+.wpad.tcp.appwrite.global
+.wpad.tcp.appwrite.run
 .wpad.tcp.on-aptible.com
 .wpad.tcp.f5.si
 .wpad.tcp.arvanedge.ir
@@ -86747,7 +86699,6 @@
 .wpad.tcp.xn--gnstigbestellen-zvb.de
 .wpad.tcp.xn--gnstigliefern-wob.de
 .wpad.tcp.xn--hkkinen-5wa.fi
-.wpad.tcp.hrsn.dev
 .wpad.tcp.hashbang.sh
 .wpad.tcp.hasura.app
 .wpad.tcp.hasura-app.io
@@ -86997,7 +86948,6 @@
 .wpad.tcp.ggff.net
 .wpad.tcp.user.localcert.dev
 .wpad.tcp.localcert.net
-.wpad.tcp.localhostcert.net
 .wpad.tcp.localtonet.com
 .wpad.tcp.localto.net
 .wpad.tcp.lodz.pl
@@ -87377,11 +87327,6 @@
 .wpad.tcp.vki.kr
 .wpad.tcp.dev.project-study.com
 .wpad.tcp.protonet.io
-.wpad.tcp.sub.psl.hrsn.dev
-.wpad.tcp.wc.psl.hrsn.dev
-.wpad.tcp.ignored.wc.psl.hrsn.dev
-.wpad.tcp.sub.wc.psl.hrsn.dev
-.wpad.tcp.ignored.sub.wc.psl.hrsn.dev
 .wpad.tcp.chirurgiens-dentistes-en-france.fr
 .wpad.tcp.byen.site
 .wpad.tcp.pubtls.org
@@ -87846,6 +87791,7 @@
 .wpad.tcp.wmcloud.org
 .wpad.tcp.wmflabs.org
 .wpad.tcp.wdh.app
+.wpad.tcp.hrsn.dev
 .wpad.tcp.windsurf.app
 .wpad.tcp.windsurf.build
 .wpad.tcp.panel.gg
