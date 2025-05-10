@@ -92,6 +92,7 @@
 .dns.controld.com
 .freedns.controld.com
 .dns.decloudus.com
+.dns.dns-over-https.com
 .ns1.recursive.dnsbycomodo.com
 .ns2.recursive.dnsbycomodo.com
 .dnscrypt-cert.shield-2.dnsbycomodo.com
@@ -315,7 +316,6 @@
 .ines.zfn.uni-bremen.de
 .abel.waringer-atg.de
 .0ms.dev
-.pihole.aws.ketan.dev
 .argon.molinero.dev
 .dns.molinero.dev
 .dns.mrkaran.dev
@@ -523,7 +523,6 @@
 .us-saj-w-p-1.nashkan.net
 .kiri.nonexiste.net
 .dns.novg.net
-.dns.ofdoom.net
 .doh.onedns.net
 .doh-pure.onedns.net
 .ada.openbld.net
