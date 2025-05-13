@@ -1,6 +1,6 @@
 [Adblock Plus 1.1]
 ! Title: Accomplist "Doh" AdBlock List (Top-N Version)
-! Version: 1747030851
+! Version: 1747118031
 ! Homepage: https://github.com/cbuijs/accomplist/tree/master/doh
 !
 ! WhiteList Domains:
@@ -183,6 +183,7 @@
 ||antivirus.bebasid.com^
 ||dns.bebasid.com^
 ||internetsehat.bebasid.com^
+||secondary-backup.bebasid.com^
 ||bestwon203.com^
 ||dnscrypt-cert.blahdns.com^
 ||doh.blahdns.com^
@@ -260,7 +261,6 @@
 ||dns.edgeburnmedia.com^
 ||edgy-dns.com^
 ||dns.editechstudio.com^
-||dns.efficientdocuments.com^
 ||dns.enzonix.com^
 ||dns.flwagners.com^
 ||biying.flymlc.com^
@@ -329,6 +329,7 @@
 ||msr177.com^
 ||ns.mtsoln.com^
 ||dpeddi.myddns.com^
+||dns.mzjtechnology.com^
 ||dns.nguyendn.com^
 ||dns.nhtsky.com^
 ||d.niaox.com^
@@ -812,6 +813,7 @@
 ||agh.workfordemo.co.in^
 ||dns.d365.in^
 ||dns.gutwe.in^
+||dns.iamanuragh.in^
 ||dns.kapite.in^
 ||yy.hk1.vps.letit.in^
 ||doh.micronets.in^
@@ -1053,7 +1055,6 @@
 ||al223-a73e-bj-v0.0.dxng.net^
 ||cn1.dxng.net^
 ||cn1-v0.dxng.net^
-||gustamadh.dynv6.net^
 ||dnscache.e-utp.net^
 ||adguard.easez.net^
 ||dns.eddi.net^
@@ -1524,6 +1525,7 @@
 ||adguard.neon0404.space^
 ||dns.sy.st^
 ||home-server.store^
+||dns.fizz.studio^
 ||dns.xuming.studio^
 ||crypto.sx^
 ||3jjxxl.tech^
