@@ -8215,15 +8215,6 @@ db._dns-sd.pr
 lb._dns-sd.pr
 wpad.pr
 wpad.tcp.pr
-autoconfig.pramerica
-autodiscover.pramerica
-_autodiscover._tcp.pramerica
-isatap.pramerica
-b._dns-sd.pramerica
-db._dns-sd.pramerica
-lb._dns-sd.pramerica
-wpad.pramerica
-wpad.tcp.pramerica
 autoconfig.praxi
 autodiscover.praxi
 _autodiscover._tcp.praxi
