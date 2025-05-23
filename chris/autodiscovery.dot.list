@@ -7839,7 +7839,6 @@
 .autoconfig.cloudns.us
 .autoconfig.c66.me
 .autoconfig.cloud66.ws
-.autoconfig.cloud66.zone
 .autoconfig.jdevcloud.com
 .autoconfig.wpdevcloud.com
 .autoconfig.cloudaccess.host
@@ -8272,8 +8271,11 @@
 .autoconfig.mytuleap.com
 .autoconfig.tuleap-partners.com
 .autoconfig.encr.app
+.autoconfig.frontend.encr.app
 .autoconfig.encoreapi.com
 .autoconfig.lp.dev
+.autoconfig.api.lp.dev
+.autoconfig.objects.lp.dev
 .autoconfig.eu.encoway.cloud
 .autoconfig.eu.org
 .autoconfig.al.eu.org
@@ -8514,6 +8516,7 @@
 .autoconfig.gentlentapis.com
 .autoconfig.cdn-edges.net
 .autoconfig.gsj.bz
+.autoconfig.github.app
 .autoconfig.githubusercontent.com
 .autoconfig.githubpreview.dev
 .autoconfig.github.io
@@ -9284,6 +9287,7 @@
 .autoconfig.xen.prgmr.com
 .autoconfig.priv.at
 .autoconfig.c01.kr
+.autoconfig.eliv-cdn.kr
 .autoconfig.eliv-dns.kr
 .autoconfig.mmv.kr
 .autoconfig.vki.kr
@@ -17641,7 +17645,6 @@
 ._autodiscover.cloudns.us
 ._autodiscover.c66.me
 ._autodiscover.cloud66.ws
-._autodiscover.cloud66.zone
 ._autodiscover.jdevcloud.com
 ._autodiscover.wpdevcloud.com
 ._autodiscover.cloudaccess.host
@@ -18074,8 +18077,11 @@
 ._autodiscover.mytuleap.com
 ._autodiscover.tuleap-partners.com
 ._autodiscover.encr.app
+._autodiscover.frontend.encr.app
 ._autodiscover.encoreapi.com
 ._autodiscover.lp.dev
+._autodiscover.api.lp.dev
+._autodiscover.objects.lp.dev
 ._autodiscover.eu.encoway.cloud
 ._autodiscover.eu.org
 ._autodiscover.al.eu.org
@@ -18316,6 +18322,7 @@
 ._autodiscover.gentlentapis.com
 ._autodiscover.cdn-edges.net
 ._autodiscover.gsj.bz
+._autodiscover.github.app
 ._autodiscover.githubusercontent.com
 ._autodiscover.githubpreview.dev
 ._autodiscover.github.io
@@ -19086,6 +19093,7 @@
 ._autodiscover.xen.prgmr.com
 ._autodiscover.priv.at
 ._autodiscover.c01.kr
+._autodiscover.eliv-cdn.kr
 ._autodiscover.eliv-dns.kr
 ._autodiscover.mmv.kr
 ._autodiscover.vki.kr
@@ -27443,7 +27451,6 @@
 .autodiscover.cloudns.us
 .autodiscover.c66.me
 .autodiscover.cloud66.ws
-.autodiscover.cloud66.zone
 .autodiscover.jdevcloud.com
 .autodiscover.wpdevcloud.com
 .autodiscover.cloudaccess.host
@@ -27876,8 +27883,11 @@
 .autodiscover.mytuleap.com
 .autodiscover.tuleap-partners.com
 .autodiscover.encr.app
+.autodiscover.frontend.encr.app
 .autodiscover.encoreapi.com
 .autodiscover.lp.dev
+.autodiscover.api.lp.dev
+.autodiscover.objects.lp.dev
 .autodiscover.eu.encoway.cloud
 .autodiscover.eu.org
 .autodiscover.al.eu.org
@@ -28118,6 +28128,7 @@
 .autodiscover.gentlentapis.com
 .autodiscover.cdn-edges.net
 .autodiscover.gsj.bz
+.autodiscover.github.app
 .autodiscover.githubusercontent.com
 .autodiscover.githubpreview.dev
 .autodiscover.github.io
@@ -28888,6 +28899,7 @@
 .autodiscover.xen.prgmr.com
 .autodiscover.priv.at
 .autodiscover.c01.kr
+.autodiscover.eliv-cdn.kr
 .autodiscover.eliv-dns.kr
 .autodiscover.mmv.kr
 .autodiscover.vki.kr
@@ -37245,7 +37257,6 @@
 .b._dns-sd.cloudns.us
 .b._dns-sd.c66.me
 .b._dns-sd.cloud66.ws
-.b._dns-sd.cloud66.zone
 .b._dns-sd.jdevcloud.com
 .b._dns-sd.wpdevcloud.com
 .b._dns-sd.cloudaccess.host
@@ -37678,8 +37689,11 @@
 .b._dns-sd.mytuleap.com
 .b._dns-sd.tuleap-partners.com
 .b._dns-sd.encr.app
+.b._dns-sd.frontend.encr.app
 .b._dns-sd.encoreapi.com
 .b._dns-sd.lp.dev
+.b._dns-sd.api.lp.dev
+.b._dns-sd.objects.lp.dev
 .b._dns-sd.eu.encoway.cloud
 .b._dns-sd.eu.org
 .b._dns-sd.al.eu.org
@@ -37920,6 +37934,7 @@
 .b._dns-sd.gentlentapis.com
 .b._dns-sd.cdn-edges.net
 .b._dns-sd.gsj.bz
+.b._dns-sd.github.app
 .b._dns-sd.githubusercontent.com
 .b._dns-sd.githubpreview.dev
 .b._dns-sd.github.io
@@ -38690,6 +38705,7 @@
 .b._dns-sd.xen.prgmr.com
 .b._dns-sd.priv.at
 .b._dns-sd.c01.kr
+.b._dns-sd.eliv-cdn.kr
 .b._dns-sd.eliv-dns.kr
 .b._dns-sd.mmv.kr
 .b._dns-sd.vki.kr
@@ -47047,7 +47063,6 @@
 .db._dns-sd.cloudns.us
 .db._dns-sd.c66.me
 .db._dns-sd.cloud66.ws
-.db._dns-sd.cloud66.zone
 .db._dns-sd.jdevcloud.com
 .db._dns-sd.wpdevcloud.com
 .db._dns-sd.cloudaccess.host
@@ -47480,8 +47495,11 @@
 .db._dns-sd.mytuleap.com
 .db._dns-sd.tuleap-partners.com
 .db._dns-sd.encr.app
+.db._dns-sd.frontend.encr.app
 .db._dns-sd.encoreapi.com
 .db._dns-sd.lp.dev
+.db._dns-sd.api.lp.dev
+.db._dns-sd.objects.lp.dev
 .db._dns-sd.eu.encoway.cloud
 .db._dns-sd.eu.org
 .db._dns-sd.al.eu.org
@@ -47722,6 +47740,7 @@
 .db._dns-sd.gentlentapis.com
 .db._dns-sd.cdn-edges.net
 .db._dns-sd.gsj.bz
+.db._dns-sd.github.app
 .db._dns-sd.githubusercontent.com
 .db._dns-sd.githubpreview.dev
 .db._dns-sd.github.io
@@ -48492,6 +48511,7 @@
 .db._dns-sd.xen.prgmr.com
 .db._dns-sd.priv.at
 .db._dns-sd.c01.kr
+.db._dns-sd.eliv-cdn.kr
 .db._dns-sd.eliv-dns.kr
 .db._dns-sd.mmv.kr
 .db._dns-sd.vki.kr
@@ -56849,7 +56869,6 @@
 .isatap.cloudns.us
 .isatap.c66.me
 .isatap.cloud66.ws
-.isatap.cloud66.zone
 .isatap.jdevcloud.com
 .isatap.wpdevcloud.com
 .isatap.cloudaccess.host
@@ -57282,8 +57301,11 @@
 .isatap.mytuleap.com
 .isatap.tuleap-partners.com
 .isatap.encr.app
+.isatap.frontend.encr.app
 .isatap.encoreapi.com
 .isatap.lp.dev
+.isatap.api.lp.dev
+.isatap.objects.lp.dev
 .isatap.eu.encoway.cloud
 .isatap.eu.org
 .isatap.al.eu.org
@@ -57524,6 +57546,7 @@
 .isatap.gentlentapis.com
 .isatap.cdn-edges.net
 .isatap.gsj.bz
+.isatap.github.app
 .isatap.githubusercontent.com
 .isatap.githubpreview.dev
 .isatap.github.io
@@ -58294,6 +58317,7 @@
 .isatap.xen.prgmr.com
 .isatap.priv.at
 .isatap.c01.kr
+.isatap.eliv-cdn.kr
 .isatap.eliv-dns.kr
 .isatap.mmv.kr
 .isatap.vki.kr
@@ -66651,7 +66675,6 @@
 .lb._dns-sd.cloudns.us
 .lb._dns-sd.c66.me
 .lb._dns-sd.cloud66.ws
-.lb._dns-sd.cloud66.zone
 .lb._dns-sd.jdevcloud.com
 .lb._dns-sd.wpdevcloud.com
 .lb._dns-sd.cloudaccess.host
@@ -67084,8 +67107,11 @@
 .lb._dns-sd.mytuleap.com
 .lb._dns-sd.tuleap-partners.com
 .lb._dns-sd.encr.app
+.lb._dns-sd.frontend.encr.app
 .lb._dns-sd.encoreapi.com
 .lb._dns-sd.lp.dev
+.lb._dns-sd.api.lp.dev
+.lb._dns-sd.objects.lp.dev
 .lb._dns-sd.eu.encoway.cloud
 .lb._dns-sd.eu.org
 .lb._dns-sd.al.eu.org
@@ -67326,6 +67352,7 @@
 .lb._dns-sd.gentlentapis.com
 .lb._dns-sd.cdn-edges.net
 .lb._dns-sd.gsj.bz
+.lb._dns-sd.github.app
 .lb._dns-sd.githubusercontent.com
 .lb._dns-sd.githubpreview.dev
 .lb._dns-sd.github.io
@@ -68096,6 +68123,7 @@
 .lb._dns-sd.xen.prgmr.com
 .lb._dns-sd.priv.at
 .lb._dns-sd.c01.kr
+.lb._dns-sd.eliv-cdn.kr
 .lb._dns-sd.eliv-dns.kr
 .lb._dns-sd.mmv.kr
 .lb._dns-sd.vki.kr
@@ -76453,7 +76481,6 @@
 .wpad.cloudns.us
 .wpad.c66.me
 .wpad.cloud66.ws
-.wpad.cloud66.zone
 .wpad.jdevcloud.com
 .wpad.wpdevcloud.com
 .wpad.cloudaccess.host
@@ -76886,8 +76913,11 @@
 .wpad.mytuleap.com
 .wpad.tuleap-partners.com
 .wpad.encr.app
+.wpad.frontend.encr.app
 .wpad.encoreapi.com
 .wpad.lp.dev
+.wpad.api.lp.dev
+.wpad.objects.lp.dev
 .wpad.eu.encoway.cloud
 .wpad.eu.org
 .wpad.al.eu.org
@@ -77128,6 +77158,7 @@
 .wpad.gentlentapis.com
 .wpad.cdn-edges.net
 .wpad.gsj.bz
+.wpad.github.app
 .wpad.githubusercontent.com
 .wpad.githubpreview.dev
 .wpad.github.io
@@ -77898,6 +77929,7 @@
 .wpad.xen.prgmr.com
 .wpad.priv.at
 .wpad.c01.kr
+.wpad.eliv-cdn.kr
 .wpad.eliv-dns.kr
 .wpad.mmv.kr
 .wpad.vki.kr
@@ -86255,7 +86287,6 @@
 .wpad.tcp.cloudns.us
 .wpad.tcp.c66.me
 .wpad.tcp.cloud66.ws
-.wpad.tcp.cloud66.zone
 .wpad.tcp.jdevcloud.com
 .wpad.tcp.wpdevcloud.com
 .wpad.tcp.cloudaccess.host
@@ -86688,8 +86719,11 @@
 .wpad.tcp.mytuleap.com
 .wpad.tcp.tuleap-partners.com
 .wpad.tcp.encr.app
+.wpad.tcp.frontend.encr.app
 .wpad.tcp.encoreapi.com
 .wpad.tcp.lp.dev
+.wpad.tcp.api.lp.dev
+.wpad.tcp.objects.lp.dev
 .wpad.tcp.eu.encoway.cloud
 .wpad.tcp.eu.org
 .wpad.tcp.al.eu.org
@@ -86930,6 +86964,7 @@
 .wpad.tcp.gentlentapis.com
 .wpad.tcp.cdn-edges.net
 .wpad.tcp.gsj.bz
+.wpad.tcp.github.app
 .wpad.tcp.githubusercontent.com
 .wpad.tcp.githubpreview.dev
 .wpad.tcp.github.io
@@ -87700,6 +87735,7 @@
 .wpad.tcp.xen.prgmr.com
 .wpad.tcp.priv.at
 .wpad.tcp.c01.kr
+.wpad.tcp.eliv-cdn.kr
 .wpad.tcp.eliv-dns.kr
 .wpad.tcp.mmv.kr
 .wpad.tcp.vki.kr
