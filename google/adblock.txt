@@ -1,6 +1,6 @@
 [Adblock Plus 1.1]
 ! Title: Accomplist "Googles" AdBlock List (Top-N Version)
-! Version: 1747997376
+! Version: 1748083952
 ! Homepage: https://github.com/cbuijs/accomplist/tree/master/googles
 !
 ! WhiteList Domains:
@@ -66,7 +66,7 @@
 @@||froogle.com^
 @@||ggpht.com^
 @@||gmail.com^
-@@||google.com^$denyallow=ads.google.com|adservice.google.com|adservices.google.com|adwords.google.com|analytics.google.com|fundingchoicesmessages.google.com|admanager.l.google.com|google-analytics.l.google.com|googleadapis.l.google.com|gstaticadssl.l.google.com|pagead.l.google.com|pagead-googlehosted.l.google.com|partnerad.l.google.com|plus.l.google.com|s0-2mdn-net.l.google.com|static-doubleclick-net.l.google.com|video-stats.l.google.com|www-google-analytics.l.google.com|www-googletagmanager.l.google.com|mail-ads.google.com|marketingplatform.google.com|plus.google.com|tagmanager.google.com|toolbar.google.com|video-stats.video.google.com
+@@||google.com^$denyallow=ads.google.com|adservice.google.com|adservices.google.com|adwords.google.com|analytics.google.com|ogads-pa.clients.google.com|ogads-pa.clients1.google.com|ogads-pa.clients2.google.com|ogads-pa.clients3.google.com|ogads-pa.clients4.google.com|ogads-pa.clients5.google.com|ogads-pa.clients6.google.com|ogads-pa.clients7.google.com|ogads-pa.clients8.google.com|ogads-pa.clients9.google.com|fundingchoicesmessages.google.com|admanager.l.google.com|google-analytics.l.google.com|googleadapis.l.google.com|gstaticadssl.l.google.com|pagead.l.google.com|pagead-googlehosted.l.google.com|partnerad.l.google.com|plus.l.google.com|s0-2mdn-net.l.google.com|static-doubleclick-net.l.google.com|video-stats.l.google.com|www-google-analytics.l.google.com|www-googletagmanager.l.google.com|mail-ads.google.com|marketingplatform.google.com|plus.google.com|tagmanager.google.com|toolbar.google.com|video-stats.video.google.com
 @@||googleapis.com^$denyallow=clientmetrics-pa.googleapis.com|crashlyticsreports-pa.googleapis.com|firebaseinstallations.googleapis.com|firebaselogging.googleapis.com|firebaselogging-pa.googleapis.com|firebaseperusertopics-pa.googleapis.com|firebaseremoteconfig.googleapis.com|firebaseremoteconfigrealtime.googleapis.com|imasdk.googleapis.com
 @@||googleapps.com^
 @@||googlearth.com^
@@ -89,6 +89,7 @@
 @@||listentoyoutube.com^
 @@||nest.com^
 @@||panoramio.com^
+@@||wallet.com^
 @@||waze.com^
 ! Sub-domain "csp.withgoogle.com" unblacklisted from domain "withgoogle.com"
 @@||csp.withgoogle.com^
@@ -369,6 +370,9 @@
 ||adwhirl.com^
 ||adwords-community.com^
 ||adwordsexpress.com^
+||app-ads-services.com^
+||app-analytics-services.com^
+||app-analytics-services-att.com^
 ||app-measurement.com^
 ||appspot.com^
 ||apture.com^
@@ -388,6 +392,16 @@
 ||adservices.google.com^
 ||adwords.google.com^
 ||analytics.google.com^
+||ogads-pa.clients.google.com^
+||ogads-pa.clients1.google.com^
+||ogads-pa.clients2.google.com^
+||ogads-pa.clients3.google.com^
+||ogads-pa.clients4.google.com^
+||ogads-pa.clients5.google.com^
+||ogads-pa.clients6.google.com^
+||ogads-pa.clients7.google.com^
+||ogads-pa.clients8.google.com^
+||ogads-pa.clients9.google.com^
 ||fundingchoicesmessages.google.com^
 ||admanager.l.google.com^
 ||google-analytics.l.google.com^
@@ -453,6 +467,7 @@
 ||adservice.google.com.cy^
 ||adservice.google.cz^
 ||adservice.google.de^
+||dartpad.dev^
 ||adservice.google.dj^
 ||adservice.google.dk^
 ||adservice.google.dm^
@@ -478,6 +493,7 @@
 ||adservice.google.com.gi^
 ||adservice.google.gl^
 ||adservice.google.gm^
+||adtrafficquality.google^
 ||elections.google^
 ||adservice.google.gp^
 ||adservice.google.com.gr^
