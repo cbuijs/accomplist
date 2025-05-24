@@ -8790,6 +8790,7 @@ autoconfig.schulplattform.de
 autoconfig.schulserver.de
 autoconfig.test-iserv.de
 autoconfig.iserv.dev
+autoconfig.iserv.host
 autoconfig.mel.cloudlets.com.au
 autoconfig.cloud.interhostsolutions.be
 autoconfig.alp1.ae.flow.ch
@@ -18596,6 +18597,7 @@ _autodiscover.schulplattform.de
 _autodiscover.schulserver.de
 _autodiscover.test-iserv.de
 _autodiscover.iserv.dev
+_autodiscover.iserv.host
 _autodiscover.mel.cloudlets.com.au
 _autodiscover.cloud.interhostsolutions.be
 _autodiscover.alp1.ae.flow.ch
@@ -28402,6 +28404,7 @@ autodiscover.schulplattform.de
 autodiscover.schulserver.de
 autodiscover.test-iserv.de
 autodiscover.iserv.dev
+autodiscover.iserv.host
 autodiscover.mel.cloudlets.com.au
 autodiscover.cloud.interhostsolutions.be
 autodiscover.alp1.ae.flow.ch
@@ -38208,6 +38211,7 @@ b._dns-sd.schulplattform.de
 b._dns-sd.schulserver.de
 b._dns-sd.test-iserv.de
 b._dns-sd.iserv.dev
+b._dns-sd.iserv.host
 b._dns-sd.mel.cloudlets.com.au
 b._dns-sd.cloud.interhostsolutions.be
 b._dns-sd.alp1.ae.flow.ch
@@ -48014,6 +48018,7 @@ db._dns-sd.schulplattform.de
 db._dns-sd.schulserver.de
 db._dns-sd.test-iserv.de
 db._dns-sd.iserv.dev
+db._dns-sd.iserv.host
 db._dns-sd.mel.cloudlets.com.au
 db._dns-sd.cloud.interhostsolutions.be
 db._dns-sd.alp1.ae.flow.ch
@@ -57820,6 +57825,7 @@ isatap.schulplattform.de
 isatap.schulserver.de
 isatap.test-iserv.de
 isatap.iserv.dev
+isatap.iserv.host
 isatap.mel.cloudlets.com.au
 isatap.cloud.interhostsolutions.be
 isatap.alp1.ae.flow.ch
@@ -67626,6 +67632,7 @@ lb._dns-sd.schulplattform.de
 lb._dns-sd.schulserver.de
 lb._dns-sd.test-iserv.de
 lb._dns-sd.iserv.dev
+lb._dns-sd.iserv.host
 lb._dns-sd.mel.cloudlets.com.au
 lb._dns-sd.cloud.interhostsolutions.be
 lb._dns-sd.alp1.ae.flow.ch
@@ -77432,6 +77439,7 @@ wpad.schulplattform.de
 wpad.schulserver.de
 wpad.test-iserv.de
 wpad.iserv.dev
+wpad.iserv.host
 wpad.mel.cloudlets.com.au
 wpad.cloud.interhostsolutions.be
 wpad.alp1.ae.flow.ch
@@ -87238,6 +87246,7 @@ wpad.tcp.schulplattform.de
 wpad.tcp.schulserver.de
 wpad.tcp.test-iserv.de
 wpad.tcp.iserv.dev
+wpad.tcp.iserv.host
 wpad.tcp.mel.cloudlets.com.au
 wpad.tcp.cloud.interhostsolutions.be
 wpad.tcp.alp1.ae.flow.ch
