@@ -1,5 +1,6 @@
 doh.disconnect.app
 tiar.app
+h4g3z1-doh.web.app
 dns.kescher.at
 kudns.kescher.at
 dns.belnet.be
@@ -335,9 +336,6 @@ dns.aquilenet.fr
 ns0.fdn.fr
 ns1.fdn.fr
 qlf-doh.inria.fr
-dns.sellan.fr
-lab.sellan.fr
-lab-1.sellan.fr
 pates.services.sfr.fr.casepp.sfr.fr
 8888.google
 dns.google
@@ -367,14 +365,6 @@ doh.angry.im
 dnscrypt-cert.captnemo.in
 doh.captnemo.in
 static.captnemo.in
-integration.dnsteam.globuscs.info
-preview.dnsteam.globuscs.info
-staging.dnsteam.globuscs.info
-test.dnsteam.globuscs.info
-dns.api.integration.globuscs.info
-dns.api.sandbox.globuscs.info
-dns.api.staging.globuscs.info
-dns.api.test.globuscs.info
 dns.tracker.ink
 fly.io
 dns.guard.io
