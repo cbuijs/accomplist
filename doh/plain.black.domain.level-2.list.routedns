@@ -123,7 +123,6 @@
 .dns.ares-taiwan.com
 .dns.arkbotech.com
 .dns.asterimoon.com
-.dandelionsprout.asuscomm.com
 .dns.asysec.com
 .adguardhome.atakorah.com
 .secure.avastdns.com
@@ -199,6 +198,7 @@
 .dns.edgeburnmedia.com
 .edgy-dns.com
 .dns.editechstudio.com
+.dns.efficientdocuments.com
 .dns.enzonix.com
 .dns.flwagners.com
 .biying.flymlc.com
@@ -737,6 +737,8 @@
 .dns.ashleyjackson.net
 .dohtrial.att.net
 .dns.azsopro.net
+.doh1.b-cdn.net
+.doh2.b-cdn.net
 .dns.bitdefender.net
 .fra-dns.bitdefender.net
 .iow-dns.bitdefender.net
@@ -917,7 +919,6 @@
 .adguard.wirimij.nl
 .dns.anon.no
 .comss.one
-.hkname.freecdn.one
 .dns.hakim.one
 .dns.karl.one
 .dns.milkpie.one
