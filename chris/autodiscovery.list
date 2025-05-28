@@ -1065,6 +1065,7 @@ autoconfig.biz.id
 autoconfig.co.id
 autoconfig.desa.id
 autoconfig.go.id
+autoconfig.kop.id
 autoconfig.mil.id
 autoconfig.my.id
 autoconfig.net.id
@@ -10880,6 +10881,7 @@ _autodiscover.biz.id
 _autodiscover.co.id
 _autodiscover.desa.id
 _autodiscover.go.id
+_autodiscover.kop.id
 _autodiscover.mil.id
 _autodiscover.my.id
 _autodiscover.net.id
@@ -20695,6 +20697,7 @@ autodiscover.biz.id
 autodiscover.co.id
 autodiscover.desa.id
 autodiscover.go.id
+autodiscover.kop.id
 autodiscover.mil.id
 autodiscover.my.id
 autodiscover.net.id
@@ -30510,6 +30513,7 @@ b._dns-sd.biz.id
 b._dns-sd.co.id
 b._dns-sd.desa.id
 b._dns-sd.go.id
+b._dns-sd.kop.id
 b._dns-sd.mil.id
 b._dns-sd.my.id
 b._dns-sd.net.id
@@ -40325,6 +40329,7 @@ db._dns-sd.biz.id
 db._dns-sd.co.id
 db._dns-sd.desa.id
 db._dns-sd.go.id
+db._dns-sd.kop.id
 db._dns-sd.mil.id
 db._dns-sd.my.id
 db._dns-sd.net.id
@@ -50140,6 +50145,7 @@ isatap.biz.id
 isatap.co.id
 isatap.desa.id
 isatap.go.id
+isatap.kop.id
 isatap.mil.id
 isatap.my.id
 isatap.net.id
@@ -59955,6 +59961,7 @@ lb._dns-sd.biz.id
 lb._dns-sd.co.id
 lb._dns-sd.desa.id
 lb._dns-sd.go.id
+lb._dns-sd.kop.id
 lb._dns-sd.mil.id
 lb._dns-sd.my.id
 lb._dns-sd.net.id
@@ -69770,6 +69777,7 @@ wpad.biz.id
 wpad.co.id
 wpad.desa.id
 wpad.go.id
+wpad.kop.id
 wpad.mil.id
 wpad.my.id
 wpad.net.id
@@ -79585,6 +79593,7 @@ wpad.tcp.biz.id
 wpad.tcp.co.id
 wpad.tcp.desa.id
 wpad.tcp.go.id
+wpad.tcp.kop.id
 wpad.tcp.mil.id
 wpad.tcp.my.id
 wpad.tcp.net.id
