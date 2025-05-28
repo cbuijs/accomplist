@@ -87,7 +87,6 @@ mask-api.icloud.com
 mask-h2.icloud.com
 dns.islandnet.com
 opencdn.jomodns.com
-dns.kamilszczepanski.com
 iterator.lazada.com
 httpdns.meituan.com
 inf-wan.vip.meituan.com
@@ -225,7 +224,6 @@ doh.cox.net
 dot.cox.net
 jit.ddns.net
 tls-dns-u.odvr.dns-oarc.net
-doh.ersei.net
 pdns.faelix.net
 rdns.faelix.net
 anycast.ffmuc.net
@@ -233,6 +231,7 @@ dnscrypt-cert.ffmuc.net
 doh.ffmuc.net
 dot.ffmuc.net
 dns.beta.gandi.net
+getdnsapi.net
 ordns.he.net
 dns.hinet.net
 pihole1.hoerli.net
@@ -319,7 +318,6 @@ fi.doh.dns.snopyta.org
 fi.dot.dns.snopyta.org
 doh.tiarap.org
 jp.tiarap.org
-dns.pub
 doh.pub
 dot.pub
 comss.ru
