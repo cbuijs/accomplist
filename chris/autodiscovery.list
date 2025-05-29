@@ -8795,6 +8795,7 @@ autoconfig.is-a-good.dev
 autoconfig.is-a.dev
 autoconfig.iservschule.de
 autoconfig.mein-iserv.de
+autoconfig.schuldock.de
 autoconfig.schulplattform.de
 autoconfig.schulserver.de
 autoconfig.test-iserv.de
@@ -18611,6 +18612,7 @@ _autodiscover.is-a-good.dev
 _autodiscover.is-a.dev
 _autodiscover.iservschule.de
 _autodiscover.mein-iserv.de
+_autodiscover.schuldock.de
 _autodiscover.schulplattform.de
 _autodiscover.schulserver.de
 _autodiscover.test-iserv.de
@@ -28427,6 +28429,7 @@ autodiscover.is-a-good.dev
 autodiscover.is-a.dev
 autodiscover.iservschule.de
 autodiscover.mein-iserv.de
+autodiscover.schuldock.de
 autodiscover.schulplattform.de
 autodiscover.schulserver.de
 autodiscover.test-iserv.de
@@ -38243,6 +38246,7 @@ b._dns-sd.is-a-good.dev
 b._dns-sd.is-a.dev
 b._dns-sd.iservschule.de
 b._dns-sd.mein-iserv.de
+b._dns-sd.schuldock.de
 b._dns-sd.schulplattform.de
 b._dns-sd.schulserver.de
 b._dns-sd.test-iserv.de
@@ -48059,6 +48063,7 @@ db._dns-sd.is-a-good.dev
 db._dns-sd.is-a.dev
 db._dns-sd.iservschule.de
 db._dns-sd.mein-iserv.de
+db._dns-sd.schuldock.de
 db._dns-sd.schulplattform.de
 db._dns-sd.schulserver.de
 db._dns-sd.test-iserv.de
@@ -57875,6 +57880,7 @@ isatap.is-a-good.dev
 isatap.is-a.dev
 isatap.iservschule.de
 isatap.mein-iserv.de
+isatap.schuldock.de
 isatap.schulplattform.de
 isatap.schulserver.de
 isatap.test-iserv.de
@@ -67691,6 +67697,7 @@ lb._dns-sd.is-a-good.dev
 lb._dns-sd.is-a.dev
 lb._dns-sd.iservschule.de
 lb._dns-sd.mein-iserv.de
+lb._dns-sd.schuldock.de
 lb._dns-sd.schulplattform.de
 lb._dns-sd.schulserver.de
 lb._dns-sd.test-iserv.de
@@ -77507,6 +77514,7 @@ wpad.is-a-good.dev
 wpad.is-a.dev
 wpad.iservschule.de
 wpad.mein-iserv.de
+wpad.schuldock.de
 wpad.schulplattform.de
 wpad.schulserver.de
 wpad.test-iserv.de
@@ -87323,6 +87331,7 @@ wpad.tcp.is-a-good.dev
 wpad.tcp.is-a.dev
 wpad.tcp.iservschule.de
 wpad.tcp.mein-iserv.de
+wpad.tcp.schuldock.de
 wpad.tcp.schulplattform.de
 wpad.tcp.schulserver.de
 wpad.tcp.test-iserv.de
