@@ -1,6 +1,6 @@
 [Adblock Plus 1.1]
 ! Title: Accomplist "Games" AdBlock List (Top-N Version)
-! Version: 1748517503
+! Version: 1748603644
 ! Homepage: https://github.com/cbuijs/accomplist/tree/master/games
 !
 ! WhiteList Domains:
@@ -3307,6 +3307,7 @@
 ||gametips.co^
 ||gamewise.co^
 ||generalinteractive.co^
+||geometrydashgame.co^
 ||ggbet-online.co^
 ||ggbets.co^
 ||glander.co^
@@ -3487,6 +3488,7 @@
 ||vulkanrus.co^
 ||vulkanstars-casino.co^
 ||vulkplatinum.co^
+||vzlom-android.co^
 ||wasiat138.co^
 ||wasiat138login.co^
 ||whimsygames.co^
@@ -11151,6 +11153,7 @@
 ||cloudm1.com^
 ||clovercasinozone.com^
 ||clowngames.com^
+||clownygames.com^
 ||jeux.club-corsica.com^
 ||club-games.com^
 ||club-penguin-secrets.com^
@@ -11496,6 +11499,7 @@
 ||coracasinospot.com^
 ||coralcasinobonaire.com^
 ||coralpoker.com^
+||corashack.com^
 ||corbomitegames.com^
 ||corea-casino.com^
 ||coreballgame.com^
@@ -11505,6 +11509,7 @@
 ||coresoft.com^
 ||corkchess.com^
 ||cornbilt.com^
+||cornboar.com^
 ||corncrowgames.com^
 ||cornholecornhole.com^
 ||cornholeparty.com^
@@ -16847,8 +16852,11 @@
 ||gcontrolgames.com^
 ||gcrest.com^
 ||gday77casino.com^
+||gdbrowser.com^
 ||gdconf.com^
 ||gdevelop-app.com^
+||gdlayout.com^
+||gdpslist.com^
 ||gdzydisplay.com^
 ||ge-soku.com^
 ||geantcasino-bawadimall-dj.com^
@@ -16875,6 +16883,7 @@
 ||geewa.com^
 ||geffenplayhouse.com^
 ||geforcenow.com^
+||gegesoz.com^
 ||geishalounge.com^
 ||gekay.com^
 ||gelat.com^
@@ -16917,6 +16926,7 @@
 ||genzobet8001.com^
 ||geoguessr.com^
 ||geojuegos.com^
+||geometrydash.com^
 ||geometrydash-game.com^
 ||geometryspot.com^
 ||geoquizzes.com^
@@ -16975,6 +16985,7 @@
 ||ghosttimegames.com^
 ||ghosttowngames.com^
 ||ghoulash.com^
+||ghrmina.com^
 ||giantarmy.com^
 ||giantbomb.com^
 ||giantcranium.com^
@@ -17677,6 +17688,7 @@
 ||guojianggame.com^
 ||guppygames.com^
 ||guppyworks.com^
+||gurglemurgle.com^
 ||gurugamer.com^
 ||guruhits.com^
 ||gurutracker.com^
@@ -20888,6 +20900,7 @@
 ||kosmopets.com^
 ||kosmor.com^
 ||kosteniuk.com^
+||kostenlospc.com^
 ||kotaku.com^
 ||kotodama-diary.com^
 ||kotoriyama.com^
@@ -23292,6 +23305,7 @@
 ||mojobob.com^
 ||mojogamestudios.com^
 ||mokuni.com^
+||moldygd.com^
 ||molelakecasino.com^
 ||molokstudios.com^
 ||molottery.com^
@@ -25703,6 +25717,7 @@
 ||pcgamebee.com^
 ||pcgamebenchmark.com^
 ||pcgameboost.com^
+||pcgamelegends.com^
 ||pcgamer.com^
 ||pcgames4us.com^
 ||pcgameshardware.com^
@@ -30542,6 +30557,7 @@
 ||sounddesigngroup.com^
 ||soundfallgame.com^
 ||sourcebits.com^
+||sourcepcgames.com^
 ||sourenagames.com^
 ||soushu5588.com^
 ||southafricancasinosites.com^
@@ -36317,6 +36333,7 @@
 ||zyngapoker.com^
 ||zyo-displays.com^
 ||zzstudios.com^
+||papelcool.comm^
 ||anticiplay.community^
 ||tga.community^
 ||7-k-casino.company^
@@ -37755,6 +37772,7 @@
 ||gamestop.eu^
 ||gamet.eu^
 ||ganymede.eu^
+||geometry-dash.eu^
 ||getgamers.eu^
 ||giochi-gratis.eu^
 ||goodgamebigfarm.eu^
@@ -38702,6 +38720,7 @@
 ||mario-land.fr^
 ||marsball.fr^
 ||massiveboggle.fr^
+||mathieuar.fr^
 ||mechrage.fr^
 ||meetinggame.fr^
 ||meilleur-casino.fr^
@@ -39104,11 +39123,14 @@
 ||championscasino.fun^
 ||cometa-casino.fun^
 ||crashoutcasino.fun^
+||culverve.fun^
 ||daddy-casino111.fun^
 ||daddy-casino112.fun^
 ||daddycasino2024.fun^
 ||degencasino.fun^
 ||dewacasino168.fun^
+||dhefunorama.fun^
+||dkefunny.fun^
 ||dragonmoneycasino.fun^
 ||drgncasino.fun^
 ||enza.fun^
@@ -39120,6 +39142,9 @@
 ||freshcasino-on-net6.fun^
 ||freshcasino-samo.fun^
 ||freshcasino-setki.fun^
+||funkighub.fun^
+||funkizzone.fun^
+||funmybclub.fun^
 ||gama-casino.fun^
 ||gama-casinos.fun^
 ||gamacasinoofficial.fun^
@@ -39128,7 +39153,9 @@
 ||gameape.fun^
 ||gamego88.fun^
 ||gameloop.fun^
+||gdhelper.fun^
 ||habby.fun^
+||hsofusion.fun^
 ||ignitioncasino.fun^
 ||inmine.fun^
 ||istanacasino.fun^
@@ -39141,10 +39168,15 @@
 ||jetcasino-alpinia.fun^
 ||jetcasino-cross.fun^
 ||jetcasino-pro101.fun^
+||jonjackzok.fun^
 ||joycasino777.fun^
 ||joycasinoo.fun^
+||joyfulfiw.fun^
+||joyfulkiz.fun^
 ||jozzcasino.fun^
+||kadwinzok.fun^
 ||kaktus-casino.fun^
+||kdathrill.fun^
 ||legzo-casino-spb.fun^
 ||legzocasino.fun^
 ||legzocasino-yisg.fun^
@@ -40834,6 +40866,7 @@
 ||gatdamn.io^
 ||gats.io^
 ||generals.io^
+||geometry-lite.io^
 ||geometrydashlitepc.io^
 ||geometrygame.io^
 ||5etools-mirror-1.github.io^
@@ -41976,6 +42009,7 @@
 ||evoplay.live^
 ||fox-casino.live^
 ||freshcasino.live^
+||fruit-million.live^
 ||gamezone.live^
 ||goldencrowncasino.live^
 ||happyacecasino.live^
@@ -43507,6 +43541,7 @@
 ||darkmetalmush.net^
 ||darkonline.net^
 ||darkspace.net^
+||dashword.net^
 ||jaw.daug.net^
 ||davieboy.net^
 ||dbbcasino.net^
@@ -43998,6 +44033,7 @@
 ||ganja-farmer.net^
 ||gaygamer.net^
 ||gcguild.net^
+||gdapk.net^
 ||gencayoyunlar1.net^
 ||gengame.net^
 ||georgiacasinos.net^
@@ -44419,6 +44455,7 @@
 ||kartextreme.net^
 ||lba.kazekr.net^
 ||kb86.net^
+||kbh-games.net^
 ||kdo-squatte.net^
 ||keepbusy.net^
 ||keepcoal.net^
@@ -45204,6 +45241,7 @@
 ||pyramid-productions.net^
 ||q2scene.net^
 ||qb9.net^
+||qbli.net^
 ||qfgs.net^
 ||qhcf.net^
 ||qj.net^
@@ -47057,6 +47095,7 @@
 ||joycasino-apk.online^
 ||juegosdecasinochile.online^
 ||kent-casinoo.online^
+||kidystore.online^
 ||kingcasino2024.online^
 ||klondike-solitaire.online^
 ||kucasinos.online^
@@ -49804,6 +49843,7 @@
 ||azinocasino.pro^
 ||baduk.pro^
 ||baji-casino.pro^
+||beastmr.pro^
 ||best-casinos.pro^
 ||bitcoincasinocanada.pro^
 ||bycasino.pro^
@@ -53365,6 +53405,8 @@
 ||maintunas4d23.sbs^
 ||monrocasino.sbs^
 ||mu88casino.sbs^
+||saodeal.sbs^
+||saomark.sbs^
 ||stardacasino-rsdt.sbs^
 ||sykaaacasino.sbs^
 ||vodkacasino.sbs^
