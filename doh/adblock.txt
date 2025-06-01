@@ -1,6 +1,6 @@
 [Adblock Plus 1.1]
 ! Title: Accomplist "Doh" AdBlock List (Top-N Version)
-! Version: 1748675683
+! Version: 1748762097
 ! Homepage: https://github.com/cbuijs/accomplist/tree/master/doh
 !
 ! WhiteList Domains:
@@ -441,6 +441,7 @@
 ||dns.stirringphoto.com^
 ||sunnygyl.com^
 ||dns.surfshark.com^
+||dns.surfsharkdns.com^
 ||dns.surobe.com^
 ||dns.syaifullah.com^
 ||dns-server-geo.sz-dns.com^
@@ -650,6 +651,7 @@
 ||adguard.avdkishore.dev^
 ||bazooki-infra.dev^
 ||dns.blaumer.dev^
+||dns.caliph.dev^
 ||dns.daw.dev^
 ||dns.hanahira.dev^
 ||dns.jinwoo.dev^
@@ -837,6 +839,7 @@
 ||doh.kekew.info^
 ||kilabit.info^
 ||testaghome.meshkov.info^
+||dns.olpploiopkuyhiopsfrt.info^
 ||onlyfriends.info^
 ||agh.printk.info^
 ||vpn.technicule.info^
@@ -1461,6 +1464,7 @@
 ||yyz01.dnscry.pt^
 ||zal01.dnscry.pt^
 ||dns.pub^
+||dnsguard.pub^
 ||doh.pub^
 ||dot.pub^
 ||doh.totoro.pub^
@@ -1477,6 +1481,7 @@
 ||lion.dns.qwer.pw^
 ||tiger.dns.qwer.pw^
 ||5g.o0o.re^
+||v.recipes^
 ||addns1.m-it.ro^
 ||zdn.ro^
 ||dns.quiet.rocks^

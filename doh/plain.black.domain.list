@@ -252,6 +252,7 @@ opera.cloudflare-dns.com
 security.cloudflare-dns.com
 tor.cloudflare-dns.com
 cloudflare-gateway.com
+frd4wvnobp.cloudflare-gateway.com
 api.cloudflareclient.com
 cloudflareresolve.com
 dns-fr-psv1.cloudsides.com
@@ -494,6 +495,7 @@ doh-02.spectrum.com
 dns.stirringphoto.com
 sunnygyl.com
 dns.surfshark.com
+dns.surfsharkdns.com
 dns.surobe.com
 dns.syaifullah.com
 dns-server-geo.sz-dns.com
@@ -707,6 +709,7 @@ dns.applewebkit.dev
 adguard.avdkishore.dev
 bazooki-infra.dev
 dns.blaumer.dev
+dns.caliph.dev
 dns.daw.dev
 dns.hanahira.dev
 dns.jinwoo.dev
@@ -908,6 +911,7 @@ dns.api.test.globuscs.info
 doh.kekew.info
 kilabit.info
 testaghome.meshkov.info
+dns.olpploiopkuyhiopsfrt.info
 onlyfriends.info
 adguard.onlyfriends.info
 agh.printk.info
@@ -1353,6 +1357,7 @@ dns.anon.no
 comss.one
 dns.comss.one
 dns.east.comss.one
+router.comss.one
 auto-cn-hk-8000.go-behind.one
 cname-for-doh.go-behind.one
 gtm-sg-5r538sziu04.go-behind.one
@@ -1598,6 +1603,7 @@ yyc01.dnscry.pt
 yyz01.dnscry.pt
 zal01.dnscry.pt
 dns.pub
+dnsguard.pub
 doh.pub
 sm2.doh.pub
 dot.pub
@@ -1615,6 +1621,7 @@ frog.dns.qwer.pw
 lion.dns.qwer.pw
 tiger.dns.qwer.pw
 5g.o0o.re
+v.recipes
 addns1.m-it.ro
 zdn.ro
 dns.quiet.rocks
