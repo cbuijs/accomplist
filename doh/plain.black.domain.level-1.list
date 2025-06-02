@@ -427,6 +427,11 @@ doh.defaultroutes.de
 mainframe.dewed.de
 fdns1.dismail.de
 fdns2.dismail.de
+dns1.dns-ga.de
+dns2.dns-ga.de
+dns3.dns-ga.de
+doh.dns-ga.de
+secure-dns.dns-ga.de
 dnsforge.de
 dns.dnshome.de
 dns.dremaxx.de
