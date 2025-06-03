@@ -73,6 +73,8 @@ freedns.controld.com
 ns1.recursive.dnsbycomodo.com
 ns2.recursive.dnsbycomodo.com
 dnscrypt-cert.shield-2.dnsbycomodo.com
+doh.dnslify.com
+ns.dnslify.com
 adblock-dot.dnswarden.com
 adult-filter-dot.dnswarden.com
 doh.asia.dnswarden.com
@@ -95,6 +97,7 @@ mask-api.icloud.com
 mask-h2.icloud.com
 dns.islandnet.com
 opencdn.jomodns.com
+dns.kamilszczepanski.com
 iterator.lazada.com
 httpdns.meituan.com
 inf-wan.vip.meituan.com
@@ -139,6 +142,7 @@ dnsovertls3.sinodun.com
 doh-01.spectrum.com
 doh-02.spectrum.com
 dns.surfshark.com
+dns.surfsharkdns.com
 dns.umbrella.com
 doh.umbrella.com
 dns.wechat.com
@@ -239,6 +243,7 @@ dns.crystalyx.net
 ender.crystalyx.net
 jit.ddns.net
 tls-dns-u.odvr.dns-oarc.net
+doh.ersei.net
 pdns.faelix.net
 rdns.faelix.net
 anycast.ffmuc.net
@@ -258,6 +263,7 @@ zrh1-ns01.monzoon.net
 dns.mullvad.net
 doh.mullvad.net
 echoe1yidzu4ioo5.myfritz.net
+doh-ca.naftalie.net
 kiri.nonexiste.net
 dns.novg.net
 doh.onedns.net
@@ -315,6 +321,7 @@ dns.fullaccesstointernet.jp.eu.org
 dns.mayx.eu.org
 arashi.net.eu.org
 sukidayo.eu.org
+d4yge1fn4wr.d.firewalla.org
 dns.api.globus.org
 dns.api.preview.globus.org
 jichi.hopto.org
@@ -427,6 +434,7 @@ yvr01.dnscry.pt
 yyc01.dnscry.pt
 yyz01.dnscry.pt
 zal01.dnscry.pt
+dns.pub
 doh.pub
 dot.pub
 comss.ru
