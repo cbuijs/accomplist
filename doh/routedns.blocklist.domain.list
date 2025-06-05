@@ -272,6 +272,7 @@
 .dns.hellozhao.com
 .ww2.hellozhao.com
 .httpdns-push.heytapmobile.com
+.expired.hichina.com
 .himedns.com
 .dns.hoody.com
 .dns.internal.hosmatic.com
@@ -321,6 +322,7 @@
 .msr177.com
 .ns.mtsoln.com
 .dpeddi.myddns.com
+.dns.mzjtechnology.com
 .dns.nguyendn.com
 .dns.nhtsky.com
 .d.niaox.com
@@ -477,7 +479,6 @@
 .gw-dk.brueggus.de
 .gw-hk.brueggus.de
 .gw-nl02.brueggus.de
-.gw-no.brueggus.de
 .gw-pk.brueggus.de
 .vps03.brueggus.de
 .vps119.brueggus.de
@@ -499,6 +500,7 @@
 .vps266.brueggus.de
 .vps281.brueggus.de
 .vps283.brueggus.de
+.vps284.brueggus.de
 .vps294.brueggus.de
 .vps298.brueggus.de
 .vps299.brueggus.de
@@ -737,7 +739,8 @@
 .maitrekuc.fr
 .dns.mestdag.fr
 .blockerads.multimediaconcept.fr
-.nicolas-dorriere.fr
+.doh-own-recursion.nicolas-dorriere.fr
+.doh-random-upstream.nicolas-dorriere.fr
 .rayneau.fr
 .dns.sellan.fr
 .lab.sellan.fr
@@ -1182,6 +1185,7 @@
 .dns.stevenz.net
 .doh.sunoaki.net
 .dns.thegoodsource.net
+.timedns.net
 .nsc.torgues.net
 .resolv1.trash.net
 .resolv2.trash.net

@@ -281,6 +281,7 @@
 .dns.moonssif.com
 .msr177.com
 .ns.mtsoln.com
+.dns.mzjtechnology.com
 .dns.nguyendn.com
 .dns.nhtsky.com
 .d.niaox.com
@@ -572,6 +573,8 @@
 .doh.lacontrevoie.fr
 .dns.mestdag.fr
 .blockerads.multimediaconcept.fr
+.doh-own-recursion.nicolas-dorriere.fr
+.doh-random-upstream.nicolas-dorriere.fr
 .rayneau.fr
 .dns.sellan.fr
 .pates.services.sfr.fr.casepp.sfr.fr
@@ -965,6 +968,7 @@
 .dns.stevenz.net
 .doh.sunoaki.net
 .dns.thegoodsource.net
+.timedns.net
 .nsc.torgues.net
 .resolv1.trash.net
 .resolv2.trash.net
@@ -1471,6 +1475,7 @@
 .oko.haneulo.com
 .us5.wan.hc7z.com
 .ww2.hellozhao.com
+.expired.hichina.com
 .lariviere.lepilleur.com
 .br2.lezainski.com
 .inf-wan.vip.meituan.com
@@ -1494,7 +1499,6 @@
 .gw-dk.brueggus.de
 .gw-hk.brueggus.de
 .gw-nl02.brueggus.de
-.gw-no.brueggus.de
 .gw-pk.brueggus.de
 .vps03.brueggus.de
 .vps119.brueggus.de
@@ -1516,6 +1520,7 @@
 .vps266.brueggus.de
 .vps281.brueggus.de
 .vps283.brueggus.de
+.vps284.brueggus.de
 .vps294.brueggus.de
 .vps298.brueggus.de
 .vps299.brueggus.de
@@ -1600,7 +1605,6 @@
 .maison.gifino.fr
 .home.kebree.fr
 .maitrekuc.fr
-.nicolas-dorriere.fr
 .lab.sellan.fr
 .lab-1.sellan.fr
 .server.spirio.fr
