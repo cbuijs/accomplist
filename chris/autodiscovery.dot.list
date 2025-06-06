@@ -8980,6 +8980,7 @@
 .autoconfig.barsy.uk
 .autoconfig.barsy.co.uk
 .autoconfig.barsyonline.co.uk
+.autoconfig.lutrausercontent.com
 .autoconfig.luyani.app
 .autoconfig.luyani.net
 .autoconfig.magentosite.cloud
@@ -9739,6 +9740,7 @@
 .autoconfig.v0.build
 .autoconfig.vercel.dev
 .autoconfig.vusercontent.net
+.autoconfig.vercel.run
 .autoconfig.now.sh
 .autoconfig.2038.io
 .autoconfig.v-info.info
@@ -18797,6 +18799,7 @@
 ._autodiscover.barsy.uk
 ._autodiscover.barsy.co.uk
 ._autodiscover.barsyonline.co.uk
+._autodiscover.lutrausercontent.com
 ._autodiscover.luyani.app
 ._autodiscover.luyani.net
 ._autodiscover.magentosite.cloud
@@ -19556,6 +19559,7 @@
 ._autodiscover.v0.build
 ._autodiscover.vercel.dev
 ._autodiscover.vusercontent.net
+._autodiscover.vercel.run
 ._autodiscover.now.sh
 ._autodiscover.2038.io
 ._autodiscover.v-info.info
@@ -28614,6 +28618,7 @@
 .autodiscover.barsy.uk
 .autodiscover.barsy.co.uk
 .autodiscover.barsyonline.co.uk
+.autodiscover.lutrausercontent.com
 .autodiscover.luyani.app
 .autodiscover.luyani.net
 .autodiscover.magentosite.cloud
@@ -29373,6 +29378,7 @@
 .autodiscover.v0.build
 .autodiscover.vercel.dev
 .autodiscover.vusercontent.net
+.autodiscover.vercel.run
 .autodiscover.now.sh
 .autodiscover.2038.io
 .autodiscover.v-info.info
@@ -38431,6 +38437,7 @@
 .b._dns-sd.barsy.uk
 .b._dns-sd.barsy.co.uk
 .b._dns-sd.barsyonline.co.uk
+.b._dns-sd.lutrausercontent.com
 .b._dns-sd.luyani.app
 .b._dns-sd.luyani.net
 .b._dns-sd.magentosite.cloud
@@ -39190,6 +39197,7 @@
 .b._dns-sd.v0.build
 .b._dns-sd.vercel.dev
 .b._dns-sd.vusercontent.net
+.b._dns-sd.vercel.run
 .b._dns-sd.now.sh
 .b._dns-sd.2038.io
 .b._dns-sd.v-info.info
@@ -48248,6 +48256,7 @@
 .db._dns-sd.barsy.uk
 .db._dns-sd.barsy.co.uk
 .db._dns-sd.barsyonline.co.uk
+.db._dns-sd.lutrausercontent.com
 .db._dns-sd.luyani.app
 .db._dns-sd.luyani.net
 .db._dns-sd.magentosite.cloud
@@ -49007,6 +49016,7 @@
 .db._dns-sd.v0.build
 .db._dns-sd.vercel.dev
 .db._dns-sd.vusercontent.net
+.db._dns-sd.vercel.run
 .db._dns-sd.now.sh
 .db._dns-sd.2038.io
 .db._dns-sd.v-info.info
@@ -58065,6 +58075,7 @@
 .isatap.barsy.uk
 .isatap.barsy.co.uk
 .isatap.barsyonline.co.uk
+.isatap.lutrausercontent.com
 .isatap.luyani.app
 .isatap.luyani.net
 .isatap.magentosite.cloud
@@ -58824,6 +58835,7 @@
 .isatap.v0.build
 .isatap.vercel.dev
 .isatap.vusercontent.net
+.isatap.vercel.run
 .isatap.now.sh
 .isatap.2038.io
 .isatap.v-info.info
@@ -67882,6 +67894,7 @@
 .lb._dns-sd.barsy.uk
 .lb._dns-sd.barsy.co.uk
 .lb._dns-sd.barsyonline.co.uk
+.lb._dns-sd.lutrausercontent.com
 .lb._dns-sd.luyani.app
 .lb._dns-sd.luyani.net
 .lb._dns-sd.magentosite.cloud
@@ -68641,6 +68654,7 @@
 .lb._dns-sd.v0.build
 .lb._dns-sd.vercel.dev
 .lb._dns-sd.vusercontent.net
+.lb._dns-sd.vercel.run
 .lb._dns-sd.now.sh
 .lb._dns-sd.2038.io
 .lb._dns-sd.v-info.info
@@ -77699,6 +77713,7 @@
 .wpad.barsy.uk
 .wpad.barsy.co.uk
 .wpad.barsyonline.co.uk
+.wpad.lutrausercontent.com
 .wpad.luyani.app
 .wpad.luyani.net
 .wpad.magentosite.cloud
@@ -78458,6 +78473,7 @@
 .wpad.v0.build
 .wpad.vercel.dev
 .wpad.vusercontent.net
+.wpad.vercel.run
 .wpad.now.sh
 .wpad.2038.io
 .wpad.v-info.info
@@ -87516,6 +87532,7 @@
 .wpad.tcp.barsy.uk
 .wpad.tcp.barsy.co.uk
 .wpad.tcp.barsyonline.co.uk
+.wpad.tcp.lutrausercontent.com
 .wpad.tcp.luyani.app
 .wpad.tcp.luyani.net
 .wpad.tcp.magentosite.cloud
@@ -88275,6 +88292,7 @@
 .wpad.tcp.v0.build
 .wpad.tcp.vercel.dev
 .wpad.tcp.vusercontent.net
+.wpad.tcp.vercel.run
 .wpad.tcp.now.sh
 .wpad.tcp.2038.io
 .wpad.tcp.v-info.info
