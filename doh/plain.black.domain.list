@@ -742,7 +742,6 @@ deic-ore.anycast.censurfridns.dk
 kracon.anycast.censurfridns.dk
 rgnet-iad.anycast.censurfridns.dk
 unicast.censurfridns.dk
-dns.norvig.dk
 doh.port53.dk
 adguard.alu.dog
 dns.tesem.dog
@@ -766,6 +765,11 @@ dns.filipccz.eu
 dns.hypercute.eu
 dns.janl.eu
 dns.jiyi.eu
+child.joindns4.eu
+child-noads.joindns4.eu
+noads.joindns4.eu
+protective.joindns4.eu
+unfiltered.joindns4.eu
 dns1.klcd.eu
 dns2.klcd.eu
 xray.krnl.eu
@@ -818,6 +822,7 @@ maitrekuc.fr
 dns.maitrekuc.fr
 dns.mestdag.fr
 blockerads.multimediaconcept.fr
+nicolas-dorriere.fr
 doh-own-recursion.nicolas-dorriere.fr
 doh-random-upstream.nicolas-dorriere.fr
 rayneau.fr
