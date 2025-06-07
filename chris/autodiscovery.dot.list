@@ -8647,6 +8647,7 @@
 .autoconfig.goip.de
 .autoconfig.hosted.app
 .autoconfig.run.app
+.autoconfig.mtls.run.app
 .autoconfig.web.app
 .autoconfig.0emm.com
 .autoconfig.appspot.com
@@ -18466,6 +18467,7 @@
 ._autodiscover.goip.de
 ._autodiscover.hosted.app
 ._autodiscover.run.app
+._autodiscover.mtls.run.app
 ._autodiscover.web.app
 ._autodiscover.0emm.com
 ._autodiscover.appspot.com
@@ -28285,6 +28287,7 @@
 .autodiscover.goip.de
 .autodiscover.hosted.app
 .autodiscover.run.app
+.autodiscover.mtls.run.app
 .autodiscover.web.app
 .autodiscover.0emm.com
 .autodiscover.appspot.com
@@ -38104,6 +38107,7 @@
 .b._dns-sd.goip.de
 .b._dns-sd.hosted.app
 .b._dns-sd.run.app
+.b._dns-sd.mtls.run.app
 .b._dns-sd.web.app
 .b._dns-sd.0emm.com
 .b._dns-sd.appspot.com
@@ -47923,6 +47927,7 @@
 .db._dns-sd.goip.de
 .db._dns-sd.hosted.app
 .db._dns-sd.run.app
+.db._dns-sd.mtls.run.app
 .db._dns-sd.web.app
 .db._dns-sd.0emm.com
 .db._dns-sd.appspot.com
@@ -57742,6 +57747,7 @@
 .isatap.goip.de
 .isatap.hosted.app
 .isatap.run.app
+.isatap.mtls.run.app
 .isatap.web.app
 .isatap.0emm.com
 .isatap.appspot.com
@@ -67561,6 +67567,7 @@
 .lb._dns-sd.goip.de
 .lb._dns-sd.hosted.app
 .lb._dns-sd.run.app
+.lb._dns-sd.mtls.run.app
 .lb._dns-sd.web.app
 .lb._dns-sd.0emm.com
 .lb._dns-sd.appspot.com
@@ -77380,6 +77387,7 @@
 .wpad.goip.de
 .wpad.hosted.app
 .wpad.run.app
+.wpad.mtls.run.app
 .wpad.web.app
 .wpad.0emm.com
 .wpad.appspot.com
@@ -87199,6 +87207,7 @@
 .wpad.tcp.goip.de
 .wpad.tcp.hosted.app
 .wpad.tcp.run.app
+.wpad.tcp.mtls.run.app
 .wpad.tcp.web.app
 .wpad.tcp.0emm.com
 .wpad.tcp.appspot.com
