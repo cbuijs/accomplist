@@ -8783,6 +8783,7 @@
 .autoconfig.botdash.xyz
 .autoconfig.apps-1and1.com
 .autoconfig.live-website.com
+.autoconfig.webspace-host.com
 .autoconfig.apps-1and1.net
 .autoconfig.websitebuilder.online
 .autoconfig.app-ionos.space
@@ -18603,6 +18604,7 @@
 ._autodiscover.botdash.xyz
 ._autodiscover.apps-1and1.com
 ._autodiscover.live-website.com
+._autodiscover.webspace-host.com
 ._autodiscover.apps-1and1.net
 ._autodiscover.websitebuilder.online
 ._autodiscover.app-ionos.space
@@ -28423,6 +28425,7 @@
 .autodiscover.botdash.xyz
 .autodiscover.apps-1and1.com
 .autodiscover.live-website.com
+.autodiscover.webspace-host.com
 .autodiscover.apps-1and1.net
 .autodiscover.websitebuilder.online
 .autodiscover.app-ionos.space
@@ -38243,6 +38246,7 @@
 .b._dns-sd.botdash.xyz
 .b._dns-sd.apps-1and1.com
 .b._dns-sd.live-website.com
+.b._dns-sd.webspace-host.com
 .b._dns-sd.apps-1and1.net
 .b._dns-sd.websitebuilder.online
 .b._dns-sd.app-ionos.space
@@ -48063,6 +48067,7 @@
 .db._dns-sd.botdash.xyz
 .db._dns-sd.apps-1and1.com
 .db._dns-sd.live-website.com
+.db._dns-sd.webspace-host.com
 .db._dns-sd.apps-1and1.net
 .db._dns-sd.websitebuilder.online
 .db._dns-sd.app-ionos.space
@@ -57883,6 +57888,7 @@
 .isatap.botdash.xyz
 .isatap.apps-1and1.com
 .isatap.live-website.com
+.isatap.webspace-host.com
 .isatap.apps-1and1.net
 .isatap.websitebuilder.online
 .isatap.app-ionos.space
@@ -67703,6 +67709,7 @@
 .lb._dns-sd.botdash.xyz
 .lb._dns-sd.apps-1and1.com
 .lb._dns-sd.live-website.com
+.lb._dns-sd.webspace-host.com
 .lb._dns-sd.apps-1and1.net
 .lb._dns-sd.websitebuilder.online
 .lb._dns-sd.app-ionos.space
@@ -77523,6 +77530,7 @@
 .wpad.botdash.xyz
 .wpad.apps-1and1.com
 .wpad.live-website.com
+.wpad.webspace-host.com
 .wpad.apps-1and1.net
 .wpad.websitebuilder.online
 .wpad.app-ionos.space
@@ -87343,6 +87351,7 @@
 .wpad.tcp.botdash.xyz
 .wpad.tcp.apps-1and1.com
 .wpad.tcp.live-website.com
+.wpad.tcp.webspace-host.com
 .wpad.tcp.apps-1and1.net
 .wpad.tcp.websitebuilder.online
 .wpad.tcp.app-ionos.space
