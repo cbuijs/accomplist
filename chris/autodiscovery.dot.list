@@ -6243,6 +6243,7 @@
 .autoconfig.host
 .autoconfig.hosting
 .autoconfig.hot
+.autoconfig.hotel
 .autoconfig.hotels
 .autoconfig.hotmail
 .autoconfig.house
@@ -16064,6 +16065,7 @@
 ._autodiscover.host
 ._autodiscover.hosting
 ._autodiscover.hot
+._autodiscover.hotel
 ._autodiscover.hotels
 ._autodiscover.hotmail
 ._autodiscover.house
@@ -25885,6 +25887,7 @@
 .autodiscover.host
 .autodiscover.hosting
 .autodiscover.hot
+.autodiscover.hotel
 .autodiscover.hotels
 .autodiscover.hotmail
 .autodiscover.house
@@ -35706,6 +35709,7 @@
 .b._dns-sd.host
 .b._dns-sd.hosting
 .b._dns-sd.hot
+.b._dns-sd.hotel
 .b._dns-sd.hotels
 .b._dns-sd.hotmail
 .b._dns-sd.house
@@ -45527,6 +45531,7 @@
 .db._dns-sd.host
 .db._dns-sd.hosting
 .db._dns-sd.hot
+.db._dns-sd.hotel
 .db._dns-sd.hotels
 .db._dns-sd.hotmail
 .db._dns-sd.house
@@ -55348,6 +55353,7 @@
 .isatap.host
 .isatap.hosting
 .isatap.hot
+.isatap.hotel
 .isatap.hotels
 .isatap.hotmail
 .isatap.house
@@ -65169,6 +65175,7 @@
 .lb._dns-sd.host
 .lb._dns-sd.hosting
 .lb._dns-sd.hot
+.lb._dns-sd.hotel
 .lb._dns-sd.hotels
 .lb._dns-sd.hotmail
 .lb._dns-sd.house
@@ -74990,6 +74997,7 @@
 .wpad.host
 .wpad.hosting
 .wpad.hot
+.wpad.hotel
 .wpad.hotels
 .wpad.hotmail
 .wpad.house
@@ -84811,6 +84819,7 @@
 .wpad.tcp.host
 .wpad.tcp.hosting
 .wpad.tcp.hot
+.wpad.tcp.hotel
 .wpad.tcp.hotels
 .wpad.tcp.hotmail
 .wpad.tcp.house
