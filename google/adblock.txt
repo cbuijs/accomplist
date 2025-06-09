@@ -1,6 +1,6 @@
 [Adblock Plus 1.1]
 ! Title: Accomplist "Googles" AdBlock List (Top-N Version)
-! Version: 1749378907
+! Version: 1749464104
 ! Homepage: https://github.com/cbuijs/accomplist/tree/master/googles
 !
 ! WhiteList Domains:
@@ -358,6 +358,7 @@
 ||adservice.google.cl^
 ||adservice.google.cm^
 ||adservice.google.com.cn^
+||ggpht.cn^
 ||adservice.google.cn^
 ||googleadsserving.cn^
 ||adservice.google.com.co^
@@ -438,6 +439,7 @@
 ||firebaseremoteconfigrealtime.googleapis.com^
 ||imasdk.googleapis.com^
 ||googlecommerce.com^
+||googleoptimize.com^
 ||googleplus.com^
 ||googlesyndication.com^
 ||googletagmanager.com^
@@ -447,7 +449,10 @@
 ||csi.gstatic.com^
 ||invitemedia.com^
 ||kormo.com^
+||looker.com^
 ||markerly.com^
+||mdialog.com^
+||meebo.com^
 ||mng-ads.com^
 ||postrank.com^
 ||staykeen.com^
@@ -515,6 +520,7 @@
 ||adservice.google.co.in^
 ||adservice.google.in^
 ||adservice.google.info^
+||fabric.io^
 ||adservice.google.com.iq^
 ||adservice.google.iq^
 ||adservice.google.ir^
