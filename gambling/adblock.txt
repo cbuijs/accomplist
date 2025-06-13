@@ -1,6 +1,6 @@
 [Adblock Plus 1.1]
 ! Title: Accomplist "Gambling" AdBlock List (Top-N Version)
-! Version: 1749699007
+! Version: 1749785523
 ! Homepage: https://github.com/cbuijs/accomplist/tree/master/gambling
 !
 ! WhiteList Domains:
@@ -570,10 +570,7 @@
 ||milkywaycasino.bot^
 ||telegramcasino.bot^
 ||yabbycasino.bot^
-||betano.bet.br^
-||betnacional.bet.br^
-||estrelabet.bet.br^
-||stake.bet.br^
+||bet.br^
 ||1winscasinos-brazil.com.br^
 ||1xslots-casino.com.br^
 ||betanobr.com.br^
@@ -586,6 +583,7 @@
 ||ninecasino.com.br^
 ||pin-up-casino.com.br^
 ||pinupcasinobrasil.com.br^
+||trivela.com.br^
 ||chatter.uol.com.br^
 ||vavada-casino.com.br^
 ||voltzincasino.com.br^
