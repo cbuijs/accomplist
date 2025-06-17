@@ -192,8 +192,10 @@ sg1.dnswarden.com
 uncensored-dot.dnswarden.com
 doh.us.dnswarden.com
 dnswebvsn.com
+resolver1.dyndnsinternetguide.com
 easyhandshake.com
 dns.edgeburnmedia.com
+edgy-dns.com
 dns.editechstudio.com
 dns.efficientdocuments.com
 dns.enzonix.com
@@ -251,6 +253,7 @@ dnstls.mobik.com
 dns.moonssif.com
 msr177.com
 ns.mtsoln.com
+dns.mzjtechnology.com
 dns.nguyendn.com
 dns.nhtsky.com
 d.niaox.com
@@ -385,6 +388,10 @@ doh.defaultroutes.de
 mainframe.dewed.de
 fdns1.dismail.de
 fdns2.dismail.de
+dns1.dns-ga.de
+dns2.dns-ga.de
+dns3.dns-ga.de
+doh.dns-ga.de
 secure-dns.dns-ga.de
 dnsforge.de
 dns.dnshome.de
@@ -560,7 +567,6 @@ doh.max.net.id
 doh.runsel.id
 dns.engineer.web.id
 doh.this.web.id
-doh.zephyrus.id
 doh.iucc.ac.il
 doh.angry.im
 doh.killtw.im
@@ -587,6 +593,7 @@ dns.api.test.globuscs.info
 doh.kekew.info
 kilabit.info
 testaghome.meshkov.info
+dns.olpploiopkuyhiopsfrt.info
 agh.printk.info
 vpn.technicule.info
 dns.kxy.ink
@@ -954,7 +961,6 @@ arashi.eu.org
 armorrush.eu.org
 dns.fullaccesstointernet.jp.eu.org
 dns.mayx.eu.org
-arashi.net.eu.org
 sukidayo.eu.org
 dns.falkenthal.org
 adguard.gambini.org
@@ -1289,7 +1295,6 @@ agh.dshubham.xyz
 hole.elbschloss.xyz
 fra1.eyecay.xyz
 dns.f97.xyz
-performance.gosami.xyz
 jp.gridns.xyz
 opennic.i2pd.xyz
 opennic2.i2pd.xyz
