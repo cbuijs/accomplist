@@ -21,6 +21,8 @@
 .dns.quickline.ch
 .doh.quickline.ch
 .dot.quickline.ch
+.dns.sheggi.ch
+.metis.sheggi.ch
 .dns.simplylinux.ch
 .switch.ch
 .adguard.ruby.ci
@@ -33,6 +35,8 @@
 .dns.weixin.qq.com.cn
 .dns.tuna.tsinghua.edu.cn
 .antidns.s.tuna.tsinghua.edu.cn
+.dns.mbrjun.cn
+.hk.mbrjun.cn
 .dns.rubyfish.cn
 .ea-dns.rubyfish.cn
 .uw-dns.rubyfish.cn
@@ -335,6 +339,8 @@
 .ines.zfn.uni-bremen.de
 .abel.waringer-atg.de
 .0ms.dev
+.lsqmbr-hk.kmbr.dev
+.adblock.krctech.dev
 .argon.molinero.dev
 .dns.molinero.dev
 .pages.dev
@@ -389,6 +395,7 @@
 .dnscrypt-cert.captnemo.in
 .doh.captnemo.in
 .static.captnemo.in
+.testaghome.meshkov.info
 .dns.tracker.ink
 .fly.io
 .dns.guard.io
