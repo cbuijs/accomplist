@@ -35,8 +35,6 @@
 .dns.weixin.qq.com.cn
 .dns.tuna.tsinghua.edu.cn
 .antidns.s.tuna.tsinghua.edu.cn
-.dns.mbrjun.cn
-.hk.mbrjun.cn
 .dns.rubyfish.cn
 .ea-dns.rubyfish.cn
 .uw-dns.rubyfish.cn
@@ -65,6 +63,7 @@
 .doh.dns.apple.com
 .dns.arapurayil.com
 .dandelionsprout.asuscomm.com
+.panszelescik.asuscomm.com
 .africa.avastdns.com
 .europe.avastdns.com
 .europe-west.avastdns.com
@@ -640,7 +639,7 @@
 .dns.panszelescik.pl
 .dns-ovh.panszelescik.pl
 .n2.panszelescik.pl
-.public.panszelescik.pl
+.n3.panszelescik.pl
 .doh.apad.pro
 .abe01.dnscry.pt
 .abn01.dnscry.pt

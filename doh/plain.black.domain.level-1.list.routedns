@@ -279,7 +279,6 @@
 .dns.moonssif.com
 .msr177.com
 .ns.mtsoln.com
-.dns.mzjtechnology.com
 .dns.nguyendn.com
 .dns.nhtsky.com
 .d.niaox.com
@@ -489,7 +488,6 @@
 .dns.blaumer.dev
 .dns.caliph.dev
 .dns.daw.dev
-.dns.hanahira.dev
 .dns.jinwoo.dev
 .pihole.aws.ketan.dev
 .adg.khon.dev
@@ -1458,6 +1456,7 @@
 .dns-sandbox-alb-275183166.us-east-1.elb.amazonaws.com
 .dns-staging-alb-849259019.us-east-1.elb.amazonaws.com
 .dns-test-alb-2081756747.us-east-1.elb.amazonaws.com
+.panszelescik.asuscomm.com
 .srv-revprox-01.atakorah.com
 .europe.avastdns.com
 .europe-west.avastdns.com
@@ -1592,6 +1591,7 @@
 .cork-oak.imchristian.de
 .homeserver.marcore.de
 .td-doh.dns.t53.de
+.hanahira.dev
 .lsqmbr-hk.kmbr.dev
 .argon.molinero.dev
 .pages.dev
@@ -1677,7 +1677,7 @@
 .mimile.despagne.ovh
 .szpadel.ovh
 .n2.panszelescik.pl
-.public.panszelescik.pl
+.n3.panszelescik.pl
 .piekacz.pl
 .oracle1.pierzchlewicz.pl
 .sg2.curl.rs
