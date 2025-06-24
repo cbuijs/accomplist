@@ -21,8 +21,6 @@
 .dns.quickline.ch
 .doh.quickline.ch
 .dot.quickline.ch
-.dns.sheggi.ch
-.metis.sheggi.ch
 .dns.simplylinux.ch
 .switch.ch
 .adguard.ruby.ci
@@ -336,7 +334,6 @@
 .ines.zfn.uni-bremen.de
 .abel.waringer-atg.de
 .0ms.dev
-.lsqmbr-hk.kmbr.dev
 .adblock.krctech.dev
 .argon.molinero.dev
 .dns.molinero.dev
@@ -384,7 +381,6 @@
 .dns.velyn.my.id
 .dyn.velyn.my.id
 .dns.vmath.my.id
-.doh.infotek.net.id
 .dns.engineer.web.id
 .doh.this.web.id
 .doh.iucc.ac.il
@@ -509,6 +505,7 @@
 .dns.mullvad.net
 .doh.mullvad.net
 .echoe1yidzu4ioo5.myfritz.net
+.doh-ca.naftalie.net
 .ae-fuj-w-p-1.nashkan.net
 .ae-fuj-w-p-2.nashkan.net
 .ae-fuj-w-p-3.nashkan.net

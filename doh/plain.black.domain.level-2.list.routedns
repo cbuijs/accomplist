@@ -192,7 +192,6 @@
 .uncensored-dot.dnswarden.com
 .doh.us.dnswarden.com
 .dnswebvsn.com
-.resolver1.dyndnsinternetguide.com
 .easyhandshake.com
 .dns.edgeburnmedia.com
 .edgy-dns.com
@@ -449,6 +448,7 @@
 .dns.blaumer.dev
 .dns.caliph.dev
 .dns.daw.dev
+.dns.hanahira.dev
 .dns.jinwoo.dev
 .pihole.aws.ketan.dev
 .adg.khon.dev
@@ -982,6 +982,7 @@
 .dns.neutopia.org
 .ns1.opennameserver.org
 .ns2.opennameserver.org
+.ns3.opennameserver.org
 .ns4.opennameserver.org
 .doh.powerdns.org
 .puredns.org
