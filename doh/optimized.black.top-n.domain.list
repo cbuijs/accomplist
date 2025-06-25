@@ -13,8 +13,6 @@ canadianshield.cira.ca
 ag.ff0x.ca
 pangolin.ff0x.ca
 dns.flymc.cc
-dns.chenu.ch
-keeflix.chenu.ch
 digitale-gesellschaft.ch
 eu1.dns.lavate.ch
 us1.dns.lavate.ch
@@ -311,7 +309,6 @@ vps427.brueggus.de
 vps434.brueggus.de
 vps66.brueggus.de
 dns.csaonline.de
-dns.datenquark.de
 doh.defaultroutes.de
 fdns1.dismail.de
 fdns2.dismail.de
@@ -334,7 +331,6 @@ doh.ibr.cs.tu-bs.de
 ines.zfn.uni-bremen.de
 abel.waringer-atg.de
 0ms.dev
-adblock.krctech.dev
 argon.molinero.dev
 dns.molinero.dev
 pages.dev
@@ -362,7 +358,6 @@ nicolas-dorriere.fr
 pates.services.sfr.fr.casepp.sfr.fr
 8888.google
 dns.google
-nicsezcheckfbi.gov
 doh.libredns.gr
 dot.libredns.gr
 mail.data.haus
@@ -505,7 +500,6 @@ zrh1-ns01.monzoon.net
 dns.mullvad.net
 doh.mullvad.net
 echoe1yidzu4ioo5.myfritz.net
-doh-ca.naftalie.net
 ae-fuj-w-p-1.nashkan.net
 ae-fuj-w-p-2.nashkan.net
 ae-fuj-w-p-3.nashkan.net
@@ -567,6 +561,7 @@ doh.sunoaki.net
 resolv1.trash.net
 resolv2.trash.net
 resolv3.trash.net
+adfree.usableprivacy.net
 use-application-dns.net
 eddi.usgovtrafficmanager.net
 dnscrypt-cert.browser.yandex.net
