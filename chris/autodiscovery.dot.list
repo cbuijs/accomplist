@@ -9242,6 +9242,7 @@
 .autoconfig.localplayer.dev
 .autoconfig.is-local.org
 .autoconfig.opensocial.site
+.autoconfig.oaiusercontent.com
 .autoconfig.opencraft.hosting
 .autoconfig.16-b.it
 .autoconfig.32-b.it
@@ -19092,6 +19093,7 @@
 ._autodiscover.localplayer.dev
 ._autodiscover.is-local.org
 ._autodiscover.opensocial.site
+._autodiscover.oaiusercontent.com
 ._autodiscover.opencraft.hosting
 ._autodiscover.16-b.it
 ._autodiscover.32-b.it
@@ -28942,6 +28944,7 @@
 .autodiscover.localplayer.dev
 .autodiscover.is-local.org
 .autodiscover.opensocial.site
+.autodiscover.oaiusercontent.com
 .autodiscover.opencraft.hosting
 .autodiscover.16-b.it
 .autodiscover.32-b.it
@@ -38792,6 +38795,7 @@
 .b._dns-sd.localplayer.dev
 .b._dns-sd.is-local.org
 .b._dns-sd.opensocial.site
+.b._dns-sd.oaiusercontent.com
 .b._dns-sd.opencraft.hosting
 .b._dns-sd.16-b.it
 .b._dns-sd.32-b.it
@@ -48642,6 +48646,7 @@
 .db._dns-sd.localplayer.dev
 .db._dns-sd.is-local.org
 .db._dns-sd.opensocial.site
+.db._dns-sd.oaiusercontent.com
 .db._dns-sd.opencraft.hosting
 .db._dns-sd.16-b.it
 .db._dns-sd.32-b.it
@@ -58492,6 +58497,7 @@
 .isatap.localplayer.dev
 .isatap.is-local.org
 .isatap.opensocial.site
+.isatap.oaiusercontent.com
 .isatap.opencraft.hosting
 .isatap.16-b.it
 .isatap.32-b.it
@@ -68342,6 +68348,7 @@
 .lb._dns-sd.localplayer.dev
 .lb._dns-sd.is-local.org
 .lb._dns-sd.opensocial.site
+.lb._dns-sd.oaiusercontent.com
 .lb._dns-sd.opencraft.hosting
 .lb._dns-sd.16-b.it
 .lb._dns-sd.32-b.it
@@ -78192,6 +78199,7 @@
 .wpad.localplayer.dev
 .wpad.is-local.org
 .wpad.opensocial.site
+.wpad.oaiusercontent.com
 .wpad.opencraft.hosting
 .wpad.16-b.it
 .wpad.32-b.it
@@ -88042,6 +88050,7 @@
 .wpad.tcp.localplayer.dev
 .wpad.tcp.is-local.org
 .wpad.tcp.opensocial.site
+.wpad.tcp.oaiusercontent.com
 .wpad.tcp.opencraft.hosting
 .wpad.tcp.16-b.it
 .wpad.tcp.32-b.it
