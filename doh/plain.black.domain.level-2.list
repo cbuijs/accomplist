@@ -65,8 +65,8 @@ adguard.ruby.ci
 dns.michelo.cl
 dnsotls.lab.nic.cl
 farewellkou.click
-justhost.bedro.cloud
 dns.brembeck.cloud
+dns.brono.cloud
 dns.clanto.cloud
 doh.cnetwork.cloud
 gateway.fomichev.cloud
@@ -190,6 +190,7 @@ sg1.dnswarden.com
 uncensored-dot.dnswarden.com
 doh.us.dnswarden.com
 dnswebvsn.com
+resolver1.dyndnsinternetguide.com
 easyhandshake.com
 dns.edgeburnmedia.com
 edgy-dns.com
@@ -489,6 +490,7 @@ ads-doh.securedns.eu
 doh.securedns.eu
 dns.skrep.eu
 unasw.eu
+zougloub.eu
 dns.expert
 dns.connect.fail
 dns.christerwaren.fi
@@ -572,7 +574,6 @@ dns.gutwe.in
 dns.iamanuragh.in
 dns.kapite.in
 doh.micronets.in
-dns.skrep.in
 doh.technochat.in
 dns.zemows.industries
 dns.alloxr.info
@@ -678,6 +679,7 @@ doh.cornes.me
 dns.dekedin.me
 dnslow.me
 doh.dscloud.me
+dns.futuredns.me
 adg.geili.me
 gztech.me
 hitian.me
@@ -925,6 +927,7 @@ dns.karl.one
 dns.milkpie.one
 one.one.one.one
 adguard.abd.ong
+alleesph.online
 inpssh.online
 externalmobiel.lekdijk.online
 dns.mathewakhil.online
@@ -942,6 +945,7 @@ ca.doh.cloudveil.org
 us.doh.cloudveil.org
 dns.colorfreedom.org
 dns.csswg.org
+ns1.dotls.org
 home27.duckdns.org
 jurre-home.duckdns.org
 krtekvpn.duckdns.org
@@ -1183,7 +1187,6 @@ dns.elemental.software
 dns.cloudtrust.solutions
 mabuktogel.solutions
 dns.b33.space
-adguard.neon0404.space
 dns.sy.st
 home-server.store
 dns.xuming.studio
@@ -1310,8 +1313,7 @@ dns.nixnet.xyz
 lux1.nixnet.xyz
 lv1.nixnet.xyz
 ny1.nixnet.xyz
-a.passcloud.xyz
-i.passcloud.xyz
+passcloud.xyz
 pepetio.xyz
 pm1239-bd.xyz
 pm7051-br.xyz

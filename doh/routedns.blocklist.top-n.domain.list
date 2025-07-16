@@ -25,7 +25,6 @@
 .switch.ch
 .adguard.ruby.ci
 .dnsotls.lab.nic.cl
-.justhost.bedro.cloud
 .ps1.modr.club
 .dns.soldier.terumi.club
 .doh.360.cn
@@ -99,7 +98,6 @@
 .dns.controld.com
 .freedns.controld.com
 .dns.decloudus.com
-.dns.dns-over-https.com
 .ns1.recursive.dnsbycomodo.com
 .ns2.recursive.dnsbycomodo.com
 .dnscrypt-cert.shield-2.dnsbycomodo.com
@@ -319,13 +317,13 @@
 .dnsforge.de
 .dns.dnshome.de
 .opennic1.eth-services.de
+.doh.hottis.de
 .dns1.in-berlin.de
 .dns2.in-berlin.de
 .adguard.meddy94.de
 .esel.stusta.mhn.de
 .muli.stusta.mhn.de
 .dns.mnet-online.de
-.dns.murgi.de
 .doh.niyawe.de
 .project-evoex.de
 .dns.t-ipnet.de
@@ -468,7 +466,6 @@
 .nvi-dns.bitdefender.net
 .ore-dns.bitdefender.net
 .tky-dns.bitdefender.net
-.dns.cfiec.net
 .dns.233py.com.cdn.cloudflare.net
 .doh.apad.pro.cdn.cloudflare.net
 .d2bphvjyj895l0.cloudfront.net
@@ -520,7 +517,6 @@
 .dns.mullvad.net
 .doh.mullvad.net
 .echoe1yidzu4ioo5.myfritz.net
-.doh-ca.naftalie.net
 .ae-fuj-w-p-1.nashkan.net
 .ae-fuj-w-p-2.nashkan.net
 .ae-fuj-w-p-3.nashkan.net
@@ -754,7 +750,6 @@
 .frog.dns.qwer.pw
 .lion.dns.qwer.pw
 .tiger.dns.qwer.pw
-.addns1.m-it.ro
 .comss.ru
 .dns.ronc.ru
 .dns.yandex.ru
@@ -797,11 +792,11 @@
 .dns.brahma.world
 .dns.886886886.xyz
 .dns.andrewnw.xyz
+.dns.d94.xyz
 .hole.elbschloss.xyz
 .dns.nixnet.xyz
 .lux1.nixnet.xyz
 .lv1.nixnet.xyz
 .ny1.nixnet.xyz
-.a.passcloud.xyz
-.i.passcloud.xyz
+.passcloud.xyz
 .dns.froth.zone
