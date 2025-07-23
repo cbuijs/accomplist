@@ -1,6 +1,6 @@
 [Adblock Plus 1.1]
 ! Title: Accomplist "Doh" AdBlock List (Top-N Version)
-! Version: 1753166485
+! Version: 1753252782
 ! Homepage: https://github.com/cbuijs/accomplist/tree/master/doh
 !
 ! WhiteList Domains:
@@ -60,7 +60,6 @@
 ||dot.tooli.ca^
 ||mabuktogel.cards^
 ||sriedmueadguard.casa^
-||affsoft.cc^
 ||dns.flymc.cc^
 ||us-ny-alula.heliumcloud.cc^
 ||dns.interhub.cc^
@@ -258,6 +257,7 @@
 ||easyhandshake.com^
 ||edgy-dns.com^
 ||dns.editechstudio.com^
+||dns.efficientdocuments.com^
 ||dns.enzonix.com^
 ||dns.flwagners.com^
 ||biying.flymlc.com^
@@ -325,6 +325,7 @@
 ||msr177.com^
 ||ns.mtsoln.com^
 ||dpeddi.myddns.com^
+||dns.mzjtechnology.com^
 ||dns.nguyendn.com^
 ||dns.nhtsky.com^
 ||d.niaox.com^
@@ -853,7 +854,6 @@
 ||doh.kidzonet.io^
 ||dns.n23.io^
 ||resolver4.dns.openinternet.io^
-||de.dns.privex.io^
 ||nl.dns.privex.io^
 ||doh.qis.io^
 ||doh.rezhajul.io^
@@ -971,7 +971,6 @@
 ||ibksturm.synology.me^
 ||ihctw.synology.me^
 ||dns.warma.me^
-||a.zpn.me^
 ||br.servers.legat.ml^
 ||dns.stvsk.ml^
 ||doh.aaaab3n.moe^
@@ -1213,7 +1212,6 @@
 ||safe.dot.dns.yandex.net^
 ||dns.yuu-g.net^
 ||dns.daemon.za.net^
-||dns.edgy.network^
 ||adblock.mydns.network^
 ||family.mydns.network^
 ||freedom.mydns.network^
@@ -1495,7 +1493,6 @@
 ||zdn.ro^
 ||dns.quiet.rocks^
 ||sg2.curl.rs^
-||ad.anym0re.ru^
 ||comss.ru^
 ||qual.cuprum.ru^
 ||adguard.dekonix.ru^

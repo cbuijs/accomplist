@@ -7,6 +7,7 @@ dns.kescher.at
 kudns.kescher.at
 dns.belnet.be
 doh.beauty
+adguard.gbrossi.com.br
 doh.buzz
 doh.datahata.by
 canadianshield.cira.ca
@@ -356,6 +357,7 @@ child-noads.joindns4.eu
 noads.joindns4.eu
 protective.joindns4.eu
 unfiltered.joindns4.eu
+dns.connect.fail
 lastentarvike.fi
 lelux.fi
 ns.nwps.fi
@@ -380,6 +382,7 @@ commons.host
 mickedi.isgood.host
 dns.gi.co.id
 dns.spil.co.id
+dns.gnb09.id
 d.apemlegit.my.id
 dns.iki.my.id
 dns.lista.my.id
@@ -409,7 +412,6 @@ testaghome.meshkov.info
 dns.tracker.ink
 fly.io
 dns.guard.io
-de.dns.privex.io
 nl.dns.privex.io
 doh.qis.io
 doh.safesurfer.io
@@ -474,6 +476,8 @@ ned-dns.bitdefender.net
 nvi-dns.bitdefender.net
 ore-dns.bitdefender.net
 tky-dns.bitdefender.net
+delta.caspervk.net
+dns.caspervk.net
 dns.233py.com.cdn.cloudflare.net
 doh.apad.pro.cdn.cloudflare.net
 d2bphvjyj895l0.cloudfront.net
@@ -525,7 +529,6 @@ zrh1-ns01.monzoon.net
 dns.mullvad.net
 doh.mullvad.net
 echoe1yidzu4ioo5.myfritz.net
-doh-ca.naftalie.net
 ae-fuj-w-p-1.nashkan.net
 ae-fuj-w-p-2.nashkan.net
 ae-fuj-w-p-3.nashkan.net
@@ -754,6 +757,7 @@ zal01.dnscry.pt
 dns.pub
 doh.pub
 dot.pub
+doh.totoro.pub
 ttag.dns.nomu.pw
 ant.dns.qwer.pw
 dog.dns.qwer.pw
@@ -773,9 +777,11 @@ sg-sin2.doh.sb
 resolver.sunet.se
 privacydns.go6lab.si
 dns.levonet.sk
+dns.b33.space
 crypto.sx
 dns.startupstack.tech
 dns.koala.us.to
+dns2.cbio.top
 doh.viatech.com.tw
 adguard.shuting.idv.tw
 dns.twnic.tw
@@ -794,6 +800,7 @@ doh.dnscrypt.uk
 v.dnscrypt.uk
 dns.aa.net.uk
 doh.netweaver.uk
+adg.jnorton.us
 vps-33e5a7f3.vps.ovh.us
 tienpham.id.vn
 chungocoai.name.vn
