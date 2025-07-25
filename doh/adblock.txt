@@ -1,6 +1,6 @@
 [Adblock Plus 1.1]
 ! Title: Accomplist "Doh" AdBlock List (Top-N Version)
-! Version: 1753335995
+! Version: 1753425362
 ! Homepage: https://github.com/cbuijs/accomplist/tree/master/doh
 !
 ! WhiteList Domains:
@@ -171,7 +171,7 @@
 ||europe.avastdns.com^
 ||europe-west.avastdns.com^
 ||secure.avastdns.com^
-||dnssurobe.southeastasia.cloudapp.azure.com^
+||dnssurobe.malaysiawest.cloudapp.azure.com^
 ||dns.b72.com^
 ||fr-dns1.bancuh.com^
 ||jp-dns1.bancuh.com^
@@ -325,6 +325,7 @@
 ||msr177.com^
 ||ns.mtsoln.com^
 ||dpeddi.myddns.com^
+||dns.mzjtechnology.com^
 ||dns.nguyendn.com^
 ||dns.nhtsky.com^
 ||d.niaox.com^
@@ -449,6 +450,7 @@
 ||doh.umbrella.com^
 ||doh.valscosmos.com^
 ||dns.vishalk.com^
+||wantaquddin.com^
 ||dns.wechat.com^
 ||ns2.wuyouss.com^
 ||ns3.wuyouss.com^
@@ -456,6 +458,7 @@
 ||dot.xfinity.com^
 ||doh.gslb2.xfinity.com^
 ||doh2.gslb2.xfinity.com^
+||xorbiadns.com^
 ||dns.xusqui.com^
 ||dns.yameenassotally.com^
 ||lion.yazilimatolye.com^
