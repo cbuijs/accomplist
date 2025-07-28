@@ -1,4 +1,3 @@
-shield.afixer.app
 jpdns.cola16.app
 doh.disconnect.app
 tiar.app
@@ -54,7 +53,6 @@ dns.adguard.com
 dns-family.adguard.com
 dns-unfiltered.adguard.com
 adguard-dns.com
-dns.adrianlam.com
 blitz.ahadns.com
 blitz-setup.ahadns.com
 alidns.com
@@ -99,7 +97,6 @@ dot-sg.blahdns.com
 94950.bodis.com
 bravedns.com
 doh.bt.com
-c-dns.com
 dns.cloudflare.com
 cloudflare-dns.com
 cloudflare-gateway.com
@@ -349,7 +346,6 @@ doh.ibr.cs.tu-bs.de
 ines.zfn.uni-bremen.de
 abel.waringer-atg.de
 0ms.dev
-adguard.avdkishore.dev
 argon.molinero.dev
 dns.molinero.dev
 pages.dev
@@ -507,7 +503,6 @@ mimile.despagne.net
 tls-dns-u.odvr.dns-oarc.net
 dns4me.net
 dns.dnsoverhttps.net
-gustamadh.dynv6.net
 dnscache.e-utp.net
 doh.ersei.net
 pdns.faelix.net
@@ -540,6 +535,7 @@ zrh1-ns01.monzoon.net
 dns.mullvad.net
 doh.mullvad.net
 echoe1yidzu4ioo5.myfritz.net
+doh-ca.naftalie.net
 ae-fuj-w-p-1.nashkan.net
 ae-fuj-w-p-2.nashkan.net
 ae-fuj-w-p-3.nashkan.net
@@ -549,7 +545,6 @@ de-fra-w-p-1.nashkan.net
 de-fsn-w-p-1.nashkan.net
 fi-hel-w-f-2.nashkan.net
 fr-gra-w-p-1.nashkan.net
-gb-cov-w-f-1.nashkan.net
 gb-cov-w-p-1.nashkan.net
 gb-lon-w-f-1.nashkan.net
 gb-lon-w-p-1.nashkan.net
@@ -578,8 +573,7 @@ kiri.nonexiste.net
 dns.novg.net
 doh.onedns.net
 doh-pure.onedns.net
-ada.openbld.net
-ric.openbld.net
+openbld.net
 dns.eu-frankfurt-1.oci.oraclecloud.net
 dns.uk-london-1.oci.oraclecloud.net
 dns.us-ashburn-1.oci.oraclecloud.net
@@ -642,6 +636,7 @@ arashi.eu.org
 armorrush.eu.org
 dns.fullaccesstointernet.jp.eu.org
 dns.mayx.eu.org
+arashi.net.eu.org
 sukidayo.eu.org
 d4yge1fn4wr.d.firewalla.org
 dns.api.globus.org
@@ -826,7 +821,6 @@ dns.andrewnw.xyz
 dns.d94.xyz
 hole.elbschloss.xyz
 dns.kerekes.xyz
-dns.maolaohei.xyz
 a.passcloud.xyz
 i.passcloud.xyz
 dns.froth.zone

@@ -906,7 +906,6 @@
 .de-fsn-w-p-1.nashkan.net
 .fi-hel-w-f-2.nashkan.net
 .fr-gra-w-p-1.nashkan.net
-.gb-cov-w-f-1.nashkan.net
 .gb-cov-w-p-1.nashkan.net
 .gb-lon-w-f-1.nashkan.net
 .gb-lon-w-p-1.nashkan.net
@@ -939,8 +938,7 @@
 .dns.ofdoom.net
 .doh.onedns.net
 .doh-pure.onedns.net
-.ada.openbld.net
-.ric.openbld.net
+.openbld.net
 .rpz-public-resolver1.rrdns.pch.net
 .darya.persiannit.net
 .dns.phillipjberry.net
@@ -1029,6 +1027,7 @@
 .us.doh.cloudveil.org
 .dns.colorfreedom.org
 .dns.csswg.org
+.dnsbunker.org
 .ns1.dotls.org
 .home27.duckdns.org
 .jurre-home.duckdns.org
@@ -1042,6 +1041,7 @@
 .armorrush.eu.org
 .dns.fullaccesstointernet.jp.eu.org
 .dns.mayx.eu.org
+.arashi.net.eu.org
 .sukidayo.eu.org
 .dns.falkenthal.org
 .adguard.gambini.org
@@ -1649,7 +1649,6 @@
 .al223-a73e-bj-v0.0.dxng.net
 .cn1.dxng.net
 .cn1-v0.dxng.net
-.gustamadh.dynv6.net
 .anycast.ffmuc.net
 .eu-cdn.imoim.net
 .servidor01.itwebhost.net

@@ -1,6 +1,6 @@
 [Adblock Plus 1.1]
 ! Title: Accomplist "Doh" AdBlock List (Top-N Version)
-! Version: 1753598188
+! Version: 1753683246
 ! Homepage: https://github.com/cbuijs/accomplist/tree/master/doh
 !
 ! WhiteList Domains:
@@ -1069,7 +1069,6 @@
 ||al223-a73e-bj-v0.0.dxng.net^
 ||cn1.dxng.net^
 ||cn1-v0.dxng.net^
-||gustamadh.dynv6.net^
 ||dnscache.e-utp.net^
 ||adguard.easez.net^
 ||dns.eddi.net^
@@ -1136,7 +1135,6 @@
 ||de-fsn-w-p-1.nashkan.net^
 ||fi-hel-w-f-2.nashkan.net^
 ||fr-gra-w-p-1.nashkan.net^
-||gb-cov-w-f-1.nashkan.net^
 ||gb-cov-w-p-1.nashkan.net^
 ||gb-lon-w-f-1.nashkan.net^
 ||gb-lon-w-p-1.nashkan.net^
@@ -1169,8 +1167,7 @@
 ||dns.ofdoom.net^
 ||doh.onedns.net^
 ||doh-pure.onedns.net^
-||ada.openbld.net^
-||ric.openbld.net^
+||openbld.net^
 ||dns.eu-frankfurt-1.oci.oraclecloud.net^
 ||dns.uk-london-1.oci.oraclecloud.net^
 ||dns.us-ashburn-1.oci.oraclecloud.net^
@@ -1273,6 +1270,7 @@
 ||us.doh.cloudveil.org^
 ||dns.colorfreedom.org^
 ||dns.csswg.org^
+||dnsbunker.org^
 ||ns1.dotls.org^
 ||home27.duckdns.org^
 ||jurre-home.duckdns.org^
@@ -1287,6 +1285,7 @@
 ||armorrush.eu.org^
 ||dns.fullaccesstointernet.jp.eu.org^
 ||dns.mayx.eu.org^
+||arashi.net.eu.org^
 ||sukidayo.eu.org^
 ||faked.org^
 ||dns.falkenthal.org^
