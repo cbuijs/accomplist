@@ -1,6 +1,6 @@
 [Adblock Plus 1.1]
 ! Title: Accomplist "Doh" AdBlock List (Top-N Version)
-! Version: 1753768033
+! Version: 1753857488
 ! Homepage: https://github.com/cbuijs/accomplist/tree/master/doh
 !
 ! WhiteList Domains:
@@ -240,6 +240,7 @@
 ||ns1.recursive.dnsbycomodo.com^
 ||ns2.recursive.dnsbycomodo.com^
 ||dnscrypt-cert.shield-2.dnsbycomodo.com^
+||3enmn0mcyxsy.totoro.pub.eo.dnse5.com^
 ||dnsforfamily.com^
 ||doh.dnslify.com^
 ||ns.dnslify.com^
@@ -260,7 +261,6 @@
 ||easyhandshake.com^
 ||edgy-dns.com^
 ||dns.editechstudio.com^
-||dns.efficientdocuments.com^
 ||dns.enzonix.com^
 ||dns.flwagners.com^
 ||biying.flymlc.com^
@@ -276,7 +276,6 @@
 ||oko.haneulo.com^
 ||dns.hannielzhang.com^
 ||resolver-eu.haringstad.com^
-||cdn11.hc7z.com^
 ||dns.hellozhao.com^
 ||ww2.hellozhao.com^
 ||httpdns-push.heytapmobile.com^
@@ -878,6 +877,7 @@
 ||resolver.unstoppable.io^
 ||dns.unx.io^
 ||dns.wargan.io^
+||net01.youcef.io^
 ||dns.shecan.ir^
 ||free.shecan.ir^
 ||pro.shecan.ir^
@@ -1126,7 +1126,6 @@
 ||dns.mullvad.net^
 ||doh.mullvad.net^
 ||echoe1yidzu4ioo5.myfritz.net^
-||doh-ca.naftalie.net^
 ||ae-fuj-w-p-1.nashkan.net^
 ||ae-fuj-w-p-2.nashkan.net^
 ||ae-fuj-w-p-3.nashkan.net^
@@ -1546,6 +1545,7 @@
 ||adg.rueiliu.space^
 ||dns.sy.st^
 ||home-server.store^
+||dns.fizz.studio^
 ||dns.xuming.studio^
 ||crypto.sx^
 ||3jjxxl.tech^
@@ -1605,7 +1605,6 @@
 ||do.dnscrypt.uk^
 ||doh.dnscrypt.uk^
 ||v.dnscrypt.uk^
-||dns.dooks.uk^
 ||dns.aa.net.uk^
 ||doh.netweaver.uk^
 ||resolver.dnsprivacy.org.uk^
@@ -1628,6 +1627,7 @@
 ||dns.watch^
 ||polisitogel.webcam^
 ||rockwell.website^
+||yuvelirtut.website^
 ||zakaria.website^
 ||urology.wiki^
 ||adg.yybyy.wiki^
