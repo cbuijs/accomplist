@@ -13,13 +13,11 @@
 .dns1.pietjacobs.be
 .doh.beauty
 .pr-suspensions-neuweb-biz.expedrion.biz
-.adguard.gbrossi.com.br
 .doh.buzz
 .doh.datahata.by
 .canadianshield.cira.ca
 .ag.ff0x.ca
 .pangolin.ff0x.ca
-.adguard.jfchenier.ca
 .dns.flymc.cc
 .us-ny-alula.heliumcloud.cc
 .deep-henchman-excuse.cfd
@@ -35,7 +33,6 @@
 .dot.quickline.ch
 .dns.sheggi.ch
 .metis.sheggi.ch
-.dns.simplylinux.ch
 .switch.ch
 .adguard.ruby.ci
 .dns.michelo.cl
@@ -132,7 +129,7 @@
 .ns1.recursive.dnsbycomodo.com
 .ns2.recursive.dnsbycomodo.com
 .dnscrypt-cert.shield-2.dnsbycomodo.com
-.3enmn0mcyxsy.totoro.pub.eo.dnse5.com
+.doh.totoro.pub.eo.dnse5.com
 .dnsforfamily.com
 .doh.dnslify.com
 .ns.dnslify.com
@@ -275,15 +272,12 @@
 .gw-dk.brueggus.de
 .gw-hk.brueggus.de
 .gw-nl02.brueggus.de
-.gw-pk.brueggus.de
 .vps03.brueggus.de
 .vps119.brueggus.de
-.vps149.brueggus.de
 .vps153.brueggus.de
 .vps183.brueggus.de
 .vps19.brueggus.de
 .vps214.brueggus.de
-.vps216.brueggus.de
 .vps217.brueggus.de
 .vps221.brueggus.de
 .vps222.brueggus.de
@@ -332,7 +326,6 @@
 .vps359.brueggus.de
 .vps362.brueggus.de
 .vps363.brueggus.de
-.vps365.brueggus.de
 .vps366.brueggus.de
 .vps367.brueggus.de
 .vps369.brueggus.de
@@ -364,6 +357,9 @@
 .vps422.brueggus.de
 .vps427.brueggus.de
 .vps434.brueggus.de
+.vps453.brueggus.de
+.vps455.brueggus.de
+.vps456.brueggus.de
 .vps66.brueggus.de
 .dns.csa-rz.de
 .dns.csaonline.de
@@ -429,7 +425,6 @@
 .protective.joindns4.eu
 .unfiltered.joindns4.eu
 .dns.skrep.eu
-.dns.connect.fail
 .dns.christerwaren.fi
 .lastentarvike.fi
 .lelux.fi
@@ -460,7 +455,6 @@
 .mickedi.isgood.host
 .dns.gi.co.id
 .dns.spil.co.id
-.dns.gnb09.id
 .d.apemlegit.my.id
 .dns.iki.my.id
 .dns.lista.my.id
@@ -604,7 +598,6 @@
 .tls-dns-u.odvr.dns-oarc.net
 .dns4me.net
 .dns.dnsoverhttps.net
-.gustamadh.dynv6.net
 .dnscache.e-utp.net
 .doh.ersei.net
 .pdns.faelix.net
@@ -640,6 +633,7 @@
 .dns.mullvad.net
 .doh.mullvad.net
 .echoe1yidzu4ioo5.myfritz.net
+.doh-ca.naftalie.net
 .ae-fuj-w-p-1.nashkan.net
 .ae-fuj-w-p-2.nashkan.net
 .ae-fuj-w-p-3.nashkan.net
@@ -874,7 +868,6 @@
 .slc01.dnscry.pt
 .sof01.dnscry.pt
 .sto01.dnscry.pt
-.syd01.dnscry.pt
 .syd02.dnscry.pt
 .tbs01.dnscry.pt
 .tll01.dnscry.pt
@@ -970,7 +963,6 @@
 .chungocoai.name.vn
 .adguard.quydang.name.vn
 .dns.watch
-.dns.meeo.win
 .dns.superstefan.win
 .dns.brahma.world
 .dns.busold.ws

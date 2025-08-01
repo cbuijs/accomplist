@@ -92,6 +92,7 @@ dns.wibenson.cloud
 dns-1.wil.cloud
 dns-2.wil.cloud
 wyx.cloud
+dns.comeonjames.club
 adguard.ef67daisuki.club
 ps1.modr.club
 qrtz.club
@@ -228,7 +229,7 @@ dns.dns-over-https.com
 ns1.recursive.dnsbycomodo.com
 ns2.recursive.dnsbycomodo.com
 dnscrypt-cert.shield-2.dnsbycomodo.com
-3enmn0mcyxsy.totoro.pub.eo.dnse5.com
+doh.totoro.pub.eo.dnse5.com
 dnsforfamily.com
 doh.dnslify.com
 ns.dnslify.com
@@ -476,15 +477,12 @@ adguard.bonis.de
 gw-dk.brueggus.de
 gw-hk.brueggus.de
 gw-nl02.brueggus.de
-gw-pk.brueggus.de
 vps03.brueggus.de
 vps119.brueggus.de
-vps149.brueggus.de
 vps153.brueggus.de
 vps183.brueggus.de
 vps19.brueggus.de
 vps214.brueggus.de
-vps216.brueggus.de
 vps217.brueggus.de
 vps221.brueggus.de
 vps222.brueggus.de
@@ -533,7 +531,6 @@ vps356.brueggus.de
 vps359.brueggus.de
 vps362.brueggus.de
 vps363.brueggus.de
-vps365.brueggus.de
 vps366.brueggus.de
 vps367.brueggus.de
 vps369.brueggus.de
@@ -565,6 +562,9 @@ vps421.brueggus.de
 vps422.brueggus.de
 vps427.brueggus.de
 vps434.brueggus.de
+vps453.brueggus.de
+vps455.brueggus.de
+vps456.brueggus.de
 vps66.brueggus.de
 chaos-system.de
 dns.csa-rz.de
@@ -1058,7 +1058,6 @@ takhtakh.domyah.net
 al223-a73e-bj-v0.0.dxng.net
 cn1.dxng.net
 cn1-v0.dxng.net
-gustamadh.dynv6.net
 dnscache.e-utp.net
 adguard.easez.net
 dns.eddi.net
@@ -1441,7 +1440,6 @@ sjc01.dnscry.pt
 slc01.dnscry.pt
 sof01.dnscry.pt
 sto01.dnscry.pt
-syd01.dnscry.pt
 syd02.dnscry.pt
 tbs01.dnscry.pt
 tll01.dnscry.pt
