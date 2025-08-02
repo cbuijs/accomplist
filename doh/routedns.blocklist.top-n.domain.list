@@ -55,7 +55,6 @@
 .ea-dns.rubyfish.cn
 .uw-dns.rubyfish.cn
 .v6.rubyfish.cn
-.pr-suspensions.go.co
 .dns.oszx.co
 .dns.tipsy.coffee
 .family.5ososea.com
@@ -146,6 +145,7 @@
 .doh.us.dnswarden.com
 .dns.efficientdocuments.com
 .dns.enzonix.com
+.doh.flashstart.com
 .dns.gamban.com
 .dns.google.com
 .google-public-dns-a.google.com
@@ -243,7 +243,6 @@
 .dnsovertls1.sinodun.com
 .dnsovertls2.sinodun.com
 .dnsovertls3.sinodun.com
-.sitdns.com
 .doh-01.spectrum.com
 .doh-02.spectrum.com
 .dns.stirringphoto.com
@@ -373,6 +372,7 @@
 .dukun.de
 .opennic1.eth-services.de
 .dns.floriantinney.de
+.doh.hottis.de
 .dns1.in-berlin.de
 .dns2.in-berlin.de
 .jabber-germany.de
@@ -598,6 +598,7 @@
 .tls-dns-u.odvr.dns-oarc.net
 .dns4me.net
 .dns.dnsoverhttps.net
+.gustamadh.dynv6.net
 .dnscache.e-utp.net
 .doh.ersei.net
 .pdns.faelix.net
