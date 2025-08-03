@@ -8961,6 +8961,7 @@ autoconfig.koobin.events
 autoconfig.webthings.io
 autoconfig.krellian.net
 autoconfig.oya.to
+autoconfig.co.de
 autoconfig.laravel.cloud
 autoconfig.git-repos.de
 autoconfig.lcube-server.de
@@ -18876,6 +18877,7 @@ _autodiscover.koobin.events
 _autodiscover.webthings.io
 _autodiscover.krellian.net
 _autodiscover.oya.to
+_autodiscover.co.de
 _autodiscover.laravel.cloud
 _autodiscover.git-repos.de
 _autodiscover.lcube-server.de
@@ -28791,6 +28793,7 @@ autodiscover.koobin.events
 autodiscover.webthings.io
 autodiscover.krellian.net
 autodiscover.oya.to
+autodiscover.co.de
 autodiscover.laravel.cloud
 autodiscover.git-repos.de
 autodiscover.lcube-server.de
@@ -38706,6 +38709,7 @@ b._dns-sd.koobin.events
 b._dns-sd.webthings.io
 b._dns-sd.krellian.net
 b._dns-sd.oya.to
+b._dns-sd.co.de
 b._dns-sd.laravel.cloud
 b._dns-sd.git-repos.de
 b._dns-sd.lcube-server.de
@@ -48621,6 +48625,7 @@ db._dns-sd.koobin.events
 db._dns-sd.webthings.io
 db._dns-sd.krellian.net
 db._dns-sd.oya.to
+db._dns-sd.co.de
 db._dns-sd.laravel.cloud
 db._dns-sd.git-repos.de
 db._dns-sd.lcube-server.de
@@ -58536,6 +58541,7 @@ isatap.koobin.events
 isatap.webthings.io
 isatap.krellian.net
 isatap.oya.to
+isatap.co.de
 isatap.laravel.cloud
 isatap.git-repos.de
 isatap.lcube-server.de
@@ -68451,6 +68457,7 @@ lb._dns-sd.koobin.events
 lb._dns-sd.webthings.io
 lb._dns-sd.krellian.net
 lb._dns-sd.oya.to
+lb._dns-sd.co.de
 lb._dns-sd.laravel.cloud
 lb._dns-sd.git-repos.de
 lb._dns-sd.lcube-server.de
@@ -78366,6 +78373,7 @@ wpad.koobin.events
 wpad.webthings.io
 wpad.krellian.net
 wpad.oya.to
+wpad.co.de
 wpad.laravel.cloud
 wpad.git-repos.de
 wpad.lcube-server.de
@@ -88281,6 +88289,7 @@ wpad.tcp.koobin.events
 wpad.tcp.webthings.io
 wpad.tcp.krellian.net
 wpad.tcp.oya.to
+wpad.tcp.co.de
 wpad.tcp.laravel.cloud
 wpad.tcp.git-repos.de
 wpad.tcp.lcube-server.de
