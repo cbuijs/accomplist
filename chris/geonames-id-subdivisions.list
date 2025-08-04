@@ -13,8 +13,6 @@
 7628322	?ekavas Novads	LV
 864481	?iauliai County	LT
 3337525	?ibenik-Knin County	HR
-1584169	?k L?k Province	VN
-1904987	?k N?ng	VN
 9611692	?lands landsbygd	AX
 9611694	?lands sk?rg?rd	AX
 3012874	?le-de-France	FR
@@ -150,7 +148,7 @@
 250439	Amman Governorate	JO
 7670904	Amoron'i Mania Region	MG
 2027748	Amur Oblast	RU
-1594446	An Giang	VN
+13494362	An Giang	VN
 98862	An Najaf	IQ
 2593778	An Nuq? al Khams	LY
 2110449	Anabar District	NR
@@ -252,6 +250,7 @@
 1147707	B?dgh?s	AF
 11281878	B?ni Mellal-Kh?nifra	MA
 1282478	Baa Atholhu	MV
+13494344	Bac Ninh	VN
 685947	Bac?u	RO
 1147745	Badakhsh?n	AF
 2953481	Baden-W?rttemberg	DE
@@ -450,6 +449,7 @@
 683016	C?l?ra?i	RO
 3860255	C?rdoba Province	AR
 460569	C?su Novads	LV
+13494364	Ca Mau	VN
 3659849	Ca?ar	EC
 2243266	Cabinda	AO
 1051823	Cabo Delgado Province	MZ
@@ -463,6 +463,7 @@
 5332921	California	US
 3181042	Campania	IT
 4563065	Camuy Municipio	PR
+13494363	Can Tho City	VN
 4563169	Can?vanas Municipio	PR
 11351387	Canaries	LC
 2593110	Canary Islands	ES
@@ -743,6 +744,7 @@
 7115999	D?partement de Nippes	HT
 3719540	D?partement du Nord-Est	HT
 865521	D?zce	TR
+13494351	Da Nang City	VN
 601465	Da?oguz Wela?aty	TM
 12165662	Dadra and Nagar Haveli and Daman and Diu	IN
 1835327	Daegu	KR
@@ -753,6 +755,7 @@
 1337280	Dagana Dzongkhag	BT
 567293	Dagestan	RU
 3508951	Dajab?n	DO
+13494355	Dak Lak	VN
 2253350	Dakar	SN
 11281886	Dakhla-Oued Ed-Dahab	MA
 2380426	Dakhlet Nouadhibou	MR
@@ -1018,6 +1021,8 @@
 863849	Dolneni	MK
 618381	Dondu?eni	MD
 709716	Donetska Oblast	UA
+13494357	Dong Nai	VN
+13494360	Dong Thap	VN
 2597274	Donga	BJ
 4564134	Dorado Municipio	PR
 3239248	Dornava	SI
@@ -1240,7 +1245,7 @@
 863854	Gevgelija	MK
 2217350	Gh?t	LY
 933758	Ghanzi District	BW
-1581088	Gia Lai	VN
+13494353	Gia Lai	VN
 1863640	Gifu	JP
 133349	Gilan Province	IR
 2110215	Gilbert Islands	KI
@@ -1365,7 +1370,6 @@
 3426182	H?fu?borgarsvae?i	IS
 2036965	H?il?ngji?ng	CN
 858803	H?nce?ti	MD
-7506719	H?u Giang Province	VN
 2030469	H?vsg?l Aymag	MN
 4032637	Ha'apai	TO
 106280	Ha'il Region	SA
@@ -1375,6 +1379,7 @@
 75411	Hadhramaut Governorate	YE
 7603251	Hadjer-Lamis	TD
 4044019	Hag?t?a Municipality	GU
+13494346	Hai Phong	VN
 294800	Haifa	IL
 1809054	Hainan	CN
 720293	Hajd?-Bihar	HU
@@ -1421,7 +1426,7 @@
 592133	Hiiumaa	EE
 1862413	Hiroshima-ken	JP
 3067695	Hlavn? m?sto Praha	CZ
-1580578	Ho Chi Minh City	VN
+13494358	Ho Chi Minh City (HCMC)	VN
 2379025	Hodh ech Chargui	MR
 2379024	Hodh el Gharbi	MR
 3344940	Hodos	SI
@@ -1446,6 +1451,7 @@
 4565449	Humacao Municipio	PR
 1806691	Hunan	CN
 675917	Hunedoara	RO
+13494347	Hung Yen	VN
 1876888	Hwanghae-bukto	KP
 1876884	Hwanghae-namdo	KP
 1862047	Hy?go	JP
@@ -1684,6 +1690,7 @@
 2022888	Khabarovskiy Kray	RU
 586001	Khachmaz Rayon	AZ
 1656538	Khammouan	LA
+13494354	Khanh Hoa	VN
 1503773	Khanty-Mansiyskiy Avtonomnyy Okrug-Yugra	RU
 706482	Kharkivska Oblast	UA
 379253	Khartoum	SD
@@ -1733,7 +1740,6 @@
 3239078	Komen	SI
 3344896	Komenda	SI
 545854	Komi	RU
-1565088	Kon Tum	VN
 306569	Konya	TR
 3197752	Koper	SI
 3337518	Koprivnica-Kri?evci County	HR
@@ -1828,10 +1834,12 @@
 189794	Laikipia	KE
 4565900	Lajas Municipio	PR
 408647	Lakes	SS
+13494356	Lam Dong	VN
 7667643	Lamu	KE
 2950157	Land Berlin	DE
 147613	Lankaran Rayon	AZ
 409418	Lankaran Sahari	AZ
+13494334	Lao Cai	VN
 830603	Lapland	FI
 4565910	Lares Municipio	PR
 4565961	Las Mar?as Municipio	PR
@@ -1887,7 +1895,6 @@
 11288214	Lomami	CD
 3174618	Lombardia	IT
 9782180	Lonan	IM
-1575788	Long An	VN
 3572005	Long Island	BS
 125605	Lorestan Province	IR
 828263	Lori	AM
@@ -2273,6 +2280,7 @@
 1855429	Niigata-ken	JP
 2274688	Nimba County	LR
 1799355	Ningxia Hui Autonomous Region	CN
+13494348	Ninh Binh	VN
 617754	Nisporeni	MD
 3343956	Nitra	SK
 7668055	Niuas	TO
@@ -2633,6 +2641,7 @@
 1830103	Phnom Penh	KH
 7521379	Phoenix Islands	KI
 1607530	Phra Nakhon Si Ayutthaya	TH
+13494345	Phu Tho	VN
 1151253	Phuket Province	TH
 3392213	Piau?	BR
 3170831	Piemonte	IT
@@ -2857,6 +2866,8 @@
 8299742	Qormi	MT
 1521671	Qostanay Oblysy	KZ
 6115047	Qu?bec	CA
+13494352	Quang Ngai	VN
+13494350	Quang Tri	VN
 585786	Quba Rayon	AZ
 147694	Qubadli Rayon	AZ
 4567734	Quebradillas Municipio	PR
@@ -3386,55 +3397,14 @@
 409314	Syunik	AM
 715593	Szabolcs-Szatm?r-Bereg	HU
 1905099	T?nh ?i?n Bi?n	VN
-1582562	T?nh ?ng Th?p	VN
-1582720	T?nh ?ng Nai	VN
-1584534	T?nh B? R?a-V?ng T?u	VN
-1905412	T?nh B?c Ninh	VN
-1905419	T?nh B?c Giang	VN
-1905669	T?nh B?c K?n	VN
-1905675	T?nh B?c Li?u	VN
-1587974	T?nh B?n Tre	VN
-1581882	T?nh B?nh Thu?n	VN
-1587871	T?nh B?nh ?nh	VN
-1905475	T?nh B?nh D?ng	VN
-1905480	T?nh B?nh Ph?c	VN
-1905678	T?nh C? Mau	VN
 1586182	T?nh Cao B?ng	VN
 1580700	T?nh H? T?nh	VN
-1581030	T?nh H? Giang	VN
-1905637	T?nh H? Nam	VN
-1572594	T?nh H?a B?nh	VN
-1905686	T?nh H?i D?ng	VN
-1905699	T?nh H?ng Y?n	VN
-1579634	T?nh Kh?nh H?a	VN
-1579008	T?nh Ki?n Giang	VN
-1577882	T?nh L?m ?ng	VN
 1576632	T?nh L?ng S?n	VN
-1562412	T?nh L?o Cai	VN
 1577954	T?nh Lai Ch?u	VN
-1905626	T?nh Nam ?nh	VN
 1559969	T?nh Ngh? An	VN
-1559970	T?nh Ninh B?nh	VN
-1559971	T?nh Ninh Thu?n	VN
-1569805	T?nh Ph? Y?n	VN
-1905577	T?nh Ph? Th?	VN
-1568733	T?nh Qu?ng Tr?	VN
 1568758	T?nh Qu?ng Ninh	VN
-1568769	T?nh Qu?ng Ng?i	VN
-1568839	T?nh Qu?ng B?nh	VN
-1905516	T?nh Qu?ng Nam	VN
-1559972	T?nh S?c Tr?ng	VN
 1567643	T?nh S?n La	VN
-1566557	T?nh T?y Ninh	VN
-1566338	T?nh Th?i B?nh	VN
-1905497	T?nh Th?i Nguy?n	VN
 1566165	T?nh Thanh H?a	VN
-1564676	T?nh Ti?n Giang	VN
-1559975	T?nh Tr? Vinh	VN
-1559976	T?nh Tuy?n Quang	VN
-1559977	T?nh V?nh Long	VN
-1905856	T?nh V?nh Ph?c	VN
-1559978	T?nh Y?n B?i	VN
 8299726	Ta' Ker?em	MT
 8299758	Ta' Xbiex	MT
 3344904	Tabor	SI
@@ -3480,6 +3450,7 @@
 484048	Tatarstan	RU
 864482	Taurag? County	LT
 828265	Tavush	AM
+13494359	Tay Ninh	VN
 7647525	Tboung Khmum	KH
 863906	Tearce	MK
 110791	Tehran Province	IR
@@ -3498,11 +3469,9 @@
 863907	Tetovo	MK
 4736286	Texas	US
 1565033	Th?a Thi?n Hu?	VN
-1581188	Th?nh Ph? C?n Th?	VN
-1581297	Th?nh Ph? H?i Ph?ng	VN
-1905468	Th?nh Ph? ? N?ng	VN
 1281881	Thaa Atholhu	MV
 932011	Thaba-Tseka	LS
+13494335	Thai Nguyen	VN
 179380	Tharaka - Nithi	KE
 11205444	The Farrington	AI
 11205439	The Quarter	AI
@@ -3584,6 +3553,7 @@
 178914	Turkana	KE
 1524787	Turkistan	KZ
 1820068	Tutong	BN
+13494365	Tuyen Quang	VN
 12104729	Tuzi	ME
 480041	Tver Oblast	RU
 1488747	Tyumenskaya Oblast'	RU
@@ -3688,6 +3658,7 @@
 864485	Vilnius County	LT
 1347488	Viloyati Khatlon	TJ
 1221092	Viloyati Sughd	TJ
+13494361	Vinh Long	VN
 863912	Vinica	MK
 689559	Vinnytsya Oblast	UA
 3239075	Vipava	SI
