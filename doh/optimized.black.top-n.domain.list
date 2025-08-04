@@ -39,7 +39,6 @@ dns.michelo.cl
 dnsotls.lab.nic.cl
 justhost.bedro.cloud
 dns.brembeck.cloud
-gateway.fomichev.cloud
 regiopolis.cloud
 dns.roedel.cloud
 ps1.modr.club
@@ -78,7 +77,6 @@ dns-prod-alb-194669935.us-east-1.elb.amazonaws.com
 dns-sandbox-alb-275183166.us-east-1.elb.amazonaws.com
 dns-staging-alb-849259019.us-east-1.elb.amazonaws.com
 dns-test-alb-2081756747.us-east-1.elb.amazonaws.com
-registry-web-suspension-1912215664.us-east-1.elb.amazonaws.com
 ag.apollohct.com
 doh.dns.apple.com
 dns.arapurayil.com
@@ -382,7 +380,6 @@ adguard.meddy94.de
 esel.stusta.mhn.de
 muli.stusta.mhn.de
 dns.mnet-online.de
-dns.murgi.de
 dns.nick-slowinski.de
 doh.niyawe.de
 dns.peb-schmidt.de
@@ -472,7 +469,6 @@ doh.angry.im
 dnscrypt-cert.captnemo.in
 doh.captnemo.in
 static.captnemo.in
-dns.d365.in
 dns.kapite.in
 dns.d96.info
 integration.dnsteam.globuscs.info
@@ -483,7 +479,6 @@ dns.api.integration.globuscs.info
 dns.api.sandbox.globuscs.info
 dns.api.staging.globuscs.info
 dns.api.test.globuscs.info
-testaghome.meshkov.info
 dns.tracker.ink
 dns.bitservices.io
 fly.io
@@ -634,6 +629,7 @@ zrh1-ns01.monzoon.net
 dns.mullvad.net
 doh.mullvad.net
 echoe1yidzu4ioo5.myfritz.net
+doh-ca.naftalie.net
 ae-fuj-w-p-1.nashkan.net
 ae-fuj-w-p-2.nashkan.net
 ae-fuj-w-p-3.nashkan.net
@@ -971,7 +967,6 @@ glf.wtf
 123000123.xyz
 3dcosas.xyz
 dns.688447.xyz
-dns.886886886.xyz
 dns.andrewnw.xyz
 dns.d94.xyz
 do-39574-tr.xyz
