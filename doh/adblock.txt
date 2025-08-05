@@ -1,6 +1,6 @@
 [Adblock Plus 1.1]
 ! Title: Accomplist "Doh" AdBlock List (Top-N Version)
-! Version: 1754285476
+! Version: 1754375816
 ! Homepage: https://github.com/cbuijs/accomplist/tree/master/doh
 !
 ! WhiteList Domains:
@@ -64,6 +64,7 @@
 ||us-ny-alula.heliumcloud.cc^
 ||dns.interhub.cc^
 ||maxfong.cc^
+||resolve2.r9x.cc^
 ||xenergy.cc^
 ||dns.keweon.center^
 ||ychen.cf^
@@ -259,7 +260,6 @@
 ||easyhandshake.com^
 ||edgy-dns.com^
 ||dns.editechstudio.com^
-||dns.efficientdocuments.com^
 ||dns.enzonix.com^
 ||doh.flashstart.com^
 ||dns.flwagners.com^
@@ -1006,6 +1006,7 @@
 ||syd.adfilter.net^
 ||affcdn.net^
 ||ahadns.net^
+||adguard.ajinga.net^
 ||dns.alekberg.net^
 ||dns2.alekberg.net^
 ||dnses.alekberg.net^
@@ -1173,6 +1174,7 @@
 ||dns.us-ashburn-1.oci.oraclecloud.net^
 ||dns.us-phoenix-1.oci.oraclecloud.net^
 ||rpz-public-resolver1.rrdns.pch.net^
+||dns.pernika.net^
 ||darya.persiannit.net^
 ||dns.phillipjberry.net^
 ||dns.princex.net^
@@ -1649,7 +1651,7 @@
 ||003153.xyz^
 ||123000123.xyz^
 ||dns.240527.xyz^
-||354688.xyz^
+||dns.354688.xyz^
 ||3dcosas.xyz^
 ||dns.688447.xyz^
 ||dns.853852.xyz^
