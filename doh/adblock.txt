@@ -1,6 +1,6 @@
 [Adblock Plus 1.1]
 ! Title: Accomplist "Doh" AdBlock List (Top-N Version)
-! Version: 1754462360
+! Version: 1754549131
 ! Homepage: https://github.com/cbuijs/accomplist/tree/master/doh
 !
 ! WhiteList Domains:
@@ -139,6 +139,7 @@
 ||adb.aadityakushwaha.com^
 ||doh.dns.apple.com.v.aaplimg.com^
 ||doh-dns-apple-com.v.aaplimg.com^
+||dns.aaytorr.com^
 ||adblockersite.com^
 ||dns.adguard.com^
 ||dns-family.adguard.com^
@@ -261,7 +262,6 @@
 ||easyhandshake.com^
 ||edgy-dns.com^
 ||dns.editechstudio.com^
-||dns.efficientdocuments.com^
 ||dns.enzonix.com^
 ||doh.flashstart.com^
 ||dns.flwagners.com^
@@ -329,7 +329,6 @@
 ||msr177.com^
 ||ns.mtsoln.com^
 ||dpeddi.myddns.com^
-||dns.mzjtechnology.com^
 ||dns.nguyendn.com^
 ||dns.nhtsky.com^
 ||d.niaox.com^
@@ -977,6 +976,7 @@
 ||do.shimul.me^
 ||ibksturm.synology.me^
 ||ihctw.synology.me^
+||doh.thio.me^
 ||dns.warma.me^
 ||br.servers.legat.ml^
 ||dns.stvsk.ml^
@@ -1367,6 +1367,7 @@
 ||dns.henek.ovh^
 ||jackyes.ovh^
 ||dns.mateo.ovh^
+||dns.privado.ovh^
 ||orpi.privado.ovh^
 ||szpadel.ovh^
 ||dns.hotta.page^
@@ -1550,7 +1551,6 @@
 ||adg.rueiliu.space^
 ||dns.sy.st^
 ||home-server.store^
-||dns.fizz.studio^
 ||dns.xuming.studio^
 ||crypto.sx^
 ||3jjxxl.tech^
@@ -1558,6 +1558,7 @@
 ||dns.daarrk.tech^
 ||dns.startupstack.tech^
 ||tuskythehusky.tech^
+||dns.zfsystem.tech^
 ||voyage-s01.cloudku.technology^
 ||dns.kawa.tf^
 ||jp1.f7b6h9.tk^
