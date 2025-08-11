@@ -1,6 +1,6 @@
 [Adblock Plus 1.1]
 ! Title: Accomplist "Doh" AdBlock List (Top-N Version)
-! Version: 1754808575
+! Version: 1754892981
 ! Homepage: https://github.com/cbuijs/accomplist/tree/master/doh
 !
 ! WhiteList Domains:
@@ -261,7 +261,6 @@
 ||easyhandshake.com^
 ||edgy-dns.com^
 ||dns.editechstudio.com^
-||dns.efficientdocuments.com^
 ||dns.enzonix.com^
 ||doh.flashstart.com^
 ||dns.flwagners.com^
@@ -329,6 +328,7 @@
 ||msr177.com^
 ||ns.mtsoln.com^
 ||dpeddi.myddns.com^
+||dns.mzjtechnology.com^
 ||dns.nguyendn.com^
 ||dns.nhtsky.com^
 ||d.niaox.com^
@@ -1199,7 +1199,6 @@
 ||dns.slinkyman.net^
 ||clientdns3.softcom.net^
 ||dns.stevenz.net^
-||doh.sunoaki.net^
 ||dns.thegoodsource.net^
 ||timedns.net^
 ||nsc.torgues.net^
@@ -1552,6 +1551,7 @@
 ||adg.rueiliu.space^
 ||dns.sy.st^
 ||home-server.store^
+||dns.fizz.studio^
 ||dns.xuming.studio^
 ||crypto.sx^
 ||3jjxxl.tech^
