@@ -105,6 +105,8 @@
 .ns2.recursive.dnsbycomodo.com
 .dnscrypt-cert.shield-2.dnsbycomodo.com
 .doh.totoro.pub.eo.dnse5.com
+.doh.dnslify.com
+.ns.dnslify.com
 .adblock-dot.dnswarden.com
 .adult-filter-dot.dnswarden.com
 .doh.asia.dnswarden.com
@@ -116,6 +118,7 @@
 .sg1.dnswarden.com
 .uncensored-dot.dnswarden.com
 .doh.us.dnswarden.com
+.dns.efficientdocuments.com
 .dns.gamban.com
 .dns.google.com
 .google-public-dns-a.google.com
@@ -140,7 +143,6 @@
 .doh.maskab.com
 .httpdns.meituan.com
 .inf-wan.vip.meituan.com
-.mendozasdelivery.com
 .doh.mmmalia.com
 .dnstls.mobik.com
 .ns.mtsoln.com
@@ -215,7 +217,6 @@
 .dns.datenquark.de
 .dnsforge.de
 .dns.dnshome.de
-.dns.dremaxx.de
 .dukun.de
 .dns.floriantinney.de
 .dns1.in-berlin.de
@@ -640,6 +641,7 @@
 .zal01.dnscry.pt
 .dns.pub
 .doh.pub
+.dot.pub
 .ant.dns.qwer.pw
 .dog.dns.qwer.pw
 .frog.dns.qwer.pw
@@ -723,7 +725,6 @@
 .lukscasino-929-tr.xyz
 .maqgie.xyz
 .dns.mh4ckt3mh4ckt1c4s.xyz
-.mikezhang.xyz
 .pepetio.xyz
 .pm7051-br.xyz
 .pm9352-bd.xyz
