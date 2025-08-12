@@ -9403,6 +9403,7 @@
 .autoconfig.in.net
 .autoconfig.myrdbx.io
 .autoconfig.site.rb-hosting.io
+.autoconfig.up.railway.app
 .autoconfig.on-rancher.cloud
 .autoconfig.on-k3s.io
 .autoconfig.on-rio.io
@@ -19317,6 +19318,7 @@
 ._autodiscover.in.net
 ._autodiscover.myrdbx.io
 ._autodiscover.site.rb-hosting.io
+._autodiscover.up.railway.app
 ._autodiscover.on-rancher.cloud
 ._autodiscover.on-k3s.io
 ._autodiscover.on-rio.io
@@ -29231,6 +29233,7 @@
 .autodiscover.in.net
 .autodiscover.myrdbx.io
 .autodiscover.site.rb-hosting.io
+.autodiscover.up.railway.app
 .autodiscover.on-rancher.cloud
 .autodiscover.on-k3s.io
 .autodiscover.on-rio.io
@@ -39145,6 +39148,7 @@
 .b._dns-sd.in.net
 .b._dns-sd.myrdbx.io
 .b._dns-sd.site.rb-hosting.io
+.b._dns-sd.up.railway.app
 .b._dns-sd.on-rancher.cloud
 .b._dns-sd.on-k3s.io
 .b._dns-sd.on-rio.io
@@ -49059,6 +49063,7 @@
 .db._dns-sd.in.net
 .db._dns-sd.myrdbx.io
 .db._dns-sd.site.rb-hosting.io
+.db._dns-sd.up.railway.app
 .db._dns-sd.on-rancher.cloud
 .db._dns-sd.on-k3s.io
 .db._dns-sd.on-rio.io
@@ -58973,6 +58978,7 @@
 .isatap.in.net
 .isatap.myrdbx.io
 .isatap.site.rb-hosting.io
+.isatap.up.railway.app
 .isatap.on-rancher.cloud
 .isatap.on-k3s.io
 .isatap.on-rio.io
@@ -68887,6 +68893,7 @@
 .lb._dns-sd.in.net
 .lb._dns-sd.myrdbx.io
 .lb._dns-sd.site.rb-hosting.io
+.lb._dns-sd.up.railway.app
 .lb._dns-sd.on-rancher.cloud
 .lb._dns-sd.on-k3s.io
 .lb._dns-sd.on-rio.io
@@ -78801,6 +78808,7 @@
 .wpad.in.net
 .wpad.myrdbx.io
 .wpad.site.rb-hosting.io
+.wpad.up.railway.app
 .wpad.on-rancher.cloud
 .wpad.on-k3s.io
 .wpad.on-rio.io
@@ -88715,6 +88723,7 @@
 .wpad.tcp.in.net
 .wpad.tcp.myrdbx.io
 .wpad.tcp.site.rb-hosting.io
+.wpad.tcp.up.railway.app
 .wpad.tcp.on-rancher.cloud
 .wpad.tcp.on-k3s.io
 .wpad.tcp.on-rio.io
