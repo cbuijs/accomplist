@@ -8004,6 +8004,7 @@
 .autoconfig.raw.icp0.io
 .autoconfig.icp1.io
 .autoconfig.raw.icp1.io
+.autoconfig.icp.net
 .autoconfig.caffeine.site
 .autoconfig.dfirma.pl
 .autoconfig.dkonto.pl
@@ -9392,6 +9393,8 @@
 .autoconfig.qoto.io
 .autoconfig.qualifioapp.com
 .autoconfig.ladesk.com
+.autoconfig.qualyhqpartner.com
+.autoconfig.qualyhqportal.com
 .autoconfig.qbuser.com
 .autoconfig.quipelements.com
 .autoconfig.vapor.cloud
@@ -9735,6 +9738,8 @@
 .autoconfig.mytabit.co.il
 .autoconfig.tabitorder.co.il
 .autoconfig.taifun-dns.de
+.autoconfig.erp.dev
+.autoconfig.web.erp.dev
 .autoconfig.ts.net
 .autoconfig.c.ts.net
 .autoconfig.gda.pl
@@ -9915,6 +9920,7 @@
 .autoconfig.virtualserver.io
 .autoconfig.enterprisecloud.nu
 .autoconfig.zone.id
+.autoconfig.zabc.net
 ._autodiscover.ac
 ._autodiscover.com.ac
 ._autodiscover.edu.ac
@@ -17921,6 +17927,7 @@
 ._autodiscover.raw.icp0.io
 ._autodiscover.icp1.io
 ._autodiscover.raw.icp1.io
+._autodiscover.icp.net
 ._autodiscover.caffeine.site
 ._autodiscover.dfirma.pl
 ._autodiscover.dkonto.pl
@@ -19309,6 +19316,8 @@
 ._autodiscover.qoto.io
 ._autodiscover.qualifioapp.com
 ._autodiscover.ladesk.com
+._autodiscover.qualyhqpartner.com
+._autodiscover.qualyhqportal.com
 ._autodiscover.qbuser.com
 ._autodiscover.quipelements.com
 ._autodiscover.vapor.cloud
@@ -19652,6 +19661,8 @@
 ._autodiscover.mytabit.co.il
 ._autodiscover.tabitorder.co.il
 ._autodiscover.taifun-dns.de
+._autodiscover.erp.dev
+._autodiscover.web.erp.dev
 ._autodiscover.ts.net
 ._autodiscover.c.ts.net
 ._autodiscover.gda.pl
@@ -19832,6 +19843,7 @@
 ._autodiscover.virtualserver.io
 ._autodiscover.enterprisecloud.nu
 ._autodiscover.zone.id
+._autodiscover.zabc.net
 .autodiscover.ac
 .autodiscover.com.ac
 .autodiscover.edu.ac
@@ -27838,6 +27850,7 @@
 .autodiscover.raw.icp0.io
 .autodiscover.icp1.io
 .autodiscover.raw.icp1.io
+.autodiscover.icp.net
 .autodiscover.caffeine.site
 .autodiscover.dfirma.pl
 .autodiscover.dkonto.pl
@@ -29226,6 +29239,8 @@
 .autodiscover.qoto.io
 .autodiscover.qualifioapp.com
 .autodiscover.ladesk.com
+.autodiscover.qualyhqpartner.com
+.autodiscover.qualyhqportal.com
 .autodiscover.qbuser.com
 .autodiscover.quipelements.com
 .autodiscover.vapor.cloud
@@ -29569,6 +29584,8 @@
 .autodiscover.mytabit.co.il
 .autodiscover.tabitorder.co.il
 .autodiscover.taifun-dns.de
+.autodiscover.erp.dev
+.autodiscover.web.erp.dev
 .autodiscover.ts.net
 .autodiscover.c.ts.net
 .autodiscover.gda.pl
@@ -29749,6 +29766,7 @@
 .autodiscover.virtualserver.io
 .autodiscover.enterprisecloud.nu
 .autodiscover.zone.id
+.autodiscover.zabc.net
 .b._dns-sd.ac
 .b._dns-sd.com.ac
 .b._dns-sd.edu.ac
@@ -37755,6 +37773,7 @@
 .b._dns-sd.raw.icp0.io
 .b._dns-sd.icp1.io
 .b._dns-sd.raw.icp1.io
+.b._dns-sd.icp.net
 .b._dns-sd.caffeine.site
 .b._dns-sd.dfirma.pl
 .b._dns-sd.dkonto.pl
@@ -39143,6 +39162,8 @@
 .b._dns-sd.qoto.io
 .b._dns-sd.qualifioapp.com
 .b._dns-sd.ladesk.com
+.b._dns-sd.qualyhqpartner.com
+.b._dns-sd.qualyhqportal.com
 .b._dns-sd.qbuser.com
 .b._dns-sd.quipelements.com
 .b._dns-sd.vapor.cloud
@@ -39486,6 +39507,8 @@
 .b._dns-sd.mytabit.co.il
 .b._dns-sd.tabitorder.co.il
 .b._dns-sd.taifun-dns.de
+.b._dns-sd.erp.dev
+.b._dns-sd.web.erp.dev
 .b._dns-sd.ts.net
 .b._dns-sd.c.ts.net
 .b._dns-sd.gda.pl
@@ -39666,6 +39689,7 @@
 .b._dns-sd.virtualserver.io
 .b._dns-sd.enterprisecloud.nu
 .b._dns-sd.zone.id
+.b._dns-sd.zabc.net
 .db._dns-sd.ac
 .db._dns-sd.com.ac
 .db._dns-sd.edu.ac
@@ -47672,6 +47696,7 @@
 .db._dns-sd.raw.icp0.io
 .db._dns-sd.icp1.io
 .db._dns-sd.raw.icp1.io
+.db._dns-sd.icp.net
 .db._dns-sd.caffeine.site
 .db._dns-sd.dfirma.pl
 .db._dns-sd.dkonto.pl
@@ -49060,6 +49085,8 @@
 .db._dns-sd.qoto.io
 .db._dns-sd.qualifioapp.com
 .db._dns-sd.ladesk.com
+.db._dns-sd.qualyhqpartner.com
+.db._dns-sd.qualyhqportal.com
 .db._dns-sd.qbuser.com
 .db._dns-sd.quipelements.com
 .db._dns-sd.vapor.cloud
@@ -49403,6 +49430,8 @@
 .db._dns-sd.mytabit.co.il
 .db._dns-sd.tabitorder.co.il
 .db._dns-sd.taifun-dns.de
+.db._dns-sd.erp.dev
+.db._dns-sd.web.erp.dev
 .db._dns-sd.ts.net
 .db._dns-sd.c.ts.net
 .db._dns-sd.gda.pl
@@ -49583,6 +49612,7 @@
 .db._dns-sd.virtualserver.io
 .db._dns-sd.enterprisecloud.nu
 .db._dns-sd.zone.id
+.db._dns-sd.zabc.net
 .isatap.ac
 .isatap.com.ac
 .isatap.edu.ac
@@ -57589,6 +57619,7 @@
 .isatap.raw.icp0.io
 .isatap.icp1.io
 .isatap.raw.icp1.io
+.isatap.icp.net
 .isatap.caffeine.site
 .isatap.dfirma.pl
 .isatap.dkonto.pl
@@ -58977,6 +59008,8 @@
 .isatap.qoto.io
 .isatap.qualifioapp.com
 .isatap.ladesk.com
+.isatap.qualyhqpartner.com
+.isatap.qualyhqportal.com
 .isatap.qbuser.com
 .isatap.quipelements.com
 .isatap.vapor.cloud
@@ -59320,6 +59353,8 @@
 .isatap.mytabit.co.il
 .isatap.tabitorder.co.il
 .isatap.taifun-dns.de
+.isatap.erp.dev
+.isatap.web.erp.dev
 .isatap.ts.net
 .isatap.c.ts.net
 .isatap.gda.pl
@@ -59500,6 +59535,7 @@
 .isatap.virtualserver.io
 .isatap.enterprisecloud.nu
 .isatap.zone.id
+.isatap.zabc.net
 .lb._dns-sd.ac
 .lb._dns-sd.com.ac
 .lb._dns-sd.edu.ac
@@ -67506,6 +67542,7 @@
 .lb._dns-sd.raw.icp0.io
 .lb._dns-sd.icp1.io
 .lb._dns-sd.raw.icp1.io
+.lb._dns-sd.icp.net
 .lb._dns-sd.caffeine.site
 .lb._dns-sd.dfirma.pl
 .lb._dns-sd.dkonto.pl
@@ -68894,6 +68931,8 @@
 .lb._dns-sd.qoto.io
 .lb._dns-sd.qualifioapp.com
 .lb._dns-sd.ladesk.com
+.lb._dns-sd.qualyhqpartner.com
+.lb._dns-sd.qualyhqportal.com
 .lb._dns-sd.qbuser.com
 .lb._dns-sd.quipelements.com
 .lb._dns-sd.vapor.cloud
@@ -69237,6 +69276,8 @@
 .lb._dns-sd.mytabit.co.il
 .lb._dns-sd.tabitorder.co.il
 .lb._dns-sd.taifun-dns.de
+.lb._dns-sd.erp.dev
+.lb._dns-sd.web.erp.dev
 .lb._dns-sd.ts.net
 .lb._dns-sd.c.ts.net
 .lb._dns-sd.gda.pl
@@ -69417,6 +69458,7 @@
 .lb._dns-sd.virtualserver.io
 .lb._dns-sd.enterprisecloud.nu
 .lb._dns-sd.zone.id
+.lb._dns-sd.zabc.net
 .wpad.ac
 .wpad.com.ac
 .wpad.edu.ac
@@ -77423,6 +77465,7 @@
 .wpad.raw.icp0.io
 .wpad.icp1.io
 .wpad.raw.icp1.io
+.wpad.icp.net
 .wpad.caffeine.site
 .wpad.dfirma.pl
 .wpad.dkonto.pl
@@ -78811,6 +78854,8 @@
 .wpad.qoto.io
 .wpad.qualifioapp.com
 .wpad.ladesk.com
+.wpad.qualyhqpartner.com
+.wpad.qualyhqportal.com
 .wpad.qbuser.com
 .wpad.quipelements.com
 .wpad.vapor.cloud
@@ -79154,6 +79199,8 @@
 .wpad.mytabit.co.il
 .wpad.tabitorder.co.il
 .wpad.taifun-dns.de
+.wpad.erp.dev
+.wpad.web.erp.dev
 .wpad.ts.net
 .wpad.c.ts.net
 .wpad.gda.pl
@@ -79334,6 +79381,7 @@
 .wpad.virtualserver.io
 .wpad.enterprisecloud.nu
 .wpad.zone.id
+.wpad.zabc.net
 .wpad.tcp.ac
 .wpad.tcp.com.ac
 .wpad.tcp.edu.ac
@@ -87340,6 +87388,7 @@
 .wpad.tcp.raw.icp0.io
 .wpad.tcp.icp1.io
 .wpad.tcp.raw.icp1.io
+.wpad.tcp.icp.net
 .wpad.tcp.caffeine.site
 .wpad.tcp.dfirma.pl
 .wpad.tcp.dkonto.pl
@@ -88728,6 +88777,8 @@
 .wpad.tcp.qoto.io
 .wpad.tcp.qualifioapp.com
 .wpad.tcp.ladesk.com
+.wpad.tcp.qualyhqpartner.com
+.wpad.tcp.qualyhqportal.com
 .wpad.tcp.qbuser.com
 .wpad.tcp.quipelements.com
 .wpad.tcp.vapor.cloud
@@ -89071,6 +89122,8 @@
 .wpad.tcp.mytabit.co.il
 .wpad.tcp.tabitorder.co.il
 .wpad.tcp.taifun-dns.de
+.wpad.tcp.erp.dev
+.wpad.tcp.web.erp.dev
 .wpad.tcp.ts.net
 .wpad.tcp.c.ts.net
 .wpad.tcp.gda.pl
@@ -89251,3 +89304,4 @@
 .wpad.tcp.virtualserver.io
 .wpad.tcp.enterprisecloud.nu
 .wpad.tcp.zone.id
+.wpad.tcp.zabc.net
