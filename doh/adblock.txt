@@ -1,6 +1,6 @@
 [Adblock Plus 1.1]
 ! Title: Accomplist "Doh" AdBlock List (Top-N Version)
-! Version: 1755067205
+! Version: 1755152394
 ! Homepage: https://github.com/cbuijs/accomplist/tree/master/doh
 !
 ! WhiteList Domains:
@@ -183,7 +183,6 @@
 ||dns.bebasid.com^
 ||internetsehat.bebasid.com^
 ||secondary-backup.bebasid.com^
-||bestwon203.com^
 ||dnscrypt-cert.blahdns.com^
 ||doh.blahdns.com^
 ||doh-ch.blahdns.com^
@@ -953,8 +952,6 @@
 ||gztech.me^
 ||hitian.me^
 ||dns.huas.me^
-||dns.indust.me^
-||hz1.h.indust.me^
 ||jkdns.me^
 ||dns.karadag.me^
 ||dns.lihj.me^
@@ -1083,7 +1080,6 @@
 ||dnscrypt-cert.ffmuc.net^
 ||doh.ffmuc.net^
 ||dot.ffmuc.net^
-||dns.flightspace.net^
 ||dns01.flm9.net^
 ||ns1.flodns.net^
 ||ns2.flodns.net^
@@ -1194,6 +1190,7 @@
 ||dns.slinkyman.net^
 ||clientdns3.softcom.net^
 ||dns.stevenz.net^
+||doh.sunoaki.net^
 ||dns.thegoodsource.net^
 ||timedns.net^
 ||nsc.torgues.net^
@@ -1685,6 +1682,7 @@
 ||dns.maolaohei.xyz^
 ||maqgie.xyz^
 ||dns.mh4ckt3mh4ckt1c4s.xyz^
+||mikezhang.xyz^
 ||dns.nixnet.xyz^
 ||lux1.nixnet.xyz^
 ||lv1.nixnet.xyz^
