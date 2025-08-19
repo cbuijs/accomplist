@@ -8595,7 +8595,6 @@ autoconfig.github.io
 autoconfig.gitlab.io
 autoconfig.gitapp.si
 autoconfig.gitpage.si
-autoconfig.glitch.me
 autoconfig.nog.community
 autoconfig.co.ro
 autoconfig.shop.ro
@@ -9110,6 +9109,8 @@ autoconfig.routingthecloud.com
 autoconfig.sn.mynetname.net
 autoconfig.routingthecloud.net
 autoconfig.routingthecloud.org
+autoconfig.same-app.com
+autoconfig.same-preview.com
 autoconfig.csx.cc
 autoconfig.mydbserver.com
 autoconfig.webspaceconfig.de
@@ -18519,7 +18520,6 @@ _autodiscover.github.io
 _autodiscover.gitlab.io
 _autodiscover.gitapp.si
 _autodiscover.gitpage.si
-_autodiscover.glitch.me
 _autodiscover.nog.community
 _autodiscover.co.ro
 _autodiscover.shop.ro
@@ -19034,6 +19034,8 @@ _autodiscover.routingthecloud.com
 _autodiscover.sn.mynetname.net
 _autodiscover.routingthecloud.net
 _autodiscover.routingthecloud.org
+_autodiscover.same-app.com
+_autodiscover.same-preview.com
 _autodiscover.csx.cc
 _autodiscover.mydbserver.com
 _autodiscover.webspaceconfig.de
@@ -28443,7 +28445,6 @@ autodiscover.github.io
 autodiscover.gitlab.io
 autodiscover.gitapp.si
 autodiscover.gitpage.si
-autodiscover.glitch.me
 autodiscover.nog.community
 autodiscover.co.ro
 autodiscover.shop.ro
@@ -28958,6 +28959,8 @@ autodiscover.routingthecloud.com
 autodiscover.sn.mynetname.net
 autodiscover.routingthecloud.net
 autodiscover.routingthecloud.org
+autodiscover.same-app.com
+autodiscover.same-preview.com
 autodiscover.csx.cc
 autodiscover.mydbserver.com
 autodiscover.webspaceconfig.de
@@ -38367,7 +38370,6 @@ b._dns-sd.github.io
 b._dns-sd.gitlab.io
 b._dns-sd.gitapp.si
 b._dns-sd.gitpage.si
-b._dns-sd.glitch.me
 b._dns-sd.nog.community
 b._dns-sd.co.ro
 b._dns-sd.shop.ro
@@ -38882,6 +38884,8 @@ b._dns-sd.routingthecloud.com
 b._dns-sd.sn.mynetname.net
 b._dns-sd.routingthecloud.net
 b._dns-sd.routingthecloud.org
+b._dns-sd.same-app.com
+b._dns-sd.same-preview.com
 b._dns-sd.csx.cc
 b._dns-sd.mydbserver.com
 b._dns-sd.webspaceconfig.de
@@ -48291,7 +48295,6 @@ db._dns-sd.github.io
 db._dns-sd.gitlab.io
 db._dns-sd.gitapp.si
 db._dns-sd.gitpage.si
-db._dns-sd.glitch.me
 db._dns-sd.nog.community
 db._dns-sd.co.ro
 db._dns-sd.shop.ro
@@ -48806,6 +48809,8 @@ db._dns-sd.routingthecloud.com
 db._dns-sd.sn.mynetname.net
 db._dns-sd.routingthecloud.net
 db._dns-sd.routingthecloud.org
+db._dns-sd.same-app.com
+db._dns-sd.same-preview.com
 db._dns-sd.csx.cc
 db._dns-sd.mydbserver.com
 db._dns-sd.webspaceconfig.de
@@ -58215,7 +58220,6 @@ isatap.github.io
 isatap.gitlab.io
 isatap.gitapp.si
 isatap.gitpage.si
-isatap.glitch.me
 isatap.nog.community
 isatap.co.ro
 isatap.shop.ro
@@ -58730,6 +58734,8 @@ isatap.routingthecloud.com
 isatap.sn.mynetname.net
 isatap.routingthecloud.net
 isatap.routingthecloud.org
+isatap.same-app.com
+isatap.same-preview.com
 isatap.csx.cc
 isatap.mydbserver.com
 isatap.webspaceconfig.de
@@ -68139,7 +68145,6 @@ lb._dns-sd.github.io
 lb._dns-sd.gitlab.io
 lb._dns-sd.gitapp.si
 lb._dns-sd.gitpage.si
-lb._dns-sd.glitch.me
 lb._dns-sd.nog.community
 lb._dns-sd.co.ro
 lb._dns-sd.shop.ro
@@ -68654,6 +68659,8 @@ lb._dns-sd.routingthecloud.com
 lb._dns-sd.sn.mynetname.net
 lb._dns-sd.routingthecloud.net
 lb._dns-sd.routingthecloud.org
+lb._dns-sd.same-app.com
+lb._dns-sd.same-preview.com
 lb._dns-sd.csx.cc
 lb._dns-sd.mydbserver.com
 lb._dns-sd.webspaceconfig.de
@@ -78063,7 +78070,6 @@ wpad.github.io
 wpad.gitlab.io
 wpad.gitapp.si
 wpad.gitpage.si
-wpad.glitch.me
 wpad.nog.community
 wpad.co.ro
 wpad.shop.ro
@@ -78578,6 +78584,8 @@ wpad.routingthecloud.com
 wpad.sn.mynetname.net
 wpad.routingthecloud.net
 wpad.routingthecloud.org
+wpad.same-app.com
+wpad.same-preview.com
 wpad.csx.cc
 wpad.mydbserver.com
 wpad.webspaceconfig.de
@@ -87987,7 +87995,6 @@ wpad.tcp.github.io
 wpad.tcp.gitlab.io
 wpad.tcp.gitapp.si
 wpad.tcp.gitpage.si
-wpad.tcp.glitch.me
 wpad.tcp.nog.community
 wpad.tcp.co.ro
 wpad.tcp.shop.ro
@@ -88502,6 +88509,8 @@ wpad.tcp.routingthecloud.com
 wpad.tcp.sn.mynetname.net
 wpad.tcp.routingthecloud.net
 wpad.tcp.routingthecloud.org
+wpad.tcp.same-app.com
+wpad.tcp.same-preview.com
 wpad.tcp.csx.cc
 wpad.tcp.mydbserver.com
 wpad.tcp.webspaceconfig.de
