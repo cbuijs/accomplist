@@ -9875,6 +9875,8 @@
 .autoconfig.beta.wmcloud.org
 .autoconfig.wmflabs.org
 .autoconfig.wdh.app
+.autoconfig.hrsn.au
+.autoconfig.vps.hrsn.au
 .autoconfig.hrsn.dev
 .autoconfig.windsurf.app
 .autoconfig.windsurf.build
@@ -19800,6 +19802,8 @@
 ._autodiscover.beta.wmcloud.org
 ._autodiscover.wmflabs.org
 ._autodiscover.wdh.app
+._autodiscover.hrsn.au
+._autodiscover.vps.hrsn.au
 ._autodiscover.hrsn.dev
 ._autodiscover.windsurf.app
 ._autodiscover.windsurf.build
@@ -29725,6 +29729,8 @@
 .autodiscover.beta.wmcloud.org
 .autodiscover.wmflabs.org
 .autodiscover.wdh.app
+.autodiscover.hrsn.au
+.autodiscover.vps.hrsn.au
 .autodiscover.hrsn.dev
 .autodiscover.windsurf.app
 .autodiscover.windsurf.build
@@ -39650,6 +39656,8 @@
 .b._dns-sd.beta.wmcloud.org
 .b._dns-sd.wmflabs.org
 .b._dns-sd.wdh.app
+.b._dns-sd.hrsn.au
+.b._dns-sd.vps.hrsn.au
 .b._dns-sd.hrsn.dev
 .b._dns-sd.windsurf.app
 .b._dns-sd.windsurf.build
@@ -49575,6 +49583,8 @@
 .db._dns-sd.beta.wmcloud.org
 .db._dns-sd.wmflabs.org
 .db._dns-sd.wdh.app
+.db._dns-sd.hrsn.au
+.db._dns-sd.vps.hrsn.au
 .db._dns-sd.hrsn.dev
 .db._dns-sd.windsurf.app
 .db._dns-sd.windsurf.build
@@ -59500,6 +59510,8 @@
 .isatap.beta.wmcloud.org
 .isatap.wmflabs.org
 .isatap.wdh.app
+.isatap.hrsn.au
+.isatap.vps.hrsn.au
 .isatap.hrsn.dev
 .isatap.windsurf.app
 .isatap.windsurf.build
@@ -69425,6 +69437,8 @@
 .lb._dns-sd.beta.wmcloud.org
 .lb._dns-sd.wmflabs.org
 .lb._dns-sd.wdh.app
+.lb._dns-sd.hrsn.au
+.lb._dns-sd.vps.hrsn.au
 .lb._dns-sd.hrsn.dev
 .lb._dns-sd.windsurf.app
 .lb._dns-sd.windsurf.build
@@ -79350,6 +79364,8 @@
 .wpad.beta.wmcloud.org
 .wpad.wmflabs.org
 .wpad.wdh.app
+.wpad.hrsn.au
+.wpad.vps.hrsn.au
 .wpad.hrsn.dev
 .wpad.windsurf.app
 .wpad.windsurf.build
@@ -89275,6 +89291,8 @@
 .wpad.tcp.beta.wmcloud.org
 .wpad.tcp.wmflabs.org
 .wpad.tcp.wdh.app
+.wpad.tcp.hrsn.au
+.wpad.tcp.vps.hrsn.au
 .wpad.tcp.hrsn.dev
 .wpad.tcp.windsurf.app
 .wpad.tcp.windsurf.build
