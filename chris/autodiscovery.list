@@ -9909,6 +9909,7 @@ autoconfig.xs4all.space
 autoconfig.yandexcloud.net
 autoconfig.storage.yandexcloud.net
 autoconfig.website.yandexcloud.net
+autoconfig.sourcecraft.site
 autoconfig.official.academy
 autoconfig.yolasite.com
 autoconfig.ynh.fr
@@ -19836,6 +19837,7 @@ _autodiscover.xs4all.space
 _autodiscover.yandexcloud.net
 _autodiscover.storage.yandexcloud.net
 _autodiscover.website.yandexcloud.net
+_autodiscover.sourcecraft.site
 _autodiscover.official.academy
 _autodiscover.yolasite.com
 _autodiscover.ynh.fr
@@ -29763,6 +29765,7 @@ autodiscover.xs4all.space
 autodiscover.yandexcloud.net
 autodiscover.storage.yandexcloud.net
 autodiscover.website.yandexcloud.net
+autodiscover.sourcecraft.site
 autodiscover.official.academy
 autodiscover.yolasite.com
 autodiscover.ynh.fr
@@ -39690,6 +39693,7 @@ b._dns-sd.xs4all.space
 b._dns-sd.yandexcloud.net
 b._dns-sd.storage.yandexcloud.net
 b._dns-sd.website.yandexcloud.net
+b._dns-sd.sourcecraft.site
 b._dns-sd.official.academy
 b._dns-sd.yolasite.com
 b._dns-sd.ynh.fr
@@ -49617,6 +49621,7 @@ db._dns-sd.xs4all.space
 db._dns-sd.yandexcloud.net
 db._dns-sd.storage.yandexcloud.net
 db._dns-sd.website.yandexcloud.net
+db._dns-sd.sourcecraft.site
 db._dns-sd.official.academy
 db._dns-sd.yolasite.com
 db._dns-sd.ynh.fr
@@ -59544,6 +59549,7 @@ isatap.xs4all.space
 isatap.yandexcloud.net
 isatap.storage.yandexcloud.net
 isatap.website.yandexcloud.net
+isatap.sourcecraft.site
 isatap.official.academy
 isatap.yolasite.com
 isatap.ynh.fr
@@ -69471,6 +69477,7 @@ lb._dns-sd.xs4all.space
 lb._dns-sd.yandexcloud.net
 lb._dns-sd.storage.yandexcloud.net
 lb._dns-sd.website.yandexcloud.net
+lb._dns-sd.sourcecraft.site
 lb._dns-sd.official.academy
 lb._dns-sd.yolasite.com
 lb._dns-sd.ynh.fr
@@ -79398,6 +79405,7 @@ wpad.xs4all.space
 wpad.yandexcloud.net
 wpad.storage.yandexcloud.net
 wpad.website.yandexcloud.net
+wpad.sourcecraft.site
 wpad.official.academy
 wpad.yolasite.com
 wpad.ynh.fr
@@ -89325,6 +89333,7 @@ wpad.tcp.xs4all.space
 wpad.tcp.yandexcloud.net
 wpad.tcp.storage.yandexcloud.net
 wpad.tcp.website.yandexcloud.net
+wpad.tcp.sourcecraft.site
 wpad.tcp.official.academy
 wpad.tcp.yolasite.com
 wpad.tcp.ynh.fr
