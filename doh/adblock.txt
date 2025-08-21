@@ -1,6 +1,6 @@
 [Adblock Plus 1.1]
 ! Title: Accomplist "Doh" AdBlock List (Top-N Version)
-! Version: 1755671754
+! Version: 1755758087
 ! Homepage: https://github.com/cbuijs/accomplist/tree/master/doh
 !
 ! WhiteList Domains:
@@ -200,7 +200,6 @@
 ||doh.blockerdns.com^
 ||dns.bmwhocking.com^
 ||dns.bobstrecansky.com^
-||70717.bodis.com^
 ||77980.bodis.com^
 ||dns.braene.com^
 ||bravedns.com^
@@ -326,7 +325,6 @@
 ||msr177.com^
 ||ns.mtsoln.com^
 ||dpeddi.myddns.com^
-||dns.mzjtechnology.com^
 ||dns.nguyendn.com^
 ||dns.nhtsky.com^
 ||d.niaox.com^
@@ -588,6 +586,7 @@
 ||secure-dns.dns-ga.de^
 ||dnsforge.de^
 ||dns.dnshome.de^
+||dns.dremaxx.de^
 ||dukun.de^
 ||dns.dyn1.de^
 ||opennic1.eth-services.de^
@@ -1163,7 +1162,6 @@
 ||dns.us-ashburn-1.oci.oraclecloud.net^
 ||dns.us-phoenix-1.oci.oraclecloud.net^
 ||rpz-public-resolver1.rrdns.pch.net^
-||dns.pernika.net^
 ||darya.persiannit.net^
 ||dns.phillipjberry.net^
 ||hostdare.qtxd.net^
@@ -1537,6 +1535,7 @@
 ||adg.rueiliu.space^
 ||dns.sy.st^
 ||home-server.store^
+||dns.fizz.studio^
 ||dns.xuming.studio^
 ||crypto.sx^
 ||3jjxxl.tech^
@@ -1685,6 +1684,7 @@
 ||pm1239-bd.xyz^
 ||pm7051-br.xyz^
 ||pm9352-bd.xyz^
+||dns.propheci.xyz^
 ||doh.sublime9.xyz^
 ||tujenasnaszato.xyz^
 ||adguard.twotigers.xyz^
