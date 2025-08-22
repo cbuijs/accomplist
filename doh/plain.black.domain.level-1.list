@@ -211,7 +211,6 @@ family.dns.doubleangels.com
 resolver1.dyndnsinternetguide.com
 resolver2.dyndnsinternetguide.com
 easyhandshake.com
-dns.efficientdocuments.com
 dns.enzonix.com
 doh.flashstart.com
 dns.flwagners.com
@@ -273,6 +272,7 @@ dnstls.mobik.com
 dns.moonssif.com
 msr177.com
 ns.mtsoln.com
+dns.mzjtechnology.com
 dns.nguyendn.com
 dns.nhtsky.com
 d.niaox.com
@@ -994,6 +994,7 @@ timmes.nl
 nat64.tuxis.nl
 adguard.wirimij.nl
 dns.anon.no
+adg.tshost.no
 comss.one
 dns.hakim.one
 dns.karl.one
@@ -1273,7 +1274,6 @@ dns.b33.space
 adg.rueiliu.space
 dns.sy.st
 home-server.store
-dns.fizz.studio
 dns.xuming.studio
 crypto.sx
 3jjxxl.tech
@@ -1460,6 +1460,7 @@ dnssurobe.malaysiawest.cloudapp.azure.com
 secondary-backup.bebasid.com
 doh-sg.blahdns.com
 77980.bodis.com
+94950.bodis.com
 cahlen.com
 cloudflare-dns.com
 dns-53.com
