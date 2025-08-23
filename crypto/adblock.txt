@@ -1,6 +1,6 @@
 [Adblock Plus 1.1]
 ! Title: Accomplist "Cryptojack" AdBlock List (Top-N Version)
-! Version: 1755844995
+! Version: 1755930886
 ! Homepage: https://github.com/cbuijs/accomplist/tree/master/cryptojack
 !
 ! WhiteList Domains:
@@ -8932,6 +8932,7 @@
 ||binarypool.io^
 ||bis-pool.io^
 ||bisq.io^
+||bitbo.io^
 ||fresh-js.bitbucket.io^
 ||refresh-js.bitbucket.io^
 ||bitcanna.io^
