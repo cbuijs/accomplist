@@ -1,6 +1,6 @@
 [Adblock Plus 1.1]
 ! Title: Accomplist "Cryptojack" AdBlock List (Top-N Version)
-! Version: 1756016920
+! Version: 1756102182
 ! Homepage: https://github.com/cbuijs/accomplist/tree/master/cryptojack
 !
 ! WhiteList Domains:
@@ -5676,6 +5676,7 @@
 ||minexcash.com^
 ||minexdn.com^
 ||minexmr.com^
+||minexteam.com^
 ||mineyguys.com^
 ||mining-coins.com^
 ||mining-madness.com^
@@ -5687,6 +5688,7 @@
 ||miningandco.com^
 ||miningcache.com^
 ||miningcity.com^
+||miningethers.com^
 ||miningexpress.com^
 ||miningfield.com^
 ||miningfool.com^
@@ -8928,6 +8930,7 @@
 ||bcpool.io^
 ||beldex.io^
 ||belscan.io^
+||bevm.io^
 ||binancechain.io^
 ||binarypool.io^
 ||bis-pool.io^
@@ -8960,6 +8963,7 @@
 ||bluewpool.io^
 ||p2p1.bp2.io^
 ||p2p.bpac.io^
+||bronbro.io^
 ||bsmith.io^
 ||btcd.io^
 ||btg.io^
@@ -10556,6 +10560,7 @@
 ||ethersocial.network^
 ||fuertecoin.network^
 ||gamepass.network^
+||geb.network^
 ||getpool.network^
 ||graft.network^
 ||hashing.network^
