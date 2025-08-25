@@ -209,7 +209,6 @@
 .autoconfig.tas.gov.au
 .autoconfig.vic.gov.au
 .autoconfig.wa.gov.au
-.autoconfig.schools.nsw.edu.au
 .autoconfig.aw
 .autoconfig.com.aw
 .autoconfig.ax
@@ -10137,7 +10136,6 @@
 ._autodiscover.tas.gov.au
 ._autodiscover.vic.gov.au
 ._autodiscover.wa.gov.au
-._autodiscover.schools.nsw.edu.au
 ._autodiscover.aw
 ._autodiscover.com.aw
 ._autodiscover.ax
@@ -20065,7 +20063,6 @@
 .autodiscover.tas.gov.au
 .autodiscover.vic.gov.au
 .autodiscover.wa.gov.au
-.autodiscover.schools.nsw.edu.au
 .autodiscover.aw
 .autodiscover.com.aw
 .autodiscover.ax
@@ -29993,7 +29990,6 @@
 .b._dns-sd.tas.gov.au
 .b._dns-sd.vic.gov.au
 .b._dns-sd.wa.gov.au
-.b._dns-sd.schools.nsw.edu.au
 .b._dns-sd.aw
 .b._dns-sd.com.aw
 .b._dns-sd.ax
@@ -39921,7 +39917,6 @@
 .db._dns-sd.tas.gov.au
 .db._dns-sd.vic.gov.au
 .db._dns-sd.wa.gov.au
-.db._dns-sd.schools.nsw.edu.au
 .db._dns-sd.aw
 .db._dns-sd.com.aw
 .db._dns-sd.ax
@@ -49849,7 +49844,6 @@
 .isatap.tas.gov.au
 .isatap.vic.gov.au
 .isatap.wa.gov.au
-.isatap.schools.nsw.edu.au
 .isatap.aw
 .isatap.com.aw
 .isatap.ax
@@ -59777,7 +59771,6 @@
 .lb._dns-sd.tas.gov.au
 .lb._dns-sd.vic.gov.au
 .lb._dns-sd.wa.gov.au
-.lb._dns-sd.schools.nsw.edu.au
 .lb._dns-sd.aw
 .lb._dns-sd.com.aw
 .lb._dns-sd.ax
@@ -69705,7 +69698,6 @@
 .wpad.tas.gov.au
 .wpad.vic.gov.au
 .wpad.wa.gov.au
-.wpad.schools.nsw.edu.au
 .wpad.aw
 .wpad.com.aw
 .wpad.ax
@@ -79633,7 +79625,6 @@
 .wpad.tcp.tas.gov.au
 .wpad.tcp.vic.gov.au
 .wpad.tcp.wa.gov.au
-.wpad.tcp.schools.nsw.edu.au
 .wpad.tcp.aw
 .wpad.tcp.com.aw
 .wpad.tcp.ax
