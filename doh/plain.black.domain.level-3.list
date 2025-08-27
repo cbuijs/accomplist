@@ -5,6 +5,7 @@ us1.dns.lavate.ch
 doh.quickline.ch
 dot.quickline.ch
 dnsotls.lab.nic.cl
+doh.360.cn
 dot.360.cn
 dns.rubyfish.cn
 ea-dns.rubyfish.cn
@@ -14,6 +15,7 @@ dns-family.adguard.com
 dns-unfiltered.adguard.com
 blitz.ahadns.com
 httpdns-sc.aliyuncs.com
+doh.dns.apple.com
 doh-de.blahdns.com
 doh-fi.blahdns.com
 doh-jp.blahdns.com
@@ -54,9 +56,12 @@ dot.northeu.pi-dns.com
 doh.westus.pi-dns.com
 dot.westus.pi-dns.com
 dns1.ryan-palmer.com
+dnsovertls.sinodun.com
 dnsovertls1.sinodun.com
 dnsovertls2.sinodun.com
 dnsovertls3.sinodun.com
+doh-01.spectrum.com
+doh-02.spectrum.com
 doh.xfinity.com
 dot.xfinity.com
 odvr.nic.cz
@@ -70,6 +75,7 @@ dns.mrkaran.dev
 anycast.censurfridns.dk
 unicast.censurfridns.dk
 doh.42l.fr
+doh.bortzmeyer.fr
 jcdns.fun
 8888.google
 dns.google
@@ -87,15 +93,19 @@ dns.njal.la
 doh.li
 dns.aaflalo.me
 dns-nyc.aaflalo.me
+dnslow.me
 ibksturm.synology.me
 dns.therifleman.name
 ahadns.net
+dnsnl.alekberg.net
 doh.applied-privacy.net
 dot1.applied-privacy.net
 doh.appliedprivacy.net
 dot1.appliedprivacy.net
 doh.armadillodns.net
 dohtrial.att.net
+doh1.b-cdn.net
+doh2.b-cdn.net
 dns-tls.bitwiseshift.net
 ibuki.cgnat.net
 dns.cmrg.net
@@ -106,6 +116,7 @@ dns.dnsoverhttps.net
 pdns.faelix.net
 rdns.faelix.net
 doh.ffmuc.net
+dot.ffmuc.net
 getdnsapi.net
 ordns.he.net
 dns.hostux.net
@@ -115,6 +126,8 @@ dns.quad9.net
 dns-nosec.quad9.net
 dns10.quad9.net
 dns11.quad9.net
+dns12.quad9.net
+dns13.quad9.net
 dns9.quad9.net
 adfree.usableprivacy.net
 adblock.mydns.network
@@ -123,7 +136,10 @@ doh.powerdns.org
 rumpelsepp.org
 doh.tiarap.org
 jp.tiarap.org
+dns.pub
+doh.pub
 dot.pub
+dns.sb
 privacydns.go6lab.si
 dns.twnic.tw
 dns.aa.net.uk
