@@ -1,6 +1,6 @@
 [Adblock Plus 1.1]
 ! Title: Accomplist "Streaming" AdBlock List (Top-N Version)
-! Version: 1756289239
+! Version: 1756375623
 ! Homepage: https://github.com/cbuijs/accomplist/tree/master/streaming
 !
 ! WhiteList Domains:
@@ -2777,6 +2777,7 @@
 ||drolevideo.net^
 ||dvddezone.net^
 ||dvdxcopy.net^
+||dzcdn.net^
 ||easyzik.net^
 ||electronic-music.net^
 ||emule-bittorrent.net^
