@@ -8512,15 +8512,6 @@ db._dns-sd.red
 lb._dns-sd.red
 wpad.red
 wpad.tcp.red
-autoconfig.redstone
-autodiscover.redstone
-_autodiscover._tcp.redstone
-isatap.redstone
-b._dns-sd.redstone
-db._dns-sd.redstone
-lb._dns-sd.redstone
-wpad.redstone
-wpad.tcp.redstone
 autoconfig.redumbrella
 autodiscover.redumbrella
 _autodiscover._tcp.redumbrella
