@@ -1,6 +1,6 @@
 [Adblock Plus 1.1]
 ! Title: Accomplist "Doh" AdBlock List (Top-N Version)
-! Version: 1756276275
+! Version: 1756362820
 ! Homepage: https://github.com/cbuijs/accomplist/tree/master/doh
 !
 ! WhiteList Domains:
@@ -263,6 +263,7 @@
 ||resolver1.dyndnsinternetguide.com^
 ||resolver2.dyndnsinternetguide.com^
 ||easyhandshake.com^
+||dns.efficientdocuments.com^
 ||dns.enzonix.com^
 ||doh.flashstart.com^
 ||dns.flwagners.com^
@@ -331,6 +332,7 @@
 ||msr177.com^
 ||ns.mtsoln.com^
 ||dpeddi.myddns.com^
+||dns.mzjtechnology.com^
 ||dns.nguyendn.com^
 ||dns.nhtsky.com^
 ||d.niaox.com^
@@ -439,7 +441,6 @@
 ||sunnygyl.com^
 ||dns.surfshark.com^
 ||dns.surfsharkdns.com^
-||dns.surobe.com^
 ||dns.syaifullah.com^
 ||dns-server-geo.sz-dns.com^
 ||doh.sz-dns.com^
@@ -473,6 +474,7 @@
 ||polisitogel.contractors^
 ||mabuktogel.creditcard^
 ||polisitogel.cruises^
+||atris.cyou^
 ||adguard.dantynes.cyou^
 ||dns.kukal.cz^
 ||odvr.nic.cz^
@@ -1051,6 +1053,7 @@
 ||dns.crystalyx.net^
 ||ender.crystalyx.net^
 ||dns.cynthialabs.net^
+||cloudflares.ddns.net^
 ||jit.ddns.net^
 ||dns.deadsec.net^
 ||adguard.depieri.net^
@@ -1269,7 +1272,6 @@
 ||dns8.org^
 ||dnsbunker.org^
 ||ns1.dotls.org^
-||home27.duckdns.org^
 ||jurre-home.duckdns.org^
 ||krtekvpn.duckdns.org^
 ||montmorot.duckdns.org^
@@ -1642,6 +1644,7 @@
 ||003153.xyz^
 ||123000123.xyz^
 ||dns.240527.xyz^
+||dj.354688.xyz^
 ||dns.354688.xyz^
 ||dns.688447.xyz^
 ||dns.853852.xyz^
