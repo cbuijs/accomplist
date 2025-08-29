@@ -6545,7 +6545,6 @@ autoconfig.realtor
 autoconfig.realty
 autoconfig.recipes
 autoconfig.red
-autoconfig.redstone
 autoconfig.redumbrella
 autoconfig.rehab
 autoconfig.reise
@@ -9719,6 +9718,8 @@ autoconfig.user.srcf.net
 autoconfig.utwente.io
 autoconfig.temp-dns.com
 autoconfig.supabase.co
+autoconfig.realtime.supabase.co
+autoconfig.storage.supabase.co
 autoconfig.supabase.in
 autoconfig.supabase.net
 autoconfig.syncloud.it
@@ -9854,6 +9855,7 @@ autoconfig.deus-canvas.com
 autoconfig.voorloper.cloud
 autoconfig.vultrobjects.com
 autoconfig.wafflecell.com
+autoconfig.wal.app
 autoconfig.webflow.io
 autoconfig.webflowtest.io
 autoconfig.webhare.dev
@@ -16475,7 +16477,6 @@ _autodiscover.realtor
 _autodiscover.realty
 _autodiscover.recipes
 _autodiscover.red
-_autodiscover.redstone
 _autodiscover.redumbrella
 _autodiscover.rehab
 _autodiscover.reise
@@ -19649,6 +19650,8 @@ _autodiscover.user.srcf.net
 _autodiscover.utwente.io
 _autodiscover.temp-dns.com
 _autodiscover.supabase.co
+_autodiscover.realtime.supabase.co
+_autodiscover.storage.supabase.co
 _autodiscover.supabase.in
 _autodiscover.supabase.net
 _autodiscover.syncloud.it
@@ -19784,6 +19787,7 @@ _autodiscover.deus-canvas.com
 _autodiscover.voorloper.cloud
 _autodiscover.vultrobjects.com
 _autodiscover.wafflecell.com
+_autodiscover.wal.app
 _autodiscover.webflow.io
 _autodiscover.webflowtest.io
 _autodiscover.webhare.dev
@@ -26405,7 +26409,6 @@ autodiscover.realtor
 autodiscover.realty
 autodiscover.recipes
 autodiscover.red
-autodiscover.redstone
 autodiscover.redumbrella
 autodiscover.rehab
 autodiscover.reise
@@ -29579,6 +29582,8 @@ autodiscover.user.srcf.net
 autodiscover.utwente.io
 autodiscover.temp-dns.com
 autodiscover.supabase.co
+autodiscover.realtime.supabase.co
+autodiscover.storage.supabase.co
 autodiscover.supabase.in
 autodiscover.supabase.net
 autodiscover.syncloud.it
@@ -29714,6 +29719,7 @@ autodiscover.deus-canvas.com
 autodiscover.voorloper.cloud
 autodiscover.vultrobjects.com
 autodiscover.wafflecell.com
+autodiscover.wal.app
 autodiscover.webflow.io
 autodiscover.webflowtest.io
 autodiscover.webhare.dev
@@ -36335,7 +36341,6 @@ b._dns-sd.realtor
 b._dns-sd.realty
 b._dns-sd.recipes
 b._dns-sd.red
-b._dns-sd.redstone
 b._dns-sd.redumbrella
 b._dns-sd.rehab
 b._dns-sd.reise
@@ -39509,6 +39514,8 @@ b._dns-sd.user.srcf.net
 b._dns-sd.utwente.io
 b._dns-sd.temp-dns.com
 b._dns-sd.supabase.co
+b._dns-sd.realtime.supabase.co
+b._dns-sd.storage.supabase.co
 b._dns-sd.supabase.in
 b._dns-sd.supabase.net
 b._dns-sd.syncloud.it
@@ -39644,6 +39651,7 @@ b._dns-sd.deus-canvas.com
 b._dns-sd.voorloper.cloud
 b._dns-sd.vultrobjects.com
 b._dns-sd.wafflecell.com
+b._dns-sd.wal.app
 b._dns-sd.webflow.io
 b._dns-sd.webflowtest.io
 b._dns-sd.webhare.dev
@@ -46265,7 +46273,6 @@ db._dns-sd.realtor
 db._dns-sd.realty
 db._dns-sd.recipes
 db._dns-sd.red
-db._dns-sd.redstone
 db._dns-sd.redumbrella
 db._dns-sd.rehab
 db._dns-sd.reise
@@ -49439,6 +49446,8 @@ db._dns-sd.user.srcf.net
 db._dns-sd.utwente.io
 db._dns-sd.temp-dns.com
 db._dns-sd.supabase.co
+db._dns-sd.realtime.supabase.co
+db._dns-sd.storage.supabase.co
 db._dns-sd.supabase.in
 db._dns-sd.supabase.net
 db._dns-sd.syncloud.it
@@ -49574,6 +49583,7 @@ db._dns-sd.deus-canvas.com
 db._dns-sd.voorloper.cloud
 db._dns-sd.vultrobjects.com
 db._dns-sd.wafflecell.com
+db._dns-sd.wal.app
 db._dns-sd.webflow.io
 db._dns-sd.webflowtest.io
 db._dns-sd.webhare.dev
@@ -56195,7 +56205,6 @@ isatap.realtor
 isatap.realty
 isatap.recipes
 isatap.red
-isatap.redstone
 isatap.redumbrella
 isatap.rehab
 isatap.reise
@@ -59369,6 +59378,8 @@ isatap.user.srcf.net
 isatap.utwente.io
 isatap.temp-dns.com
 isatap.supabase.co
+isatap.realtime.supabase.co
+isatap.storage.supabase.co
 isatap.supabase.in
 isatap.supabase.net
 isatap.syncloud.it
@@ -59504,6 +59515,7 @@ isatap.deus-canvas.com
 isatap.voorloper.cloud
 isatap.vultrobjects.com
 isatap.wafflecell.com
+isatap.wal.app
 isatap.webflow.io
 isatap.webflowtest.io
 isatap.webhare.dev
@@ -66125,7 +66137,6 @@ lb._dns-sd.realtor
 lb._dns-sd.realty
 lb._dns-sd.recipes
 lb._dns-sd.red
-lb._dns-sd.redstone
 lb._dns-sd.redumbrella
 lb._dns-sd.rehab
 lb._dns-sd.reise
@@ -69299,6 +69310,8 @@ lb._dns-sd.user.srcf.net
 lb._dns-sd.utwente.io
 lb._dns-sd.temp-dns.com
 lb._dns-sd.supabase.co
+lb._dns-sd.realtime.supabase.co
+lb._dns-sd.storage.supabase.co
 lb._dns-sd.supabase.in
 lb._dns-sd.supabase.net
 lb._dns-sd.syncloud.it
@@ -69434,6 +69447,7 @@ lb._dns-sd.deus-canvas.com
 lb._dns-sd.voorloper.cloud
 lb._dns-sd.vultrobjects.com
 lb._dns-sd.wafflecell.com
+lb._dns-sd.wal.app
 lb._dns-sd.webflow.io
 lb._dns-sd.webflowtest.io
 lb._dns-sd.webhare.dev
@@ -76055,7 +76069,6 @@ wpad.realtor
 wpad.realty
 wpad.recipes
 wpad.red
-wpad.redstone
 wpad.redumbrella
 wpad.rehab
 wpad.reise
@@ -79229,6 +79242,8 @@ wpad.user.srcf.net
 wpad.utwente.io
 wpad.temp-dns.com
 wpad.supabase.co
+wpad.realtime.supabase.co
+wpad.storage.supabase.co
 wpad.supabase.in
 wpad.supabase.net
 wpad.syncloud.it
@@ -79364,6 +79379,7 @@ wpad.deus-canvas.com
 wpad.voorloper.cloud
 wpad.vultrobjects.com
 wpad.wafflecell.com
+wpad.wal.app
 wpad.webflow.io
 wpad.webflowtest.io
 wpad.webhare.dev
@@ -85985,7 +86001,6 @@ wpad.tcp.realtor
 wpad.tcp.realty
 wpad.tcp.recipes
 wpad.tcp.red
-wpad.tcp.redstone
 wpad.tcp.redumbrella
 wpad.tcp.rehab
 wpad.tcp.reise
@@ -89159,6 +89174,8 @@ wpad.tcp.user.srcf.net
 wpad.tcp.utwente.io
 wpad.tcp.temp-dns.com
 wpad.tcp.supabase.co
+wpad.tcp.realtime.supabase.co
+wpad.tcp.storage.supabase.co
 wpad.tcp.supabase.in
 wpad.tcp.supabase.net
 wpad.tcp.syncloud.it
@@ -89294,6 +89311,7 @@ wpad.tcp.deus-canvas.com
 wpad.tcp.voorloper.cloud
 wpad.tcp.vultrobjects.com
 wpad.tcp.wafflecell.com
+wpad.tcp.wal.app
 wpad.tcp.webflow.io
 wpad.tcp.webflowtest.io
 wpad.tcp.webhare.dev
