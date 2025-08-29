@@ -213,11 +213,9 @@
 .uncensored-dot.dnswarden.com
 .doh.us.dnswarden.com
 .dnswebvsn.com
-.family.dns.doubleangels.com
 .resolver1.dyndnsinternetguide.com
 .resolver2.dyndnsinternetguide.com
 .easyhandshake.com
-.dns.efficientdocuments.com
 .dns.enzonix.com
 .doh.flashstart.com
 .dns.flwagners.com
@@ -849,6 +847,7 @@
 .dns4me.net
 .dns.dnsoverhttps.net
 .takhtakh.domyah.net
+.gustamadh.dynv6.net
 .dnscache.e-utp.net
 .adguard.easez.net
 .dns.eddi.net
@@ -1032,7 +1031,6 @@
 .dns8.org
 .dnsbunker.org
 .ns1.dotls.org
-.jurre-home.duckdns.org
 .krtekvpn.duckdns.org
 .osefcorp.duckdns.org
 .punono.duckdns.org
@@ -1046,7 +1044,6 @@
 .arashi.net.eu.org
 .sukidayo.eu.org
 .dns.falkenthal.org
-.adguard.gambini.org
 .dns.girino.org
 .dns.api.globus.org
 .dns.api.preview.globus.org
@@ -1461,7 +1458,6 @@
 .srv-revprox-01.atakorah.com
 .europe.avastdns.com
 .europe-west.avastdns.com
-.dnssurobe.malaysiawest.cloudapp.azure.com
 .secondary-backup.bebasid.com
 .77980.bodis.com
 .94950.bodis.com
@@ -1644,7 +1640,6 @@
 .al223-a73e-bj-v0.0.dxng.net
 .cn1.dxng.net
 .cn1-v0.dxng.net
-.gustamadh.dynv6.net
 .anycast.ffmuc.net
 .eu-cdn.imoim.net
 .servidor01.itwebhost.net
