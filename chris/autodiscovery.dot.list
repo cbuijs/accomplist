@@ -8942,6 +8942,7 @@
 .autoconfig.landing.myjino.ru
 .autoconfig.spectrum.myjino.ru
 .autoconfig.vps.myjino.ru
+.autoconfig.jote.cloud
 .autoconfig.jotelulu.cloud
 .autoconfig.webadorsite.com
 .autoconfig.jouwweb.site
@@ -18874,6 +18875,7 @@
 ._autodiscover.landing.myjino.ru
 ._autodiscover.spectrum.myjino.ru
 ._autodiscover.vps.myjino.ru
+._autodiscover.jote.cloud
 ._autodiscover.jotelulu.cloud
 ._autodiscover.webadorsite.com
 ._autodiscover.jouwweb.site
@@ -28806,6 +28808,7 @@
 .autodiscover.landing.myjino.ru
 .autodiscover.spectrum.myjino.ru
 .autodiscover.vps.myjino.ru
+.autodiscover.jote.cloud
 .autodiscover.jotelulu.cloud
 .autodiscover.webadorsite.com
 .autodiscover.jouwweb.site
@@ -38738,6 +38741,7 @@
 .b._dns-sd.landing.myjino.ru
 .b._dns-sd.spectrum.myjino.ru
 .b._dns-sd.vps.myjino.ru
+.b._dns-sd.jote.cloud
 .b._dns-sd.jotelulu.cloud
 .b._dns-sd.webadorsite.com
 .b._dns-sd.jouwweb.site
@@ -48670,6 +48674,7 @@
 .db._dns-sd.landing.myjino.ru
 .db._dns-sd.spectrum.myjino.ru
 .db._dns-sd.vps.myjino.ru
+.db._dns-sd.jote.cloud
 .db._dns-sd.jotelulu.cloud
 .db._dns-sd.webadorsite.com
 .db._dns-sd.jouwweb.site
@@ -58602,6 +58607,7 @@
 .isatap.landing.myjino.ru
 .isatap.spectrum.myjino.ru
 .isatap.vps.myjino.ru
+.isatap.jote.cloud
 .isatap.jotelulu.cloud
 .isatap.webadorsite.com
 .isatap.jouwweb.site
@@ -68534,6 +68540,7 @@
 .lb._dns-sd.landing.myjino.ru
 .lb._dns-sd.spectrum.myjino.ru
 .lb._dns-sd.vps.myjino.ru
+.lb._dns-sd.jote.cloud
 .lb._dns-sd.jotelulu.cloud
 .lb._dns-sd.webadorsite.com
 .lb._dns-sd.jouwweb.site
@@ -78466,6 +78473,7 @@
 .wpad.landing.myjino.ru
 .wpad.spectrum.myjino.ru
 .wpad.vps.myjino.ru
+.wpad.jote.cloud
 .wpad.jotelulu.cloud
 .wpad.webadorsite.com
 .wpad.jouwweb.site
@@ -88398,6 +88406,7 @@
 .wpad.tcp.landing.myjino.ru
 .wpad.tcp.spectrum.myjino.ru
 .wpad.tcp.vps.myjino.ru
+.wpad.tcp.jote.cloud
 .wpad.tcp.jotelulu.cloud
 .wpad.tcp.webadorsite.com
 .wpad.tcp.jouwweb.site
