@@ -65,6 +65,7 @@ adguard.ruby.ci
 dns.michelo.cl
 dnsotls.lab.nic.cl
 farewellkou.click
+dns.listo.click
 justhost.bedro.cloud
 dns.brembeck.cloud
 dns.clanto.cloud
@@ -781,7 +782,6 @@ dns.digitalsize.net
 dns4me.net
 dns.dnsoverhttps.net
 takhtakh.domyah.net
-gustamadh.dynv6.net
 dnscache.e-utp.net
 adguard.easez.net
 dns.eddi.net
@@ -951,8 +951,11 @@ us.doh.cloudveil.org
 dns.colorfreedom.org
 dns.csswg.org
 ns1.dotls.org
+jurre-home.duckdns.org
 krtekvpn.duckdns.org
+osefcorp.duckdns.org
 tuandns.duckdns.org
+tungdnsne.duckdns.org
 ueni.dyndns.org
 arashi.eu.org
 armorrush.eu.org
@@ -961,6 +964,7 @@ dns.mayx.eu.org
 arashi.net.eu.org
 sukidayo.eu.org
 dns.falkenthal.org
+adguard.gambini.org
 dns.girino.org
 dns.api.globus.org
 dns.api.preview.globus.org
@@ -1019,7 +1023,6 @@ cloudns.bosco.ovh
 dns.clanless.ovh
 eliatofani.ovh
 fezgate.ovh
-dns.henek.ovh
 jackyes.ovh
 dns.mateo.ovh
 dns.privado.ovh

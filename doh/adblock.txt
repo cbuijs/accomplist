@@ -1,6 +1,6 @@
 [Adblock Plus 1.1]
 ! Title: Accomplist "Doh" AdBlock List (Top-N Version)
-! Version: 1756449144
+! Version: 1756535672
 ! Homepage: https://github.com/cbuijs/accomplist/tree/master/doh
 !
 ! WhiteList Domains:
@@ -91,7 +91,7 @@
 ||dns.michelo.cl^
 ||dnsotls.lab.nic.cl^
 ||farewellkou.click^
-||listo.click^
+||dns.listo.click^
 ||justhost.bedro.cloud^
 ||dns.brembeck.cloud^
 ||brono.cloud^
@@ -329,7 +329,6 @@
 ||msr177.com^
 ||ns.mtsoln.com^
 ||dpeddi.myddns.com^
-||dns.mzjtechnology.com^
 ||dns.nguyendn.com^
 ||dns.nhtsky.com^
 ||d.niaox.com^
@@ -1269,8 +1268,8 @@
 ||dns8.org^
 ||dnsbunker.org^
 ||ns1.dotls.org^
+||jurre-home.duckdns.org^
 ||krtekvpn.duckdns.org^
-||montmorot.duckdns.org^
 ||osefcorp.duckdns.org^
 ||punono.duckdns.org^
 ||tuandns.duckdns.org^
@@ -1285,6 +1284,7 @@
 ||faked.org^
 ||dns.falkenthal.org^
 ||d4yge1fn4wr.d.firewalla.org^
+||adguard.gambini.org^
 ||dns.girino.org^
 ||dns.api.globus.org^
 ||dns.api.preview.globus.org^
@@ -1539,6 +1539,7 @@
 ||adg.rueiliu.space^
 ||dns.sy.st^
 ||home-server.store^
+||dns.fizz.studio^
 ||dns.xuming.studio^
 ||crypto.sx^
 ||3jjxxl.tech^
