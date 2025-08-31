@@ -1,6 +1,6 @@
 [Adblock Plus 1.1]
 ! Title: Accomplist "Doh" AdBlock List (Top-N Version)
-! Version: 1756535672
+! Version: 1756622090
 ! Homepage: https://github.com/cbuijs/accomplist/tree/master/doh
 !
 ! WhiteList Domains:
@@ -117,6 +117,9 @@
 ||dns.baishiyuan.cn^
 ||dns.beardic.cn^
 ||dns.weixin.qq.com.cn^
+||httpdns.platform.dbankcloud.cn^
+||httpdns-browser.platform.dbankcloud.cn^
+||dotserver.douyucdn.cn^
 ||dns.tuna.tsinghua.edu.cn^
 ||antidns.s.tuna.tsinghua.edu.cn^
 ||dns.hujiayucc.cn^
@@ -129,12 +132,15 @@
 ||ea-dns.rubyfish.cn^
 ||uw-dns.rubyfish.cn^
 ||v6.rubyfish.cn^
+||dns.weibo.cn^
 ||dns.zzuhacker.cn^
 ||dns.containerpi.co^
 ||mailkyb.co^
 ||dns.oszx.co^
 ||dns.tipsy.coffee^
 ||dns.13evl.com^
+||httpdns.c.163.com^
+||httpdns.music.163.com^
 ||233py.com^
 ||family.5ososea.com^
 ||kids.5ososea.com^
@@ -152,7 +158,9 @@
 ||blitz.ahadns.com^
 ||blitz-setup.ahadns.com^
 ||dns.akbxr.com^
+||httpdns.alicdn.com^
 ||alidns.com^
+||httpdns-api.aliyuncs.com^
 ||httpdns-sc.aliyuncs.com^
 ||dns.alvosec.com^
 ||eu-opush-heytapmobile-pubgw-1244993624.eu-west-3.elb.amazonaws.com^
@@ -179,14 +187,19 @@
 ||europe-west.avastdns.com^
 ||secure.avastdns.com^
 ||dns.b72.com^
+||httpdns.baidu.com^
+||httpsdns.baidu.com^
+||httpdns.baidubce.com^
 ||fr-dns1.bancuh.com^
 ||jp-dns1.bancuh.com^
 ||sg-dns1.bancuh.com^
+||httpdns.bcelive.com^
 ||i.233py.com.a.bdydns.com^
 ||antivirus.bebasid.com^
 ||dns.bebasid.com^
 ||internetsehat.bebasid.com^
 ||secondary-backup.bebasid.com^
+||httpdns.bilivideo.com^
 ||dnscrypt-cert.blahdns.com^
 ||doh.blahdns.com^
 ||doh-ch.blahdns.com^
@@ -212,6 +225,9 @@
 ||c-dns.com^
 ||cahlen.com^
 ||dns.carson-family.com^
+||httpdns.cctv.com^
+||httpdns.c.cdnhwc2.com^
+||httpdns1.cc.cdnhwc5.com^
 ||dns.chriswservers.com^
 ||dns.chunghwamc.com^
 ||oraclejp2.chungyu.com^
@@ -233,6 +249,7 @@
 ||dns.cwlys.com^
 ||dns.dallinbryce.com^
 ||dns.david888.com^
+||httpdns.platform.dbankcloud.com^
 ||dns.decloudus.com^
 ||doh.denypradana.com^
 ||doh-primary-pool.detoxifypornblocker.com^
@@ -261,6 +278,7 @@
 ||resolver1.dyndnsinternetguide.com^
 ||resolver2.dyndnsinternetguide.com^
 ||easyhandshake.com^
+||dns.efficientdocuments.com^
 ||dns.enzonix.com^
 ||doh.flashstart.com^
 ||dns.flwagners.com^
@@ -280,11 +298,14 @@
 ||resolver-eu.haringstad.com^
 ||dns.hellozhao.com^
 ||ww2.hellozhao.com^
+||httpdns.ocloud.heytapmobi.com^
+||httpdns.push.heytapmobi.com^
 ||httpdns-push.heytapmobile.com^
 ||expired.hichina.com^
 ||himedns.com^
 ||dns.hoody.com^
 ||dns.internal.hosmatic.com^
+||httpdns.huaweicloud.com^
 ||ads.hunga1k47.com^
 ||doth.huque.com^
 ||mask.icloud.com^
@@ -297,9 +318,15 @@
 ||dns.inclusioproject.com^
 ||dns.indybanipal.com^
 ||dns.inforlogia.com^
+||apidns.kwd.inkuai.com^
+||httpdns.kwd.inkuai.com^
+||dns.iqiyi.com^
+||doh.iqiyi.com^
+||dns.qiyipic.iqiyi.com^
 ||dns1.irumatech.com^
 ||dns.is0mino.com^
 ||dns.islandnet.com^
+||dns.jd.com^
 ||opencdn.jomodns.com^
 ||dns.jstockley.com^
 ||dns.jupitrdns.com^
@@ -308,6 +335,7 @@
 ||dns.kamilszczepanski.com^
 ||dns.keviland.com^
 ||adguard.konikoni428.com^
+||hdns.ksyun.com^
 ||dns.kugoapps.com^
 ||iterator.lazada.com^
 ||dns.lepilleur.com^
@@ -321,7 +349,9 @@
 ||orau.lz0724.com^
 ||doh.maskab.com^
 ||httpdns.meituan.com^
+||httpdnsvip.meituan.com^
 ||inf-wan.vip.meituan.com^
+||httpdns.browser.miui.com^
 ||doh.mmmalia.com^
 ||dns.mo0on15.com^
 ||dnstls.mobik.com^
@@ -329,6 +359,9 @@
 ||msr177.com^
 ||ns.mtsoln.com^
 ||dpeddi.myddns.com^
+||dns.mzjtechnology.com^
+||httpdns.n.netease.com^
+||httpdns-sdk.n.netease.com^
 ||dns.nguyendn.com^
 ||dns.nhtsky.com^
 ||d.niaox.com^
@@ -359,6 +392,8 @@
 ||resolver2.opendns.com^
 ||resolver2-fs.opendns.com^
 ||sandbox.opendns.com^
+||httpdns.ocloud.oppomobile.com^
+||httpdns.push.oppomobile.com^
 ||dns.eu-frankfurt-1.oraclecloud.com^
 ||dns.eu-frankfurt-1.oci.oraclecloud.com^
 ||dns.uk-london-1.oci.oraclecloud.com^
@@ -402,6 +437,8 @@
 ||publicdnsserver.com^
 ||dns.pumpkinvrar.com^
 ||dns.pumplex.com^
+||httpdns.kg.qq.com^
+||dns.weixin.qq.com^
 ||iterator.lazada.com.queniubl.com^
 ||r1bnc.com^
 ||dns.api.rackspacecloud.com^
@@ -423,6 +460,7 @@
 ||adguard.sealyserver.com^
 ||dns.sec511.com^
 ||privatnas.servebeer.com^
+||httpdns.n.shifen.com^
 ||adguard.shoupperuser.com^
 ||dns.silentlybren.com^
 ||dnsovertls.sinodun.com^
@@ -440,6 +478,7 @@
 ||dns.syaifullah.com^
 ||dns-server-geo.sz-dns.com^
 ||doh.sz-dns.com^
+||httpdns.danuoyi.tbcache.com^
 ||dns.technologycage.com^
 ||dns.technostriker.com^
 ||rx.techomespace.com^
@@ -452,6 +491,7 @@
 ||doh.umbrella.com^
 ||doh.valscosmos.com^
 ||dns.vishalk.com^
+||httpdns.volcengineapi.com^
 ||wantaquddin.com^
 ||dns.wechat.com^
 ||ns2.wuyouss.com^
@@ -466,7 +506,10 @@
 ||lion.yazilimatolye.com^
 ||sg.yepdns.com^
 ||yovbak.com^
+||httpdns.yunxindns.com^
+||httpdns.gslb.yy.com^
 ||adguard.zachitect.com^
+||httpdns.zybang.com^
 ||polisitogel.contractors^
 ||mabuktogel.creditcard^
 ||polisitogel.cruises^
@@ -1270,6 +1313,7 @@
 ||ns1.dotls.org^
 ||jurre-home.duckdns.org^
 ||krtekvpn.duckdns.org^
+||montmorot.duckdns.org^
 ||osefcorp.duckdns.org^
 ||punono.duckdns.org^
 ||tuandns.duckdns.org^
@@ -1370,6 +1414,7 @@
 ||doh.apad.pro^
 ||dns.burgas.pro^
 ||dns.dynx.pro^
+||httpdns.pro^
 ||adguard.caserta.keenetic.pro^
 ||ntwrkh.pro^
 ||doh.xcom.pro^
@@ -1576,6 +1621,7 @@
 ||agh.xinfeng16m.top^
 ||zburger.top^
 ||doh.funtopia.tv^
+||doh.ptqy.gitv.tv^
 ||emby.rasp.tv^
 ||dns.yatima.tv^
 ||dns.ceai.com.tw^
