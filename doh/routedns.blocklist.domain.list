@@ -107,6 +107,8 @@
 .dns.weixin.qq.com.cn
 .httpdns.platform.dbankcloud.cn
 .httpdns-browser.platform.dbankcloud.cn
+.de001-lbc0.wec.dbankedge.cn
+.httpdns-platform-dbankcloud-com-dre.wec.dbankedge.cn
 .dotserver.douyucdn.cn
 .dns.tuna.tsinghua.edu.cn
 .antidns.s.tuna.tsinghua.edu.cn
@@ -146,12 +148,20 @@
 .blitz.ahadns.com
 .blitz-setup.ahadns.com
 .dns.akbxr.com
+.httpdns-api.aliyuncs.com.gds.alibabadns.com
+.ops-httpdns.aliyuncs.com.gds.alibabadns.com
+.popunify-4.aliyuncs.com.gds.alibabadns.com
 .httpdns.alicdn.com
 .alidns.com
 .httpdns-api.aliyuncs.com
 .httpdns-sc.aliyuncs.com
+.ops-httpdns.aliyuncs.com
+.popunify-4.aliyuncs.com
+.ga-bp1x5hjt57jh3adltd1si.aliyunga0019.com
 .dns.alvosec.com
+.eu-opush-heytapmobi-pubgw-757915985.eu-west-3.elb.amazonaws.com
 .eu-opush-heytapmobile-pubgw-1244993624.eu-west-3.elb.amazonaws.com
+.eu-opush-oppomobile-pubgw-928071339.eu-west-3.elb.amazonaws.com
 .dns-integration-alb-618104398.us-east-1.elb.amazonaws.com
 .dns-preview-alb-541438575.us-east-1.elb.amazonaws.com
 .dns-prod-alb-194669935.us-east-1.elb.amazonaws.com
@@ -210,10 +220,12 @@
 .dns.braene.com
 .bravedns.com
 .doh.bt.com
+.httpdns-volc.byte008.com
 .c-dns.com
 .cahlen.com
 .dns.carson-family.com
 .httpdns.cctv.com
+.dotserver.douyucdn.cn.w.cdngslb.com
 .httpdns.c.cdnhwc2.com
 .httpdns1.cc.cdnhwc5.com
 .dns.chriswservers.com
@@ -308,6 +320,8 @@
 .dns.inforlogia.com
 .apidns.kwd.inkuai.com
 .httpdns.kwd.inkuai.com
+.multi-az-httpdns.inkuai.com
+.multi-az-httpdns.v6.inkuai.com
 .dns.iqiyi.com
 .doh.iqiyi.com
 .dns.qiyipic.iqiyi.com
@@ -324,6 +338,7 @@
 .dns.keviland.com
 .adguard.konikoni428.com
 .hdns.ksyun.com
+.hdns.gslb.ksyuncdn.com
 .dns.kugoapps.com
 .iterator.lazada.com
 .dns.lepilleur.com
@@ -339,6 +354,7 @@
 .httpdns.meituan.com
 .httpdnsvip.meituan.com
 .inf-wan.vip.meituan.com
+.cname-app-com-amsproxy.w.mi-dun.com
 .httpdns.browser.miui.com
 .doh.mmmalia.com
 .dns.mo0on15.com
@@ -347,9 +363,12 @@
 .msr177.com
 .ns.mtsoln.com
 .dpeddi.myddns.com
-.dns.mzjtechnology.com
 .httpdns.n.netease.com
 .httpdns-sdk.n.netease.com
+.httpdnsv4.ntes53.netease.com
+.httpdns.music.ntes53.netease.com
+.nim-httpdns-outsea.ntes53.netease.com
+.nim-lbs-oversea-tmp.ntes53.netease.com
 .dns.nguyendn.com
 .dns.nhtsky.com
 .d.niaox.com
@@ -425,6 +444,7 @@
 .publicdnsserver.com
 .dns.pumpkinvrar.com
 .dns.pumplex.com
+.dns.jd.com.gslb.qianxun.com
 .httpdns.kg.qq.com
 .dns.weixin.qq.com
 .iterator.lazada.com.queniubl.com
@@ -448,7 +468,10 @@
 .adguard.sealyserver.com
 .dns.sec511.com
 .privatnas.servebeer.com
+.httpdns.lss.baidu.n.shifen.com
+.bce-httpsdns.n.shifen.com
 .httpdns.n.shifen.com
+.httpsdns.n.shifen.com
 .adguard.shoupperuser.com
 .dns.silentlybren.com
 .dnsovertls.sinodun.com
@@ -466,6 +489,7 @@
 .dns.syaifullah.com
 .dns-server-geo.sz-dns.com
 .doh.sz-dns.com
+.httpdns.alicdn.com.danuoyi.tbcache.com
 .httpdns.danuoyi.tbcache.com
 .dns.technologycage.com
 .dns.technostriker.com
@@ -1150,6 +1174,7 @@
 .zrh1-ns01.monzoon.net
 .dns.mullvad.net
 .doh.mullvad.net
+.dnspod-vip5.beian.mydnspod.net
 .echoe1yidzu4ioo5.myfritz.net
 .doh-ca.naftalie.net
 .ae-fuj-w-p-1.nashkan.net
