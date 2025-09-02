@@ -1,6 +1,6 @@
 [Adblock Plus 1.1]
 ! Title: Accomplist "Doh" AdBlock List (Top-N Version)
-! Version: 1756706985
+! Version: 1756794896
 ! Homepage: https://github.com/cbuijs/accomplist/tree/master/doh
 !
 ! WhiteList Domains:
@@ -22,6 +22,7 @@
 ||dns.redhosting.com.ar^
 ||dns.wang.art^
 ||dns.sarak.as^
+||tlz.asia^
 ||penta.aeins.at^
 ||rfree1.blue-shield.at^
 ||rfree2.blue-shield.at^
@@ -290,6 +291,7 @@
 ||resolver1.dyndnsinternetguide.com^
 ||resolver2.dyndnsinternetguide.com^
 ||easyhandshake.com^
+||dns.edgeburnmedia.com^
 ||dns.efficientdocuments.com^
 ||dns.enzonix.com^
 ||doh.flashstart.com^
@@ -375,6 +377,7 @@
 ||msr177.com^
 ||ns.mtsoln.com^
 ||dpeddi.myddns.com^
+||dns.mzjtechnology.com^
 ||httpdns.n.netease.com^
 ||httpdns-sdk.n.netease.com^
 ||httpdnsv4.ntes53.netease.com^
@@ -1131,7 +1134,6 @@
 ||al223-a73e-bj-v0.0.dxng.net^
 ||cn1.dxng.net^
 ||cn1-v0.dxng.net^
-||gustamadh.dynv6.net^
 ||dnscache.e-utp.net^
 ||adguard.easez.net^
 ||dns.eddi.net^
@@ -1346,6 +1348,7 @@
 ||ueni.dyndns.org^
 ||arashi.eu.org^
 ||armorrush.eu.org^
+||doh.excdn.eu.org^
 ||dns.fullaccesstointernet.jp.eu.org^
 ||dns.mayx.eu.org^
 ||arashi.net.eu.org^
@@ -1599,7 +1602,6 @@
 ||callies-online.site^
 ||dns.l337.site^
 ||dns.labnekotest.site^
-||tecdrive.site^
 ||vtcuong.site^
 ||dns.levonet.sk^
 ||dns.elemental.software^
@@ -1740,9 +1742,7 @@
 ||dns.kerekes.xyz^
 ||ko-18948-tr.xyz^
 ||kx-97795-tr.xyz^
-||lukscasino-479-tr.xyz^
 ||lukscasino-542-tr.xyz^
-||lukscasino-929-tr.xyz^
 ||dns.maolaohei.xyz^
 ||maqgie.xyz^
 ||dns.mh4ckt3mh4ckt1c4s.xyz^
