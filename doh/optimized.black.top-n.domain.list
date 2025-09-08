@@ -45,6 +45,7 @@ regiopolis.cloud
 dns.roedel.cloud
 ps1.modr.club
 dns.soldier.terumi.club
+doh.18bit.cn
 doh.360.cn
 dot.360.cn
 dns.weixin.qq.com.cn
@@ -156,6 +157,7 @@ ns1.recursive.dnsbycomodo.com
 ns2.recursive.dnsbycomodo.com
 dnscrypt-cert.shield-2.dnsbycomodo.com
 doh.totoro.pub.eo.dnse5.com
+dnsenc.com
 dnsforfamily.com
 doh.dnslify.com
 ns.dnslify.com
@@ -234,6 +236,7 @@ nim-lbs-oversea-tmp.ntes53.netease.com
 dns1.nordvpn.com
 dns2.nordvpn.com
 dns.notjakob.com
+dns.odinpl.com
 dns.opendns.com
 dnscrypt-cert.opendns.com
 doh.opendns.com
@@ -461,6 +464,7 @@ dns.applewebkit.dev
 bazooki-infra.dev
 pihole.aws.ketan.dev
 adg.khon.dev
+lsqmbr-hk.kmbr.dev
 adblock.krctech.dev
 dns.molinero.dev
 home.molinero.dev
@@ -495,6 +499,7 @@ ns0.fdn.fr
 ns1.fdn.fr
 qlf-doh.inria.fr
 dns.kebree.fr
+home.kebree.fr
 doh.lacontrevoie.fr
 nicolas-dorriere.fr
 pates.services.sfr.fr.casepp.sfr.fr
@@ -657,7 +662,6 @@ dns.digitalsize.net
 tls-dns-u.odvr.dns-oarc.net
 dns4me.net
 dns.dnsoverhttps.net
-gustamadh.dynv6.net
 dnscache.e-utp.net
 doh.ersei.net
 pdns.faelix.net
