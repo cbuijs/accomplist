@@ -182,6 +182,8 @@ dns.google.com
 google-public-dns-a.google.com
 google-public-dns-b.google.com
 dot.libredns.gr.com
+adguard.haneulo.com
+oko.haneulo.com
 resolver-eu.haringstad.com
 httpdns.ocloud.heytapmobi.com
 httpdns.push.heytapmobi.com
@@ -466,7 +468,6 @@ dns.applewebkit.dev
 bazooki-infra.dev
 pihole.aws.ketan.dev
 adg.khon.dev
-lsqmbr-hk.kmbr.dev
 adblock.krctech.dev
 dns.molinero.dev
 home.molinero.dev
@@ -667,6 +668,7 @@ dns.digitalsize.net
 tls-dns-u.odvr.dns-oarc.net
 dns4me.net
 dns.dnsoverhttps.net
+gustamadh.dynv6.net
 dnscache.e-utp.net
 doh.ersei.net
 pdns.faelix.net
