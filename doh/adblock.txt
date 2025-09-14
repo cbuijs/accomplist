@@ -1,6 +1,6 @@
 [Adblock Plus 1.1]
 ! Title: Accomplist "Doh" AdBlock List (Top-N Version)
-! Version: 1757744042
+! Version: 1757832480
 ! Homepage: https://github.com/cbuijs/accomplist/tree/master/doh
 !
 ! WhiteList Domains:
@@ -118,7 +118,10 @@
 ||dns.weixin.qq.com.cn^
 ||httpdns.platform.dbankcloud.cn^
 ||httpdns-browser.platform.dbankcloud.cn^
+||wec-httpdns-platform-dbankcloud-com-drcn.region.dbankedge.cn^
 ||de001-lbc0.wec.dbankedge.cn^
+||httpdns-platform-dbankcloud-com-dra.wec.dbankedge.cn^
+||httpdns-platform-dbankcloud-com-drcn.wec.dbankedge.cn^
 ||httpdns-platform-dbankcloud-com-dre.wec.dbankedge.cn^
 ||dotserver.douyucdn.cn^
 ||dns.tuna.tsinghua.edu.cn^
@@ -377,6 +380,7 @@
 ||msr177.com^
 ||ns.mtsoln.com^
 ||dpeddi.myddns.com^
+||dns.mzjtechnology.com^
 ||httpdns.n.netease.com^
 ||httpdns-sdk.n.netease.com^
 ||httpdnsv4.ntes53.netease.com^
@@ -1609,7 +1613,6 @@
 ||adg.rueiliu.space^
 ||dns.sy.st^
 ||home-server.store^
-||dns.fizz.studio^
 ||dns.xuming.studio^
 ||crypto.sx^
 ||3jjxxl.tech^

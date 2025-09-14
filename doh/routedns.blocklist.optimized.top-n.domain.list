@@ -51,7 +51,10 @@
 .dns.weixin.qq.com.cn
 .httpdns.platform.dbankcloud.cn
 .httpdns-browser.platform.dbankcloud.cn
+.wec-httpdns-platform-dbankcloud-com-drcn.region.dbankedge.cn
 .de001-lbc0.wec.dbankedge.cn
+.httpdns-platform-dbankcloud-com-dra.wec.dbankedge.cn
+.httpdns-platform-dbankcloud-com-drcn.wec.dbankedge.cn
 .httpdns-platform-dbankcloud-com-dre.wec.dbankedge.cn
 .dotserver.douyucdn.cn
 .dns.tuna.tsinghua.edu.cn
@@ -229,6 +232,7 @@
 .dnstls.mobik.com
 .ns.mtsoln.com
 .dpeddi.myddns.com
+.dns.mzjtechnology.com
 .httpdns.n.netease.com
 .httpdns-sdk.n.netease.com
 .httpdnsv4.ntes53.netease.com
@@ -1042,13 +1046,10 @@
 .dns.d94.xyz
 .do-39574-tr.xyz
 .agh.dshubham.xyz
-.hole.elbschloss.xyz
 .dns.kerekes.xyz
 .maqgie.xyz
 .dns.mh4ckt3mh4ckt1c4s.xyz
 .mikezhang.xyz
-.a.passcloud.xyz
-.i.passcloud.xyz
 .pepetio.xyz
 .pm7051-br.xyz
 .pm9352-bd.xyz
