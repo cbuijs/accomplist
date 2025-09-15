@@ -56,6 +56,7 @@
 .httpdns-platform-dbankcloud-com-dra.wec.dbankedge.cn
 .httpdns-platform-dbankcloud-com-drcn.wec.dbankedge.cn
 .httpdns-platform-dbankcloud-com-dre.wec.dbankedge.cn
+.sg001-lbc0.wec.dbankedge.cn
 .dotserver.douyucdn.cn
 .dns.tuna.tsinghua.edu.cn
 .antidns.s.tuna.tsinghua.edu.cn
@@ -232,7 +233,6 @@
 .dnstls.mobik.com
 .ns.mtsoln.com
 .dpeddi.myddns.com
-.dns.mzjtechnology.com
 .httpdns.n.netease.com
 .httpdns-sdk.n.netease.com
 .httpdnsv4.ntes53.netease.com
@@ -242,7 +242,6 @@
 .dns1.nordvpn.com
 .dns2.nordvpn.com
 .dns.notjakob.com
-.dns.odinpl.com
 .dns.opendns.com
 .dnscrypt-cert.opendns.com
 .doh.opendns.com
@@ -472,6 +471,7 @@
 .bazooki-infra.dev
 .pihole.aws.ketan.dev
 .adg.khon.dev
+.lsqmbr-hk.kmbr.dev
 .adblock.krctech.dev
 .dns.molinero.dev
 .home.molinero.dev
@@ -672,6 +672,7 @@
 .tls-dns-u.odvr.dns-oarc.net
 .dns4me.net
 .dns.dnsoverhttps.net
+.gustamadh.dynv6.net
 .dnscache.e-utp.net
 .doh.ersei.net
 .pdns.faelix.net
@@ -708,6 +709,7 @@
 .doh.mullvad.net
 .dnspod-vip5.beian.mydnspod.net
 .echoe1yidzu4ioo5.myfritz.net
+.doh-ca.naftalie.net
 .ae-fuj-w-p-1.nashkan.net
 .ae-fuj-w-p-2.nashkan.net
 .ae-fuj-w-p-3.nashkan.net
