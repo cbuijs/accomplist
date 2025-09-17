@@ -55,9 +55,6 @@
 .ychen.cf
 .dns.chenu.ch
 .c.cicitt.ch
-.dns.digitale-gesellschaft.ch
-.dns1.digitale-gesellschaft.ch
-.dns2.digitale-gesellschaft.ch
 .doh.immerda.ch
 .eu1.dns.lavate.ch
 .us1.dns.lavate.ch
@@ -581,7 +578,6 @@
 .dns1.klcd.eu
 .dns2.klcd.eu
 .xray.krnl.eu
-.adguard.leadseason.eu
 .au.rslvr.eu
 .bg.rslvr.eu
 .hk.rslvr.eu
@@ -893,7 +889,6 @@
 .dns4me.net
 .dns.dnsoverhttps.net
 .takhtakh.domyah.net
-.gustamadh.dynv6.net
 .dnscache.e-utp.net
 .adguard.easez.net
 .dns.eddi.net
@@ -1293,7 +1288,6 @@
 .vd.i81.ru
 .dns.iamninja.ru
 .dns.lashes-brow.ru
-.dns.msxnet.ru
 .muxyuji.ru
 .dns.nas-server.ru
 .adguard.oms-ctr.ru
@@ -1327,7 +1321,6 @@
 .adg.rueiliu.space
 .dns.sy.st
 .home-server.store
-.dns.fizz.studio
 .dns.xuming.studio
 .crypto.sx
 .3jjxxl.tech
@@ -1483,6 +1476,7 @@
 .kudns.kescher.at
 .pangolin.ff0x.ca
 .keeflix.chenu.ch
+.digitale-gesellschaft.ch
 .dns.quickline.ch
 .metis.sheggi.ch
 .brono.cloud
@@ -1562,6 +1556,7 @@
 .httpdns.alicdn.com.danuoyi.tbcache.com
 .doh2.gslb2.xfinity.com
 .us.novali.date
+.home.bitteeinbyte.de
 .gw-dk.brueggus.de
 .gw-hk.brueggus.de
 .gw-nl02.brueggus.de
@@ -1686,6 +1681,7 @@
 .staging.dnsteam.globuscs.info
 .test.dnsteam.globuscs.info
 .onlyfriends.info
+.steering.nextdns.io
 .icn-aa.objet.seia.io
 .xstl.objet.seia.io
 .xstl.seia.io
@@ -1707,11 +1703,14 @@
 .d2bphvjyj895l0.cloudfront.net
 .panel.cloudns.net
 .ender.crystalyx.net
+.home-bitteeinbyte.ddns.net
 .ddns.depieri.net
 .mimile.despagne.net
 .al223-a73e-bj-v0.0.dxng.net
+.tx224-9449-bj-v0.0.dxng.net
 .cn1.dxng.net
-.cn1-v0.dxng.net
+.cn1-v1.dxng.net
+.gustamadh.dynv6.net
 .anycast.ffmuc.net
 .eu-cdn.imoim.net
 .servidor01.itwebhost.net
