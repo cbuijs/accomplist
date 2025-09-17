@@ -1,6 +1,6 @@
 [Adblock Plus 1.1]
 ! Title: Accomplist "Tlds" AdBlock List (Top-N Version)
-! Version: 1758003519
+! Version: 1758105420
 ! Homepage: https://github.com/cbuijs/accomplist/tree/master/tlds
 !
 ! WhiteList Domains:
@@ -713,6 +713,8 @@
 @@||flexilead.online^
 ! Sub-domain "geoigarape.online" unblacklisted from domain "online"
 @@||geoigarape.online^
+! Sub-domain "grapheneos.online" unblacklisted from domain "online"
+@@||grapheneos.online^
 ! Sub-domain "instructions.online" unblacklisted from domain "online"
 @@||instructions.online^
 ! Sub-domain "manuals.online" unblacklisted from domain "online"
@@ -946,6 +948,8 @@
 @@||i5i.site^
 ! Sub-domain "kaylees.site" unblacklisted from domain "site"
 @@||kaylees.site^
+! Sub-domain "miteru.site" unblacklisted from domain "site"
+@@||miteru.site^
 ! Sub-domain "notion.site" unblacklisted from domain "site"
 @@||notion.site^
 ! Sub-domain "onrocket.site" unblacklisted from domain "site"
