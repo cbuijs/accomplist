@@ -1,6 +1,6 @@
 [Adblock Plus 1.1]
 ! Title: Accomplist "Tlds" AdBlock List (Top-N Version)
-! Version: 1758105420
+! Version: 1758176750
 ! Homepage: https://github.com/cbuijs/accomplist/tree/master/tlds
 !
 ! WhiteList Domains:
@@ -960,6 +960,8 @@
 @@||privacy-test-pages.site^
 ! Sub-domain "reddit-doesnt-like-this.site" unblacklisted from domain "site"
 @@||reddit-doesnt-like-this.site^
+! Sub-domain "shopapps.site" unblacklisted from domain "site"
+@@||shopapps.site^
 ! Sub-domain "srht.site" unblacklisted from domain "site"
 @@||srht.site^
 ! Sub-domain "toast.site" unblacklisted from domain "site"
@@ -1018,6 +1020,8 @@
 @@||oldbytes.space^
 ! Sub-domain "qwik.space" unblacklisted from domain "space"
 @@||qwik.space^
+! Sub-domain "roguecorp.space" unblacklisted from domain "space"
+@@||roguecorp.space^
 ! Sub-domain "scurra.space" unblacklisted from domain "space"
 @@||scurra.space^
 ! Sub-domain "searx.space" unblacklisted from domain "space"
