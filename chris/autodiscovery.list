@@ -8944,6 +8944,8 @@ autoconfig.spectrum.myjino.ru
 autoconfig.vps.myjino.ru
 autoconfig.jote.cloud
 autoconfig.jotelulu.cloud
+autoconfig.jote-dr-lt1.com
+autoconfig.jote-rd-lt1.com
 autoconfig.webadorsite.com
 autoconfig.jouwweb.site
 autoconfig.cns.joyent.com
@@ -9352,6 +9354,7 @@ autoconfig.gl.srv.us
 autoconfig.lk3.ru
 autoconfig.mypep.link
 autoconfig.perspecta.cloud
+autoconfig.support.site
 autoconfig.on-web.fr
 autoconfig.upsun.app
 autoconfig.upsunapp.com
@@ -18876,6 +18879,8 @@ _autodiscover.spectrum.myjino.ru
 _autodiscover.vps.myjino.ru
 _autodiscover.jote.cloud
 _autodiscover.jotelulu.cloud
+_autodiscover.jote-dr-lt1.com
+_autodiscover.jote-rd-lt1.com
 _autodiscover.webadorsite.com
 _autodiscover.jouwweb.site
 _autodiscover.cns.joyent.com
@@ -19284,6 +19289,7 @@ _autodiscover.gl.srv.us
 _autodiscover.lk3.ru
 _autodiscover.mypep.link
 _autodiscover.perspecta.cloud
+_autodiscover.support.site
 _autodiscover.on-web.fr
 _autodiscover.upsun.app
 _autodiscover.upsunapp.com
@@ -28808,6 +28814,8 @@ autodiscover.spectrum.myjino.ru
 autodiscover.vps.myjino.ru
 autodiscover.jote.cloud
 autodiscover.jotelulu.cloud
+autodiscover.jote-dr-lt1.com
+autodiscover.jote-rd-lt1.com
 autodiscover.webadorsite.com
 autodiscover.jouwweb.site
 autodiscover.cns.joyent.com
@@ -29216,6 +29224,7 @@ autodiscover.gl.srv.us
 autodiscover.lk3.ru
 autodiscover.mypep.link
 autodiscover.perspecta.cloud
+autodiscover.support.site
 autodiscover.on-web.fr
 autodiscover.upsun.app
 autodiscover.upsunapp.com
@@ -38740,6 +38749,8 @@ b._dns-sd.spectrum.myjino.ru
 b._dns-sd.vps.myjino.ru
 b._dns-sd.jote.cloud
 b._dns-sd.jotelulu.cloud
+b._dns-sd.jote-dr-lt1.com
+b._dns-sd.jote-rd-lt1.com
 b._dns-sd.webadorsite.com
 b._dns-sd.jouwweb.site
 b._dns-sd.cns.joyent.com
@@ -39148,6 +39159,7 @@ b._dns-sd.gl.srv.us
 b._dns-sd.lk3.ru
 b._dns-sd.mypep.link
 b._dns-sd.perspecta.cloud
+b._dns-sd.support.site
 b._dns-sd.on-web.fr
 b._dns-sd.upsun.app
 b._dns-sd.upsunapp.com
@@ -48672,6 +48684,8 @@ db._dns-sd.spectrum.myjino.ru
 db._dns-sd.vps.myjino.ru
 db._dns-sd.jote.cloud
 db._dns-sd.jotelulu.cloud
+db._dns-sd.jote-dr-lt1.com
+db._dns-sd.jote-rd-lt1.com
 db._dns-sd.webadorsite.com
 db._dns-sd.jouwweb.site
 db._dns-sd.cns.joyent.com
@@ -49080,6 +49094,7 @@ db._dns-sd.gl.srv.us
 db._dns-sd.lk3.ru
 db._dns-sd.mypep.link
 db._dns-sd.perspecta.cloud
+db._dns-sd.support.site
 db._dns-sd.on-web.fr
 db._dns-sd.upsun.app
 db._dns-sd.upsunapp.com
@@ -58604,6 +58619,8 @@ isatap.spectrum.myjino.ru
 isatap.vps.myjino.ru
 isatap.jote.cloud
 isatap.jotelulu.cloud
+isatap.jote-dr-lt1.com
+isatap.jote-rd-lt1.com
 isatap.webadorsite.com
 isatap.jouwweb.site
 isatap.cns.joyent.com
@@ -59012,6 +59029,7 @@ isatap.gl.srv.us
 isatap.lk3.ru
 isatap.mypep.link
 isatap.perspecta.cloud
+isatap.support.site
 isatap.on-web.fr
 isatap.upsun.app
 isatap.upsunapp.com
@@ -68536,6 +68554,8 @@ lb._dns-sd.spectrum.myjino.ru
 lb._dns-sd.vps.myjino.ru
 lb._dns-sd.jote.cloud
 lb._dns-sd.jotelulu.cloud
+lb._dns-sd.jote-dr-lt1.com
+lb._dns-sd.jote-rd-lt1.com
 lb._dns-sd.webadorsite.com
 lb._dns-sd.jouwweb.site
 lb._dns-sd.cns.joyent.com
@@ -68944,6 +68964,7 @@ lb._dns-sd.gl.srv.us
 lb._dns-sd.lk3.ru
 lb._dns-sd.mypep.link
 lb._dns-sd.perspecta.cloud
+lb._dns-sd.support.site
 lb._dns-sd.on-web.fr
 lb._dns-sd.upsun.app
 lb._dns-sd.upsunapp.com
@@ -78468,6 +78489,8 @@ wpad.spectrum.myjino.ru
 wpad.vps.myjino.ru
 wpad.jote.cloud
 wpad.jotelulu.cloud
+wpad.jote-dr-lt1.com
+wpad.jote-rd-lt1.com
 wpad.webadorsite.com
 wpad.jouwweb.site
 wpad.cns.joyent.com
@@ -78876,6 +78899,7 @@ wpad.gl.srv.us
 wpad.lk3.ru
 wpad.mypep.link
 wpad.perspecta.cloud
+wpad.support.site
 wpad.on-web.fr
 wpad.upsun.app
 wpad.upsunapp.com
@@ -88400,6 +88424,8 @@ wpad.tcp.spectrum.myjino.ru
 wpad.tcp.vps.myjino.ru
 wpad.tcp.jote.cloud
 wpad.tcp.jotelulu.cloud
+wpad.tcp.jote-dr-lt1.com
+wpad.tcp.jote-rd-lt1.com
 wpad.tcp.webadorsite.com
 wpad.tcp.jouwweb.site
 wpad.tcp.cns.joyent.com
@@ -88808,6 +88834,7 @@ wpad.tcp.gl.srv.us
 wpad.tcp.lk3.ru
 wpad.tcp.mypep.link
 wpad.tcp.perspecta.cloud
+wpad.tcp.support.site
 wpad.tcp.on-web.fr
 wpad.tcp.upsun.app
 wpad.tcp.upsunapp.com
