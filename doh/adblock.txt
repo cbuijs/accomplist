@@ -1,6 +1,6 @@
 [Adblock Plus 1.1]
 ! Title: Accomplist "Doh" AdBlock List (Top-N Version)
-! Version: 1758349872
+! Version: 1758437992
 ! Homepage: https://github.com/cbuijs/accomplist/tree/master/doh
 !
 ! WhiteList Domains:
@@ -72,7 +72,9 @@
 ||dns.chenu.ch^
 ||keeflix.chenu.ch^
 ||c.cicitt.ch^
-||digitale-gesellschaft.ch^
+||dns.digitale-gesellschaft.ch^
+||dns1.digitale-gesellschaft.ch^
+||dns2.digitale-gesellschaft.ch^
 ||doh.immerda.ch^
 ||eu1.dns.lavate.ch^
 ||us1.dns.lavate.ch^
@@ -380,6 +382,7 @@
 ||msr177.com^
 ||ns.mtsoln.com^
 ||dpeddi.myddns.com^
+||dns.mzjtechnology.com^
 ||httpdns.n.netease.com^
 ||httpdns-sdk.n.netease.com^
 ||httpdnsv4.ntes53.netease.com^
@@ -1137,7 +1140,6 @@
 ||tx224-9449-bj-v0.0.dxng.net^
 ||cn1.dxng.net^
 ||cn1-v1.dxng.net^
-||gustamadh.dynv6.net^
 ||dnscache.e-utp.net^
 ||adguard.easez.net^
 ||dns.eddi.net^

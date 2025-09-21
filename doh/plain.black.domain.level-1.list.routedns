@@ -55,6 +55,9 @@
 .ychen.cf
 .dns.chenu.ch
 .c.cicitt.ch
+.dns.digitale-gesellschaft.ch
+.dns1.digitale-gesellschaft.ch
+.dns2.digitale-gesellschaft.ch
 .doh.immerda.ch
 .eu1.dns.lavate.ch
 .us1.dns.lavate.ch
@@ -310,6 +313,7 @@
 .dns.moonssif.com
 .msr177.com
 .ns.mtsoln.com
+.dns.mzjtechnology.com
 .httpdns-sdk.n.netease.com
 .dns.nguyendn.com
 .dns.nhtsky.com
@@ -1479,7 +1483,6 @@
 .kudns.kescher.at
 .pangolin.ff0x.ca
 .keeflix.chenu.ch
-.digitale-gesellschaft.ch
 .dns.quickline.ch
 .metis.sheggi.ch
 .brono.cloud
@@ -1684,7 +1687,6 @@
 .staging.dnsteam.globuscs.info
 .test.dnsteam.globuscs.info
 .onlyfriends.info
-.steering.nextdns.io
 .icn-aa.objet.seia.io
 .xstl.objet.seia.io
 .xstl.seia.io
@@ -1712,7 +1714,6 @@
 .tx224-9449-bj-v0.0.dxng.net
 .cn1.dxng.net
 .cn1-v1.dxng.net
-.gustamadh.dynv6.net
 .anycast.ffmuc.net
 .eu-cdn.imoim.net
 .servidor01.itwebhost.net
