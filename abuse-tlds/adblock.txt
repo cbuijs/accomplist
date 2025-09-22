@@ -1,6 +1,6 @@
 [Adblock Plus 1.1]
 ! Title: Accomplist "Tlds" AdBlock List (Top-N Version)
-! Version: 1758437653
+! Version: 1758521049
 ! Homepage: https://github.com/cbuijs/accomplist/tree/master/tlds
 !
 ! WhiteList Domains:
@@ -662,6 +662,8 @@
 @@||chris.boyle.name^
 ! Sub-domain "davidwalsh.name" unblacklisted from domain "name"
 @@||davidwalsh.name^
+! Sub-domain "keenetic.name" unblacklisted from domain "name"
+@@||keenetic.name^
 ! Sub-domain "stefvanbuuren.name" unblacklisted from domain "name"
 @@||stefvanbuuren.name^
 ! Sub-domain "vlo.name" unblacklisted from domain "name"
