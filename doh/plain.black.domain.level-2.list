@@ -49,9 +49,6 @@ dns.keweon.center
 ychen.cf
 dns.chenu.ch
 c.cicitt.ch
-dns.digitale-gesellschaft.ch
-dns1.digitale-gesellschaft.ch
-dns2.digitale-gesellschaft.ch
 doh.immerda.ch
 eu1.dns.lavate.ch
 us1.dns.lavate.ch
@@ -149,7 +146,6 @@ dot-jp.blahdns.com
 dot-sg.blahdns.com
 doh.blockerdns.com
 dns.bmwhocking.com
-dns.bobstrecansky.com
 dns.braene.com
 bravedns.com
 doh.bt.com
@@ -168,7 +164,6 @@ dns.controld.com
 freedns.controld.com
 dns.cooluc.com
 dns.cryptomize.com
-dotdns.cryptroute.com
 cubedns.com
 dns.cwlys.com
 dns.dallinbryce.com
@@ -248,11 +243,11 @@ orau.lz0724.com
 doh.maskab.com
 httpdns.meituan.com
 doh.mmmalia.com
-dns.mo0on15.com
 dnstls.mobik.com
 dns.moonssif.com
 msr177.com
 ns.mtsoln.com
+dns.mzjtechnology.com
 dns.nguyendn.com
 dns.nhtsky.com
 d.niaox.com
@@ -431,7 +426,6 @@ dns.peb-schmidt.de
 fuchur.pentament.de
 adguard.pggns.de
 project-evoex.de
-dns.psociety.de
 dns.t53.de
 dns.telekom.de
 dns.tls-data.de
@@ -744,8 +738,6 @@ dns.alekberg.net
 dns2.alekberg.net
 dnsnl.alekberg.net
 dnsse.alekberg.net
-doh.applied-privacy.net
-dot1.applied-privacy.net
 doh.appliedprivacy.net
 dot1.appliedprivacy.net
 doh.armadillodns.net
@@ -962,7 +954,6 @@ ueni.dyndns.org
 arashi.eu.org
 armorrush.eu.org
 doh.excdn.eu.org
-dns.fullaccesstointernet.jp.eu.org
 dns.mayx.eu.org
 arashi.net.eu.org
 sukidayo.eu.org
@@ -1013,6 +1004,7 @@ de.teradns.org
 ny.teradns.org
 sg.teradns.org
 dns.thebuckners.org
+blocker.thethorsens.org
 doh.tiarap.org
 jp.tiarap.org
 truta.org
@@ -1282,7 +1274,6 @@ dns.886886886.xyz
 dns.888654.xyz
 doh.abraservice.xyz
 dns.albony.xyz
-dns.andrewnw.xyz
 dns.d94.xyz
 do-39574-tr.xyz
 doh.xyz
@@ -1312,7 +1303,6 @@ pepetio.xyz
 pm1239-bd.xyz
 pm7051-br.xyz
 pm9352-bd.xyz
-dns.propheci.xyz
 doh.sublime9.xyz
 tujenasnaszato.xyz
 adguard.twotigers.xyz
