@@ -6949,9 +6949,6 @@
 .autoconfig.adobeioruntime.net
 .autoconfig.africa.com
 .autoconfig.beep.pl
-.autoconfig.airkitapps.com
-.autoconfig.airkitapps-au.com
-.autoconfig.airkitapps.eu
 .autoconfig.aiven.app
 .autoconfig.aivencloud.com
 .autoconfig.akadns.net
@@ -9382,6 +9379,7 @@
 .autoconfig.vki.kr
 .autoconfig.dev.project-study.com
 .autoconfig.protonet.io
+.autoconfig.e.id
 .autoconfig.chirurgiens-dentistes-en-france.fr
 .autoconfig.byen.site
 .autoconfig.pubtls.org
@@ -16884,9 +16882,6 @@
 ._autodiscover.adobeioruntime.net
 ._autodiscover.africa.com
 ._autodiscover.beep.pl
-._autodiscover.airkitapps.com
-._autodiscover.airkitapps-au.com
-._autodiscover.airkitapps.eu
 ._autodiscover.aiven.app
 ._autodiscover.aivencloud.com
 ._autodiscover.akadns.net
@@ -19317,6 +19312,7 @@
 ._autodiscover.vki.kr
 ._autodiscover.dev.project-study.com
 ._autodiscover.protonet.io
+._autodiscover.e.id
 ._autodiscover.chirurgiens-dentistes-en-france.fr
 ._autodiscover.byen.site
 ._autodiscover.pubtls.org
@@ -26819,9 +26815,6 @@
 .autodiscover.adobeioruntime.net
 .autodiscover.africa.com
 .autodiscover.beep.pl
-.autodiscover.airkitapps.com
-.autodiscover.airkitapps-au.com
-.autodiscover.airkitapps.eu
 .autodiscover.aiven.app
 .autodiscover.aivencloud.com
 .autodiscover.akadns.net
@@ -29252,6 +29245,7 @@
 .autodiscover.vki.kr
 .autodiscover.dev.project-study.com
 .autodiscover.protonet.io
+.autodiscover.e.id
 .autodiscover.chirurgiens-dentistes-en-france.fr
 .autodiscover.byen.site
 .autodiscover.pubtls.org
@@ -36754,9 +36748,6 @@
 .b._dns-sd.adobeioruntime.net
 .b._dns-sd.africa.com
 .b._dns-sd.beep.pl
-.b._dns-sd.airkitapps.com
-.b._dns-sd.airkitapps-au.com
-.b._dns-sd.airkitapps.eu
 .b._dns-sd.aiven.app
 .b._dns-sd.aivencloud.com
 .b._dns-sd.akadns.net
@@ -39187,6 +39178,7 @@
 .b._dns-sd.vki.kr
 .b._dns-sd.dev.project-study.com
 .b._dns-sd.protonet.io
+.b._dns-sd.e.id
 .b._dns-sd.chirurgiens-dentistes-en-france.fr
 .b._dns-sd.byen.site
 .b._dns-sd.pubtls.org
@@ -46689,9 +46681,6 @@
 .db._dns-sd.adobeioruntime.net
 .db._dns-sd.africa.com
 .db._dns-sd.beep.pl
-.db._dns-sd.airkitapps.com
-.db._dns-sd.airkitapps-au.com
-.db._dns-sd.airkitapps.eu
 .db._dns-sd.aiven.app
 .db._dns-sd.aivencloud.com
 .db._dns-sd.akadns.net
@@ -49122,6 +49111,7 @@
 .db._dns-sd.vki.kr
 .db._dns-sd.dev.project-study.com
 .db._dns-sd.protonet.io
+.db._dns-sd.e.id
 .db._dns-sd.chirurgiens-dentistes-en-france.fr
 .db._dns-sd.byen.site
 .db._dns-sd.pubtls.org
@@ -56624,9 +56614,6 @@
 .isatap.adobeioruntime.net
 .isatap.africa.com
 .isatap.beep.pl
-.isatap.airkitapps.com
-.isatap.airkitapps-au.com
-.isatap.airkitapps.eu
 .isatap.aiven.app
 .isatap.aivencloud.com
 .isatap.akadns.net
@@ -59057,6 +59044,7 @@
 .isatap.vki.kr
 .isatap.dev.project-study.com
 .isatap.protonet.io
+.isatap.e.id
 .isatap.chirurgiens-dentistes-en-france.fr
 .isatap.byen.site
 .isatap.pubtls.org
@@ -66559,9 +66547,6 @@
 .lb._dns-sd.adobeioruntime.net
 .lb._dns-sd.africa.com
 .lb._dns-sd.beep.pl
-.lb._dns-sd.airkitapps.com
-.lb._dns-sd.airkitapps-au.com
-.lb._dns-sd.airkitapps.eu
 .lb._dns-sd.aiven.app
 .lb._dns-sd.aivencloud.com
 .lb._dns-sd.akadns.net
@@ -68992,6 +68977,7 @@
 .lb._dns-sd.vki.kr
 .lb._dns-sd.dev.project-study.com
 .lb._dns-sd.protonet.io
+.lb._dns-sd.e.id
 .lb._dns-sd.chirurgiens-dentistes-en-france.fr
 .lb._dns-sd.byen.site
 .lb._dns-sd.pubtls.org
@@ -76494,9 +76480,6 @@
 .wpad.adobeioruntime.net
 .wpad.africa.com
 .wpad.beep.pl
-.wpad.airkitapps.com
-.wpad.airkitapps-au.com
-.wpad.airkitapps.eu
 .wpad.aiven.app
 .wpad.aivencloud.com
 .wpad.akadns.net
@@ -78927,6 +78910,7 @@
 .wpad.vki.kr
 .wpad.dev.project-study.com
 .wpad.protonet.io
+.wpad.e.id
 .wpad.chirurgiens-dentistes-en-france.fr
 .wpad.byen.site
 .wpad.pubtls.org
@@ -86429,9 +86413,6 @@
 .wpad.tcp.adobeioruntime.net
 .wpad.tcp.africa.com
 .wpad.tcp.beep.pl
-.wpad.tcp.airkitapps.com
-.wpad.tcp.airkitapps-au.com
-.wpad.tcp.airkitapps.eu
 .wpad.tcp.aiven.app
 .wpad.tcp.aivencloud.com
 .wpad.tcp.akadns.net
@@ -88862,6 +88843,7 @@
 .wpad.tcp.vki.kr
 .wpad.tcp.dev.project-study.com
 .wpad.tcp.protonet.io
+.wpad.tcp.e.id
 .wpad.tcp.chirurgiens-dentistes-en-france.fr
 .wpad.tcp.byen.site
 .wpad.tcp.pubtls.org
