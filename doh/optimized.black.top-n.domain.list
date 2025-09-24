@@ -168,7 +168,6 @@ dot-fi.blahdns.com
 dot-jp.blahdns.com
 dot-sg.blahdns.com
 dns.bmwhocking.com
-77980.bodis.com
 94950.bodis.com
 dns.braene.com
 bravedns.com
@@ -422,7 +421,6 @@ doh.umbrella.com
 httpdns.volcengineapi.com
 vultrusercontent.com
 dns.wechat.com
-dns.wincservices.com
 doh.xfinity.com
 dot.xfinity.com
 doh.gslb2.xfinity.com
@@ -624,6 +622,7 @@ dns.applewebkit.dev
 bazooki-infra.dev
 pihole.aws.ketan.dev
 adg.khon.dev
+lsqmbr-hk.kmbr.dev
 adblock.krctech.dev
 dns.molinero.dev
 home.molinero.dev
@@ -652,6 +651,7 @@ dns.xyz.ddnss.eu
 dns.decky.eu
 doh.dns4all.eu
 doq.dns4all.eu
+doq64.dns4all.eu
 child.joindns4.eu
 child-noads.joindns4.eu
 noads.joindns4.eu
@@ -948,7 +948,6 @@ ccadguard.dynu.net
 adguard.ekhozie.dynu.net
 flyloadguard.dynu.net
 quangdo92.dynu.net
-gustamadh.dynv6.net
 dnscache.e-utp.net
 doh.ersei.net
 adguard.exium.net
@@ -1135,7 +1134,6 @@ derekcastle.duckdns.org
 dorkanddoodle.duckdns.org
 eweyo.duckdns.org
 genielee.duckdns.org
-home27.duckdns.org
 jfeoks.duckdns.org
 jurre-home.duckdns.org
 kalwat.duckdns.org

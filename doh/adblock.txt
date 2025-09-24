@@ -1,6 +1,6 @@
 [Adblock Plus 1.1]
 ! Title: Accomplist "Doh" AdBlock List (Top-N Version)
-! Version: 1758609478
+! Version: 1758695969
 ! Homepage: https://github.com/cbuijs/accomplist/tree/master/doh
 !
 ! WhiteList Domains:
@@ -227,7 +227,6 @@
 ||adguard.jaydub.cloud^
 ||dns.krol.cloud^
 ||dns.lilith.cloud^
-||adguard.londonwebnerd.cloud^
 ||doh.nexen.cloud^
 ||regiopolis.cloud^
 ||sudo.rm-rf.cloud^
@@ -460,7 +459,6 @@
 ||dns.bluestarnc.com^
 ||dns.bmwhocking.com^
 ||bobstrecansky.com^
-||77980.bodis.com^
 ||94950.bodis.com^
 ||botclassic.com^
 ||dns.braene.com^
@@ -1478,6 +1476,7 @@
 ||dns.decky.eu^
 ||doh.dns4all.eu^
 ||doq.dns4all.eu^
+||doq64.dns4all.eu^
 ||dns.dualhosting.eu^
 ||ag.felixf.eu^
 ||server.felixf.eu^
@@ -2246,7 +2245,6 @@
 ||adguard.ekhozie.dynu.net^
 ||flyloadguard.dynu.net^
 ||quangdo92.dynu.net^
-||gustamadh.dynv6.net^
 ||dnscache.e-utp.net^
 ||adguard.easez.net^
 ||dns.eddi.net^
@@ -2269,6 +2267,7 @@
 ||dnscrypt-cert.ffmuc.net^
 ||doh.ffmuc.net^
 ||dot.ffmuc.net^
+||dns.fgbk.net^
 ||dns.flightspace.net^
 ||dns01.flm9.net^
 ||ns1.flodns.net^
@@ -2495,7 +2494,6 @@
 ||dns.daemon.za.net^
 ||lookup.zucx.net^
 ||dns.b33.network^
-||dns.edgy.network^
 ||adblock.mydns.network^
 ||family.mydns.network^
 ||freedom.mydns.network^
@@ -2563,7 +2561,6 @@
 ||vpnhellings.nl^
 ||adguard.wirimij.nl^
 ||dns.anon.no^
-||adg.tshost.no^
 ||adguard.clawsucht.nrw^
 ||anycast.censurfridns.nu^
 ||unicast.censurfridns.nu^
@@ -2658,7 +2655,6 @@
 ||dorkanddoodle.duckdns.org^
 ||eweyo.duckdns.org^
 ||genielee.duckdns.org^
-||home27.duckdns.org^
 ||jfeoks.duckdns.org^
 ||jurre-home.duckdns.org^
 ||kalwat.duckdns.org^
@@ -3353,7 +3349,6 @@
 ||dot.occ.top^
 ||artemis.orionnexus.top^
 ||revelio.top^
-||dns.rootlab.top^
 ||dns.seekfor.top^
 ||servis4u.top^
 ||speeddns.top^
