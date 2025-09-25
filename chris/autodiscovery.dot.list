@@ -9763,6 +9763,7 @@
 .autoconfig.telebit.app
 .autoconfig.telebit.io
 .autoconfig.telebit.xyz
+.autoconfig.teleport.sh
 .autoconfig.firenet.ch
 .autoconfig.svc.firenet.ch
 .autoconfig.reservd.com
@@ -19696,6 +19697,7 @@
 ._autodiscover.telebit.app
 ._autodiscover.telebit.io
 ._autodiscover.telebit.xyz
+._autodiscover.teleport.sh
 ._autodiscover.firenet.ch
 ._autodiscover.svc.firenet.ch
 ._autodiscover.reservd.com
@@ -29629,6 +29631,7 @@
 .autodiscover.telebit.app
 .autodiscover.telebit.io
 .autodiscover.telebit.xyz
+.autodiscover.teleport.sh
 .autodiscover.firenet.ch
 .autodiscover.svc.firenet.ch
 .autodiscover.reservd.com
@@ -39562,6 +39565,7 @@
 .b._dns-sd.telebit.app
 .b._dns-sd.telebit.io
 .b._dns-sd.telebit.xyz
+.b._dns-sd.teleport.sh
 .b._dns-sd.firenet.ch
 .b._dns-sd.svc.firenet.ch
 .b._dns-sd.reservd.com
@@ -49495,6 +49499,7 @@
 .db._dns-sd.telebit.app
 .db._dns-sd.telebit.io
 .db._dns-sd.telebit.xyz
+.db._dns-sd.teleport.sh
 .db._dns-sd.firenet.ch
 .db._dns-sd.svc.firenet.ch
 .db._dns-sd.reservd.com
@@ -59428,6 +59433,7 @@
 .isatap.telebit.app
 .isatap.telebit.io
 .isatap.telebit.xyz
+.isatap.teleport.sh
 .isatap.firenet.ch
 .isatap.svc.firenet.ch
 .isatap.reservd.com
@@ -69361,6 +69367,7 @@
 .lb._dns-sd.telebit.app
 .lb._dns-sd.telebit.io
 .lb._dns-sd.telebit.xyz
+.lb._dns-sd.teleport.sh
 .lb._dns-sd.firenet.ch
 .lb._dns-sd.svc.firenet.ch
 .lb._dns-sd.reservd.com
@@ -79294,6 +79301,7 @@
 .wpad.telebit.app
 .wpad.telebit.io
 .wpad.telebit.xyz
+.wpad.teleport.sh
 .wpad.firenet.ch
 .wpad.svc.firenet.ch
 .wpad.reservd.com
@@ -89227,6 +89235,7 @@
 .wpad.tcp.telebit.app
 .wpad.tcp.telebit.io
 .wpad.tcp.telebit.xyz
+.wpad.tcp.teleport.sh
 .wpad.tcp.firenet.ch
 .wpad.tcp.svc.firenet.ch
 .wpad.tcp.reservd.com
