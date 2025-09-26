@@ -1,6 +1,5 @@
 .marketing.globalpointofcare.abbott
 .marketing2.globalpointofcare.abbott
-.smetrics.abbott
 .marketing.toxicology.abbott
 .marketing-eme.toxicology.abbott
 .arigng.door.ac
@@ -97,6 +96,7 @@
 .stats.deerpark.app
 .panther.familytools.app
 .stats.kollective.app
+.analytics.lisaai.app
 .analytics.lucid.app
 .gtm.natal.app
 .moose.octo.app
@@ -335,7 +335,6 @@
 .analysis-test.sozialversicherung.at
 .data1.sparkasse.at
 .data1ns.sparkasse.at
-.data-ed3fe893ba.springermedizin.at
 .px.staticfiles.at
 .data.stepstone.at
 .data-ssl.stepstone.at
@@ -726,6 +725,8 @@
 .cp1.news.com.au
 .metrics.news.com.au
 .tags.news.com.au
+.sc.nick.com.au
+.ssc.nick.com.au
 .omni.nine.com.au
 .pixel.nine.com.au
 .somni.nine.com.au
@@ -937,6 +938,7 @@
 .hearob.klix.ba
 .ebgagg.novi.ba
 .c.pandorashop.ba
+.ectkts.silux.ba
 .abt.nl.bauhaus
 .asd.nl.bauhaus
 .nvjrxh.nl.bauhaus
@@ -1377,7 +1379,6 @@
 .gtm-prd.auxiliadorapredial.com.br
 .iksvcr.auxiliadorapredial.com.br
 .server.b4you.com.br
-.zmyopn.babadotop.com.br
 .ymqnky.bagaggio.com.br
 .stape.baldussi.com.br
 .95nedowamy-metrics.bancobmg.com.br
@@ -1577,7 +1578,6 @@
 .ztqnls.lojasrenner.com.br
 .gtm.lumini.com.br
 .capig.makertechlabs.com.br
-.events.mambo.com.br
 .gtm.mandaladeluz.com.br
 .load.metis.manual.com.br
 .gtm.marjosports.com.br
@@ -2507,7 +2507,7 @@
 .smartlook.cloud
 .swasc.stackit.cloud
 .order.green.club
-.ln.jackpotgo.club
+.jqrlt.groomie.club
 .rtrk.swipey.club
 .sa.adidas.cn
 .metrics.americanairlines.cn
@@ -2771,6 +2771,8 @@
 .smetrics.360training.com
 .360yield.com
 .secure.365-bright-astute.com
+.secure.365smartenterprising.com
+.www.365smartenterprising.com
 .secure.365syndicate-smart.com
 .indiyo.38-8931.com
 .ebis.3838.com
@@ -3304,7 +3306,6 @@
 .idgkrn.adzuna.com
 .analytic.ae.com
 .tracking.aegpresents.com
-.mat.aegps.com
 .load.sgtm.aeroodrones.com
 .ckrmi.aeropostale.com
 .pzxhyp.aeropostale.com
@@ -3353,6 +3354,7 @@
 .validacionlx.agaval.com
 .sst.agcojewellery.com
 .server.agelessmenshealth.com
+.www.agencycloud-52.com
 .stape.agentadvice.com
 .metrics.agentprovocateur.com
 .smetrics.agentprovocateur.com
@@ -3689,7 +3691,6 @@
 .analytics-helper.com
 .mof.analyticsmania.com
 .stape.anamenezesfit.com
-.ss.anarchy16tattoo.com
 .abc.anatomy4sculptors.com
 .pvtjt.ancestralsupplements.com
 .metrics.ancestry.com
@@ -4273,7 +4274,6 @@
 .smetrics.barcainnovationhub.com
 .ictrjw.barcastores.com
 .syycwa.barcelo.com
-.rsb.barcelonaivf.com
 .dp.barclaycardus.com
 .metric.barclaycardus.com
 .metrics.barclaycardus.com
@@ -4304,7 +4304,6 @@
 .adcs.basspro.com
 .omni.basspro.com
 .omnis.basspro.com
-.mtouif.bastideleconfortmedical.com
 .batch.com
 .batchgeo.com
 .aa.bathandbodyworks.com
@@ -4945,6 +4944,8 @@
 .brilliantcollector.com
 .odhqs.brilliantearth.com
 .smetrics.brinksprepaidmastercard.com
+.connect.briopay.com
+.connect-cert.briopay.com
 .britepool.com
 .tagman.britishairways.com
 .k88zjx6h.britishswimschool.com
@@ -5611,6 +5612,7 @@
 .somni.cineplex.com
 .yamlgv.cinziarocca.com
 .ssgtm.ciovita.com
+.s.cirasync.com
 .qbjit.circalasvegas.com
 .data.ck.circlek.com
 .lp-subscriptions.ck.circlek.com
@@ -5726,7 +5728,6 @@
 .cpksvl.clarksusa.com
 .fcrfes.clarktoys.com
 .sgtm.classicfootballshirts.com
-.zdjywu.classicrummy.com
 .apiv4.classmanager.com
 .server.classmates.com
 .iwlnpw.claudiepierlot.com
@@ -6116,6 +6117,7 @@
 .epaej.cortazu.com
 .smetrics.cortefiel.com
 .ukaytg.cortefiel.com
+.smetrics.cortevents.com
 .smetrics.cortfurnitureoutlet.com
 .sgtm.cortinadecor.com
 .smetrics.cortpartyrental.com
@@ -6243,6 +6245,7 @@
 .pr5ib.creately.com
 .createsend.com
 .createsend1.com
+.createsend11.com
 .createsend4.com
 .createsend5.com
 .bcgzz.creationl.com
@@ -6356,7 +6359,6 @@
 .repdata.currentargus.com
 .gqlaur.currentcatalog.com
 .load.gtm.cushiehome.com
-.jrhrn.cushionsource.com
 .custobar.com
 .bls.customfiltersdirect.com
 .hsbpf.customgoldgrillz.com
@@ -6521,7 +6523,6 @@
 .marketing.deckerretirementplanning.com
 .olhel.decoratorswarehouse.com
 .vgcgz.decoratorswarehouse.com
-.uzhrup.decoweb.com
 .analytics.decupre.com
 .sst.dedar.com
 .pmnbh.dedcool.com
@@ -6616,7 +6617,6 @@
 .marketing.destinationvancouver.com
 .vry9.destinia.com
 .smetrics.destinythegame.com
-.www.detailsdata7.com
 .secure.detailsinventivegroup.com
 .mkt.detechtion.com
 .qopcjl.detomaso-watches.com
@@ -7078,6 +7078,10 @@
 .svitals.easyspirit.com
 .zgusk.easytogrowbulbs.com
 .sst.easytot.com
+.tr.info.easyviaggio.com
+.tr.news.easyviaggio.com
+.tdf1.easyviaggio.com
+.tr.welcome.easyviaggio.com
 .ea.easyvoyage.com
 .tr.info.easyvoyage.com
 .tr.news.easyvoyage.com
@@ -7936,6 +7940,7 @@
 .data.t.f1store.formula1.com
 .track.f1store.formula1.com
 .qzzle.formulandcanada.com
+.sgtm.fornituresanitarieats.com
 .cueohf.foroactivo.com
 .metrics.forrent.com
 .tkjcqb.forrent.com
@@ -9150,7 +9155,6 @@
 .td.housebeautiful.com
 .lu9xve2c97l898gjjxv4.housecultures.com
 .metrics2.houselogic.com
-.rdzkb.houseofchingasos.com
 .smetrics.houseoffraser.com
 .ubmups.houseofindya.com
 .mrhik.houseofspoils.com
@@ -9254,6 +9258,7 @@
 .metrics.hyundaiusa.com
 .smetrics.hyundaiusa.com
 .target.hyundaiusa.com
+.smetrics.i-law.com
 .sfhgqy.i-sozoku.com
 .i18n-pglstatp.com
 .gtg.i9sports.com
@@ -9448,6 +9453,7 @@
 .metrics.infiniti.com
 .smetrics.infinitiusa.com
 .infinity-tracking.com
+.order.infinitydiamondjewellery.com
 .afm.infinox.com
 .marketing.influitive.com
 .infolinks.com
@@ -9479,7 +9485,6 @@
 .stats.innoq.com
 .obhtt.innosupps.com
 .uiejc.innosupps.com
-.secure.innovation-perceptive52.com
 .fmnas.innovativeweaves.com
 .innovid.com
 .sst.inov8.com
@@ -9503,6 +9508,7 @@
 .secure.insight-52.com
 .www.insight-52.com
 .insightexpressai.com
+.www.insightful-7-corporation.com
 .secure.insightful-cloud-365.com
 .secure.insightful-enterprise-intelligence.com
 .www.insightful-enterprise-intelligence.com
@@ -9526,7 +9532,6 @@
 .smetrics.insuramatch.com
 .info.insurancehotline.com
 .marketing.insureon.com
-.marketing.inszoneinsurance.com
 .smetrics.intactinsurance.com
 .sst.intatches.com
 .sst.intecular.com
@@ -11179,7 +11184,6 @@
 .data.mktg.martinsvillespeedway.com
 .suncanny.marvel.com
 .uncanny.marvel.com
-.suncanny.marvelhq.com
 .marketing.marybrowns.com
 .ehkng.marymaxim.com
 .marketing.masergy.com
@@ -11269,8 +11273,6 @@
 .marketing.mcdermottcosta.com
 .smetrics.mcdonalds.com
 .tr.info.mcgarrybowen.com
-.edge.mcgriff.com
-.sstats.mcgriff.com
 .connectstats.mckesson.com
 .sconnectstats.mckesson.com
 .os.mckinseyquarterly.com
@@ -11618,6 +11620,7 @@
 .rvvkb.mizzenandmain.com
 .ss.mjrecycling.com
 .mkt10247.com
+.mkt10761.com
 .mkt1503.com
 .mkt1649.com
 .mkt2141.com
@@ -11644,7 +11647,6 @@
 .mkt7817.com
 .mkt8305.com
 .mkt8508.com
-.mkt8703.com
 .mkt8739.com
 .mkt8763.com
 .mkt8988.com
@@ -13230,6 +13232,7 @@
 .uqiuoi.petfinder.com
 .metric.petinsurance.com
 .metrics.petinsurance.com
+.tr.christmas.petit-bateau.com
 .zvhjk.petite-plume.com
 .load.ggl.petites-pirates.com
 .utiq.petitfute.com
@@ -14143,6 +14146,7 @@
 .stats.retroware.com
 .revcontent.com
 .ujkoff.revcook.com
+.marketing.revegy.com
 .revenueflex.com
 .load.tr.revenuegeeks.com
 .w.revenuegeeks.com
@@ -14274,6 +14278,7 @@
 .somni.rocketprotpo.com
 .smetrics.rockettes.com
 .stats.rocketvalidator.com
+.sgtm.rockin1000.com
 .lrjjly.rockler.com
 .onhqz.rocksbox.com
 .prod.telemetry.ros.rockstargames.com
@@ -14509,6 +14514,7 @@
 .rtk.san-marco.com
 .sgmtcdn.san-marco.com
 .kxddkv.sanahotels.com
+.rjzmq.sanctuaryaz.com
 .load.gtm.sandandfoghome.com
 .lipit.sandcloud.com
 .algrcr.sandro-paris.com
@@ -14745,6 +14751,7 @@
 .somni.serve.com
 .servebom.com
 .servedby-buysellads.com
+.servedbyopenx.com
 .servenobid.com
 .serverbid.com
 .data.alert.servicenow.com
@@ -14809,7 +14816,6 @@
 .metrics.sharpusa.com
 .xpzswr.shasa.com
 .gsyegj.shatura.com
-.jhtle.shearcomfort.com
 .srepdata.sheboyganpress.com
 .sxjfhh.sheboyganpress.com
 .vrasdc.sheepskintown.com
@@ -15028,6 +15034,7 @@
 .egkdj.skinnydiplondon.com
 .evhpf.skinnydiplondon.com
 .sandbox.skinnyrx.com
+.gtm.skinsgolf.com
 .sst.skiny.com
 .smetrics.skiphop.com
 .ski1.skiset.com
@@ -15110,8 +15117,6 @@
 .form-submission-workspace.ajo-stage.srv.smart.com
 .secure.smart-business-365.com
 .www.smart-business-365.com
-.secure.smart-company-365.com
-.www.smart-company-365.com
 .secure.smart-enterprise-acumen.com
 .www.smart-enterprise-acumen.com
 .smartadserver.com
@@ -15588,6 +15593,7 @@
 .berry.strathberry.com
 .streamrail.com
 .streamsend.com
+.marketing.streck.com
 .dlzbax.street-academy.com
 .cfa.streetscape.com
 .cfaxq.streetscape.com
@@ -16513,7 +16519,6 @@
 .utiq.topsante.com
 .metrics.topshop.com
 .ss.topspinpro.com
-.uectfe.toptantr.com
 .nuctok.topten10mall.com
 .metrics.toptenreviews.com
 .smetrics.toptenreviews.com
@@ -16665,7 +16670,10 @@
 .activate.tribunecontentagency.com
 .info.triconresidential.com
 .marketing.triconresidential.com
+.analytics.tricorp.com
 .evhytr.triganostore.com
+.gtm.trimrx.com
+.zicel.trimrx.com
 .rhvlk.trinaturk.com
 .blog.trinityconsultants.com
 .info.trinityconsultants.com
@@ -17227,6 +17235,9 @@
 .ttlzk.victoriabeckham.com
 .nenzr.victoriabeckhambeauty.com
 .cpiai.victoriassecret.com
+.engage.ca.victorinsurance.com
+.engage.ce.victorinsurance.com
+.engage.us.victorinsurance.com
 .utiq.vidaextra.com
 .vidalytics.com
 .emailmarketing.vidanthealth.com
@@ -17311,7 +17322,6 @@
 .data-62e93c650b.visit-hannover.com
 .marketing.visitaugusta.com
 .marketing.visitbatonrouge.com
-.marketing.visitbentonville.com
 .marketing.visitbgky.com
 .gtm.visitbrabant.com
 .marketing.visitcalgary.com
@@ -17631,6 +17641,8 @@
 .smetrics.waters.com
 .info.watertechonline.com
 .metrics.watlow.com
+.metrics.watsonfantasyfootball.com
+.smetrics.watsonfantasyfootball.com
 .track.wattpad.com
 .track.wattpadhq.com
 .olcwkw.wattuneed.com
@@ -18013,7 +18025,6 @@
 .dokxpl.wwbw.com
 .smetrics.wwd.com
 .data.m.shop.wwe.com
-.marketing.wwfi.com
 .snprxx.wwfmarket.com
 .axp.wwlp.com
 .ywrcqa.wwltv.com
@@ -18396,6 +18407,7 @@
 .partner.freshlabels.cz
 .affil.gastrofans.cz
 .partneri.givt.cz
+.tlugeo.glamira.cz
 .grapemedia.cz
 .affiliate.hanibal.cz
 .partner.happy-power.cz
@@ -20953,6 +20965,7 @@
 .data-f7a0168660.versicherungsbote.de
 .data-01d50fd151.versicherungsjournal.de
 .data-8ca02b3a5d.versicherungsjournal.de
+.data-c626b9efa7.versicherungsmagazin.de
 .jowtkv.vertbaudet.de
 .sst.vfl-bochum.de
 .vgwort.de
@@ -21171,7 +21184,6 @@
 .stats.useeffect.dev
 .p.victoria.dev
 .epiphany.masterworks.digital
-.data.ajo.metro.digital
 .analytics.linkre.direct
 .kzsisc.3.dk
 .sst.aalborgzoo.dk
@@ -21327,6 +21339,8 @@
 .swebanalytics.proff.dk
 .ss.prosolar.dk
 .sgtm.psykiatrifonden.dk
+.smetrics.pwc.dk
+.target.pwc.dk
 .ss.quickparts.dk
 .sst.randerstegl.dk
 .ss.resights.dk
@@ -21671,7 +21685,6 @@
 .data.lagacetadesalamanca.es
 .sadbmetrics.lagacetadesalamanca.es
 .utiq.lagacetadesalamanca.es
-.qzsnbe.lampara.es
 .utiq.laopinioncoruna.es
 .utiq.laopiniondemalaga.es
 .utiq.laopiniondemurcia.es
@@ -21705,7 +21718,6 @@
 .analytics.midas.es
 .thdmnm.mielectro.es
 .aupxil.milar.es
-.ohtdbl.mister-auto.es
 .utiq.movistar.es
 .smetrics.msccruceros.es
 .ssc.mtv.es
@@ -22362,6 +22374,7 @@
 .events.just-eat.fr
 .cueohf.kanak.fr
 .acishy.kang.fr
+.jtqfhx.kidioui.fr
 .load.parrot.kijimea.fr
 .odaibs.knivesandtools.fr
 .tr.news.kpmg.fr
@@ -22745,6 +22758,8 @@
 .target.vwfs.fr
 .ea.warnerbros.fr
 .ea.mywarner.warnerbros.fr
+.analytics.warnertv.fr
+.sanalytics.warnertv.fr
 .tr.info.webikeo.fr
 .weborama.fr
 .hutkse.wecandoo.fr
@@ -22927,7 +22942,6 @@
 .smetrics.sunlife.com.hk
 .target.sunlife.com.hk
 .ugdcxl.timeout.com.hk
-.qwpcoi.uaf.com.hk
 .saa.dyson.hk
 .marketing.mba.hkust.edu.hk
 .msbainfo.fbe.hku.hk
@@ -23236,7 +23250,6 @@
 .tilanalytics.timesinternet.in
 .metrics.vodafone.in
 .smetrics.vodafone.in
-.a8clk.apply-shop.menu.inc
 .akisinn.info
 .abt.bauhaus.info
 .asd.bauhaus.info
@@ -23468,7 +23481,6 @@
 .jackal.thetie.io
 .transcend.io
 .gtm.unico.io
-.afm.vantagemarkets.io
 .s.varify.io
 .gtm.veesion.io
 .vidverto.io
@@ -23955,7 +23967,6 @@
 .l.ashita-sanuki.jp
 .assoc-amazon.jp
 .a8clk.audiobook.jp
-.iiqtru.aunworks.jp
 .adebiscname.auone.jp
 .ad-ebis.bookpass.auone.jp
 .a8clk.autoc-one.jp
@@ -24298,7 +24309,6 @@
 .smetrics.zurichlife.co.jp
 .a8clk.form.coached.jp
 .sync-a8.cocolocala.jp
-.a8.cocomeister.jp
 .cv.codecamp.jp
 .a8.coloria.jp
 .a8clk.manage.conoha.jp
@@ -24401,8 +24411,6 @@
 .cname.jaic-college.jp
 .a8clk.secure.jetboy.jp
 .exxwhi.jmty.jp
-.adebis01.job-con.jp
-.nxpuap.job-con.jp
 .ebis.jobcan.jp
 .eylnhf.jobhouse.jp
 .nbyggk.jocee.jp
@@ -24662,7 +24670,6 @@
 .rdlrbm.studying.jp
 .a8clk.stylestore.jp
 .smetric.subaru.jp
-.smetrics.sumitclub.jp
 .dafvng.sunrefre.jp
 .clk.entry.surala.jp
 .a8cv.suzette-shop.jp
@@ -24722,7 +24729,6 @@
 .s-adobe.wacoal.jp
 .a8clk.cv.warau.jp
 .flznib.weblio.jp
-.a8clk.weleda.jp
 .dwuzxuvwlq.winticket.jp
 .a8cv.workman.jp
 .a8cv.worx.jp
@@ -24898,6 +24904,7 @@
 .smetrics.sony.lu
 .ea.vente-unique.lu
 .ychqww.aboutyou.lv
+.data.airguru.lv
 .stat.bluorbank.lv
 .content.citadele.lv
 .tccd.douglas.lv
@@ -24997,6 +25004,7 @@
 .collector.betway.mx
 .tmcdn.betway.mx
 .smetrics.calvinklein.mx
+.smetrics.casino.mx
 .smetrics.circulodelasalud.mx
 .smetrics.flex.amazon.com.mx
 .content22.bancanetempresarial.banamex.com.mx
@@ -25437,7 +25445,6 @@
 .lkqd.net
 .coremetric.vo.llnwd.net
 .data-0e6bbb5192.lmscloud.net
-.loggly.net
 .stats.loitersquad.net
 .jlnlo.losangelesapparel.net
 .adbsmetrics.lotterentacar.net
@@ -25847,7 +25854,6 @@
 .load.data.directa.nl
 .sw88.disney.nl
 .nozvdp.distrelec.nl
-.stscs.ditzo.nl
 .rrzhbr.djoser.nl
 .sst.dolfinarium.nl
 .adtd.douglas.nl
@@ -26235,7 +26241,6 @@
 .data.t.epost.dnb.no
 .sa.dyson.no
 .saa.dyson.no
-.sojjtp.e-wheels.no
 .gbnxhz.ekstralys.no
 .qqmzen.elfadistrelec.no
 .metrics.elkjop.no
@@ -26683,6 +26688,7 @@
 .marketing.knoxville.org
 .track.kodland.org
 .info.laconservancy.org
+.marketing.latourism.org
 .marketing.lcmchealth.org
 .nom.lds.org
 .om.lds.org
@@ -26812,7 +26818,6 @@
 .infotul.readingpartners.org
 .smetrics.redcross.org
 .smetrics.redcrossblood.org
-.sgtm.refly.org
 .ssc.rfa.org
 .tags.rfa.org
 .ssc.rferl.org
@@ -26887,7 +26892,6 @@
 .ms.topschooljobs.org
 .www.mis.tourisme-montreal.org
 .marketing.towerfcu.org
-.info.truitycu.org
 .marketing.trustonefinancial.org
 .smetrics.truthinitiative.org
 .load.d.twycrosszoo.org
@@ -26961,6 +26965,7 @@
 .smetrics.interbank.pe
 .cookies.jll.pe
 .dcxusu.lacuracao.pe
+.mjyydm.magitech.pe
 .doagpm.promart.pe
 .load.t.stake.pe
 .data-1c0a3d83e3.transfermarkt.pe
@@ -27663,7 +27668,6 @@
 .smetrics.avanza.se
 .nlbukc.babyworld.se
 .pt.beredd.se
-.ujzqud.bestsecret.se
 .gtm.biorio.se
 .lxsway.blogg.se
 .sst.blomstervarlden.se
@@ -28241,7 +28245,6 @@
 .pixel.embed.su
 .demand.supply
 .identidaddigital.credicomer.com.sv
-.smetrics.prado.com.sv
 .vwakpz.vidri.com.sv
 .load.t.ganaplay.sv
 .server.bru.swiss
@@ -28445,6 +28448,7 @@
 .guelvp.1111.com.tw
 .ahhrtt.bnext.com.tw
 .xwhymy.caco.com.tw
+.content22.citibank.com.tw
 .cane.intel.com.tw
 .dogo.intel.com.tw
 .ioqjqu.lativ.com.tw
@@ -28463,7 +28467,6 @@
 .target.pwc.tw
 .log-collector.shopee.tw
 .spigte.shopee.tw
-.icmakp.united-arrows.tw
 .info.betway.co.tz
 .sgtm.aleto.ua
 .wprixk.brocard.ua
@@ -29789,7 +29792,6 @@
 .smetrics.savethechildren.org.uk
 .gtm.womankind.org.uk
 .sst.youngminds.org.uk
-.sgtm.soliteboots.uk
 .i.thinkclearly.uk
 .tracking.constructor.university
 .go.actionblack.us
