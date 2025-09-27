@@ -7829,6 +7829,8 @@
 .autoconfig.canva-apps.cn
 .autoconfig.my.canvasite.cn
 .autoconfig.canva-apps.com
+.autoconfig.rice-labs.com
+.autoconfig.canva.run
 .autoconfig.my.canva.site
 .autoconfig.drr.ac
 .autoconfig.uwu.ai
@@ -9905,6 +9907,7 @@
 .autoconfig.weeklylottery.org.uk
 .autoconfig.wpenginepowered.com
 .autoconfig.js.wpenginepowered.com
+.autoconfig.xenonconnect.de
 .autoconfig.half.host
 .autoconfig.xnbay.com
 .autoconfig.u2.xnbay.com
@@ -17763,6 +17766,8 @@
 ._autodiscover.canva-apps.cn
 ._autodiscover.my.canvasite.cn
 ._autodiscover.canva-apps.com
+._autodiscover.rice-labs.com
+._autodiscover.canva.run
 ._autodiscover.my.canva.site
 ._autodiscover.drr.ac
 ._autodiscover.uwu.ai
@@ -19839,6 +19844,7 @@
 ._autodiscover.weeklylottery.org.uk
 ._autodiscover.wpenginepowered.com
 ._autodiscover.js.wpenginepowered.com
+._autodiscover.xenonconnect.de
 ._autodiscover.half.host
 ._autodiscover.xnbay.com
 ._autodiscover.u2.xnbay.com
@@ -27697,6 +27703,8 @@
 .autodiscover.canva-apps.cn
 .autodiscover.my.canvasite.cn
 .autodiscover.canva-apps.com
+.autodiscover.rice-labs.com
+.autodiscover.canva.run
 .autodiscover.my.canva.site
 .autodiscover.drr.ac
 .autodiscover.uwu.ai
@@ -29773,6 +29781,7 @@
 .autodiscover.weeklylottery.org.uk
 .autodiscover.wpenginepowered.com
 .autodiscover.js.wpenginepowered.com
+.autodiscover.xenonconnect.de
 .autodiscover.half.host
 .autodiscover.xnbay.com
 .autodiscover.u2.xnbay.com
@@ -37631,6 +37640,8 @@
 .b._dns-sd.canva-apps.cn
 .b._dns-sd.my.canvasite.cn
 .b._dns-sd.canva-apps.com
+.b._dns-sd.rice-labs.com
+.b._dns-sd.canva.run
 .b._dns-sd.my.canva.site
 .b._dns-sd.drr.ac
 .b._dns-sd.uwu.ai
@@ -39707,6 +39718,7 @@
 .b._dns-sd.weeklylottery.org.uk
 .b._dns-sd.wpenginepowered.com
 .b._dns-sd.js.wpenginepowered.com
+.b._dns-sd.xenonconnect.de
 .b._dns-sd.half.host
 .b._dns-sd.xnbay.com
 .b._dns-sd.u2.xnbay.com
@@ -47565,6 +47577,8 @@
 .db._dns-sd.canva-apps.cn
 .db._dns-sd.my.canvasite.cn
 .db._dns-sd.canva-apps.com
+.db._dns-sd.rice-labs.com
+.db._dns-sd.canva.run
 .db._dns-sd.my.canva.site
 .db._dns-sd.drr.ac
 .db._dns-sd.uwu.ai
@@ -49641,6 +49655,7 @@
 .db._dns-sd.weeklylottery.org.uk
 .db._dns-sd.wpenginepowered.com
 .db._dns-sd.js.wpenginepowered.com
+.db._dns-sd.xenonconnect.de
 .db._dns-sd.half.host
 .db._dns-sd.xnbay.com
 .db._dns-sd.u2.xnbay.com
@@ -57499,6 +57514,8 @@
 .isatap.canva-apps.cn
 .isatap.my.canvasite.cn
 .isatap.canva-apps.com
+.isatap.rice-labs.com
+.isatap.canva.run
 .isatap.my.canva.site
 .isatap.drr.ac
 .isatap.uwu.ai
@@ -59575,6 +59592,7 @@
 .isatap.weeklylottery.org.uk
 .isatap.wpenginepowered.com
 .isatap.js.wpenginepowered.com
+.isatap.xenonconnect.de
 .isatap.half.host
 .isatap.xnbay.com
 .isatap.u2.xnbay.com
@@ -67433,6 +67451,8 @@
 .lb._dns-sd.canva-apps.cn
 .lb._dns-sd.my.canvasite.cn
 .lb._dns-sd.canva-apps.com
+.lb._dns-sd.rice-labs.com
+.lb._dns-sd.canva.run
 .lb._dns-sd.my.canva.site
 .lb._dns-sd.drr.ac
 .lb._dns-sd.uwu.ai
@@ -69509,6 +69529,7 @@
 .lb._dns-sd.weeklylottery.org.uk
 .lb._dns-sd.wpenginepowered.com
 .lb._dns-sd.js.wpenginepowered.com
+.lb._dns-sd.xenonconnect.de
 .lb._dns-sd.half.host
 .lb._dns-sd.xnbay.com
 .lb._dns-sd.u2.xnbay.com
@@ -77367,6 +77388,8 @@
 .wpad.canva-apps.cn
 .wpad.my.canvasite.cn
 .wpad.canva-apps.com
+.wpad.rice-labs.com
+.wpad.canva.run
 .wpad.my.canva.site
 .wpad.drr.ac
 .wpad.uwu.ai
@@ -79443,6 +79466,7 @@
 .wpad.weeklylottery.org.uk
 .wpad.wpenginepowered.com
 .wpad.js.wpenginepowered.com
+.wpad.xenonconnect.de
 .wpad.half.host
 .wpad.xnbay.com
 .wpad.u2.xnbay.com
@@ -87301,6 +87325,8 @@
 .wpad.tcp.canva-apps.cn
 .wpad.tcp.my.canvasite.cn
 .wpad.tcp.canva-apps.com
+.wpad.tcp.rice-labs.com
+.wpad.tcp.canva.run
 .wpad.tcp.my.canva.site
 .wpad.tcp.drr.ac
 .wpad.tcp.uwu.ai
@@ -89377,6 +89403,7 @@
 .wpad.tcp.weeklylottery.org.uk
 .wpad.tcp.wpenginepowered.com
 .wpad.tcp.js.wpenginepowered.com
+.wpad.tcp.xenonconnect.de
 .wpad.tcp.half.host
 .wpad.tcp.xnbay.com
 .wpad.tcp.u2.xnbay.com
