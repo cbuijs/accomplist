@@ -1081,7 +1081,6 @@ adguard1.bonis.de
 adguard2.bonis.de
 gw-dk.brueggus.de
 gw-es.brueggus.de
-gw-hk.brueggus.de
 gw-nl02.brueggus.de
 vps03.brueggus.de
 vps119.brueggus.de
@@ -1160,8 +1159,8 @@ vps379.brueggus.de
 vps380.brueggus.de
 vps381.brueggus.de
 vps382.brueggus.de
+vps383.brueggus.de
 vps384.brueggus.de
-vps386.brueggus.de
 vps388.brueggus.de
 vps389.brueggus.de
 vps390.brueggus.de
@@ -1216,6 +1215,7 @@ vps454.brueggus.de
 vps455.brueggus.de
 vps456.brueggus.de
 vps457.brueggus.de
+vps462.brueggus.de
 vps66.brueggus.de
 c0ntroller.de
 chaos-system.de
@@ -2482,6 +2482,7 @@ dns.yuyz.net
 dns.daemon.za.net
 lookup.zucx.net
 dns.b33.network
+dns.edgy.network
 adblock.mydns.network
 family.mydns.network
 freedom.mydns.network
