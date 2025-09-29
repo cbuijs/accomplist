@@ -1,6 +1,6 @@
 [Adblock Plus 1.1]
 ! Title: Accomplist "Tlds" AdBlock List (Top-N Version)
-! Version: 1759041036
+! Version: 1759126169
 ! Homepage: https://github.com/cbuijs/accomplist/tree/master/tlds
 !
 ! WhiteList Domains:
@@ -466,6 +466,8 @@
 @@||kustomer.help^
 ! Sub-domain "stremio.homes" unblacklisted from domain "homes"
 @@||stremio.homes^
+! Sub-domain "nature.house" unblacklisted from domain "house"
+@@||nature.house^
 ! Sub-domain "mond.how" unblacklisted from domain "how"
 @@||mond.how^
 ! Sub-domain "fastdl.icu" unblacklisted from domain "icu"
@@ -1290,6 +1292,8 @@
 @@||tardis.wiki^
 ! Sub-domain "thehomelab.wiki" unblacklisted from domain "wiki"
 @@||thehomelab.wiki^
+! Sub-domain "umamusu.wiki" unblacklisted from domain "wiki"
+@@||umamusu.wiki^
 ! Sub-domain "undertale.wiki" unblacklisted from domain "wiki"
 @@||undertale.wiki^
 ! Sub-domain "usermanual.wiki" unblacklisted from domain "wiki"
