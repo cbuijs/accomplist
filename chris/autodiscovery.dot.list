@@ -8973,6 +8973,9 @@
 .autoconfig.leadpages.co
 .autoconfig.lpages.co
 .autoconfig.lpusercontent.com
+.autoconfig.leapcell.app
+.autoconfig.leapcell.dev
+.autoconfig.leapcell.online
 .autoconfig.liara.run
 .autoconfig.iran.liara.run
 .autoconfig.libp2p.direct
@@ -9683,6 +9686,7 @@
 .autoconfig.w-corp-staticblitz.com
 .autoconfig.w-credentialless-staticblitz.com
 .autoconfig.w-staticblitz.com
+.autoconfig.bolt.host
 .autoconfig.stackhero-network.com
 .autoconfig.runs.onstackit.cloud
 .autoconfig.stackit.gg
@@ -18910,6 +18914,9 @@
 ._autodiscover.leadpages.co
 ._autodiscover.lpages.co
 ._autodiscover.lpusercontent.com
+._autodiscover.leapcell.app
+._autodiscover.leapcell.dev
+._autodiscover.leapcell.online
 ._autodiscover.liara.run
 ._autodiscover.iran.liara.run
 ._autodiscover.libp2p.direct
@@ -19620,6 +19627,7 @@
 ._autodiscover.w-corp-staticblitz.com
 ._autodiscover.w-credentialless-staticblitz.com
 ._autodiscover.w-staticblitz.com
+._autodiscover.bolt.host
 ._autodiscover.stackhero-network.com
 ._autodiscover.runs.onstackit.cloud
 ._autodiscover.stackit.gg
@@ -28847,6 +28855,9 @@
 .autodiscover.leadpages.co
 .autodiscover.lpages.co
 .autodiscover.lpusercontent.com
+.autodiscover.leapcell.app
+.autodiscover.leapcell.dev
+.autodiscover.leapcell.online
 .autodiscover.liara.run
 .autodiscover.iran.liara.run
 .autodiscover.libp2p.direct
@@ -29557,6 +29568,7 @@
 .autodiscover.w-corp-staticblitz.com
 .autodiscover.w-credentialless-staticblitz.com
 .autodiscover.w-staticblitz.com
+.autodiscover.bolt.host
 .autodiscover.stackhero-network.com
 .autodiscover.runs.onstackit.cloud
 .autodiscover.stackit.gg
@@ -38784,6 +38796,9 @@
 .b._dns-sd.leadpages.co
 .b._dns-sd.lpages.co
 .b._dns-sd.lpusercontent.com
+.b._dns-sd.leapcell.app
+.b._dns-sd.leapcell.dev
+.b._dns-sd.leapcell.online
 .b._dns-sd.liara.run
 .b._dns-sd.iran.liara.run
 .b._dns-sd.libp2p.direct
@@ -39494,6 +39509,7 @@
 .b._dns-sd.w-corp-staticblitz.com
 .b._dns-sd.w-credentialless-staticblitz.com
 .b._dns-sd.w-staticblitz.com
+.b._dns-sd.bolt.host
 .b._dns-sd.stackhero-network.com
 .b._dns-sd.runs.onstackit.cloud
 .b._dns-sd.stackit.gg
@@ -48721,6 +48737,9 @@
 .db._dns-sd.leadpages.co
 .db._dns-sd.lpages.co
 .db._dns-sd.lpusercontent.com
+.db._dns-sd.leapcell.app
+.db._dns-sd.leapcell.dev
+.db._dns-sd.leapcell.online
 .db._dns-sd.liara.run
 .db._dns-sd.iran.liara.run
 .db._dns-sd.libp2p.direct
@@ -49431,6 +49450,7 @@
 .db._dns-sd.w-corp-staticblitz.com
 .db._dns-sd.w-credentialless-staticblitz.com
 .db._dns-sd.w-staticblitz.com
+.db._dns-sd.bolt.host
 .db._dns-sd.stackhero-network.com
 .db._dns-sd.runs.onstackit.cloud
 .db._dns-sd.stackit.gg
@@ -58658,6 +58678,9 @@
 .isatap.leadpages.co
 .isatap.lpages.co
 .isatap.lpusercontent.com
+.isatap.leapcell.app
+.isatap.leapcell.dev
+.isatap.leapcell.online
 .isatap.liara.run
 .isatap.iran.liara.run
 .isatap.libp2p.direct
@@ -59368,6 +59391,7 @@
 .isatap.w-corp-staticblitz.com
 .isatap.w-credentialless-staticblitz.com
 .isatap.w-staticblitz.com
+.isatap.bolt.host
 .isatap.stackhero-network.com
 .isatap.runs.onstackit.cloud
 .isatap.stackit.gg
@@ -68595,6 +68619,9 @@
 .lb._dns-sd.leadpages.co
 .lb._dns-sd.lpages.co
 .lb._dns-sd.lpusercontent.com
+.lb._dns-sd.leapcell.app
+.lb._dns-sd.leapcell.dev
+.lb._dns-sd.leapcell.online
 .lb._dns-sd.liara.run
 .lb._dns-sd.iran.liara.run
 .lb._dns-sd.libp2p.direct
@@ -69305,6 +69332,7 @@
 .lb._dns-sd.w-corp-staticblitz.com
 .lb._dns-sd.w-credentialless-staticblitz.com
 .lb._dns-sd.w-staticblitz.com
+.lb._dns-sd.bolt.host
 .lb._dns-sd.stackhero-network.com
 .lb._dns-sd.runs.onstackit.cloud
 .lb._dns-sd.stackit.gg
@@ -78532,6 +78560,9 @@
 .wpad.leadpages.co
 .wpad.lpages.co
 .wpad.lpusercontent.com
+.wpad.leapcell.app
+.wpad.leapcell.dev
+.wpad.leapcell.online
 .wpad.liara.run
 .wpad.iran.liara.run
 .wpad.libp2p.direct
@@ -79242,6 +79273,7 @@
 .wpad.w-corp-staticblitz.com
 .wpad.w-credentialless-staticblitz.com
 .wpad.w-staticblitz.com
+.wpad.bolt.host
 .wpad.stackhero-network.com
 .wpad.runs.onstackit.cloud
 .wpad.stackit.gg
@@ -88469,6 +88501,9 @@
 .wpad.tcp.leadpages.co
 .wpad.tcp.lpages.co
 .wpad.tcp.lpusercontent.com
+.wpad.tcp.leapcell.app
+.wpad.tcp.leapcell.dev
+.wpad.tcp.leapcell.online
 .wpad.tcp.liara.run
 .wpad.tcp.iran.liara.run
 .wpad.tcp.libp2p.direct
@@ -89179,6 +89214,7 @@
 .wpad.tcp.w-corp-staticblitz.com
 .wpad.tcp.w-credentialless-staticblitz.com
 .wpad.tcp.w-staticblitz.com
+.wpad.tcp.bolt.host
 .wpad.tcp.stackhero-network.com
 .wpad.tcp.runs.onstackit.cloud
 .wpad.tcp.stackit.gg
