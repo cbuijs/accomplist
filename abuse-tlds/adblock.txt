@@ -1,6 +1,6 @@
 [Adblock Plus 1.1]
 ! Title: Accomplist "Tlds" AdBlock List (Top-N Version)
-! Version: 1759213844
+! Version: 1759300620
 ! Homepage: https://github.com/cbuijs/accomplist/tree/master/tlds
 !
 ! WhiteList Domains:
@@ -1090,6 +1090,8 @@
 @@||timberjacks.store^
 ! Sub-domain "ai.studio" unblacklisted from domain "studio"
 @@||ai.studio^
+! Sub-domain "firebase.studio" unblacklisted from domain "studio"
+@@||firebase.studio^
 ! Sub-domain "flourish.studio" unblacklisted from domain "studio"
 @@||flourish.studio^
 ! Sub-domain "starapps.studio" unblacklisted from domain "studio"
