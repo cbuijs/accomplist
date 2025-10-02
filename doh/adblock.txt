@@ -1,6 +1,6 @@
 [Adblock Plus 1.1]
 ! Title: Accomplist "Doh" AdBlock List (Top-N Version)
-! Version: 1759300911
+! Version: 1759387821
 ! Homepage: https://github.com/cbuijs/accomplist/tree/master/doh
 !
 ! WhiteList Domains:
@@ -254,7 +254,6 @@
 ||dns.soldier.terumi.club^
 ||woodbridge.club^
 ||doh.18bit.cn^
-||dns.23-4.cn^
 ||doh.360.cn^
 ||dot.360.cn^
 ||dns.baishiyuan.cn^
@@ -2126,9 +2125,7 @@
 ||dns2.alekberg.net^
 ||dnses.alekberg.net^
 ||dnsnl.alekberg.net^
-||dnsnl-noads.alekberg.net^
 ||dnsse.alekberg.net^
-||dnsse-noads.alekberg.net^
 ||diskstation.alexpollard.net^
 ||management.alexpollard.net^
 ||doh.amonsul.net^
@@ -3553,7 +3550,6 @@
 ||t2c.240130034.xyz^
 ||dns.240527.xyz^
 ||dns.320888.xyz^
-||dnsjp.3300000.xyz^
 ||dnstr.3300000.xyz^
 ||dnstw.3300000.xyz^
 ||dnsyg.3300000.xyz^
