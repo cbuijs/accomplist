@@ -1,6 +1,6 @@
 [Adblock Plus 1.1]
 ! Title: Accomplist "Tlds" AdBlock List (Top-N Version)
-! Version: 1759300620
+! Version: 1759387543
 ! Homepage: https://github.com/cbuijs/accomplist/tree/master/tlds
 !
 ! WhiteList Domains:
@@ -216,6 +216,8 @@
 @@||popcat.click^
 ! Sub-domain "popdog.click" unblacklisted from domain "click"
 @@||popdog.click^
+! Sub-domain "porsche.click" unblacklisted from domain "click"
+@@||porsche.click^
 ! Sub-domain "qr-code.click" unblacklisted from domain "click"
 @@||qr-code.click^
 ! Sub-domain "ravelin.click" unblacklisted from domain "click"
@@ -241,6 +243,8 @@
 ! Sub-domain "thelemmy.club" unblacklisted from domain "club"
 @@||thelemmy.club^
 @@||raw.githubusercontent.com^
+! Sub-domain "helium.computer" unblacklisted from domain "computer"
+@@||helium.computer^
 ! Sub-domain "libre.computer" unblacklisted from domain "computer"
 @@||libre.computer^
 ! Sub-domain "neat.computer" unblacklisted from domain "computer"
