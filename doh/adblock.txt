@@ -1,6 +1,6 @@
 [Adblock Plus 1.1]
 ! Title: Accomplist "Doh" AdBlock List (Top-N Version)
-! Version: 1759387821
+! Version: 1759470184
 ! Homepage: https://github.com/cbuijs/accomplist/tree/master/doh
 !
 ! WhiteList Domains:
@@ -96,7 +96,6 @@
 ||dns.complianceauditores.com.br^
 ||adguard.gbrossi.com.br^
 ||blackhole.gugainfo.com.br^
-||dns.joaofidelix.com.br^
 ||dnssp.koretech.com.br^
 ||arrakis.korolyzer.com.br^
 ||lothuscorp.com.br^
@@ -111,7 +110,6 @@
 ||polisitogel.builders^
 ||mabuktogel.business^
 ||doh.buzz^
-||tw88m.hzdns.buzz^
 ||doh.datahata.by^
 ||dns.npe.bz^
 ||canadianshield.cira.ca^
@@ -176,13 +174,11 @@
 ||dns.keweon.center^
 ||ux.go20.cf^
 ||ychen.cf^
-||deep-henchman-excuse.cfd^
 ||ajlxwk4kedu5.absq.ch^
 ||pebdbvi58gbc.absq.ch^
 ||dns.chenu.ch^
 ||keeflix.chenu.ch^
 ||c.cicitt.ch^
-||doh.datacore.ch^
 ||digitale-gesellschaft.ch^
 ||doh.immerda.ch^
 ||adg.jabertechnologies.ch^
@@ -583,7 +579,6 @@
 ||dns.edgeburnmedia.com^
 ||dns.efficientdocuments.com^
 ||doh.eieidns.com^
-||dns.ellichua.com^
 ||dnssec.dns.enginyring.com^
 ||dns01.enginyring.com^
 ||dns02.enginyring.com^
@@ -612,6 +607,7 @@
 ||bvo.giize.com^
 ||lamdtl.giize.com^
 ||sdns22.gkonuralp.com^
+||dns.glorydns.com^
 ||dev.gonnadive.com^
 ||gonzcid.com^
 ||doh-primary-pool.goodbyegambling.com^
@@ -1379,7 +1375,6 @@
 ||dns.daw.dev^
 ||dns.dewei.dev^
 ||eka.dilli.dev^
-||dns.edison42.dev^
 ||dns.hanahira.dev^
 ||adg.herry.dev^
 ||oracle2.herry.dev^
@@ -1611,7 +1606,6 @@
 ||axaxa.fun^
 ||ag.brianlee.fun^
 ||cloudbenders.fun^
-||cynntex.fun^
 ||dupatruwi22.fun^
 ||dns.f4a.fun^
 ||inoainoa.fun^
@@ -1983,7 +1977,6 @@
 ||hk-adg.bluenight.me^
 ||doh.boje8.me^
 ||dns.chriscsc.me^
-||pope.cnblw.me^
 ||doh.cornes.me^
 ||ocph05.cornes.me^
 ||doh.corpa.me^
@@ -2246,6 +2239,7 @@
 ||adguard.ekhozie.dynu.net^
 ||flyloadguard.dynu.net^
 ||quangdo92.dynu.net^
+||gustamadh.dynv6.net^
 ||dnscache.e-utp.net^
 ||adguard.easez.net^
 ||dns.eddi.net^
@@ -2495,7 +2489,6 @@
 ||dns.daemon.za.net^
 ||lookup.zucx.net^
 ||dns.b33.network^
-||dns.edgy.network^
 ||adblock.mydns.network^
 ||family.mydns.network^
 ||freedom.mydns.network^
@@ -2647,42 +2640,18 @@
 ||ns.dnsviewer.org^
 ||ns1.dotls.org^
 ||dns35.allone.dpdns.org^
-||ad1guard.duckdns.org^
 ||adgrm.duckdns.org^
 ||adguardpi.duckdns.org^
-||aduma15.duckdns.org^
-||armm.duckdns.org^
-||cdzopi.duckdns.org^
-||derekcastle.duckdns.org^
-||dorkanddoodle.duckdns.org^
-||eweyo.duckdns.org^
-||genielee.duckdns.org^
-||jfeoks.duckdns.org^
 ||jurre-home.duckdns.org^
-||kalwat.duckdns.org^
 ||kiwifunke.duckdns.org^
-||kolobok2.duckdns.org^
 ||krtekvpn.duckdns.org^
-||ldaman.duckdns.org^
-||leoadguard.duckdns.org^
 ||montmorot.duckdns.org^
 ||morgenegg.duckdns.org^
-||nas1403.duckdns.org^
-||nqh-dns.duckdns.org^
-||o--o.duckdns.org^
 ||osefcorp.duckdns.org^
-||pitchforkwaydns.duckdns.org^
 ||punono.duckdns.org^
-||quanmeme.duckdns.org^
-||salvadoserver.duckdns.org^
-||site-2.duckdns.org^
 ||tuandns.duckdns.org^
 ||tungdnsne.duckdns.org^
 ||unixfox.duckdns.org^
-||wisehomeguard.duckdns.org^
-||workcavestl.duckdns.org^
-||x-o-x.duckdns.org^
-||x861g.duckdns.org^
 ||akhilkalwakurthy.dyndns.org^
 ||ueni.dyndns.org^
 ||dns.electrotm.org^
@@ -2698,8 +2667,6 @@
 ||resolver.dns.eban.eu.org^
 ||vm01.eban.eu.org^
 ||doh.excdn.eu.org^
-||dns.de.futuredns.eu.org^
-||dns.us.futuredns.eu.org^
 ||doh.greenwood.eu.org^
 ||sweethome.in.eu.org^
 ||fullaccesstointernet.jp.eu.org^
@@ -3005,7 +2972,6 @@
 ||sof01.dnscry.pt^
 ||sto01.dnscry.pt^
 ||sto02.dnscry.pt^
-||syd01.dnscry.pt^
 ||syd02.dnscry.pt^
 ||tbs01.dnscry.pt^
 ||tia01.dnscry.pt^
