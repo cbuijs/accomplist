@@ -1,6 +1,6 @@
 [Adblock Plus 1.1]
 ! Title: Accomplist "Tlds" AdBlock List (Top-N Version)
-! Version: 1759387543
+! Version: 1759469911
 ! Homepage: https://github.com/cbuijs/accomplist/tree/master/tlds
 !
 ! WhiteList Domains:
@@ -886,6 +886,8 @@
 @@||chessvibes.shop^
 ! Sub-domain "durst.shop" unblacklisted from domain "shop"
 @@||durst.shop^
+! Sub-domain "epicdesk.shop" unblacklisted from domain "shop"
+@@||epicdesk.shop^
 ! Sub-domain "eventix.shop" unblacklisted from domain "shop"
 @@||eventix.shop^
 ! Sub-domain "freshtorge.shop" unblacklisted from domain "shop"
