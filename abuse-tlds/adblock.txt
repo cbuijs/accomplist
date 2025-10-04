@@ -1,6 +1,6 @@
 [Adblock Plus 1.1]
 ! Title: Accomplist "Tlds" AdBlock List (Top-N Version)
-! Version: 1759469911
+! Version: 1759559265
 ! Homepage: https://github.com/cbuijs/accomplist/tree/master/tlds
 !
 ! WhiteList Domains:
@@ -176,6 +176,8 @@
 @@||rutracker.cc^
 ! Sub-domain "shottr.cc" unblacklisted from domain "cc"
 @@||shottr.cc^
+! Sub-domain "ultra.cc" unblacklisted from domain "cc"
+@@||ultra.cc^
 ! Sub-domain "vern.cc" unblacklisted from domain "cc"
 @@||vern.cc^
 ! Sub-domain "vocus.cc" unblacklisted from domain "cc"
@@ -780,6 +782,8 @@
 @@||slow.pics^
 ! Sub-domain "twic.pics" unblacklisted from domain "pics"
 @@||twic.pics^
+! Sub-domain "cleanup.pictures" unblacklisted from domain "pictures"
+@@||cleanup.pictures^
 ! Sub-domain "comick.pictures" unblacklisted from domain "pictures"
 @@||comick.pictures^
 ! Sub-domain "pornhoarder.pictures" unblacklisted from domain "pictures"
@@ -824,6 +828,8 @@
 @@||petridish.pw^
 ! Sub-domain "plutonium.pw" unblacklisted from domain "pw"
 @@||plutonium.pw^
+! Sub-domain "tabula-rasa.pw" unblacklisted from domain "pw"
+@@||tabula-rasa.pw^
 ! Sub-domain "xor.pw" unblacklisted from domain "pw"
 @@||xor.pw^
 ! Sub-domain "zok.pw" unblacklisted from domain "pw"
@@ -1106,6 +1112,8 @@
 @@||zenn.studio^
 ! Sub-domain "primer.style" unblacklisted from domain "style"
 @@||primer.style^
+! Sub-domain "shiki.style" unblacklisted from domain "style"
+@@||shiki.style^
 ! Sub-domain "encode.su" unblacklisted from domain "su"
 @@||encode.su^
 ! Sub-domain "jpg4.su" unblacklisted from domain "su"
