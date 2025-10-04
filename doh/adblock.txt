@@ -1,6 +1,6 @@
 [Adblock Plus 1.1]
 ! Title: Accomplist "Doh" AdBlock List (Top-N Version)
-! Version: 1759470184
+! Version: 1759559543
 ! Homepage: https://github.com/cbuijs/accomplist/tree/master/doh
 !
 ! WhiteList Domains:
@@ -146,7 +146,6 @@
 ||funti.cc^
 ||futurearts.cc^
 ||d.hansj.cc^
-||us-ny-alula.heliumcloud.cc^
 ||dns.huanmave.cc^
 ||cqkvm.hxhd.cc^
 ||d.hxhd.cc^
@@ -640,7 +639,6 @@
 ||httpdns-push.heytapmobile.com^
 ||expired.hichina.com^
 ||himedns.com^
-||dns.hnsfwlkj.com^
 ||adguard.hoangcongchuc.com^
 ||dns.hoody.com^
 ||dns.hopsken.com^
@@ -718,7 +716,6 @@
 ||adguard.konikoni428.com^
 ||hkt.kozow.com^
 ||mechanikdns.kozow.com^
-||dns.kremzein.com^
 ||kstdownload.com^
 ||hdns.ksyun.com^
 ||hdns.gslb.ksyuncdn.com^
@@ -759,7 +756,6 @@
 ||httpdns.meituan.com^
 ||httpdnsvip.meituan.com^
 ||inf-wan.vip.meituan.com^
-||mendozasdelivery.com^
 ||cname-app-com-amsproxy.w.mi-dun.com^
 ||ss.microbaidu.com^
 ||mikewaddick.com^
@@ -1280,7 +1276,6 @@
 ||s.hd440.de^
 ||adguard01.homepeter.de^
 ||doh.hottis.de^
-||doh.imaletion.de^
 ||cork-oak.imchristian.de^
 ||dns.imchristian.de^
 ||dns.immanuelschaffer.de^
@@ -1627,6 +1622,7 @@
 ||defendfrienddns.fyi^
 ||cloud.198.games^
 ||doh.futa.gg^
+||miniapp.global^
 ||8888.google^
 ||dns.google^
 ||nicsezcheckfbi.gov^
@@ -1892,7 +1888,6 @@
 ||dns.system.brianhong.kr^
 ||dns.eliv.co.kr^
 ||dns.eliv.kr^
-||public-dns-https.eliv-dns.kr^
 ||ns.hjk.kr^
 ||ns1.hjk.kr^
 ||ns2.hjk.kr^
@@ -1915,7 +1910,6 @@
 ||sabine.bruno2000.link^
 ||dns-free.link^
 ||eth.link^
-||vps.filatov.link^
 ||guidetoworld.link^
 ||d1.insec.link^
 ||srv.insec.link^
@@ -2007,7 +2001,6 @@
 ||ns2.hjk.me^
 ||jpdns.hker.me^
 ||dns.huas.me^
-||dns.indust.me^
 ||jkdns.me^
 ||dns.johndave.me^
 ||agh.josephyap.me^
@@ -3204,11 +3197,9 @@
 ||dns.levonet.sk^
 ||dns.p3k.sk^
 ||n1.p3k.sk^
-||dns.ios.so^
 ||dns.elemental.software^
 ||arashi.solutions^
 ||dns.cloudtrust.solutions^
-||dns.insigne.solutions^
 ||dns.lupine.solutions^
 ||mabuktogel.solutions^
 ||webteufel-it.solutions^
@@ -3298,7 +3289,6 @@
 ||imperio.top^
 ||hk.jason666.top^
 ||jimmyshjj.top^
-||adguard.johanliebert.top^
 ||blog.kimiblock.top^
 ||2024.laijy.top^
 ||lboxtv.top^
@@ -3581,7 +3571,6 @@
 ||dns.kerekes.xyz^
 ||adguard.kitakitsune.xyz^
 ||ko-18948-tr.xyz^
-||kx-97795-tr.xyz^
 ||tr.league1.xyz^
 ||dns.libost.xyz^
 ||us.libost.xyz^
