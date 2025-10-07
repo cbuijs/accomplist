@@ -24,6 +24,8 @@ dns-br.leonardo.tec.br
 doh.buzz
 doh.datahata.by
 canadianshield.cira.ca
+dns1.dnscrypt.ca
+dns2.dnscrypt.ca
 ag.ff0x.ca
 pangolin.ff0x.ca
 dns.omada.cafe
@@ -190,6 +192,7 @@ cloudflare-gateway.com
 api.cloudflareclient.com
 cloudflareresolve.com
 adguard.cnbeining.com
+dns.containerpi.com
 dns.controld.com
 doh.controld.com
 freedns.controld.com
@@ -238,6 +241,7 @@ doh.flashstart.com
 srgaghome.freemyip.com
 walhalla.freemyip.com
 wg-aghome.freemyip.com
+zuk.freemyip.com
 dns.gamban.com
 bvo.giize.com
 lamdtl.giize.com
@@ -371,6 +375,10 @@ kronos.plan9-dns.com
 pluton.plan9-dns.com
 privacy.plumedns.com
 pixie.porkbun.com
+dns.porteii.com
+dns2.porteii.com
+dns2vps.porteii.com
+dnsvps.porteii.com
 dns2.prima-solusindo.com
 dns.jd.com.gslb.qianxun.com
 httpdns.kg.qq.com
@@ -772,6 +780,7 @@ dns.bitservices.io
 frank-web.dedyn.io
 k03.dedyn.io
 dns.skous.dedyn.io
+unraid.dedyn.io
 fly.io
 dns.guard.io
 doh.kidzonet.io
@@ -830,6 +839,7 @@ dns-gcp.aaflalo.me
 dns-nyc.aaflalo.me
 secure.anudeep.me
 mydns.ddns.me
+blackdragon6699.diskstation.me
 ebpmc.diskstation.me
 dnslow.me
 doh.dscloud.me
@@ -906,6 +916,7 @@ dns.cynthialabs.net
 adguardnic.ddns.net
 an81.ddns.net
 archie-vps.ddns.net
+aveekay.ddns.net
 batshitcrazy.ddns.net
 cloudflares.ddns.net
 djtesok.ddns.net
@@ -917,6 +928,7 @@ gmf2.ddns.net
 home-bitteeinbyte.ddns.net
 inadsware.ddns.net
 isecsolutions.ddns.net
+jarvis5.ddns.net
 jit.ddns.net
 kwas24izynek74.ddns.net
 leochen-dns.ddns.net
@@ -1017,6 +1029,7 @@ de-fsn-w-p-1.nashkan.net
 fi-hel-w-f-2.nashkan.net
 fi-hel-w-p-1.nashkan.net
 fr-gra-w-p-1.nashkan.net
+gb-cov-w-f-2.nashkan.net
 gb-cov-w-p-1.nashkan.net
 gb-lon-w-f-1.nashkan.net
 gb-lon-w-p-1.nashkan.net
@@ -1131,7 +1144,10 @@ dns.csswg.org
 dns35.allone.dpdns.org
 adgrm.duckdns.org
 adguardpi.duckdns.org
+albertocaserta.duckdns.org
+andryk111.duckdns.org
 blamb.duckdns.org
+gcpddns.duckdns.org
 jurre-home.duckdns.org
 kiwifunke.duckdns.org
 krtekvpn.duckdns.org
@@ -1163,11 +1179,13 @@ vm01.eban.eu.org
 doh.excdn.eu.org
 doh.greenwood.eu.org
 sweethome.in.eu.org
+kaiser.int.eu.org
 fullaccesstointernet.jp.eu.org
 dns.lvqing.eu.org
 dns.mayx.eu.org
 dns.melashri.eu.org
 arashi.net.eu.org
+adg.niub.eu.org
 v3.passby.eu.org
 kr.pigs.eu.org
 r1bnc.eu.org
@@ -1243,7 +1261,6 @@ doh.apad.pro
 dns.burgas.pro
 dns.dynx.pro
 httpdns.pro
-adguard.caserta.keenetic.pro
 test.marss.pro
 ntwrkh.pro
 abe01.dnscry.pt
@@ -1410,6 +1427,8 @@ dns.abppro.ru
 comss.ru
 v1552270.hosted-by-vdsina.ru
 joouddo.ru
+adguard.kazantsev97.msk.ru
+dns.msxnet.ru
 vds2380673.my-ihor.ru
 dns.petqa.ru
 dns.ronc.ru
@@ -1433,6 +1452,7 @@ resolver.sunet.se
 dns.9999.sg
 privacydns.go6lab.si
 dns.l337.site
+tecdrive.site
 dns.levonet.sk
 dns.p3k.sk
 n1.p3k.sk
@@ -1442,6 +1462,7 @@ dns.fizz.studio
 ztv.su
 crypto.sx
 dns.startupstack.tech
+tuskythehusky.tech
 moph.go.th
 host8.248.cloudhost.in.th
 dns.koala.us.to
@@ -1514,15 +1535,18 @@ rini.id.vn
 tienpham.id.vn
 chungocoai.name.vn
 adguard.quydang.name.vn
+dns.valbatos.pro.vn
 adsl.viettel.vn
 dns.watch
 adguard.sscw.win
 dns.superstefan.win
+dns.youni.win
 dns.brahma.world
 dns.busold.ws
 cloud1.server.busold.ws
 glf.wtf
 123000123.xyz
+3dcosas.xyz
 dns.688447.xyz
 dns.d94.xyz
 do-39574-tr.xyz
