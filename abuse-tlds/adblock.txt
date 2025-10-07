@@ -1,6 +1,6 @@
 [Adblock Plus 1.1]
 ! Title: Accomplist "Tlds" AdBlock List (Top-N Version)
-! Version: 1759731168
+! Version: 1759816701
 ! Homepage: https://github.com/cbuijs/accomplist/tree/master/tlds
 !
 ! WhiteList Domains:
@@ -1232,6 +1232,8 @@
 @@||stream.vip^
 ! Sub-domain "vidstream.vip" unblacklisted from domain "vip"
 @@||vidstream.vip^
+! Sub-domain "wetv.vip" unblacklisted from domain "vip"
+@@||wetv.vip^
 ! Sub-domain "yesporn.vip" unblacklisted from domain "vip"
 @@||yesporn.vip^
 ! Sub-domain "arizona.vote" unblacklisted from domain "vote"
