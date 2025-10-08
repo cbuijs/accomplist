@@ -24,8 +24,6 @@ dns-br.leonardo.tec.br
 doh.buzz
 doh.datahata.by
 canadianshield.cira.ca
-dns1.dnscrypt.ca
-dns2.dnscrypt.ca
 ag.ff0x.ca
 pangolin.ff0x.ca
 dns.omada.cafe
@@ -155,6 +153,7 @@ antivirus.bebasid.com
 dns.bebasid.com
 internetsehat.bebasid.com
 secondary-backup.bebasid.com
+bestwon203.com
 httpdns.bilivideo.com
 doh.de.blahdns.com
 dnscrypt-cert.blahdns.com
@@ -1013,7 +1012,6 @@ echoe1yidzu4ioo5.myfritz.net
 sp1wpdybsw1twq1d.myfritz.net
 96500b732ed8.sn.mynetname.net
 hdf084sqbme.sn.mynetname.net
-doh-ca.naftalie.net
 ae-fuj-w-p-1.nashkan.net
 ae-fuj-w-p-2.nashkan.net
 ae-fuj-w-p-3.nashkan.net
@@ -1129,6 +1127,8 @@ auto-cn-hk-8000.go-behind.one
 cname-for-doh.go-behind.one
 gtm-sg-5r538sziu04.go-behind.one
 one.one.one.one
+dns.apigw.online
+dns-sehat.apigw.online
 ns1.4netguides.org
 ns2.4netguides.org
 vir.accesscam.org
@@ -1144,14 +1144,12 @@ dns.csswg.org
 dns35.allone.dpdns.org
 adgrm.duckdns.org
 adguardpi.duckdns.org
-albertocaserta.duckdns.org
 andryk111.duckdns.org
 blamb.duckdns.org
 gcpddns.duckdns.org
 jurre-home.duckdns.org
 kiwifunke.duckdns.org
 krtekvpn.duckdns.org
-montmorot.duckdns.org
 morgenegg.duckdns.org
 nikamurs.duckdns.org
 osefcorp.duckdns.org
@@ -1427,7 +1425,7 @@ dns.abppro.ru
 comss.ru
 v1552270.hosted-by-vdsina.ru
 joouddo.ru
-adguard.kazantsev97.msk.ru
+kazantsev97.msk.ru
 dns.msxnet.ru
 vds2380673.my-ihor.ru
 dns.petqa.ru
