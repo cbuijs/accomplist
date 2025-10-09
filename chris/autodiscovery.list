@@ -8859,7 +8859,6 @@ autoconfig.inbrowser.link
 autoconfig.ipifony.net
 autoconfig.ir.md
 autoconfig.is-a-good.dev
-autoconfig.is-a.dev
 autoconfig.iservschule.de
 autoconfig.mein-iserv.de
 autoconfig.schuldock.de
@@ -8999,7 +8998,6 @@ autoconfig.we.bs
 autoconfig.filegear-sg.me
 autoconfig.ggff.net
 autoconfig.user.localcert.dev
-autoconfig.localcert.net
 autoconfig.localtonet.com
 autoconfig.localto.net
 autoconfig.lodz.pl
@@ -9892,6 +9890,8 @@ autoconfig.wdh.app
 autoconfig.hrsn.au
 autoconfig.vps.hrsn.au
 autoconfig.hrsn.dev
+autoconfig.is-a.dev
+autoconfig.localcert.net
 autoconfig.windsurf.app
 autoconfig.windsurf.build
 autoconfig.panel.gg
@@ -18802,7 +18802,6 @@ _autodiscover.inbrowser.link
 _autodiscover.ipifony.net
 _autodiscover.ir.md
 _autodiscover.is-a-good.dev
-_autodiscover.is-a.dev
 _autodiscover.iservschule.de
 _autodiscover.mein-iserv.de
 _autodiscover.schuldock.de
@@ -18942,7 +18941,6 @@ _autodiscover.we.bs
 _autodiscover.filegear-sg.me
 _autodiscover.ggff.net
 _autodiscover.user.localcert.dev
-_autodiscover.localcert.net
 _autodiscover.localtonet.com
 _autodiscover.localto.net
 _autodiscover.lodz.pl
@@ -19835,6 +19833,8 @@ _autodiscover.wdh.app
 _autodiscover.hrsn.au
 _autodiscover.vps.hrsn.au
 _autodiscover.hrsn.dev
+_autodiscover.is-a.dev
+_autodiscover.localcert.net
 _autodiscover.windsurf.app
 _autodiscover.windsurf.build
 _autodiscover.panel.gg
@@ -28745,7 +28745,6 @@ autodiscover.inbrowser.link
 autodiscover.ipifony.net
 autodiscover.ir.md
 autodiscover.is-a-good.dev
-autodiscover.is-a.dev
 autodiscover.iservschule.de
 autodiscover.mein-iserv.de
 autodiscover.schuldock.de
@@ -28885,7 +28884,6 @@ autodiscover.we.bs
 autodiscover.filegear-sg.me
 autodiscover.ggff.net
 autodiscover.user.localcert.dev
-autodiscover.localcert.net
 autodiscover.localtonet.com
 autodiscover.localto.net
 autodiscover.lodz.pl
@@ -29778,6 +29776,8 @@ autodiscover.wdh.app
 autodiscover.hrsn.au
 autodiscover.vps.hrsn.au
 autodiscover.hrsn.dev
+autodiscover.is-a.dev
+autodiscover.localcert.net
 autodiscover.windsurf.app
 autodiscover.windsurf.build
 autodiscover.panel.gg
@@ -38688,7 +38688,6 @@ b._dns-sd.inbrowser.link
 b._dns-sd.ipifony.net
 b._dns-sd.ir.md
 b._dns-sd.is-a-good.dev
-b._dns-sd.is-a.dev
 b._dns-sd.iservschule.de
 b._dns-sd.mein-iserv.de
 b._dns-sd.schuldock.de
@@ -38828,7 +38827,6 @@ b._dns-sd.we.bs
 b._dns-sd.filegear-sg.me
 b._dns-sd.ggff.net
 b._dns-sd.user.localcert.dev
-b._dns-sd.localcert.net
 b._dns-sd.localtonet.com
 b._dns-sd.localto.net
 b._dns-sd.lodz.pl
@@ -39721,6 +39719,8 @@ b._dns-sd.wdh.app
 b._dns-sd.hrsn.au
 b._dns-sd.vps.hrsn.au
 b._dns-sd.hrsn.dev
+b._dns-sd.is-a.dev
+b._dns-sd.localcert.net
 b._dns-sd.windsurf.app
 b._dns-sd.windsurf.build
 b._dns-sd.panel.gg
@@ -48631,7 +48631,6 @@ db._dns-sd.inbrowser.link
 db._dns-sd.ipifony.net
 db._dns-sd.ir.md
 db._dns-sd.is-a-good.dev
-db._dns-sd.is-a.dev
 db._dns-sd.iservschule.de
 db._dns-sd.mein-iserv.de
 db._dns-sd.schuldock.de
@@ -48771,7 +48770,6 @@ db._dns-sd.we.bs
 db._dns-sd.filegear-sg.me
 db._dns-sd.ggff.net
 db._dns-sd.user.localcert.dev
-db._dns-sd.localcert.net
 db._dns-sd.localtonet.com
 db._dns-sd.localto.net
 db._dns-sd.lodz.pl
@@ -49664,6 +49662,8 @@ db._dns-sd.wdh.app
 db._dns-sd.hrsn.au
 db._dns-sd.vps.hrsn.au
 db._dns-sd.hrsn.dev
+db._dns-sd.is-a.dev
+db._dns-sd.localcert.net
 db._dns-sd.windsurf.app
 db._dns-sd.windsurf.build
 db._dns-sd.panel.gg
@@ -58574,7 +58574,6 @@ isatap.inbrowser.link
 isatap.ipifony.net
 isatap.ir.md
 isatap.is-a-good.dev
-isatap.is-a.dev
 isatap.iservschule.de
 isatap.mein-iserv.de
 isatap.schuldock.de
@@ -58714,7 +58713,6 @@ isatap.we.bs
 isatap.filegear-sg.me
 isatap.ggff.net
 isatap.user.localcert.dev
-isatap.localcert.net
 isatap.localtonet.com
 isatap.localto.net
 isatap.lodz.pl
@@ -59607,6 +59605,8 @@ isatap.wdh.app
 isatap.hrsn.au
 isatap.vps.hrsn.au
 isatap.hrsn.dev
+isatap.is-a.dev
+isatap.localcert.net
 isatap.windsurf.app
 isatap.windsurf.build
 isatap.panel.gg
@@ -68517,7 +68517,6 @@ lb._dns-sd.inbrowser.link
 lb._dns-sd.ipifony.net
 lb._dns-sd.ir.md
 lb._dns-sd.is-a-good.dev
-lb._dns-sd.is-a.dev
 lb._dns-sd.iservschule.de
 lb._dns-sd.mein-iserv.de
 lb._dns-sd.schuldock.de
@@ -68657,7 +68656,6 @@ lb._dns-sd.we.bs
 lb._dns-sd.filegear-sg.me
 lb._dns-sd.ggff.net
 lb._dns-sd.user.localcert.dev
-lb._dns-sd.localcert.net
 lb._dns-sd.localtonet.com
 lb._dns-sd.localto.net
 lb._dns-sd.lodz.pl
@@ -69550,6 +69548,8 @@ lb._dns-sd.wdh.app
 lb._dns-sd.hrsn.au
 lb._dns-sd.vps.hrsn.au
 lb._dns-sd.hrsn.dev
+lb._dns-sd.is-a.dev
+lb._dns-sd.localcert.net
 lb._dns-sd.windsurf.app
 lb._dns-sd.windsurf.build
 lb._dns-sd.panel.gg
@@ -78460,7 +78460,6 @@ wpad.inbrowser.link
 wpad.ipifony.net
 wpad.ir.md
 wpad.is-a-good.dev
-wpad.is-a.dev
 wpad.iservschule.de
 wpad.mein-iserv.de
 wpad.schuldock.de
@@ -78600,7 +78599,6 @@ wpad.we.bs
 wpad.filegear-sg.me
 wpad.ggff.net
 wpad.user.localcert.dev
-wpad.localcert.net
 wpad.localtonet.com
 wpad.localto.net
 wpad.lodz.pl
@@ -79493,6 +79491,8 @@ wpad.wdh.app
 wpad.hrsn.au
 wpad.vps.hrsn.au
 wpad.hrsn.dev
+wpad.is-a.dev
+wpad.localcert.net
 wpad.windsurf.app
 wpad.windsurf.build
 wpad.panel.gg
@@ -88403,7 +88403,6 @@ wpad.tcp.inbrowser.link
 wpad.tcp.ipifony.net
 wpad.tcp.ir.md
 wpad.tcp.is-a-good.dev
-wpad.tcp.is-a.dev
 wpad.tcp.iservschule.de
 wpad.tcp.mein-iserv.de
 wpad.tcp.schuldock.de
@@ -88543,7 +88542,6 @@ wpad.tcp.we.bs
 wpad.tcp.filegear-sg.me
 wpad.tcp.ggff.net
 wpad.tcp.user.localcert.dev
-wpad.tcp.localcert.net
 wpad.tcp.localtonet.com
 wpad.tcp.localto.net
 wpad.tcp.lodz.pl
@@ -89436,6 +89434,8 @@ wpad.tcp.wdh.app
 wpad.tcp.hrsn.au
 wpad.tcp.vps.hrsn.au
 wpad.tcp.hrsn.dev
+wpad.tcp.is-a.dev
+wpad.tcp.localcert.net
 wpad.tcp.windsurf.app
 wpad.tcp.windsurf.build
 wpad.tcp.panel.gg
