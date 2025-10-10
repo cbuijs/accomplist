@@ -1,6 +1,6 @@
 [Adblock Plus 1.1]
 ! Title: Accomplist "Doh" AdBlock List (Top-N Version)
-! Version: 1759991944
+! Version: 1760078486
 ! Homepage: https://github.com/cbuijs/accomplist/tree/master/doh
 !
 ! WhiteList Domains:
@@ -599,6 +599,7 @@
 ||easyhandshake.com^
 ||dns.edc-pws.com^
 ||dns.edgeburnmedia.com^
+||edgy-dns.com^
 ||dns.efficientdocuments.com^
 ||doh.eieidns.com^
 ||adguard.elrobit.com^
@@ -2467,6 +2468,7 @@
 ||us-nyc-w-p-1.nashkan.net^
 ||us-saj-w-f-1.nashkan.net^
 ||us-saj-w-p-1.nashkan.net^
+||dns.nefret.net^
 ||adguard.neotix.net^
 ||dns.netrve.net^
 ||resolv2.nettplus.net^
@@ -2662,8 +2664,8 @@
 ||auto-cn-hk-8000.go-behind.one^
 ||cname-for-doh.go-behind.one^
 ||gtm-sg-5r538sziu04.go-behind.one^
-||dac-1.hakim.one^
 ||dns.hakim.one^
+||sin-01.hakim.one^
 ||dns.hoian.one^
 ||ag.iyn.one^
 ||hk.jiusi.one^
@@ -2698,7 +2700,7 @@
 ||petinom.online^
 ||reptis.online^
 ||shadowart.online^
-||media.streamfusion.online^
+||streamfusion.online^
 ||vadim.online^
 ||ns1.4netguides.org^
 ||ns2.4netguides.org^
