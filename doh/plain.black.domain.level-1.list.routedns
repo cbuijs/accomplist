@@ -151,6 +151,7 @@
 .dns.vlo.cc
 .xenergy.cc
 .hk.yoosoo.cc
+.dns.yuzia.cc
 .dns140.zhhz.cc
 .dns168.zhhz.cc
 .ns.cd
@@ -570,6 +571,7 @@
 .adg-nl.h4nt3r.com
 .adg-swe.h4nt3r.com
 .adguard.h4nt3r.com
+.secure.hafnova.com
 .dns.hakutakucn.com
 .adguard.haneulo.com
 .dns.hannielzhang.com
@@ -1841,6 +1843,7 @@
 .dns.azsopro.net
 .doh1.b-cdn.net
 .doh2.b-cdn.net
+.dns.bibica.net
 .dns.bitdefender.net
 .fra-dns.bitdefender.net
 .iow-dns.bitdefender.net
@@ -1932,7 +1935,6 @@
 .adguard.ekhozie.dynu.net
 .flyloadguard.dynu.net
 .quangdo92.dynu.net
-.gustamadh.dynv6.net
 .dnscache.e-utp.net
 .adguard.easez.net
 .dns.eddi.net
@@ -1961,6 +1963,14 @@
 .ns2.flodns.net
 .resolv.flokinet.net
 .dns.flux24.net
+.de-d2.foxyfy.net
+.de-f1.foxyfy.net
+.dns.foxyfy.net
+.es-ma.foxyfy.net
+.jp-to.foxyfy.net
+.ro-bu.foxyfy.net
+.us-ny.foxyfy.net
+.us-sj.foxyfy.net
 .dns.api.gandi.net
 .dns.beta.gandi.net
 .getdnsapi.net
@@ -2258,6 +2268,7 @@
 .dns.apigw.online
 .dns-sehat.apigw.online
 .vm.delfini.online
+.dns4eu.online
 .hayadns.online
 .herkes.online
 .ingenmannsland.online
@@ -3732,6 +3743,7 @@
 .tx224-9449-bj-v0.0.dxng.net
 .cn1.dxng.net
 .cn1-v1.dxng.net
+.gustamadh.dynv6.net
 .dualstack.t.sni.global.fastly.net
 .anycast.ffmuc.net
 .eu-cdn.imoim.net
@@ -3767,7 +3779,7 @@
 .auto-cn-hk-8000.go-behind.one
 .cname-for-doh.go-behind.one
 .gtm-sg-5r538sziu04.go-behind.one
-.sin-01.hakim.one
+.dac-1.hakim.one
 .streamfusion.online
 .maison.auffray.org
 .radia.bortzmeyer.org
