@@ -1,6 +1,6 @@
 [Adblock Plus 1.1]
 ! Title: Accomplist "Tlds" AdBlock List (Top-N Version)
-! Version: 1760078201
+! Version: 1760164350
 ! Homepage: https://github.com/cbuijs/accomplist/tree/master/tlds
 !
 ! WhiteList Domains:
@@ -470,14 +470,14 @@
 @@||gorgias.help^
 ! Sub-domain "kustomer.help" unblacklisted from domain "help"
 @@||kustomer.help^
+! Sub-domain "pixiv.help" unblacklisted from domain "help"
+@@||pixiv.help^
 ! Sub-domain "stremio.homes" unblacklisted from domain "homes"
 @@||stremio.homes^
 ! Sub-domain "nature.house" unblacklisted from domain "house"
 @@||nature.house^
 ! Sub-domain "mond.how" unblacklisted from domain "how"
 @@||mond.how^
-! Sub-domain "fastdl.icu" unblacklisted from domain "icu"
-@@||fastdl.icu^
 ! Sub-domain "lunar.icu" unblacklisted from domain "icu"
 @@||lunar.icu^
 ! Sub-domain "mon.icu" unblacklisted from domain "icu"
@@ -570,8 +570,6 @@
 @@||status.lol^
 ! Sub-domain "techaro.lol" unblacklisted from domain "lol"
 @@||techaro.lol^
-! Sub-domain "vcloud.lol" unblacklisted from domain "lol"
-@@||vcloud.lol^
 ! Sub-domain "weblog.lol" unblacklisted from domain "lol"
 @@||weblog.lol^
 ! Sub-domain "wpp.lol" unblacklisted from domain "lol"
@@ -658,14 +656,14 @@
 @@||rollenspiel.monster^
 ! Sub-domain "tts.monster" unblacklisted from domain "monster"
 @@||tts.monster^
+! Sub-domain "yts.monster" unblacklisted from domain "monster"
+@@||yts.monster^
 ! Sub-domain "david.mov" unblacklisted from domain "mov"
 @@||david.mov^
 ! Sub-domain "peerflix.mov" unblacklisted from domain "mov"
 @@||peerflix.mov^
 ! Sub-domain "pstream.mov" unblacklisted from domain "mov"
 @@||pstream.mov^
-! Sub-domain "spankbang.mov" unblacklisted from domain "mov"
-@@||spankbang.mov^
 ! Sub-domain "chris.boyle.name" unblacklisted from domain "name"
 @@||chris.boyle.name^
 ! Sub-domain "davidwalsh.name" unblacklisted from domain "name"
@@ -1038,6 +1036,8 @@
 @@||momonster.space^
 ! Sub-domain "monitorburz.space" unblacklisted from domain "space"
 @@||monitorburz.space^
+! Sub-domain "nitter.space" unblacklisted from domain "space"
+@@||nitter.space^
 ! Sub-domain "ocr.space" unblacklisted from domain "space"
 @@||ocr.space^
 ! Sub-domain "oldbytes.space" unblacklisted from domain "space"
