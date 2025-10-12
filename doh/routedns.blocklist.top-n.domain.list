@@ -128,6 +128,7 @@
 .dns-test-alb-2081756747.us-east-1.elb.amazonaws.com
 .ag.apollohct.com
 .doh.dns.apple.com
+.dns.arkbotech.com
 .dns.asterimoon.com
 .amgr.asuscomm.com
 .dandelionsprout.asuscomm.com
@@ -230,7 +231,6 @@
 .sg1.dnswarden.com
 .uncensored-dot.dnswarden.com
 .doh.us.dnswarden.com
-.domainexpired.domain-expired.com
 .roucious.dyndns-remote.com
 .rafi.dynns.com
 .oostelbos.dynu.com
@@ -330,6 +330,8 @@
 .httpdns.music.ntes53.netease.com
 .nim-httpdns-outsea.ntes53.netease.com
 .nim-lbs-oversea-tmp.ntes53.netease.com
+.adguard.niko-sem.com
+.dnx.niko-sem.com
 .dns1.nordvpn.com
 .dns2.nordvpn.com
 .dns.notjakob.com
