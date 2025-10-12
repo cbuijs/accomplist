@@ -1,6 +1,6 @@
 [Adblock Plus 1.1]
 ! Title: Accomplist "Tlds" AdBlock List (Top-N Version)
-! Version: 1760164350
+! Version: 1760247557
 ! Homepage: https://github.com/cbuijs/accomplist/tree/master/tlds
 !
 ! WhiteList Domains:
@@ -297,12 +297,16 @@
 @@||cursor.directory^
 ! Sub-domain "fedi.directory" unblacklisted from domain "directory"
 @@||fedi.directory^
+! Sub-domain "ooh.directory" unblacklisted from domain "directory"
+@@||ooh.directory^
 ! Sub-domain "passkeys.directory" unblacklisted from domain "directory"
 @@||passkeys.directory^
 ! Sub-domain "reactnative.directory" unblacklisted from domain "directory"
 @@||reactnative.directory^
 ! Sub-domain "real.discount" unblacklisted from domain "discount"
 @@||real.discount^
+! Sub-domain "chainsawman.dog" unblacklisted from domain "dog"
+@@||chainsawman.dog^
 ! Sub-domain "heika.dog" unblacklisted from domain "dog"
 @@||heika.dog^
 ! Sub-domain "misskey.dog" unblacklisted from domain "dog"
@@ -564,6 +568,8 @@
 @@||paste.lol^
 ! Sub-domain "proven.lol" unblacklisted from domain "lol"
 @@||proven.lol^
+! Sub-domain "sibellavia.lol" unblacklisted from domain "lol"
+@@||sibellavia.lol^
 ! Sub-domain "social.lol" unblacklisted from domain "lol"
 @@||social.lol^
 ! Sub-domain "status.lol" unblacklisted from domain "lol"
@@ -636,6 +642,8 @@
 @@||mathi.moe^
 ! Sub-domain "nyarchlinux.moe" unblacklisted from domain "moe"
 @@||nyarchlinux.moe^
+! Sub-domain "trace.moe" unblacklisted from domain "moe"
+@@||trace.moe^
 ! Sub-domain "uma.moe" unblacklisted from domain "moe"
 @@||uma.moe^
 ! Sub-domain "flowyour.money" unblacklisted from domain "money"
@@ -1126,6 +1134,8 @@
 @@||jpg4.su^
 ! Sub-domain "jpg5.su" unblacklisted from domain "su"
 @@||jpg5.su^
+! Sub-domain "jpg6.su" unblacklisted from domain "su"
+@@||jpg6.su^
 ! Sub-domain "promportal.su" unblacklisted from domain "su"
 @@||promportal.su^
 ! Sub-domain "saint2.su" unblacklisted from domain "su"
@@ -1250,6 +1260,8 @@
 @@||bestmotherfucking.website^
 ! Sub-domain "eddie.website" unblacklisted from domain "website"
 @@||eddie.website^
+! Sub-domain "noclip.website" unblacklisted from domain "website"
+@@||noclip.website^
 ! Sub-domain "thatsup.website" unblacklisted from domain "website"
 @@||thatsup.website^
 ! Sub-domain "tilde.website" unblacklisted from domain "website"
@@ -1260,14 +1272,22 @@
 @@||bg3.wiki^
 ! Sub-domain "burnout.wiki" unblacklisted from domain "wiki"
 @@||burnout.wiki^
+! Sub-domain "chibi-robo.wiki" unblacklisted from domain "wiki"
+@@||chibi-robo.wiki^
 ! Sub-domain "consumerrights.wiki" unblacklisted from domain "wiki"
 @@||consumerrights.wiki^
 ! Sub-domain "cooked.wiki" unblacklisted from domain "wiki"
 @@||cooked.wiki^
 ! Sub-domain "datei.wiki" unblacklisted from domain "wiki"
 @@||datei.wiki^
+! Sub-domain "deadlock.wiki" unblacklisted from domain "wiki"
+@@||deadlock.wiki^
 ! Sub-domain "deltarune.wiki" unblacklisted from domain "wiki"
 @@||deltarune.wiki^
+! Sub-domain "dragalialost.wiki" unblacklisted from domain "wiki"
+@@||dragalialost.wiki^
+! Sub-domain "drawntolife.wiki" unblacklisted from domain "wiki"
+@@||drawntolife.wiki^
 ! Sub-domain "fallout.wiki" unblacklisted from domain "wiki"
 @@||fallout.wiki^
 ! Sub-domain "getindie.wiki" unblacklisted from domain "wiki"
@@ -1276,6 +1296,8 @@
 @@||hacktricks.wiki^
 ! Sub-domain "hollowknight.wiki" unblacklisted from domain "wiki"
 @@||hollowknight.wiki^
+! Sub-domain "hololive.wiki" unblacklisted from domain "wiki"
+@@||hololive.wiki^
 ! Sub-domain "klingon.wiki" unblacklisted from domain "wiki"
 @@||klingon.wiki^
 ! Sub-domain "kodi.wiki" unblacklisted from domain "wiki"
@@ -1302,10 +1324,14 @@
 @@||notifiarr.wiki^
 ! Sub-domain "osrs.wiki" unblacklisted from domain "wiki"
 @@||osrs.wiki^
+! Sub-domain "pizzatower.wiki" unblacklisted from domain "wiki"
+@@||pizzatower.wiki^
 ! Sub-domain "rs.wiki" unblacklisted from domain "wiki"
 @@||rs.wiki^
 ! Sub-domain "runescape.wiki" unblacklisted from domain "wiki"
 @@||runescape.wiki^
+! Sub-domain "saintsrow.wiki" unblacklisted from domain "wiki"
+@@||saintsrow.wiki^
 ! Sub-domain "severance.wiki" unblacklisted from domain "wiki"
 @@||severance.wiki^
 ! Sub-domain "survivors.wiki" unblacklisted from domain "wiki"
@@ -1316,6 +1342,8 @@
 @@||tardis.wiki^
 ! Sub-domain "thehomelab.wiki" unblacklisted from domain "wiki"
 @@||thehomelab.wiki^
+! Sub-domain "twewy.wiki" unblacklisted from domain "wiki"
+@@||twewy.wiki^
 ! Sub-domain "umamusu.wiki" unblacklisted from domain "wiki"
 @@||umamusu.wiki^
 ! Sub-domain "undertale.wiki" unblacklisted from domain "wiki"
