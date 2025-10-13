@@ -7,6 +7,8 @@ fargos2.dns.army
 guigu.dns.army
 homec92.dns.army
 dns.wang.art
+penta.aeins.at
+tetra.aeins.at
 rfree1.blue-shield.at
 rfree2.blue-shield.at
 dns.fancyorg.at
@@ -330,8 +332,6 @@ httpdnsv4.ntes53.netease.com
 httpdns.music.ntes53.netease.com
 nim-httpdns-outsea.ntes53.netease.com
 nim-lbs-oversea-tmp.ntes53.netease.com
-adguard.niko-sem.com
-dnx.niko-sem.com
 dns1.nordvpn.com
 dns2.nordvpn.com
 dns.notjakob.com
@@ -688,6 +688,7 @@ lilibox.freeboxos.fr
 pcornet.freeboxos.fr
 qlf-doh.inria.fr
 dns.kebree.fr
+home.kebree.fr
 doh.lacontrevoie.fr
 nicolas-dorriere.fr
 wg.req1.fr
@@ -782,6 +783,7 @@ dns.api.staging.globuscs.info
 dns.api.test.globuscs.info
 testaghome.meshkov.info
 xpen.ns01.info
+air.skrsteam.info
 gr.skrsteam.info
 dns.hee.ink
 dns.tracker.ink
@@ -1493,7 +1495,6 @@ dns.p3k.sk
 n1.p3k.sk
 dns.elemental.software
 home-server.store
-dns.fizz.studio
 ztv.su
 crypto.sx
 dns.startupstack.tech
@@ -1522,6 +1523,7 @@ tls.jackyhou.idv.tw
 adguard.shuting.idv.tw
 dns.twnic.tw
 dns.xlion.tw
+host94.rheingold.com.ua
 adguard-server.pp.ua
 2.alpo.pp.ua
 angry.pp.ua
