@@ -1,6 +1,6 @@
 [Adblock Plus 1.1]
 ! Title: Accomplist "Tlds" AdBlock List (Top-N Version)
-! Version: 1760247557
+! Version: 1760336210
 ! Homepage: https://github.com/cbuijs/accomplist/tree/master/tlds
 !
 ! WhiteList Domains:
@@ -482,6 +482,8 @@
 @@||nature.house^
 ! Sub-domain "mond.how" unblacklisted from domain "how"
 @@||mond.how^
+! Sub-domain "intervals.icu" unblacklisted from domain "icu"
+@@||intervals.icu^
 ! Sub-domain "lunar.icu" unblacklisted from domain "icu"
 @@||lunar.icu^
 ! Sub-domain "mon.icu" unblacklisted from domain "icu"
@@ -926,6 +928,8 @@
 @@||munu.shop^
 ! Sub-domain "music-merchant.shop" unblacklisted from domain "shop"
 @@||music-merchant.shop^
+! Sub-domain "myshopline.shop" unblacklisted from domain "shop"
+@@||myshopline.shop^
 ! Sub-domain "nocut.shop" unblacklisted from domain "shop"
 @@||nocut.shop^
 ! Sub-domain "nordland.shop" unblacklisted from domain "shop"
