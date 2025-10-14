@@ -7829,6 +7829,8 @@ autoconfig.cafjs.com
 autoconfig.canva-apps.cn
 autoconfig.my.canvasite.cn
 autoconfig.canva-apps.com
+autoconfig.canva-hosted-embed.com
+autoconfig.canvacode.com
 autoconfig.rice-labs.com
 autoconfig.canva.run
 autoconfig.my.canva.site
@@ -8009,6 +8011,7 @@ autoconfig.icp1.io
 autoconfig.raw.icp1.io
 autoconfig.icp.net
 autoconfig.caffeine.site
+autoconfig.caffeine.xyz
 autoconfig.dfirma.pl
 autoconfig.dkonto.pl
 autoconfig.you2.pl
@@ -17772,6 +17775,8 @@ _autodiscover.cafjs.com
 _autodiscover.canva-apps.cn
 _autodiscover.my.canvasite.cn
 _autodiscover.canva-apps.com
+_autodiscover.canva-hosted-embed.com
+_autodiscover.canvacode.com
 _autodiscover.rice-labs.com
 _autodiscover.canva.run
 _autodiscover.my.canva.site
@@ -17952,6 +17957,7 @@ _autodiscover.icp1.io
 _autodiscover.raw.icp1.io
 _autodiscover.icp.net
 _autodiscover.caffeine.site
+_autodiscover.caffeine.xyz
 _autodiscover.dfirma.pl
 _autodiscover.dkonto.pl
 _autodiscover.you2.pl
@@ -27715,6 +27721,8 @@ autodiscover.cafjs.com
 autodiscover.canva-apps.cn
 autodiscover.my.canvasite.cn
 autodiscover.canva-apps.com
+autodiscover.canva-hosted-embed.com
+autodiscover.canvacode.com
 autodiscover.rice-labs.com
 autodiscover.canva.run
 autodiscover.my.canva.site
@@ -27895,6 +27903,7 @@ autodiscover.icp1.io
 autodiscover.raw.icp1.io
 autodiscover.icp.net
 autodiscover.caffeine.site
+autodiscover.caffeine.xyz
 autodiscover.dfirma.pl
 autodiscover.dkonto.pl
 autodiscover.you2.pl
@@ -37658,6 +37667,8 @@ b._dns-sd.cafjs.com
 b._dns-sd.canva-apps.cn
 b._dns-sd.my.canvasite.cn
 b._dns-sd.canva-apps.com
+b._dns-sd.canva-hosted-embed.com
+b._dns-sd.canvacode.com
 b._dns-sd.rice-labs.com
 b._dns-sd.canva.run
 b._dns-sd.my.canva.site
@@ -37838,6 +37849,7 @@ b._dns-sd.icp1.io
 b._dns-sd.raw.icp1.io
 b._dns-sd.icp.net
 b._dns-sd.caffeine.site
+b._dns-sd.caffeine.xyz
 b._dns-sd.dfirma.pl
 b._dns-sd.dkonto.pl
 b._dns-sd.you2.pl
@@ -47601,6 +47613,8 @@ db._dns-sd.cafjs.com
 db._dns-sd.canva-apps.cn
 db._dns-sd.my.canvasite.cn
 db._dns-sd.canva-apps.com
+db._dns-sd.canva-hosted-embed.com
+db._dns-sd.canvacode.com
 db._dns-sd.rice-labs.com
 db._dns-sd.canva.run
 db._dns-sd.my.canva.site
@@ -47781,6 +47795,7 @@ db._dns-sd.icp1.io
 db._dns-sd.raw.icp1.io
 db._dns-sd.icp.net
 db._dns-sd.caffeine.site
+db._dns-sd.caffeine.xyz
 db._dns-sd.dfirma.pl
 db._dns-sd.dkonto.pl
 db._dns-sd.you2.pl
@@ -57544,6 +57559,8 @@ isatap.cafjs.com
 isatap.canva-apps.cn
 isatap.my.canvasite.cn
 isatap.canva-apps.com
+isatap.canva-hosted-embed.com
+isatap.canvacode.com
 isatap.rice-labs.com
 isatap.canva.run
 isatap.my.canva.site
@@ -57724,6 +57741,7 @@ isatap.icp1.io
 isatap.raw.icp1.io
 isatap.icp.net
 isatap.caffeine.site
+isatap.caffeine.xyz
 isatap.dfirma.pl
 isatap.dkonto.pl
 isatap.you2.pl
@@ -67487,6 +67505,8 @@ lb._dns-sd.cafjs.com
 lb._dns-sd.canva-apps.cn
 lb._dns-sd.my.canvasite.cn
 lb._dns-sd.canva-apps.com
+lb._dns-sd.canva-hosted-embed.com
+lb._dns-sd.canvacode.com
 lb._dns-sd.rice-labs.com
 lb._dns-sd.canva.run
 lb._dns-sd.my.canva.site
@@ -67667,6 +67687,7 @@ lb._dns-sd.icp1.io
 lb._dns-sd.raw.icp1.io
 lb._dns-sd.icp.net
 lb._dns-sd.caffeine.site
+lb._dns-sd.caffeine.xyz
 lb._dns-sd.dfirma.pl
 lb._dns-sd.dkonto.pl
 lb._dns-sd.you2.pl
@@ -77430,6 +77451,8 @@ wpad.cafjs.com
 wpad.canva-apps.cn
 wpad.my.canvasite.cn
 wpad.canva-apps.com
+wpad.canva-hosted-embed.com
+wpad.canvacode.com
 wpad.rice-labs.com
 wpad.canva.run
 wpad.my.canva.site
@@ -77610,6 +77633,7 @@ wpad.icp1.io
 wpad.raw.icp1.io
 wpad.icp.net
 wpad.caffeine.site
+wpad.caffeine.xyz
 wpad.dfirma.pl
 wpad.dkonto.pl
 wpad.you2.pl
@@ -87373,6 +87397,8 @@ wpad.tcp.cafjs.com
 wpad.tcp.canva-apps.cn
 wpad.tcp.my.canvasite.cn
 wpad.tcp.canva-apps.com
+wpad.tcp.canva-hosted-embed.com
+wpad.tcp.canvacode.com
 wpad.tcp.rice-labs.com
 wpad.tcp.canva.run
 wpad.tcp.my.canva.site
@@ -87553,6 +87579,7 @@ wpad.tcp.icp1.io
 wpad.tcp.raw.icp1.io
 wpad.tcp.icp.net
 wpad.tcp.caffeine.site
+wpad.tcp.caffeine.xyz
 wpad.tcp.dfirma.pl
 wpad.tcp.dkonto.pl
 wpad.tcp.you2.pl
