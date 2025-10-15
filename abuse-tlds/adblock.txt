@@ -1,6 +1,6 @@
 [Adblock Plus 1.1]
 ! Title: Accomplist "Tlds" AdBlock List (Top-N Version)
-! Version: 1760420253
+! Version: 1760510132
 ! Homepage: https://github.com/cbuijs/accomplist/tree/master/tlds
 !
 ! WhiteList Domains:
@@ -188,6 +188,8 @@
 @@||wallhaven.cc^
 ! Sub-domain "yipee.cc" unblacklisted from domain "cc"
 @@||yipee.cc^
+! Sub-domain "yz168.cc" unblacklisted from domain "cc"
+@@||yz168.cc^
 ! Sub-domain "zcyph.cc" unblacklisted from domain "cc"
 @@||zcyph.cc^
 ! Sub-domain "mein-kunden.center" unblacklisted from domain "center"
@@ -214,6 +216,8 @@
 @@||ops.city^
 ! Sub-domain "technical.city" unblacklisted from domain "city"
 @@||technical.city^
+! Sub-domain "am-videos.click" unblacklisted from domain "click"
+@@||am-videos.click^
 ! Sub-domain "buybox.click" unblacklisted from domain "click"
 @@||buybox.click^
 ! Sub-domain "popcat.click" unblacklisted from domain "click"
@@ -638,6 +642,8 @@
 @@||aniya.moe^
 ! Sub-domain "catbox.moe" unblacklisted from domain "moe"
 @@||catbox.moe^
+! Sub-domain "cdn.moe" unblacklisted from domain "moe"
+@@||cdn.moe^
 ! Sub-domain "cubari.moe" unblacklisted from domain "moe"
 @@||cubari.moe^
 ! Sub-domain "ddlc.moe" unblacklisted from domain "moe"
@@ -648,6 +654,8 @@
 @@||mathi.moe^
 ! Sub-domain "nyarchlinux.moe" unblacklisted from domain "moe"
 @@||nyarchlinux.moe^
+! Sub-domain "save.moe" unblacklisted from domain "moe"
+@@||save.moe^
 ! Sub-domain "trace.moe" unblacklisted from domain "moe"
 @@||trace.moe^
 ! Sub-domain "uma.moe" unblacklisted from domain "moe"
@@ -786,6 +794,8 @@
 @@||glass.photo^
 ! Sub-domain "picsum.photos" unblacklisted from domain "photos"
 @@||picsum.photos^
+! Sub-domain "am-cdn.pics" unblacklisted from domain "pics"
+@@||am-cdn.pics^
 ! Sub-domain "covet.pics" unblacklisted from domain "pics"
 @@||covet.pics^
 ! Sub-domain "pixers.pics" unblacklisted from domain "pics"
