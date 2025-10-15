@@ -7,8 +7,6 @@ fargos2.dns.army
 guigu.dns.army
 homec92.dns.army
 dns.wang.art
-penta.aeins.at
-tetra.aeins.at
 rfree1.blue-shield.at
 rfree2.blue-shield.at
 dns.fancyorg.at
@@ -144,7 +142,6 @@ xyz-y2f-dns.eastasia.cloudapp.azure.com
 sradg.eastus.cloudapp.azure.com
 sradg2.eastus.cloudapp.azure.com
 robin.northcentralus.cloudapp.azure.com
-cloudapp01.southeastasia.cloudapp.azure.com
 kawpad.southeastasia.cloudapp.azure.com
 ydmaz-docker.southeastasia.cloudapp.azure.com
 adguard-be-azure.westeurope.cloudapp.azure.com
@@ -444,7 +441,6 @@ httpdns.yunxindns.com
 httpdns.gslb.yy.com
 httpdns.zybang.com
 vps.avc.cx
-atris.cyou
 odvr.nic.cz
 aqua.is.my.waifu.cz
 darkness.is.my.waifu.cz
@@ -641,7 +637,6 @@ doh.ibr.cs.tu-bs.de
 ines.zfn.uni-bremen.de
 abel.waringer-atg.de
 adguard-kartoffel.zernico.de
-0ms.dev
 dns.applewebkit.dev
 bazooki-infra.dev
 pihole.aws.ketan.dev
@@ -690,7 +685,6 @@ lilibox.freeboxos.fr
 pcornet.freeboxos.fr
 qlf-doh.inria.fr
 dns.kebree.fr
-home.kebree.fr
 doh.lacontrevoie.fr
 nicolas-dorriere.fr
 wg.req1.fr
@@ -785,7 +779,6 @@ dns.api.staging.globuscs.info
 dns.api.test.globuscs.info
 testaghome.meshkov.info
 xpen.ns01.info
-air.skrsteam.info
 gr.skrsteam.info
 dns.hee.ink
 dns.tracker.ink
@@ -1026,7 +1019,6 @@ echoe1yidzu4ioo5.myfritz.net
 sp1wpdybsw1twq1d.myfritz.net
 96500b732ed8.sn.mynetname.net
 hdf084sqbme.sn.mynetname.net
-doh-ca.naftalie.net
 ae-fuj-w-p-1.nashkan.net
 ae-fuj-w-p-2.nashkan.net
 ae-fuj-w-p-3.nashkan.net
@@ -1593,6 +1585,7 @@ dns.688447.xyz
 dns.d94.xyz
 do-39574-tr.xyz
 agh.dshubham.xyz
+hole.elbschloss.xyz
 dns.kerekes.xyz
 lukscasino-479-tr.xyz
 maqgie.xyz
