@@ -1,6 +1,6 @@
 [Adblock Plus 1.1]
 ! Title: Accomplist "Tlds" AdBlock List (Top-N Version)
-! Version: 1760510132
+! Version: 1760593241
 ! Homepage: https://github.com/cbuijs/accomplist/tree/master/tlds
 !
 ! WhiteList Domains:
@@ -731,6 +731,8 @@
 @@||adguard-vpn.online^
 ! Sub-domain "argon2.online" unblacklisted from domain "online"
 @@||argon2.online^
+! Sub-domain "bebraver.online" unblacklisted from domain "online"
+@@||bebraver.online^
 ! Sub-domain "blink.online" unblacklisted from domain "online"
 @@||blink.online^
 ! Sub-domain "dancewave.online" unblacklisted from domain "online"
