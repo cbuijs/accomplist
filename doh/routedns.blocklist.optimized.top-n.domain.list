@@ -329,8 +329,6 @@
 .httpdns.music.ntes53.netease.com
 .nim-httpdns-outsea.ntes53.netease.com
 .nim-lbs-oversea-tmp.ntes53.netease.com
-.adguard.niko-sem.com
-.dnx.niko-sem.com
 .dns1.nordvpn.com
 .dns2.nordvpn.com
 .dns.notjakob.com
@@ -776,6 +774,8 @@
 .dns.api.sandbox.globuscs.info
 .dns.api.staging.globuscs.info
 .dns.api.test.globuscs.info
+.doh.kekew.info
+.doh3.kekew.info
 .testaghome.meshkov.info
 .xpen.ns01.info
 .gr.skrsteam.info
@@ -1076,7 +1076,6 @@
 .dns.uk-london-1.oci.oraclecloud.net
 .dns.us-ashburn-1.oci.oraclecloud.net
 .dns.us-phoenix-1.oci.oraclecloud.net
-.878223.parkingcrew.net
 .rpz-public-resolver1.rrdns.pch.net
 .dns.phillipjberry.net
 .dns.quad9.net
@@ -1475,7 +1474,6 @@
 .nl-ams2.doh.sb
 .sg-sin2.doh.sb
 .dns.butterfly87.sbs
-.myatris.sbs
 .haka.se
 .resolver.sunet.se
 .dns.9999.sg
@@ -1583,6 +1581,7 @@
 .hole.elbschloss.xyz
 .dns.kerekes.xyz
 .lukscasino-479-tr.xyz
+.lukscasino-929-tr.xyz
 .maqgie.xyz
 .dns.mh4ckt3mh4ckt1c4s.xyz
 .pepetio.xyz
