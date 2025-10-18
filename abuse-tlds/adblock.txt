@@ -1,6 +1,6 @@
 [Adblock Plus 1.1]
 ! Title: Accomplist "Tlds" AdBlock List (Top-N Version)
-! Version: 1760679604
+! Version: 1760769170
 ! Homepage: https://github.com/cbuijs/accomplist/tree/master/tlds
 !
 ! WhiteList Domains:
@@ -560,6 +560,8 @@
 @@||hubcloud.lol^
 ! Sub-domain "io.lol" unblacklisted from domain "lol"
 @@||io.lol^
+! Sub-domain "kizuki.lol" unblacklisted from domain "lol"
+@@||kizuki.lol^
 ! Sub-domain "lemy.lol" unblacklisted from domain "lol"
 @@||lemy.lol^
 ! Sub-domain "library.lol" unblacklisted from domain "lol"
@@ -1156,8 +1158,6 @@
 @@||encode.su^
 ! Sub-domain "jpg4.su" unblacklisted from domain "su"
 @@||jpg4.su^
-! Sub-domain "jpg5.su" unblacklisted from domain "su"
-@@||jpg5.su^
 ! Sub-domain "jpg6.su" unblacklisted from domain "su"
 @@||jpg6.su^
 ! Sub-domain "promportal.su" unblacklisted from domain "su"
