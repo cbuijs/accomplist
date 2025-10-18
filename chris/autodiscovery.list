@@ -9309,6 +9309,7 @@ autoconfig.123website.lu
 autoconfig.123website.nl
 autoconfig.123hjemmeside.no
 autoconfig.service.one
+autoconfig.website.one
 autoconfig.simplesite.pl
 autoconfig.123paginaweb.pt
 autoconfig.123minsida.se
@@ -19256,6 +19257,7 @@ _autodiscover.123website.lu
 _autodiscover.123website.nl
 _autodiscover.123hjemmeside.no
 _autodiscover.service.one
+_autodiscover.website.one
 _autodiscover.simplesite.pl
 _autodiscover.123paginaweb.pt
 _autodiscover.123minsida.se
@@ -29203,6 +29205,7 @@ autodiscover.123website.lu
 autodiscover.123website.nl
 autodiscover.123hjemmeside.no
 autodiscover.service.one
+autodiscover.website.one
 autodiscover.simplesite.pl
 autodiscover.123paginaweb.pt
 autodiscover.123minsida.se
@@ -39150,6 +39153,7 @@ b._dns-sd.123website.lu
 b._dns-sd.123website.nl
 b._dns-sd.123hjemmeside.no
 b._dns-sd.service.one
+b._dns-sd.website.one
 b._dns-sd.simplesite.pl
 b._dns-sd.123paginaweb.pt
 b._dns-sd.123minsida.se
@@ -49097,6 +49101,7 @@ db._dns-sd.123website.lu
 db._dns-sd.123website.nl
 db._dns-sd.123hjemmeside.no
 db._dns-sd.service.one
+db._dns-sd.website.one
 db._dns-sd.simplesite.pl
 db._dns-sd.123paginaweb.pt
 db._dns-sd.123minsida.se
@@ -59044,6 +59049,7 @@ isatap.123website.lu
 isatap.123website.nl
 isatap.123hjemmeside.no
 isatap.service.one
+isatap.website.one
 isatap.simplesite.pl
 isatap.123paginaweb.pt
 isatap.123minsida.se
@@ -68991,6 +68997,7 @@ lb._dns-sd.123website.lu
 lb._dns-sd.123website.nl
 lb._dns-sd.123hjemmeside.no
 lb._dns-sd.service.one
+lb._dns-sd.website.one
 lb._dns-sd.simplesite.pl
 lb._dns-sd.123paginaweb.pt
 lb._dns-sd.123minsida.se
@@ -78938,6 +78945,7 @@ wpad.123website.lu
 wpad.123website.nl
 wpad.123hjemmeside.no
 wpad.service.one
+wpad.website.one
 wpad.simplesite.pl
 wpad.123paginaweb.pt
 wpad.123minsida.se
@@ -88885,6 +88893,7 @@ wpad.tcp.123website.lu
 wpad.tcp.123website.nl
 wpad.tcp.123hjemmeside.no
 wpad.tcp.service.one
+wpad.tcp.website.one
 wpad.tcp.simplesite.pl
 wpad.tcp.123paginaweb.pt
 wpad.tcp.123minsida.se
