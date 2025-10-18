@@ -1,6 +1,6 @@
 [Adblock Plus 1.1]
 ! Title: Accomplist "Doh" AdBlock List (Top-N Version)
-! Version: 1760679875
+! Version: 1760769443
 ! Homepage: https://github.com/cbuijs/accomplist/tree/master/doh
 !
 ! WhiteList Domains:
@@ -792,6 +792,7 @@
 ||httpdns.meituan.com^
 ||httpdnsvip.meituan.com^
 ||inf-wan.vip.meituan.com^
+||mendozasdelivery.com^
 ||cname-app-com-amsproxy.w.mi-dun.com^
 ||ss.microbaidu.com^
 ||mikewaddick.com^
@@ -845,7 +846,6 @@
 ||adguard.npglocal.com^
 ||x.ns1net.com^
 ||ns3.com^
-||nsown.com^
 ||dns.nullrecon.com^
 ||dns.numerus.com^
 ||dns.nxsyspro.com^
@@ -1936,7 +1936,6 @@
 ||dns.mcexp.it^
 ||dns.neeb.it^
 ||doh.luigi.nexific.it^
-||dns.npsolution.it^
 ||adguard.pangerl.it^
 ||dns.repressoh.it^
 ||dns.servizimv.it^
@@ -2514,7 +2513,6 @@
 ||richardo.net^
 ||adguard.rjscho.net^
 ||dns.rotunneling.net^
-||samsdns1943.net^
 ||dns.sarakas.net^
 ||dns1.sarakas.net^
 ||dns2.sarakas.net^
@@ -2649,6 +2647,7 @@
 ||vpnhellings.nl^
 ||adguard.wirimij.nl^
 ||dns.anon.no^
+||adg.tshost.no^
 ||adguard.clawsucht.nrw^
 ||anycast.censurfridns.nu^
 ||unicast.censurfridns.nu^
@@ -2905,7 +2904,6 @@
 ||doh.syshero.org^
 ||dn5.talesam.org^
 ||dns1.techeasy.org^
-||ab.teleportbot.org^
 ||au.teradns.org^
 ||de.teradns.org^
 ||ny.teradns.org^
@@ -3373,7 +3371,6 @@
 ||dns.labnekotest.site^
 ||doh.mochou.site^
 ||oscnl.site^
-||outdoorchair.site^
 ||sgdns.site^
 ||s1.s2.shahramv1.site^
 ||dns.srijan.site^
@@ -3804,7 +3801,6 @@
 ||i.passcloud.xyz^
 ||loan.paymdm.xyz^
 ||pepetio.xyz^
-||pingbi.xyz^
 ||pm1239-bd.xyz^
 ||pm7051-br.xyz^
 ||pm9352-bd.xyz^
