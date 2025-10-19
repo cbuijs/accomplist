@@ -1,6 +1,6 @@
 [Adblock Plus 1.1]
 ! Title: Accomplist "Tlds" AdBlock List (Top-N Version)
-! Version: 1760769170
+! Version: 1760855751
 ! Homepage: https://github.com/cbuijs/accomplist/tree/master/tlds
 !
 ! WhiteList Domains:
@@ -508,6 +508,8 @@
 @@||rdl.ink^
 ! Sub-domain "shrinkme.ink" unblacklisted from domain "ink"
 @@||shrinkme.ink^
+! Sub-domain "simple.ink" unblacklisted from domain "ink"
+@@||simple.ink^
 ! Sub-domain "sumerian.ink" unblacklisted from domain "ink"
 @@||sumerian.ink^
 ! Sub-domain "work.ink" unblacklisted from domain "ink"
@@ -741,6 +743,8 @@
 @@||dancewave.online^
 ! Sub-domain "discuss.online" unblacklisted from domain "online"
 @@||discuss.online^
+! Sub-domain "dnsspeedtest.online" unblacklisted from domain "online"
+@@||dnsspeedtest.online^
 ! Sub-domain "eufh.online" unblacklisted from domain "online"
 @@||eufh.online^
 ! Sub-domain "flexilead.online" unblacklisted from domain "online"
@@ -1408,6 +1412,8 @@
 @@||camhub.world^
 ! Sub-domain "edgecdn.world" unblacklisted from domain "world"
 @@||edgecdn.world^
+! Sub-domain "ift.world" unblacklisted from domain "world"
+@@||ift.world^
 ! Sub-domain "lemmings.world" unblacklisted from domain "world"
 @@||lemmings.world^
 ! Sub-domain "lemmy.world" unblacklisted from domain "world"
