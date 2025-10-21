@@ -10,7 +10,7 @@
 3337493	?d? Voivodeship	PL
 7628327	?da?u Novads	LV
 862977	?e?inovo-Oble?evo	MK
-7628322	?ekavas Novads	LV
+7628322	?ekavas novads	LV
 864481	?iauliai County	LT
 3337525	?ibenik-Knin County	HR
 9611692	?lands landsbygd	AX
@@ -34,7 +34,6 @@
 2685867	?sterg?tland County	SE
 3143188	?stfold fylke	NO
 1822210	?t?r M?anchey	KH
-147163	?u?a Rayonu	AZ
 858790	?wi?tokrzyskie Voivodeship	PL
 311044	?zmir	TR
 4035434	A'ana	WS
@@ -120,7 +119,7 @@
 173813	Al-Hasakah Governorate	SY
 108933	Al-Qassim Region	SA
 11777514	Al-Shahaniya	QA
-461525	Al?ksnes Novads	LV
+461525	Al?ksnes novads	LV
 4829764	Alabama	US
 3408096	Alagoas	BR
 7670851	Alaotra Mangoro Region	MG
@@ -230,7 +229,7 @@
 609862	Atyrau Region	KZ
 448410	Au Cap	SC
 2193734	Auckland	NZ
-12276858	Aug?daugava Municipality	LV
+12276858	Aug?daugavas novads	LV
 7303495	Aur Atoll	MH
 2177478	Australian Capital Territory	AU
 3337405	Austurland	IS
@@ -277,7 +276,7 @@
 1147288	Balkh	AF
 9782166	Ballaugh	IM
 1183606	Balochistan	PK
-461160	Balvu Novads	LV
+461160	Balvu novads	LV
 8299701	Balzan	MT
 3042074	Balzers	LI
 2460594	Bamako Region	ML
@@ -314,7 +313,7 @@
 1821310	Battambang	KH
 1649538	Baucau	TL
 2347468	Bauchi State	NG
-461112	Bauskas Novads	LV
+461112	Bauskas novads	LV
 2951839	Bavaria	DE
 2182560	Bay of Plenty	NZ
 4562837	Bayam?n Municipio	PR
@@ -448,7 +447,7 @@
 683121	Buz?u	RO
 683016	C?l?ra?i	RO
 3860255	C?rdoba Province	AR
-460569	C?su Novads	LV
+460569	C?su novads	LV
 13494364	Ca Mau	VN
 3659849	Ca?ar	EC
 2243266	Cabinda	AO
@@ -963,6 +962,7 @@
 7670842	Diana Region	MG
 7521939	Diego Martin	TT
 2960656	Diekirch	LU
+12276857	Dienvidkurzemes novads	LV
 2445702	Diffa	NE
 97270	Dihok	IQ
 223889	Dikhil	DJ
@@ -1540,7 +1540,7 @@
 8299761	Ix-Xg?ajra	MT
 3199016	Izola	SI
 591901	J?gevamaa	EE
-459282	J?kabpils Municipality	LV
+459282	J?kabpils novads	LV
 2703330	J?mtland County	SE
 2702976	J?nk?ping County	SE
 459202	J?rmala	LV
@@ -1697,6 +1697,7 @@
 706442	Kherson Oblast	UA
 828306	Khizi Rayon	AZ
 706370	Khmelnytskyi Oblast	UA
+148449	Khojaly	AZ
 409423	Khojavend District	AZ
 3352137	Khomas	NA
 1904616	Khou?ng Bok?o	LA
@@ -1809,7 +1810,7 @@
 2258534	L?koumou	CG
 590854	L?ne-Virumaa	EE
 590856	L?nemaa	EE
-7628341	L?v?nu Novads	LV
+7628341	L?v?nu novads	LV
 241311	La Digue	SC
 3564073	La Habana	CU
 3040131	La Massana	AD
@@ -1819,13 +1820,13 @@
 3500955	La Romana	DO
 6690917	La Terre-Ad?lie	TF
 3499977	La Vega	DO
-147626	La?n Rayonu	AZ
 11281885	La?youne-Sakia El Hamra	MA
 1282101	Laamu Atholhu	MV
 8335089	Lab? Region	GN
 3576662	Laborie	LC
 1734240	Labuan	MY
 2429323	Lac Region	TD
+147626	Lachin Rayon	AZ
 11153056	Lacs	CI
 12096464	Ladakh	IN
 7303503	Lae Atoll	MH
@@ -1930,7 +1931,7 @@
 2486682	M'sila	DZ
 12070577	M?naka Region	ML
 3145495	M?re og Romsdal fylke	NO
-7628319	M?rupes Novads	LV
+7628319	M?rupes novads	LV
 11695385	Ma'uke	CK
 1337624	Maale	MV
 7667644	Machakos	KE
@@ -1938,7 +1939,7 @@
 2593105	Madeira	PT
 12095448	Madhesh	NP
 1264542	Madhya Pradesh	IN
-457712	Madona Municipality	LV
+457712	Madonas novads	LV
 448501	Maekel Region	ER
 932615	Mafeteng District	LS
 2123627	Magadan Oblast	RU
@@ -2492,7 +2493,7 @@
 1854381	Okayama-ken	JP
 1854345	Okinawa	JP
 4544379	Oklahoma	US
-7628320	Olaines Novads	LV
+7628320	Olaines novads	LV
 3339542	Olomouck? kraj	CZ
 671857	Olt	RO
 3371205	Omaheke	NA
@@ -2699,7 +2700,7 @@
 1822676	Preah Vihear	KH
 3344907	Prebold	SI
 3239107	Preddvor	SI
-456528	Prei?i Municipality	LV
+456528	Prei?u novads	LV
 865085	Presov	SK
 3344902	Prevalje	SI
 1822609	Prey Veng	KH
@@ -2890,7 +2891,7 @@
 3838830	R?o Negro Province	AR
 6690283	R?union	RE
 456203	R?zekne	LV
-456197	R?zeknes Novads	LV
+456197	R?zeknes novads	LV
 291075	Ra's al Khaymah	AE
 1281918	Raa Atholhu	MV
 11281877	Rabat-Sal?-K?nitra	MA
@@ -2984,7 +2985,7 @@
 3924825	Rond?nia	BR
 7303510	Rongelap Atoll	MH
 7303511	Rongrik Atoll	MH
-7628359	Ropa?u Novads	LV
+7628359	Ropa?u novads	LV
 3662560	Roraima	BR
 7309441	Rose Atoll	AS
 862973	Rosoman	MK
@@ -3108,9 +3109,9 @@
 2121529	Sakhalin Oblast	RU
 3374249	Sal Municipality	CV
 242048	Salamat Region	TD
-7628323	Salaspils Novads	LV
+7628323	Salaspils novads	LV
 1653333	Salavan	LA
-455888	Saldus Municipality	LV
+455888	Saldus novads	LV
 4568043	Salinas Municipio	PR
 3838231	Salta Province	AR
 147269	Salyan Rayon	AZ
@@ -3170,7 +3171,7 @@
 831041	Satakunta	FI
 667869	Satu Mare	RO
 4035046	Satupa'itea	WS
-7628366	Saulkrastu Novads	LV
+7628366	Saulkrastu novads	LV
 7670846	Sava Region	MG
 11153060	Savanes	CI
 2364205	Savanes	TG
@@ -3221,6 +3222,7 @@
 934867	Shiselweni District	SZ
 1851715	Shizuoka	JP
 409419	Shusha	AZ
+147163	Shusha Rayon	AZ
 1537272	Shymkent	KZ
 180320	Siaya	KE
 828304	Siazan Rayon	AZ
@@ -3230,7 +3232,7 @@
 8299784	Sidama Region	ET
 1822213	Siem Reap	KH
 4034776	Sigave	WF
-7628362	Siguldas Novads	LV
+7628362	Siguldas novads	LV
 300821	Siirt	TR
 2451184	Sikasso Region	ML
 1256312	Sikkim	IN
@@ -3253,7 +3255,7 @@
 3190535	Slovenj Gradec	SI
 3190533	Slovenska Bistrica	SI
 3190529	Slovenske Konjice	SI
-7628380	Smiltenes Novads	LV
+7628380	Smiltenes novads	LV
 3573031	Smith's Parish	BM
 491684	Smolensk Oblast	RU
 7521298	Soccsksargen	PH
@@ -3285,7 +3287,6 @@
 6201374	South Khorasan Province	IR
 205413	South Kivu Province	CD
 408661	South Kordofan	SD
-12276857	South Kurzeme Municipality	LV
 830682	South Ostrobothnia	FI
 12503513	South Papua	ID
 1871952	South Pyongan	KP
@@ -3424,7 +3425,7 @@
 8299740	Tal-Piet?	MT
 1527297	Talas	KG
 4038652	Talofofo Municipality	GU
-454968	Talsi Municipality	LV
+454968	Talsu novads	LV
 2244990	Tambacounda	SN
 484638	Tambov Oblast	RU
 4038661	Tamuning-Tumon-Harmon Municipality	GU
@@ -3612,14 +3613,14 @@
 784732	Valandovo	MK
 6417230	Vale	GG
 587875	Valgamaa	EE
-454571	Valka Municipality	LV
+454571	Valkas novads	LV
 11153061	Vall?e du Bandama	CI
 8334638	Valletta	MT
 454564	Valmiera	LV
 3492112	Valverde	DO
 298113	Van	TR
 3337528	Vara?din County	HR
-7628342	Varak?nu Novads	LV
+7628342	Varak?nu novads	LV
 726051	Varna	BG
 830708	Varsinais-Suomi	FI
 3043047	Vas megye	HU
@@ -3637,7 +3638,7 @@
 3344934	Velika Polana	SI
 3164604	Veneto	IT
 454311	Ventspils	LV
-454307	Ventspils Municipality	LV
+454307	Ventspils novads	LV
 5242283	Vermont	US
 3426185	Vestfir?ir	IS
 3132015	Vestfold fylke	NO
@@ -3803,7 +3804,6 @@
 409421	Xankandi Sahari	AZ
 1652077	Xiangkhouang	LA
 1529047	Xinjiang Uyghur Autonomous Region	CN
-148449	Xocal? Rayonu	AZ
 1484843	Xorazm Region	UZ
 4568909	Yabucoa Municipio	PR
 862469	Yalova	TR
