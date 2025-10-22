@@ -1,6 +1,6 @@
 [Adblock Plus 1.1]
 ! Title: Accomplist "Tlds" AdBlock List (Top-N Version)
-! Version: 1761028047
+! Version: 1761114778
 ! Homepage: https://github.com/cbuijs/accomplist/tree/master/tlds
 !
 ! WhiteList Domains:
@@ -1450,6 +1450,8 @@
 @@||fx.wtf^
 ! Sub-domain "ip.wtf" unblacklisted from domain "wtf"
 @@||ip.wtf^
+! Sub-domain "jascha.wtf" unblacklisted from domain "wtf"
+@@||jascha.wtf^
 ! Sub-domain "lemmy.wtf" unblacklisted from domain "wtf"
 @@||lemmy.wtf^
 ! Sub-domain "myip.wtf" unblacklisted from domain "wtf"
