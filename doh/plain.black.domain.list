@@ -87,6 +87,7 @@ polisitogel.beauty
 ad.tzockt.beer
 dns.schlagheck.berlin
 doh.best
+dns.doh.best
 appart.yoannchappaz.best
 oracle001.330k.biz
 adguard.aminetwork.biz
@@ -317,6 +318,7 @@ uw-dns.rubyfish.cn
 v6.rubyfish.cn
 us.sc92.cn
 dns.tefuir0829.cn
+paydns.wechatpay.cn
 dns.weibo.cn
 xiaoxinhui.cn
 dns.xiaoxinhui.cn
@@ -413,6 +415,7 @@ public99.alidns.com
 sh.wagbridge.aliyun.aliyun.com
 aliyun-adns.aliyun.com
 dns.aliyun.com
+resolvers-cn.httpdns.aliyuncs.com
 httpdns-api.aliyuncs.com
 httpdns-sc.aliyuncs.com
 ops-httpdns.aliyuncs.com
@@ -872,6 +875,8 @@ mcttechs.com
 dns.me7878.com
 dns.megaong.com
 httpdns.meituan.com
+httpdnsmultiapi.meituan.com
+httpdnsmultiapivip.meituan.com
 httpdnsvip.meituan.com
 inf-wan.vip.meituan.com
 mendozasdelivery.com
@@ -1028,8 +1033,11 @@ publicdnsserver.com
 dns.pumpkinvrar.com
 dns.pumplex.com
 dns.jd.com.gslb.qianxun.com
+dns.qq.com
 httpdns.kg.qq.com
 dns.weixin.qq.com
+paydns.weixin.qq.com
+udns.weixin.qq.com
 iterator.lazada.com.queniubl.com
 r1bnc.com
 fi.r5acq.com
@@ -1120,6 +1128,7 @@ thefamilypuls.com
 adb.timnichollsphotography.com
 dns1.timothy-dev.com
 tk31z.com
+sdkconfig.tlivedns.com
 d.toairs.com
 chronicle14.tplinkdns.com
 ebpmc.tplinkdns.com
@@ -1179,6 +1188,7 @@ dns.yyaan.com
 dns.zachbosh.com
 adguard.zachitect.com
 oraclejp01.zerotorez.com
+httpdns.zhihu.com
 res.zijji.com
 xyz2.zmjflow.com
 xyz3.zmjflow.com
@@ -3001,7 +3011,6 @@ kolobok2.duckdns.org
 krtekvpn.duckdns.org
 ldaman.duckdns.org
 leoadguard.duckdns.org
-montmorot.duckdns.org
 nas1403.duckdns.org
 nqh-dns.duckdns.org
 o--o.duckdns.org

@@ -265,6 +265,7 @@
 .v6.rubyfish.cn
 .us.sc92.cn
 .dns.tefuir0829.cn
+.paydns.wechatpay.cn
 .dns.weibo.cn
 .xiaoxinhui.cn
 .dns.xinwujiang.cn
@@ -329,6 +330,7 @@
 .httpdns.alicdn.com
 .alidns.com
 .dns.aliyun.com
+.resolvers-cn.httpdns.aliyuncs.com
 .httpdns-api.aliyuncs.com
 .httpdns-sc.aliyuncs.com
 .adguard.almanasports.com
@@ -502,6 +504,7 @@
 .family.dns.doubleangels.com
 .douglaster.com
 .de-adguard.dr3ff1c13nt.com
+.dns.dr3ff1c13nt.com
 .laptopdns.dr3ff1c13nt.com
 .phonedns.dr3ff1c13nt.com
 .twingatedns.dr3ff1c13nt.com
@@ -690,6 +693,8 @@
 .dns.me7878.com
 .dns.megaong.com
 .httpdns.meituan.com
+.httpdnsmultiapi.meituan.com
+.httpdnsmultiapivip.meituan.com
 .httpdnsvip.meituan.com
 .mendozasdelivery.com
 .ss.microbaidu.com
@@ -819,8 +824,11 @@
 .publicdnsserver.com
 .dns.pumpkinvrar.com
 .dns.pumplex.com
+.dns.qq.com
 .httpdns.kg.qq.com
 .dns.weixin.qq.com
+.paydns.weixin.qq.com
+.udns.weixin.qq.com
 .r1bnc.com
 .fi.r5acq.com
 .dns.api.rackspacecloud.com
@@ -889,6 +897,7 @@
 .adb.timnichollsphotography.com
 .dns1.timothy-dev.com
 .tk31z.com
+.sdkconfig.tlivedns.com
 .d.toairs.com
 .chronicle14.tplinkdns.com
 .ebpmc.tplinkdns.com
@@ -940,6 +949,7 @@
 .dns.zachbosh.com
 .adguard.zachitect.com
 .oraclejp01.zerotorez.com
+.httpdns.zhihu.com
 .res.zijji.com
 .xyz2.zmjflow.com
 .xyz3.zmjflow.com
@@ -3422,7 +3432,6 @@
 .3gcywmluf3zy.233py.com.eo.dnse5.com
 .doh.totoro.pub.eo.dnse5.com
 .dns.dnswarden.com
-.dns.dr3ff1c13nt.com
 .hkg-pre.edge-cluster-hk-pre.com
 .gonzcid.com
 .geo.hafnova.com
@@ -3772,7 +3781,6 @@
 .cryptomize.org
 .proxy.ext.devkon.org
 .albertocaserta.duckdns.org
-.montmorot.duckdns.org
 .vm01.eban.eu.org
 .faked.org
 .d4yge1fn4wr.d.firewalla.org

@@ -84,6 +84,7 @@
 .ea-dns.rubyfish.cn
 .uw-dns.rubyfish.cn
 .v6.rubyfish.cn
+.paydns.wechatpay.cn
 .dns.weibo.cn
 .dns.oszx.co
 .dns.tipsy.coffee
@@ -113,6 +114,7 @@
 .sh.wagbridge.aliyun.aliyun.com
 .aliyun-adns.aliyun.com
 .dns.aliyun.com
+.resolvers-cn.httpdns.aliyuncs.com
 .httpdns-api.aliyuncs.com
 .httpdns-sc.aliyuncs.com
 .ops-httpdns.aliyuncs.com
@@ -301,6 +303,8 @@
 .dns.luma-medien.com
 .doh.maskab.com
 .httpdns.meituan.com
+.httpdnsmultiapi.meituan.com
+.httpdnsmultiapivip.meituan.com
 .httpdnsvip.meituan.com
 .inf-wan.vip.meituan.com
 .mendozasdelivery.com
@@ -391,8 +395,11 @@
 .dnsvps.porteii.com
 .dns2.prima-solusindo.com
 .dns.jd.com.gslb.qianxun.com
+.dns.qq.com
 .httpdns.kg.qq.com
 .dns.weixin.qq.com
+.paydns.weixin.qq.com
+.udns.weixin.qq.com
 .iterator.lazada.com.queniubl.com
 .dns.api.rackspacecloud.com
 .dns.retakecs.com
@@ -427,6 +434,7 @@
 .httpdns.danuoyi.tbcache.com
 .dns.technologycage.com
 .adb.timnichollsphotography.com
+.sdkconfig.tlivedns.com
 .chronicle14.tplinkdns.com
 .ebpmc.tplinkdns.com
 .ngk81hc.tplinkdns.com
@@ -442,6 +450,7 @@
 .doh2.gslb2.xfinity.com
 .httpdns.yunxindns.com
 .httpdns.gslb.yy.com
+.httpdns.zhihu.com
 .httpdns.zybang.com
 .vps.avc.cx
 .odvr.nic.cz
@@ -1022,7 +1031,6 @@
 .sp1wpdybsw1twq1d.myfritz.net
 .96500b732ed8.sn.mynetname.net
 .hdf084sqbme.sn.mynetname.net
-.doh-ca.naftalie.net
 .ae-fuj-w-p-1.nashkan.net
 .ae-fuj-w-p-2.nashkan.net
 .ae-fuj-w-p-3.nashkan.net
@@ -1174,7 +1182,6 @@
 .krtekvpn.duckdns.org
 .ldaman.duckdns.org
 .leoadguard.duckdns.org
-.montmorot.duckdns.org
 .nas1403.duckdns.org
 .nqh-dns.duckdns.org
 .o--o.duckdns.org
