@@ -1935,7 +1935,6 @@
 .adguard.ekhozie.dynu.net
 .flyloadguard.dynu.net
 .quangdo92.dynu.net
-.gustamadh.dynv6.net
 .dnscache.e-utp.net
 .adguard.easez.net
 .dns.eddi.net
@@ -2075,7 +2074,6 @@
 .us-nyc-w-p-1.nashkan.net
 .us-saj-w-f-1.nashkan.net
 .us-saj-w-p-1.nashkan.net
-.dns.nefret.net
 .adguard.neotix.net
 .dns.netrve.net
 .resolv2.nettplus.net
@@ -2339,7 +2337,6 @@
 .ldaman.duckdns.org
 .leoadguard.duckdns.org
 .nas1403.duckdns.org
-.nqh-dns.duckdns.org
 .o--o.duckdns.org
 .osefcorp.duckdns.org
 .punono.duckdns.org
@@ -3390,6 +3387,7 @@
 .dns.xiaoxinhui.cn
 .kozak.ujwie.co
 .doh-dns-apple-com.v.aaplimg.com
+.resolvers-cn.httpdns.aliyuncs.com.gds.alibabadns.com
 .httpdns-api.aliyuncs.com.gds.alibabadns.com
 .ops-httpdns.aliyuncs.com.gds.alibabadns.com
 .popunify-4.aliyuncs.com.gds.alibabadns.com
@@ -3428,6 +3426,7 @@
 .rafal.ddnsgeek.com
 .s1.hi2.dipper315.com
 .dns-53.com
+.httpdns.zhihu.com.eo.dnse0.com
 .pub.hsuan.ink.eo.dnse0.com
 .3gcywmluf3zy.233py.com.eo.dnse5.com
 .doh.totoro.pub.eo.dnse5.com
@@ -3487,6 +3486,8 @@
 .colo1-docker.stuptech.com
 .dns-server-geo.sz-dns.com
 .httpdns.alicdn.com.danuoyi.tbcache.com
+.sdkconfig.igtm.tlivesdk.com
+.sdkconfig.tlivesdk.com
 .home.tuankhaiit.com
 .hsv.uplenk.com
 .vozersky.com
@@ -3781,6 +3782,7 @@
 .cryptomize.org
 .proxy.ext.devkon.org
 .albertocaserta.duckdns.org
+.montmorot.duckdns.org
 .vm01.eban.eu.org
 .faked.org
 .d4yge1fn4wr.d.firewalla.org

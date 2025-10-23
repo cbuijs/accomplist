@@ -280,10 +280,8 @@
 .dns.us-ashburn-1.oraclecloud.com
 .dns.us-phoenix-1.oraclecloud.com
 .doh.centraleu.pi-dns.com
-.doh.pi-dns.com
 .doh.eastus.pi-dns.com
 .doh.northeu.pi-dns.com
-.doh.westeu.pi-dns.com
 .doh.westus.pi-dns.com
 .helios.plan9-dns.com
 .kronos.plan9-dns.com
@@ -1169,6 +1167,7 @@
 .dns.b33.space
 .adg.rueiliu.space
 .dns.sy.st
+.dns.fizz.studio
 .dns.xuming.studio
 .crypto.sx
 .3jjxxl.tech
@@ -1295,4 +1294,3 @@
 .pooblet.co.za
 .paulo.nom.za
 .dns.froth.zone
-.cloudflare-dns.com

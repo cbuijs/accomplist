@@ -1,6 +1,6 @@
 [Adblock Plus 1.1]
 ! Title: Accomplist "Doh" AdBlock List (Top-N Version)
-! Version: 1761115061
+! Version: 1761200799
 ! Homepage: https://github.com/cbuijs/accomplist/tree/master/doh
 !
 ! WhiteList Domains:
@@ -366,6 +366,7 @@
 ||dns.ahmgam.com^
 ||router.ahzol.com^
 ||dns.akbxr.com^
+||resolvers-cn.httpdns.aliyuncs.com.gds.alibabadns.com^
 ||httpdns-api.aliyuncs.com.gds.alibabadns.com^
 ||ops-httpdns.aliyuncs.com.gds.alibabadns.com^
 ||popunify-4.aliyuncs.com.gds.alibabadns.com^
@@ -556,6 +557,7 @@
 ||ns1.recursive.dnsbycomodo.com^
 ||ns2.recursive.dnsbycomodo.com^
 ||dnscrypt-cert.shield-2.dnsbycomodo.com^
+||httpdns.zhihu.com.eo.dnse0.com^
 ||pub.hsuan.ink.eo.dnse0.com^
 ||3gcywmluf3zy.233py.com.eo.dnse5.com^
 ||doh.totoro.pub.eo.dnse5.com^
@@ -1034,6 +1036,8 @@
 ||dns1.timothy-dev.com^
 ||tk31z.com^
 ||sdkconfig.tlivedns.com^
+||sdkconfig.igtm.tlivesdk.com^
+||sdkconfig.tlivesdk.com^
 ||d.toairs.com^
 ||chronicle14.tplinkdns.com^
 ||ebpmc.tplinkdns.com^
@@ -2323,7 +2327,6 @@
 ||adguard.ekhozie.dynu.net^
 ||flyloadguard.dynu.net^
 ||quangdo92.dynu.net^
-||gustamadh.dynv6.net^
 ||dnscache.e-utp.net^
 ||adguard.easez.net^
 ||dns.eddi.net^
@@ -2475,7 +2478,6 @@
 ||us-nyc-w-p-1.nashkan.net^
 ||us-saj-w-f-1.nashkan.net^
 ||us-saj-w-p-1.nashkan.net^
-||dns.nefret.net^
 ||adguard.neotix.net^
 ||dns.netrve.net^
 ||resolv2.nettplus.net^
@@ -2767,8 +2769,8 @@
 ||krtekvpn.duckdns.org^
 ||ldaman.duckdns.org^
 ||leoadguard.duckdns.org^
+||montmorot.duckdns.org^
 ||nas1403.duckdns.org^
-||nqh-dns.duckdns.org^
 ||o--o.duckdns.org^
 ||osefcorp.duckdns.org^
 ||punono.duckdns.org^

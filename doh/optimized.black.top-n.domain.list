@@ -105,6 +105,7 @@ adguard-dns.com
 blitz.ahadns.com
 blitz-setup.ahadns.com
 dns.akbxr.com
+resolvers-cn.httpdns.aliyuncs.com.gds.alibabadns.com
 httpdns-api.aliyuncs.com.gds.alibabadns.com
 ops-httpdns.aliyuncs.com.gds.alibabadns.com
 popunify-4.aliyuncs.com.gds.alibabadns.com
@@ -216,6 +217,7 @@ dns.dns-over-https.com
 ns1.recursive.dnsbycomodo.com
 ns2.recursive.dnsbycomodo.com
 dnscrypt-cert.shield-2.dnsbycomodo.com
+httpdns.zhihu.com.eo.dnse0.com
 pub.hsuan.ink.eo.dnse0.com
 3gcywmluf3zy.233py.com.eo.dnse5.com
 doh.totoro.pub.eo.dnse5.com
@@ -335,8 +337,6 @@ httpdnsv4.ntes53.netease.com
 httpdns.music.ntes53.netease.com
 nim-httpdns-outsea.ntes53.netease.com
 nim-lbs-oversea-tmp.ntes53.netease.com
-adguard.niko-sem.com
-dnx.niko-sem.com
 dns1.nordvpn.com
 dns2.nordvpn.com
 dns.notjakob.com
@@ -435,6 +435,8 @@ httpdns.danuoyi.tbcache.com
 dns.technologycage.com
 adb.timnichollsphotography.com
 sdkconfig.tlivedns.com
+sdkconfig.igtm.tlivesdk.com
+sdkconfig.tlivesdk.com
 chronicle14.tplinkdns.com
 ebpmc.tplinkdns.com
 ngk81hc.tplinkdns.com
@@ -980,7 +982,6 @@ ccadguard.dynu.net
 adguard.ekhozie.dynu.net
 flyloadguard.dynu.net
 quangdo92.dynu.net
-gustamadh.dynv6.net
 dnscache.e-utp.net
 doh.ersei.net
 adguard.exium.net
@@ -1182,8 +1183,8 @@ kolobok2.duckdns.org
 krtekvpn.duckdns.org
 ldaman.duckdns.org
 leoadguard.duckdns.org
+montmorot.duckdns.org
 nas1403.duckdns.org
-nqh-dns.duckdns.org
 o--o.duckdns.org
 osefcorp.duckdns.org
 punono.duckdns.org
@@ -1590,7 +1591,6 @@ t2c.240130034.xyz
 dns.688447.xyz
 dns.d94.xyz
 agh.dshubham.xyz
-hole.elbschloss.xyz
 dns.kerekes.xyz
 lukscasino-479-tr.xyz
 lukscasino-929-tr.xyz
