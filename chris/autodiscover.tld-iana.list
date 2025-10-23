@@ -3103,15 +3103,6 @@ db._dns-sd.dubai
 lb._dns-sd.dubai
 wpad.dubai
 wpad.tcp.dubai
-autoconfig.dunlop
-autodiscover.dunlop
-_autodiscover._tcp.dunlop
-isatap.dunlop
-b._dns-sd.dunlop
-db._dns-sd.dunlop
-lb._dns-sd.dunlop
-wpad.dunlop
-wpad.tcp.dunlop
 autoconfig.dupont
 autodiscover.dupont
 _autodiscover._tcp.dupont
