@@ -102,6 +102,7 @@
 .dns-family.adguard.com
 .dns-unfiltered.adguard.com
 .adguard-dns.com
+.dns.adrianlam.com
 .blitz.ahadns.com
 .blitz-setup.ahadns.com
 .dns.akbxr.com
@@ -337,6 +338,7 @@
 .httpdns.music.ntes53.netease.com
 .nim-httpdns-outsea.ntes53.netease.com
 .nim-lbs-oversea-tmp.ntes53.netease.com
+.pi1.node15.com
 .dns1.nordvpn.com
 .dns2.nordvpn.com
 .dns.notjakob.com
@@ -491,7 +493,6 @@
 .vps294.brueggus.de
 .vps297.brueggus.de
 .vps298.brueggus.de
-.vps299.brueggus.de
 .vps300.brueggus.de
 .vps301.brueggus.de
 .vps302.brueggus.de
@@ -546,6 +547,7 @@
 .vps382.brueggus.de
 .vps383.brueggus.de
 .vps384.brueggus.de
+.vps387.brueggus.de
 .vps388.brueggus.de
 .vps389.brueggus.de
 .vps390.brueggus.de
@@ -579,8 +581,6 @@
 .vps430.brueggus.de
 .vps431.brueggus.de
 .vps432.brueggus.de
-.vps433.brueggus.de
-.vps434.brueggus.de
 .vps435.brueggus.de
 .vps436.brueggus.de
 .vps437.brueggus.de
@@ -597,17 +597,19 @@
 .vps451.brueggus.de
 .vps452.brueggus.de
 .vps453.brueggus.de
-.vps454.brueggus.de
 .vps455.brueggus.de
 .vps456.brueggus.de
 .vps457.brueggus.de
 .vps458.brueggus.de
 .vps459.brueggus.de
 .vps460.brueggus.de
-.vps461.brueggus.de
 .vps462.brueggus.de
 .vps463.brueggus.de
 .vps464.brueggus.de
+.vps468.brueggus.de
+.vps469.brueggus.de
+.vps470.brueggus.de
+.vps474.brueggus.de
 .vps66.brueggus.de
 .dns.hub.com.de
 .dns.csa-rz.de
@@ -689,6 +691,7 @@
 .lastentarvike.fi
 .lelux.fi
 .ns.nwps.fi
+.dns.truong.fi
 .doh.42l.fr
 .dns.aquilenet.fr
 .ns0.fdn.fr
@@ -1047,6 +1050,7 @@
 .fi-hel-w-f-2.nashkan.net
 .fi-hel-w-p-1.nashkan.net
 .fr-gra-w-p-1.nashkan.net
+.gb-cov-w-f-1.nashkan.net
 .gb-cov-w-f-2.nashkan.net
 .gb-cov-w-p-1.nashkan.net
 .gb-lon-w-f-1.nashkan.net
@@ -1175,6 +1179,7 @@
 .eweyo.duckdns.org
 .gcpddns.duckdns.org
 .genielee.duckdns.org
+.home27.duckdns.org
 .jfeoks.duckdns.org
 .jurre-home.duckdns.org
 .kalwat.duckdns.org
@@ -1591,11 +1596,13 @@
 .dns.688447.xyz
 .dns.d94.xyz
 .agh.dshubham.xyz
+.hole.elbschloss.xyz
 .dns.kerekes.xyz
 .lukscasino-479-tr.xyz
 .lukscasino-929-tr.xyz
 .maqgie.xyz
 .dns.mh4ckt3mh4ckt1c4s.xyz
+.mikezhang.xyz
 .pepetio.xyz
 .pm7051-br.xyz
 .pm9352-bd.xyz
