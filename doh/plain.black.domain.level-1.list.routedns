@@ -431,7 +431,6 @@
 .dns.clickitsolutionsllc.com
 .doh.cloud-sekeng.com
 .dns.cloudflare.com
-.ada.ns.cloudflare.com
 .cloudflare-gateway.com
 .api.cloudflareclient.com
 .cloudflaredns.com
@@ -1602,6 +1601,7 @@
 .dns.repressoh.it
 .dns.servizimv.it
 .nas.stefanoperna.it
+.homenet.telecomitalia.it
 .galileo.math.unipd.it
 .dns1-secure.wifire.it
 .dns2-secure.wifire.it
@@ -1797,6 +1797,7 @@
 .isekai.anime.com.my
 .shinano.anime.com.my
 .cloud.securifi.com.my
+.domain.name
 .searxng.rcxpony.name
 .dns.reckoningslug.name
 .dns.therifleman.name
@@ -3784,8 +3785,6 @@
 .radia.bortzmeyer.org
 .cryptomize.org
 .proxy.ext.devkon.org
-.albertocaserta.duckdns.org
-.montmorot.duckdns.org
 .vm01.eban.eu.org
 .faked.org
 .d4yge1fn4wr.d.firewalla.org
