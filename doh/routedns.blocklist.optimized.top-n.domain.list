@@ -197,7 +197,6 @@
 .api.cloudflareclient.com
 .cloudflareresolve.com
 .adguard.cnbeining.com
-.dns.containerpi.com
 .dns.controld.com
 .doh.controld.com
 .freedns.controld.com
@@ -337,6 +336,7 @@
 .httpdns.music.ntes53.netease.com
 .nim-httpdns-outsea.ntes53.netease.com
 .nim-lbs-oversea-tmp.ntes53.netease.com
+.dns.nhtsky.com
 .pi1.node15.com
 .dns1.nordvpn.com
 .dns2.nordvpn.com
@@ -636,7 +636,6 @@
 .esel.stusta.mhn.de
 .muli.stusta.mhn.de
 .dns.mnet-online.de
-.dns.murgi.de
 .dns.nick-slowinski.de
 .doh.niyawe.de
 .dns.peb-schmidt.de
@@ -1037,6 +1036,7 @@
 .sp1wpdybsw1twq1d.myfritz.net
 .96500b732ed8.sn.mynetname.net
 .hdf084sqbme.sn.mynetname.net
+.doh-ca.naftalie.net
 .ae-fuj-w-p-1.nashkan.net
 .ae-fuj-w-p-2.nashkan.net
 .ae-fuj-w-p-3.nashkan.net
@@ -1171,6 +1171,7 @@
 .adgrm.duckdns.org
 .adguardpi.duckdns.org
 .aduma15.duckdns.org
+.albertocaserta.duckdns.org
 .andryk111.duckdns.org
 .armm.duckdns.org
 .blamb.duckdns.org
@@ -1189,6 +1190,7 @@
 .krtekvpn.duckdns.org
 .ldaman.duckdns.org
 .leoadguard.duckdns.org
+.montmorot.duckdns.org
 .nas1403.duckdns.org
 .o--o.duckdns.org
 .osefcorp.duckdns.org
@@ -1606,6 +1608,7 @@
 .pepetio.xyz
 .pm7051-br.xyz
 .pm9352-bd.xyz
+.dns.propheci.xyz
 .ag.ssrahul96.xyz
 .doh.sublime9.xyz
 .tujenasnaszato.xyz
