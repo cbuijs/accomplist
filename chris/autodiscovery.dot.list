@@ -5574,6 +5574,7 @@
 .autoconfig.firm.ve
 .autoconfig.gob.ve
 .autoconfig.gov.ve
+.autoconfig.ia.ve
 .autoconfig.info.ve
 .autoconfig.int.ve
 .autoconfig.mil.ve
@@ -7930,6 +7931,7 @@
 .autoconfig.cloudaccess.net
 .autoconfig.cloudbeesusercontent.io
 .autoconfig.cloudera.site
+.autoconfig.cloudflare.app
 .autoconfig.cf-ipfs.com
 .autoconfig.cloudflare-ipfs.com
 .autoconfig.trycloudflare.com
@@ -8606,6 +8608,7 @@
 .autoconfig.gentlentapis.com
 .autoconfig.cdn-edges.net
 .autoconfig.gsj.bz
+.autoconfig.gitbook.io
 .autoconfig.github.app
 .autoconfig.githubusercontent.com
 .autoconfig.githubpreview.dev
@@ -9716,6 +9719,7 @@
 .autoconfig.musician.io
 .autoconfig.novecore.site
 .autoconfig.api.stdlib.com
+.autoconfig.statichost.page
 .autoconfig.feedback.ac
 .autoconfig.forms.ac
 .autoconfig.assessments.cx
@@ -9784,6 +9788,7 @@
 .autoconfig.p.tawkto.email
 .autoconfig.tche.br
 .autoconfig.site.tb-hosting.com
+.autoconfig.directwp.eu
 .autoconfig.edugit.io
 .autoconfig.s3.teckids.org
 .autoconfig.telebit.app
@@ -15537,6 +15542,7 @@
 ._autodiscover.firm.ve
 ._autodiscover.gob.ve
 ._autodiscover.gov.ve
+._autodiscover.ia.ve
 ._autodiscover.info.ve
 ._autodiscover.int.ve
 ._autodiscover.mil.ve
@@ -17893,6 +17899,7 @@
 ._autodiscover.cloudaccess.net
 ._autodiscover.cloudbeesusercontent.io
 ._autodiscover.cloudera.site
+._autodiscover.cloudflare.app
 ._autodiscover.cf-ipfs.com
 ._autodiscover.cloudflare-ipfs.com
 ._autodiscover.trycloudflare.com
@@ -18569,6 +18576,7 @@
 ._autodiscover.gentlentapis.com
 ._autodiscover.cdn-edges.net
 ._autodiscover.gsj.bz
+._autodiscover.gitbook.io
 ._autodiscover.github.app
 ._autodiscover.githubusercontent.com
 ._autodiscover.githubpreview.dev
@@ -19679,6 +19687,7 @@
 ._autodiscover.musician.io
 ._autodiscover.novecore.site
 ._autodiscover.api.stdlib.com
+._autodiscover.statichost.page
 ._autodiscover.feedback.ac
 ._autodiscover.forms.ac
 ._autodiscover.assessments.cx
@@ -19747,6 +19756,7 @@
 ._autodiscover.p.tawkto.email
 ._autodiscover.tche.br
 ._autodiscover.site.tb-hosting.com
+._autodiscover.directwp.eu
 ._autodiscover.edugit.io
 ._autodiscover.s3.teckids.org
 ._autodiscover.telebit.app
@@ -25500,6 +25510,7 @@
 .autodiscover.firm.ve
 .autodiscover.gob.ve
 .autodiscover.gov.ve
+.autodiscover.ia.ve
 .autodiscover.info.ve
 .autodiscover.int.ve
 .autodiscover.mil.ve
@@ -27856,6 +27867,7 @@
 .autodiscover.cloudaccess.net
 .autodiscover.cloudbeesusercontent.io
 .autodiscover.cloudera.site
+.autodiscover.cloudflare.app
 .autodiscover.cf-ipfs.com
 .autodiscover.cloudflare-ipfs.com
 .autodiscover.trycloudflare.com
@@ -28532,6 +28544,7 @@
 .autodiscover.gentlentapis.com
 .autodiscover.cdn-edges.net
 .autodiscover.gsj.bz
+.autodiscover.gitbook.io
 .autodiscover.github.app
 .autodiscover.githubusercontent.com
 .autodiscover.githubpreview.dev
@@ -29642,6 +29655,7 @@
 .autodiscover.musician.io
 .autodiscover.novecore.site
 .autodiscover.api.stdlib.com
+.autodiscover.statichost.page
 .autodiscover.feedback.ac
 .autodiscover.forms.ac
 .autodiscover.assessments.cx
@@ -29710,6 +29724,7 @@
 .autodiscover.p.tawkto.email
 .autodiscover.tche.br
 .autodiscover.site.tb-hosting.com
+.autodiscover.directwp.eu
 .autodiscover.edugit.io
 .autodiscover.s3.teckids.org
 .autodiscover.telebit.app
@@ -35463,6 +35478,7 @@
 .b._dns-sd.firm.ve
 .b._dns-sd.gob.ve
 .b._dns-sd.gov.ve
+.b._dns-sd.ia.ve
 .b._dns-sd.info.ve
 .b._dns-sd.int.ve
 .b._dns-sd.mil.ve
@@ -37819,6 +37835,7 @@
 .b._dns-sd.cloudaccess.net
 .b._dns-sd.cloudbeesusercontent.io
 .b._dns-sd.cloudera.site
+.b._dns-sd.cloudflare.app
 .b._dns-sd.cf-ipfs.com
 .b._dns-sd.cloudflare-ipfs.com
 .b._dns-sd.trycloudflare.com
@@ -38495,6 +38512,7 @@
 .b._dns-sd.gentlentapis.com
 .b._dns-sd.cdn-edges.net
 .b._dns-sd.gsj.bz
+.b._dns-sd.gitbook.io
 .b._dns-sd.github.app
 .b._dns-sd.githubusercontent.com
 .b._dns-sd.githubpreview.dev
@@ -39605,6 +39623,7 @@
 .b._dns-sd.musician.io
 .b._dns-sd.novecore.site
 .b._dns-sd.api.stdlib.com
+.b._dns-sd.statichost.page
 .b._dns-sd.feedback.ac
 .b._dns-sd.forms.ac
 .b._dns-sd.assessments.cx
@@ -39673,6 +39692,7 @@
 .b._dns-sd.p.tawkto.email
 .b._dns-sd.tche.br
 .b._dns-sd.site.tb-hosting.com
+.b._dns-sd.directwp.eu
 .b._dns-sd.edugit.io
 .b._dns-sd.s3.teckids.org
 .b._dns-sd.telebit.app
@@ -45426,6 +45446,7 @@
 .db._dns-sd.firm.ve
 .db._dns-sd.gob.ve
 .db._dns-sd.gov.ve
+.db._dns-sd.ia.ve
 .db._dns-sd.info.ve
 .db._dns-sd.int.ve
 .db._dns-sd.mil.ve
@@ -47782,6 +47803,7 @@
 .db._dns-sd.cloudaccess.net
 .db._dns-sd.cloudbeesusercontent.io
 .db._dns-sd.cloudera.site
+.db._dns-sd.cloudflare.app
 .db._dns-sd.cf-ipfs.com
 .db._dns-sd.cloudflare-ipfs.com
 .db._dns-sd.trycloudflare.com
@@ -48458,6 +48480,7 @@
 .db._dns-sd.gentlentapis.com
 .db._dns-sd.cdn-edges.net
 .db._dns-sd.gsj.bz
+.db._dns-sd.gitbook.io
 .db._dns-sd.github.app
 .db._dns-sd.githubusercontent.com
 .db._dns-sd.githubpreview.dev
@@ -49568,6 +49591,7 @@
 .db._dns-sd.musician.io
 .db._dns-sd.novecore.site
 .db._dns-sd.api.stdlib.com
+.db._dns-sd.statichost.page
 .db._dns-sd.feedback.ac
 .db._dns-sd.forms.ac
 .db._dns-sd.assessments.cx
@@ -49636,6 +49660,7 @@
 .db._dns-sd.p.tawkto.email
 .db._dns-sd.tche.br
 .db._dns-sd.site.tb-hosting.com
+.db._dns-sd.directwp.eu
 .db._dns-sd.edugit.io
 .db._dns-sd.s3.teckids.org
 .db._dns-sd.telebit.app
@@ -55389,6 +55414,7 @@
 .isatap.firm.ve
 .isatap.gob.ve
 .isatap.gov.ve
+.isatap.ia.ve
 .isatap.info.ve
 .isatap.int.ve
 .isatap.mil.ve
@@ -57745,6 +57771,7 @@
 .isatap.cloudaccess.net
 .isatap.cloudbeesusercontent.io
 .isatap.cloudera.site
+.isatap.cloudflare.app
 .isatap.cf-ipfs.com
 .isatap.cloudflare-ipfs.com
 .isatap.trycloudflare.com
@@ -58421,6 +58448,7 @@
 .isatap.gentlentapis.com
 .isatap.cdn-edges.net
 .isatap.gsj.bz
+.isatap.gitbook.io
 .isatap.github.app
 .isatap.githubusercontent.com
 .isatap.githubpreview.dev
@@ -59531,6 +59559,7 @@
 .isatap.musician.io
 .isatap.novecore.site
 .isatap.api.stdlib.com
+.isatap.statichost.page
 .isatap.feedback.ac
 .isatap.forms.ac
 .isatap.assessments.cx
@@ -59599,6 +59628,7 @@
 .isatap.p.tawkto.email
 .isatap.tche.br
 .isatap.site.tb-hosting.com
+.isatap.directwp.eu
 .isatap.edugit.io
 .isatap.s3.teckids.org
 .isatap.telebit.app
@@ -65352,6 +65382,7 @@
 .lb._dns-sd.firm.ve
 .lb._dns-sd.gob.ve
 .lb._dns-sd.gov.ve
+.lb._dns-sd.ia.ve
 .lb._dns-sd.info.ve
 .lb._dns-sd.int.ve
 .lb._dns-sd.mil.ve
@@ -67708,6 +67739,7 @@
 .lb._dns-sd.cloudaccess.net
 .lb._dns-sd.cloudbeesusercontent.io
 .lb._dns-sd.cloudera.site
+.lb._dns-sd.cloudflare.app
 .lb._dns-sd.cf-ipfs.com
 .lb._dns-sd.cloudflare-ipfs.com
 .lb._dns-sd.trycloudflare.com
@@ -68384,6 +68416,7 @@
 .lb._dns-sd.gentlentapis.com
 .lb._dns-sd.cdn-edges.net
 .lb._dns-sd.gsj.bz
+.lb._dns-sd.gitbook.io
 .lb._dns-sd.github.app
 .lb._dns-sd.githubusercontent.com
 .lb._dns-sd.githubpreview.dev
@@ -69494,6 +69527,7 @@
 .lb._dns-sd.musician.io
 .lb._dns-sd.novecore.site
 .lb._dns-sd.api.stdlib.com
+.lb._dns-sd.statichost.page
 .lb._dns-sd.feedback.ac
 .lb._dns-sd.forms.ac
 .lb._dns-sd.assessments.cx
@@ -69562,6 +69596,7 @@
 .lb._dns-sd.p.tawkto.email
 .lb._dns-sd.tche.br
 .lb._dns-sd.site.tb-hosting.com
+.lb._dns-sd.directwp.eu
 .lb._dns-sd.edugit.io
 .lb._dns-sd.s3.teckids.org
 .lb._dns-sd.telebit.app
@@ -75315,6 +75350,7 @@
 .wpad.firm.ve
 .wpad.gob.ve
 .wpad.gov.ve
+.wpad.ia.ve
 .wpad.info.ve
 .wpad.int.ve
 .wpad.mil.ve
@@ -77671,6 +77707,7 @@
 .wpad.cloudaccess.net
 .wpad.cloudbeesusercontent.io
 .wpad.cloudera.site
+.wpad.cloudflare.app
 .wpad.cf-ipfs.com
 .wpad.cloudflare-ipfs.com
 .wpad.trycloudflare.com
@@ -78347,6 +78384,7 @@
 .wpad.gentlentapis.com
 .wpad.cdn-edges.net
 .wpad.gsj.bz
+.wpad.gitbook.io
 .wpad.github.app
 .wpad.githubusercontent.com
 .wpad.githubpreview.dev
@@ -79457,6 +79495,7 @@
 .wpad.musician.io
 .wpad.novecore.site
 .wpad.api.stdlib.com
+.wpad.statichost.page
 .wpad.feedback.ac
 .wpad.forms.ac
 .wpad.assessments.cx
@@ -79525,6 +79564,7 @@
 .wpad.p.tawkto.email
 .wpad.tche.br
 .wpad.site.tb-hosting.com
+.wpad.directwp.eu
 .wpad.edugit.io
 .wpad.s3.teckids.org
 .wpad.telebit.app
@@ -85278,6 +85318,7 @@
 .wpad.tcp.firm.ve
 .wpad.tcp.gob.ve
 .wpad.tcp.gov.ve
+.wpad.tcp.ia.ve
 .wpad.tcp.info.ve
 .wpad.tcp.int.ve
 .wpad.tcp.mil.ve
@@ -87634,6 +87675,7 @@
 .wpad.tcp.cloudaccess.net
 .wpad.tcp.cloudbeesusercontent.io
 .wpad.tcp.cloudera.site
+.wpad.tcp.cloudflare.app
 .wpad.tcp.cf-ipfs.com
 .wpad.tcp.cloudflare-ipfs.com
 .wpad.tcp.trycloudflare.com
@@ -88310,6 +88352,7 @@
 .wpad.tcp.gentlentapis.com
 .wpad.tcp.cdn-edges.net
 .wpad.tcp.gsj.bz
+.wpad.tcp.gitbook.io
 .wpad.tcp.github.app
 .wpad.tcp.githubusercontent.com
 .wpad.tcp.githubpreview.dev
@@ -89420,6 +89463,7 @@
 .wpad.tcp.musician.io
 .wpad.tcp.novecore.site
 .wpad.tcp.api.stdlib.com
+.wpad.tcp.statichost.page
 .wpad.tcp.feedback.ac
 .wpad.tcp.forms.ac
 .wpad.tcp.assessments.cx
@@ -89488,6 +89532,7 @@
 .wpad.tcp.p.tawkto.email
 .wpad.tcp.tche.br
 .wpad.tcp.site.tb-hosting.com
+.wpad.tcp.directwp.eu
 .wpad.tcp.edugit.io
 .wpad.tcp.s3.teckids.org
 .wpad.tcp.telebit.app
