@@ -1,6 +1,6 @@
 [Adblock Plus 1.1]
 ! Title: Accomplist "Tlds" AdBlock List (Top-N Version)
-! Version: 1761547238
+! Version: 1761721229
 ! Homepage: https://github.com/cbuijs/accomplist/tree/master/tlds
 !
 ! WhiteList Domains:
@@ -50,8 +50,12 @@
 @@||flying-circus.band^
 ! Sub-domain "fap.bar" unblacklisted from domain "bar"
 @@||fap.bar^
+! Sub-domain "mavie.bar" unblacklisted from domain "bar"
+@@||mavie.bar^
 ! Sub-domain "strem.bar" unblacklisted from domain "bar"
 @@||strem.bar^
+! Sub-domain "voi.bar" unblacklisted from domain "bar"
+@@||voi.bar^
 ! Sub-domain "epg.best" unblacklisted from domain "best"
 @@||epg.best^
 ! Sub-domain "xhamster.best" unblacklisted from domain "best"
@@ -834,12 +838,16 @@
 @@||pahe.plus^
 ! Sub-domain "rcti.plus" unblacklisted from domain "plus"
 @@||rcti.plus^
+! Sub-domain "saepay.plus" unblacklisted from domain "plus"
+@@||saepay.plus^
 ! Sub-domain "cypruspost.post" unblacklisted from domain "post"
 @@||cypruspost.post^
 ! Sub-domain "casey.prof" unblacklisted from domain "prof"
 @@||casey.prof^
 ! Sub-domain "arc.pub" unblacklisted from domain "pub"
 @@||arc.pub^
+! Sub-domain "bierbaum.pub" unblacklisted from domain "pub"
+@@||bierbaum.pub^
 ! Sub-domain "infosec.pub" unblacklisted from domain "pub"
 @@||infosec.pub^
 ! Sub-domain "leaflet.pub" unblacklisted from domain "pub"
