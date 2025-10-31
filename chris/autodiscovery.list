@@ -9889,6 +9889,7 @@ autoconfig.voorloper.cloud
 autoconfig.vultrobjects.com
 autoconfig.wafflecell.com
 autoconfig.wal.app
+autoconfig.wasmer.app
 autoconfig.webflow.io
 autoconfig.webflowtest.io
 autoconfig.webhare.dev
@@ -19857,6 +19858,7 @@ _autodiscover.voorloper.cloud
 _autodiscover.vultrobjects.com
 _autodiscover.wafflecell.com
 _autodiscover.wal.app
+_autodiscover.wasmer.app
 _autodiscover.webflow.io
 _autodiscover.webflowtest.io
 _autodiscover.webhare.dev
@@ -29825,6 +29827,7 @@ autodiscover.voorloper.cloud
 autodiscover.vultrobjects.com
 autodiscover.wafflecell.com
 autodiscover.wal.app
+autodiscover.wasmer.app
 autodiscover.webflow.io
 autodiscover.webflowtest.io
 autodiscover.webhare.dev
@@ -39793,6 +39796,7 @@ b._dns-sd.voorloper.cloud
 b._dns-sd.vultrobjects.com
 b._dns-sd.wafflecell.com
 b._dns-sd.wal.app
+b._dns-sd.wasmer.app
 b._dns-sd.webflow.io
 b._dns-sd.webflowtest.io
 b._dns-sd.webhare.dev
@@ -49761,6 +49765,7 @@ db._dns-sd.voorloper.cloud
 db._dns-sd.vultrobjects.com
 db._dns-sd.wafflecell.com
 db._dns-sd.wal.app
+db._dns-sd.wasmer.app
 db._dns-sd.webflow.io
 db._dns-sd.webflowtest.io
 db._dns-sd.webhare.dev
@@ -59729,6 +59734,7 @@ isatap.voorloper.cloud
 isatap.vultrobjects.com
 isatap.wafflecell.com
 isatap.wal.app
+isatap.wasmer.app
 isatap.webflow.io
 isatap.webflowtest.io
 isatap.webhare.dev
@@ -69697,6 +69703,7 @@ lb._dns-sd.voorloper.cloud
 lb._dns-sd.vultrobjects.com
 lb._dns-sd.wafflecell.com
 lb._dns-sd.wal.app
+lb._dns-sd.wasmer.app
 lb._dns-sd.webflow.io
 lb._dns-sd.webflowtest.io
 lb._dns-sd.webhare.dev
@@ -79665,6 +79672,7 @@ wpad.voorloper.cloud
 wpad.vultrobjects.com
 wpad.wafflecell.com
 wpad.wal.app
+wpad.wasmer.app
 wpad.webflow.io
 wpad.webflowtest.io
 wpad.webhare.dev
@@ -89633,6 +89641,7 @@ wpad.tcp.voorloper.cloud
 wpad.tcp.vultrobjects.com
 wpad.tcp.wafflecell.com
 wpad.tcp.wal.app
+wpad.tcp.wasmer.app
 wpad.tcp.webflow.io
 wpad.tcp.webflowtest.io
 wpad.tcp.webhare.dev
