@@ -29,7 +29,6 @@ dns1.dnscrypt.ca
 dns2.dnscrypt.ca
 ag.ff0x.ca
 pangolin.ff0x.ca
-dns.omada.cafe
 sriedmueadguard.casa
 adguard2.dnsovertor.cc
 chuncheon.dnsovertor.cc
@@ -785,6 +784,14 @@ dns.deekshith.in
 dns.kapite.in
 a-bld.sys-adm.in
 bld.sys-adm.in
+integration.dnsteam.globuscs.info
+preview.dnsteam.globuscs.info
+staging.dnsteam.globuscs.info
+test.dnsteam.globuscs.info
+dns.api.integration.globuscs.info
+dns.api.sandbox.globuscs.info
+dns.api.staging.globuscs.info
+dns.api.test.globuscs.info
 doh.kekew.info
 doh3.kekew.info
 testaghome.meshkov.info
