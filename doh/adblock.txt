@@ -1,6 +1,6 @@
 [Adblock Plus 1.1]
 ! Title: Accomplist "Doh" AdBlock List (Top-N Version)
-! Version: 1762152312
+! Version: 1762239829
 ! Homepage: https://github.com/cbuijs/accomplist/tree/master/doh
 !
 ! WhiteList Domains:
@@ -758,7 +758,6 @@
 ||hdns.gslb.ksyuncdn.com^
 ||dns.kugoapps.com^
 ||adguard.kujoe.com^
-||guanmengkai.com.ritv1mcx.kuocaidns.com^
 ||cdns.lagzerotm.com^
 ||mx1.laoxiao789.com^
 ||dns.lauraeguido.com^
@@ -810,7 +809,6 @@
 ||alexj123.mooo.com^
 ||disinformer.mooo.com^
 ||e23a.mooo.com^
-||epic3.mooo.com^
 ||crypt.mostsecureme.com^
 ||dns.motazhakim.com^
 ||msr177.com^
@@ -975,7 +973,6 @@
 ||dns.saneaki.com^
 ||dns.sarilouis.com^
 ||ns1.sc-lezhi.com^
-||dns.scapetical.com^
 ||scayn.com^
 ||schimtar.com^
 ||robin.schimtar.com^
@@ -1491,7 +1488,6 @@
 ||unicast2.servers.censurfridns.dk^
 ||unicast.censurfridns.dk^
 ||adguard.nielsenhost.dk^
-||doh.port53.dk^
 ||doh.rasmusminde.dk^
 ||adguard.strafer.dk^
 ||anycast.uncensoreddns.dk^
@@ -2900,7 +2896,6 @@
 ||fi.doh.dns.snopyta.org^
 ||fi.dot.dns.snopyta.org^
 ||spacedns.org^
-||darius-doh-nl.sserver.org^
 ||dns.stormycloud.org^
 ||strassmair.org^
 ||vpn.strassmair.org^
@@ -2991,7 +2986,6 @@
 ||ns1.lab321.pro^
 ||test.marss.pro^
 ||ntwrkh.pro^
-||plushub.pro^
 ||dns.privateservices.pro^
 ||cdn.refined.pro^
 ||adguard.app.sabino.pro^
@@ -3161,14 +3155,6 @@
 ||redsea.meetz.pw^
 ||aitkcrev.minhduc.pw^
 ||ttag.dns.nomu.pw^
-||hungary.privacy-dns.pw^
-||india.privacy-dns.pw^
-||las-vegas.privacy-dns.pw^
-||luxembourg.privacy-dns.pw^
-||romania.privacy-dns.pw^
-||sweden.privacy-dns.pw^
-||switzerland.privacy-dns.pw^
-||united-arab-emirates.privacy-dns.pw^
 ||ant.dns.qwer.pw^
 ||dog.dns.qwer.pw^
 ||frog.dns.qwer.pw^
@@ -3265,7 +3251,6 @@
 ||kopcm.ru^
 ||ksedns.ru^
 ||landerbrauver.ru^
-||dns.lashes-brow.ru^
 ||malanser.ru^
 ||n10.martkotur.ru^
 ||n50.martkotur.ru^
@@ -3278,7 +3263,6 @@
 ||dns.nas-server.ru^
 ||bobr.netphoenix.ru^
 ||rockstars.netphoenix.ru^
-||dns.ntcrz.ru^
 ||dns.omee4.ru^
 ||adguard.oms-ctr.ru^
 ||dns.pastorov.ru^
@@ -3813,7 +3797,6 @@
 ||doh.sublime9.xyz^
 ||thakkali.teej.xyz^
 ||dns.thezudrive.xyz^
-||tujenasnaszato.xyz^
 ||adguard.twotigers.xyz^
 ||dns.usualposts.xyz^
 ||dns.vaioswolke.xyz^
