@@ -1,6 +1,6 @@
 [Adblock Plus 1.1]
 ! Title: Accomplist "Doh" AdBlock List (Top-N Version)
-! Version: 1762239829
+! Version: 1762325958
 ! Homepage: https://github.com/cbuijs/accomplist/tree/master/doh
 !
 ! WhiteList Domains:
@@ -439,7 +439,6 @@
 ||sg-dns2.bancuh.com^
 ||httpdns.bcelive.com^
 ||i.233py.com.a.bdydns.com^
-||guanmengkai.com.a.bdydns.com^
 ||antivirus.bebasid.com^
 ||dns.bebasid.com^
 ||internetsehat.bebasid.com^
@@ -1845,6 +1844,7 @@
 ||dns.api.sandbox.globuscs.info^
 ||dns.api.staging.globuscs.info^
 ||dns.api.test.globuscs.info^
+||doh.kekew.info^
 ||kilabit.info^
 ||lorc17-dns.komeho.info^
 ||dns.lmir.info^
@@ -1949,7 +1949,6 @@
 ||homenet.telecomitalia.it^
 ||galileo.math.unipd.it^
 ||dns1-secure.wifire.it^
-||dns2-secure.wifire.it^
 ||iij.jp^
 ||tngch.mydns.jp^
 ||tk2-404-43267.vs.sakura.ne.jp^
@@ -2109,7 +2108,6 @@
 ||dns.sildom.me^
 ||alexpollard.synology.me^
 ||bucheli.synology.me^
-||cctv-vp.synology.me^
 ||chlaebi.synology.me^
 ||hockaday.synology.me^
 ||ibksturm.synology.me^
@@ -2242,7 +2240,6 @@
 ||adguard-us1.cloudmini.net^
 ||adguard-us2.cloudmini.net^
 ||adguard-vn2.cloudmini.net^
-||panel.cloudns.net^
 ||dns.cmrg.net^
 ||dns.comff.net^
 ||dns1.conne.net^
@@ -3162,7 +3159,6 @@
 ||tiger.dns.qwer.pw^
 ||raj.pw^
 ||dns.vps.pw^
-||wuyou.pw^
 ||deepblue.labar.re^
 ||dns.labar.re^
 ||5g.o0o.re^
@@ -3306,7 +3302,6 @@
 ||dns.vk09.ru^
 ||dns.vkhudyakov.ru^
 ||vladpro.ru^
-||vpndns.ru^
 ||waydnes.ru^
 ||dns.xcapenet.ru^
 ||dns2.xcapenet.ru^
@@ -3802,6 +3797,7 @@
 ||dns.vaioswolke.xyz^
 ||securedns.vendorvista.xyz^
 ||dns.vinnyp.xyz^
+||dns.vip-kingstore.xyz^
 ||dns.vod11.xyz^
 ||killads.vpms.xyz^
 ||zhang.wenru.xyz^

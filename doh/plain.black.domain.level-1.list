@@ -1505,6 +1505,7 @@ dns.api.integration.globuscs.info
 dns.api.sandbox.globuscs.info
 dns.api.staging.globuscs.info
 dns.api.test.globuscs.info
+doh.kekew.info
 kilabit.info
 lorc17-dns.komeho.info
 dns.lmir.info
@@ -1599,7 +1600,6 @@ nas.stefanoperna.it
 homenet.telecomitalia.it
 galileo.math.unipd.it
 dns1-secure.wifire.it
-dns2-secure.wifire.it
 iij.jp
 tngch.mydns.jp
 tk2-404-43267.vs.sakura.ne.jp
@@ -2714,7 +2714,6 @@ lion.dns.qwer.pw
 tiger.dns.qwer.pw
 raj.pw
 dns.vps.pw
-wuyou.pw
 dns.labar.re
 5g.o0o.re
 v.recipes
@@ -2853,7 +2852,6 @@ dns.vectorsigma.ru
 dns.vk09.ru
 dns.vkhudyakov.ru
 vladpro.ru
-vpndns.ru
 waydnes.ru
 dns.xcapenet.ru
 dns2.xcapenet.ru
@@ -3319,6 +3317,7 @@ dns.usualposts.xyz
 dns.vaioswolke.xyz
 securedns.vendorvista.xyz
 dns.vinnyp.xyz
+dns.vip-kingstore.xyz
 dns.vod11.xyz
 killads.vpms.xyz
 zhang.wenru.xyz
@@ -3389,7 +3388,6 @@ europe-west.avastdns.com
 xyz-y2f-dns.eastasia.cloudapp.azure.com
 robin.northcentralus.cloudapp.azure.com
 ydmaz-docker.southeastasia.cloudapp.azure.com
-guanmengkai.com.a.bdydns.com
 secondary-backup.bebasid.com
 94950.bodis.com
 cqkvm.bysrw.com
@@ -3687,7 +3685,6 @@ mail.fampopprol.me
 pppoe1.jamex.me
 myip.pyry.me
 alexpollard.synology.me
-cctv-vp.synology.me
 lagreca2.synology.me
 veikus.synology.me
 redirect.timboeh.me
@@ -3704,7 +3701,6 @@ delta.caspervk.net
 home.chilimac.net
 doh.apad.pro.cdn.cloudflare.net
 d2bphvjyj895l0.cloudfront.net
-panel.cloudns.net
 ender.crystalyx.net
 cybrespace.net
 home-bitteeinbyte.ddns.net
