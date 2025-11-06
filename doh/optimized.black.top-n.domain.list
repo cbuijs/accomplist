@@ -29,6 +29,7 @@ dns1.dnscrypt.ca
 dns2.dnscrypt.ca
 ag.ff0x.ca
 pangolin.ff0x.ca
+sriedmueadguard.casa
 adguard2.dnsovertor.cc
 chuncheon.dnsovertor.cc
 japan.dnsovertor.cc
@@ -248,6 +249,8 @@ dns.google.com
 google-public-dns-a.google.com
 google-public-dns-b.google.com
 dot.libredns.gr.com
+geo.hafnova.com
+secure.hafnova.com
 adguard.haneulo.com
 oko.haneulo.com
 resolver.haringstad.com
@@ -277,6 +280,8 @@ dns.irumatech.com
 dns1.irumatech.com
 dns.islandnet.com
 dns.jd.com
+ap-southeast.jimwelanobong.com
+dns.jimwelanobong.com
 opencdn.jomodns.com
 dns.jupitrdns.com
 ad.justincounts.com
@@ -379,6 +384,7 @@ secure-dns.pleumkungz.com
 thanos.pleumkungz.com
 privacy.plumedns.com
 pixie.porkbun.com
+dns2.prima-solusindo.com
 dns.jd.com.gslb.qianxun.com
 dns.qq.com
 httpdns.kg.qq.com
@@ -390,6 +396,9 @@ dns.api.rackspacecloud.com
 dns.retakecs.com
 rethinkdns.com
 safeservedns.com
+schimtar.com
+robin.schimtar.com
+robin-2.schimtar.com
 forzalaquila.servebeer.com
 privatnas.servebeer.com
 httpdns.lss.baidu.n.shifen.com
@@ -691,11 +700,13 @@ qlf-doh.inria.fr
 dns.kebree.fr
 doh.lacontrevoie.fr
 nicolas-dorriere.fr
+wg.req1.fr
 dns.sellan.fr
 lab.sellan.fr
 lab-1.sellan.fr
 pates.services.sfr.fr.casepp.sfr.fr
 lfbn-gre-1-319-7.w90-112.abo.wanadoo.fr
+dupatruwi22.fun
 ams.core.access.zznet.fun
 hkg.core.access.zznet.fun
 lax.core.access.zznet.fun
@@ -763,6 +774,7 @@ s.rafiadinata.web.id
 doh.this.web.id
 doh.iucc.ac.il
 doh.angry.im
+dns.bitgeek.in
 dnscrypt-cert.captnemo.in
 doh.captnemo.in
 static.captnemo.in
@@ -816,6 +828,7 @@ pro.shecan.ir
 abstergo.it
 home.daniil.it
 pi.daniil.it
+dns2.guidocioni.it
 dns.neeb.it
 homenet.telecomitalia.it
 galileo.math.unipd.it
@@ -857,6 +870,7 @@ dns.shimul.me
 do.shimul.me
 alexpollard.synology.me
 bucheli.synology.me
+cctv-vp.synology.me
 chlaebi.synology.me
 hockaday.synology.me
 ibksturm.synology.me
@@ -868,9 +882,14 @@ woalongit.synology.me
 doh.aaaab3n.moe
 dns.kosan.moe
 dns.vaguthu.mv
+cloud.securifi.com.my
 domain.name
 dns.reckoningslug.name
 doh003.280blocker.net
+arches-srv1.8ws.net
+arches-srv2.8ws.net
+outie.8ws.net
+outiejr.8ws.net
 res-acst1.absolight.net
 res-acst2.absolight.net
 res-acst3.absolight.net
@@ -1072,6 +1091,7 @@ dns.uk-london-1.oci.oraclecloud.net
 dns.us-ashburn-1.oci.oraclecloud.net
 dns.us-phoenix-1.oci.oraclecloud.net
 rpz-public-resolver1.rrdns.pch.net
+dns.phillipjberry.net
 dns.quad9.net
 dns-nosec.quad9.net
 dns10.quad9.net
@@ -1445,6 +1465,7 @@ adguard.dbase.in.rs
 dns.abppro.ru
 comss.ru
 v1552270.hosted-by-vdsina.ru
+joouddo.ru
 kazantsev97.msk.ru
 dns.msxnet.ru
 vds2380673.my-ihor.ru
@@ -1554,6 +1575,7 @@ adguard.quydang.name.vn
 dns.valbatos.pro.vn
 adsl.viettel.vn
 dns.watch
+adguard.sscw.win
 dns.superstefan.win
 dns.youni.win
 dns.brahma.world
@@ -1580,6 +1602,7 @@ dns.propheci.xyz
 ag.ssrahul96.xyz
 doh.sublime9.xyz
 dns.vaioswolke.xyz
+adguard.yuki2th.xyz
 dns.oliviertv.co.za
 pooblet.co.za
 paulo.nom.za
