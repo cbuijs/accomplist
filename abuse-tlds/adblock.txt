@@ -1,6 +1,6 @@
 [Adblock Plus 1.1]
 ! Title: Accomplist "Tlds" AdBlock List (Top-N Version)
-! Version: 1762325697
+! Version: 1762412384
 ! Homepage: https://github.com/cbuijs/accomplist/tree/master/tlds
 !
 ! WhiteList Domains:
@@ -696,6 +696,8 @@
 @@||cubari.moe^
 ! Sub-domain "ddlc.moe" unblacklisted from domain "moe"
 @@||ddlc.moe^
+! Sub-domain "dmn.moe" unblacklisted from domain "moe"
+@@||dmn.moe^
 ! Sub-domain "honse.moe" unblacklisted from domain "moe"
 @@||honse.moe^
 ! Sub-domain "mathi.moe" unblacklisted from domain "moe"
