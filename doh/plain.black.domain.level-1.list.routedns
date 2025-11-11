@@ -200,6 +200,7 @@
 .adguard.jaydub.cloud
 .dns.krol.cloud
 .dns.lilith.cloud
+.adguard.londonwebnerd.cloud
 .doh.nexen.cloud
 .regiopolis.cloud
 .sudo.rm-rf.cloud
@@ -579,7 +580,6 @@
 .dns.msk.hexagon1736.com
 .hexxitcompany.com
 .httpdns.ocloud.heytapmobi.com
-.httpdns.push.heytapmobi.com
 .httpdns-push.heytapmobile.com
 .mail.hilton-groups.com
 .himedns.com
@@ -1126,6 +1126,7 @@
 .adguard-kartoffel.zernico.de
 .adguard01.zitronen-server.de
 .mabuktogel.degree
+.0ms.dev
 .dns.applewebkit.dev
 .adguard.avdkishore.dev
 .home.azagra.dev
@@ -1345,7 +1346,6 @@
 .adfiltro.fun
 .axaxa.fun
 .ag.brianlee.fun
-.cloudbenders.fun
 .dupatruwi22.fun
 .dns.f4a.fun
 .inoainoa.fun
@@ -1506,6 +1506,7 @@
 .dns.api.staging.globuscs.info
 .dns.api.test.globuscs.info
 .doh.kekew.info
+.doh3.kekew.info
 .kilabit.info
 .lorc17-dns.komeho.info
 .dns.lmir.info
@@ -2313,6 +2314,7 @@
 .adgrm.duckdns.org
 .adguardpi.duckdns.org
 .aduma15.duckdns.org
+.andryk111.duckdns.org
 .armm.duckdns.org
 .blamb.duckdns.org
 .cdzopi.duckdns.org
@@ -2322,6 +2324,7 @@
 .gcpddns.duckdns.org
 .genielee.duckdns.org
 .home27.duckdns.org
+.homejerem.duckdns.org
 .jfeoks.duckdns.org
 .jurre-home.duckdns.org
 .kalwat.duckdns.org
@@ -2330,16 +2333,23 @@
 .krtekvpn.duckdns.org
 .ldaman.duckdns.org
 .leoadguard.duckdns.org
+.morgenegg.duckdns.org
 .nas1403.duckdns.org
+.nikamurs.duckdns.org
+.nqh-dns.duckdns.org
 .o--o.duckdns.org
 .osefcorp.duckdns.org
+.pitchforkwaydns.duckdns.org
 .punono.duckdns.org
 .quanmeme.duckdns.org
+.rcpc2.duckdns.org
 .salvadoserver.duckdns.org
 .site-2.duckdns.org
 .site-3.duckdns.org
 .tuandns.duckdns.org
 .tungdnsne.duckdns.org
+.unixfox.duckdns.org
+.vpich.duckdns.org
 .wired-guardian.duckdns.org
 .wisehomeguard.duckdns.org
 .workcavestl.duckdns.org
@@ -2714,6 +2724,7 @@
 .tiger.dns.qwer.pw
 .raj.pw
 .dns.vps.pw
+.doh.kekew.racing
 .dns.labar.re
 .5g.o0o.re
 .v.recipes
@@ -3280,6 +3291,7 @@
 .ko-18948-tr.xyz
 .tr.league1.xyz
 .dns.libost.xyz
+.us.libost.xyz
 .dns.lifeym.xyz
 .lukscasino-479-tr.xyz
 .lukscasino-542-tr.xyz
@@ -3372,7 +3384,6 @@
 .ops-httpdns.aliyuncs.com
 .popunify-4.aliyuncs.com
 .ga-bp1x5hjt57jh3adltd1si.aliyunga0019.com
-.eu-opush-heytapmobi-pubgw-757915985.eu-west-3.elb.amazonaws.com
 .eu-opush-heytapmobile-pubgw-1244993624.eu-west-3.elb.amazonaws.com
 .eu-opush-oppomobile-pubgw-928071339.eu-west-3.elb.amazonaws.com
 .dns-integration-alb-618104398.us-east-1.elb.amazonaws.com
@@ -3759,7 +3770,6 @@
 .d4yge1fn4wr.d.firewalla.org
 .jichi.hopto.org
 .nsauth1.kooman.org
-.dnstls.neutopia.org
 .vpn.strassmair.org
 .toolbox.cloud.zknt.org
 .mimile.despagne.ovh
@@ -3803,6 +3813,5 @@
 .xjpamd.354688.xyz
 .serv.jp.v.aaronlam.xyz
 .chanhome.xyz
-.us.libost.xyz
 .v1.lifeym.xyz
 .nerdytechgeeks.co.za

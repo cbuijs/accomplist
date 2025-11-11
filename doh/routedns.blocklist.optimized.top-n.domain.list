@@ -121,7 +121,6 @@
 .popunify-4.aliyuncs.com
 .ga-bp1x5hjt57jh3adltd1si.aliyunga0019.com
 .dns.alvosec.com
-.eu-opush-heytapmobi-pubgw-757915985.eu-west-3.elb.amazonaws.com
 .eu-opush-heytapmobile-pubgw-1244993624.eu-west-3.elb.amazonaws.com
 .eu-opush-oppomobile-pubgw-928071339.eu-west-3.elb.amazonaws.com
 .dns-integration-alb-618104398.us-east-1.elb.amazonaws.com
@@ -251,12 +250,9 @@
 .dot.libredns.gr.com
 .geo.hafnova.com
 .secure.hafnova.com
-.adguard.haneulo.com
-.oko.haneulo.com
 .resolver.haringstad.com
 .resolver-eu.haringstad.com
 .httpdns.ocloud.heytapmobi.com
-.httpdns.push.heytapmobi.com
 .httpdns-push.heytapmobile.com
 .expired.hichina.com
 .dns.hoody.com
@@ -331,7 +327,6 @@
 .httpdns.music.ntes53.netease.com
 .nim-httpdns-outsea.ntes53.netease.com
 .nim-lbs-oversea-tmp.ntes53.netease.com
-.dns.nhtsky.com
 .dns1.nordvpn.com
 .dns2.nordvpn.com
 .dns.notjakob.com
@@ -380,8 +375,6 @@
 .helios.plan9-dns.com
 .kronos.plan9-dns.com
 .pluton.plan9-dns.com
-.secure-dns.pleumkungz.com
-.thanos.pleumkungz.com
 .privacy.plumedns.com
 .pixie.porkbun.com
 .dns2.prima-solusindo.com
@@ -608,7 +601,6 @@
 .doh.defaultroutes.de
 .fdns1.dismail.de
 .fdns2.dismail.de
-.adguard-koe.dns64.de
 .dnsforge.de
 .dns.dnshome.de
 .dns.dremaxx.de
@@ -791,6 +783,7 @@
 .dns.api.staging.globuscs.info
 .dns.api.test.globuscs.info
 .doh.kekew.info
+.doh3.kekew.info
 .testaghome.meshkov.info
 .xpen.ns01.info
 .gr.skrsteam.info
@@ -881,6 +874,8 @@
 .woalongit.synology.me
 .doh.aaaab3n.moe
 .dns.kosan.moe
+.dns.sev.monster
+.paimon.sev.monster
 .dns.vaguthu.mv
 .cloud.securifi.com.my
 .domain.name
@@ -1031,6 +1026,7 @@
 .sp1wpdybsw1twq1d.myfritz.net
 .96500b732ed8.sn.mynetname.net
 .hdf084sqbme.sn.mynetname.net
+.doh-ca.naftalie.net
 .ae-fuj-w-p-1.nashkan.net
 .ae-fuj-w-p-2.nashkan.net
 .ae-fuj-w-p-3.nashkan.net
@@ -1166,6 +1162,7 @@
 .adguardpi.duckdns.org
 .aduma15.duckdns.org
 .albertocaserta.duckdns.org
+.andryk111.duckdns.org
 .armm.duckdns.org
 .blamb.duckdns.org
 .cdzopi.duckdns.org
@@ -1175,6 +1172,7 @@
 .gcpddns.duckdns.org
 .genielee.duckdns.org
 .home27.duckdns.org
+.homejerem.duckdns.org
 .jfeoks.duckdns.org
 .jurre-home.duckdns.org
 .kalwat.duckdns.org
@@ -1184,16 +1182,23 @@
 .ldaman.duckdns.org
 .leoadguard.duckdns.org
 .montmorot.duckdns.org
+.morgenegg.duckdns.org
 .nas1403.duckdns.org
+.nikamurs.duckdns.org
+.nqh-dns.duckdns.org
 .o--o.duckdns.org
 .osefcorp.duckdns.org
+.pitchforkwaydns.duckdns.org
 .punono.duckdns.org
 .quanmeme.duckdns.org
+.rcpc2.duckdns.org
 .salvadoserver.duckdns.org
 .site-2.duckdns.org
 .site-3.duckdns.org
 .tuandns.duckdns.org
 .tungdnsne.duckdns.org
+.unixfox.duckdns.org
+.vpich.duckdns.org
 .wired-guardian.duckdns.org
 .wisehomeguard.duckdns.org
 .workcavestl.duckdns.org
@@ -1467,7 +1472,6 @@
 .v1552270.hosted-by-vdsina.ru
 .joouddo.ru
 .kazantsev97.msk.ru
-.dns.msxnet.ru
 .vds2380673.my-ihor.ru
 .dns.petqa.ru
 .dns.ronc.ru
@@ -1588,7 +1592,6 @@
 .dns.688447.xyz
 .dns.d94.xyz
 .agh.dshubham.xyz
-.hole.elbschloss.xyz
 .dns.kerekes.xyz
 .lukscasino-479-tr.xyz
 .lukscasino-929-tr.xyz
