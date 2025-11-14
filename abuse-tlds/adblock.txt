@@ -1,6 +1,6 @@
 [Adblock Plus 1.1]
 ! Title: Accomplist "Tlds" AdBlock List (Top-N Version)
-! Version: 1763017303
+! Version: 1763103467
 ! Homepage: https://github.com/cbuijs/accomplist/tree/master/tlds
 !
 ! WhiteList Domains:
@@ -150,6 +150,8 @@
 @@||akami-solutions.cc^
 ! Sub-domain "arduino.cc" unblacklisted from domain "cc"
 @@||arduino.cc^
+! Sub-domain "clashofmagic.cc" unblacklisted from domain "cc"
+@@||clashofmagic.cc^
 ! Sub-domain "coolkit.cc" unblacklisted from domain "cc"
 @@||coolkit.cc^
 ! Sub-domain "dhilosnetworks.cc" unblacklisted from domain "cc"
@@ -188,6 +190,8 @@
 @@||rutracker.cc^
 ! Sub-domain "shottr.cc" unblacklisted from domain "cc"
 @@||shottr.cc^
+! Sub-domain "toxicland.cc" unblacklisted from domain "cc"
+@@||toxicland.cc^
 ! Sub-domain "ultra.cc" unblacklisted from domain "cc"
 @@||ultra.cc^
 ! Sub-domain "ultracloud.cc" unblacklisted from domain "cc"
