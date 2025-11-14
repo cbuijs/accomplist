@@ -29,11 +29,13 @@
 .dns2.dnscrypt.ca
 .ag.ff0x.ca
 .pangolin.ff0x.ca
+.sriedmueadguard.casa
 .adguard2.dnsovertor.cc
 .chuncheon.dnsovertor.cc
 .japan.dnsovertor.cc
 .seoul.dnsovertor.cc
 .dns.flymc.cc
+.deep-henchman-excuse.cfd
 .dns.chenu.ch
 .keeflix.chenu.ch
 .digitale-gesellschaft.ch
@@ -247,6 +249,8 @@
 .google-public-dns-a.google.com
 .google-public-dns-b.google.com
 .dot.libredns.gr.com
+.geo.hafnova.com
+.secure.hafnova.com
 .resolver.haringstad.com
 .resolver-eu.haringstad.com
 .httpdns.ocloud.heytapmobi.com
@@ -269,10 +273,10 @@
 .dns.iqiyi.com
 .doh.iqiyi.com
 .dns.qiyipic.iqiyi.com
-.dns.irumatech.com
-.dns1.irumatech.com
 .dns.islandnet.com
 .dns.jd.com
+.ap-southeast.jimwelanobong.com
+.dns.jimwelanobong.com
 .opencdn.jomodns.com
 .dns.jupitrdns.com
 .ad.justincounts.com
@@ -374,6 +378,7 @@
 .pluton.plan9-dns.com
 .privacy.plumedns.com
 .pixie.porkbun.com
+.dns2.prima-solusindo.com
 .dns.jd.com.gslb.qianxun.com
 .dns.qq.com
 .httpdns.kg.qq.com
@@ -385,6 +390,9 @@
 .dns.retakecs.com
 .rethinkdns.com
 .safeservedns.com
+.schimtar.com
+.robin.schimtar.com
+.robin-2.schimtar.com
 .forzalaquila.servebeer.com
 .privatnas.servebeer.com
 .httpdns.lss.baidu.n.shifen.com
@@ -432,13 +440,12 @@
 .httpdns.zhihu.com
 .httpdns.zybang.com
 .vps.avc.cx
+.atris.cyou
 .odvr.nic.cz
 .aqua.is.my.waifu.cz
 .darkness.is.my.waifu.cz
 .megumin.is.my.waifu.cz
 .yunyun.is.my.waifu.cz
-.dns.novali.date
-.us.novali.date
 .1and1-dns.de
 .adguard.bitteeinbyte.de
 .home.bitteeinbyte.de
@@ -686,11 +693,13 @@
 .home.kebree.fr
 .doh.lacontrevoie.fr
 .nicolas-dorriere.fr
+.wg.req1.fr
 .dns.sellan.fr
 .lab.sellan.fr
 .lab-1.sellan.fr
 .pates.services.sfr.fr.casepp.sfr.fr
 .lfbn-gre-1-319-7.w90-112.abo.wanadoo.fr
+.dupatruwi22.fun
 .ams.core.access.zznet.fun
 .hkg.core.access.zznet.fun
 .lax.core.access.zznet.fun
@@ -809,9 +818,9 @@
 .dns.shecan.ir
 .free.shecan.ir
 .pro.shecan.ir
-.abstergo.it
 .home.daniil.it
 .pi.daniil.it
+.dns2.guidocioni.it
 .dns.neeb.it
 .homenet.telecomitalia.it
 .galileo.math.unipd.it
@@ -865,9 +874,14 @@
 .doh.aaaab3n.moe
 .dns.kosan.moe
 .dns.vaguthu.mv
+.cloud.securifi.com.my
 .domain.name
 .dns.reckoningslug.name
 .doh003.280blocker.net
+.arches-srv1.8ws.net
+.arches-srv2.8ws.net
+.outie.8ws.net
+.outiejr.8ws.net
 .res-acst1.absolight.net
 .res-acst2.absolight.net
 .res-acst3.absolight.net
@@ -1069,6 +1083,7 @@
 .dns.us-ashburn-1.oci.oraclecloud.net
 .dns.us-phoenix-1.oci.oraclecloud.net
 .rpz-public-resolver1.rrdns.pch.net
+.dns.phillipjberry.net
 .dns.quad9.net
 .dns-nosec.quad9.net
 .dns10.quad9.net
@@ -1107,7 +1122,6 @@
 .freedom.mydns.network
 .paranoia.mydns.network
 .dns.pari.network
-.dns.linkr.ninja
 .adguard.infrapod.nl
 .adguard01.infrapod.nl
 .adguard02.infrapod.nl
@@ -1123,8 +1137,6 @@
 .cname-for-doh.go-behind.one
 .gtm-sg-5r538sziu04.go-behind.one
 .one.one.one.one
-.dns.apigw.online
-.dns-sehat.apigw.online
 .ns1.4netguides.org
 .ns2.4netguides.org
 .vir.accesscam.org
@@ -1199,7 +1211,6 @@
 .jp.dns.bliod.eu.org
 .clic.eu.org
 .resolver.dns.eban.eu.org
-.vm01.eban.eu.org
 .doh.excdn.eu.org
 .doh.greenwood.eu.org
 .sweethome.in.eu.org
@@ -1451,6 +1462,7 @@
 .dns.abppro.ru
 .comss.ru
 .v1552270.hosted-by-vdsina.ru
+.joouddo.ru
 .kazantsev97.msk.ru
 .vds2380673.my-ihor.ru
 .dns.petqa.ru
@@ -1559,6 +1571,7 @@
 .dns.valbatos.pro.vn
 .adsl.viettel.vn
 .dns.watch
+.adguard.sscw.win
 .dns.superstefan.win
 .dns.youni.win
 .dns.brahma.world
@@ -1566,7 +1579,6 @@
 .cloud1.server.busold.ws
 .glf.wtf
 .123000123.xyz
-.t2c.240130034.xyz
 .3dcosas.xyz
 .dns.688447.xyz
 .dns.d94.xyz
@@ -1584,6 +1596,7 @@
 .ag.ssrahul96.xyz
 .doh.sublime9.xyz
 .dns.vaioswolke.xyz
+.adguard.yuki2th.xyz
 .dns.oliviertv.co.za
 .pooblet.co.za
 .paulo.nom.za
