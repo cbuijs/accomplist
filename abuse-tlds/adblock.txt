@@ -1,6 +1,6 @@
 [Adblock Plus 1.1]
 ! Title: Accomplist "Tlds" AdBlock List (Top-N Version)
-! Version: 1763103467
+! Version: 1763190759
 ! Homepage: https://github.com/cbuijs/accomplist/tree/master/tlds
 !
 ! WhiteList Domains:
@@ -976,8 +976,6 @@
 @@||nest.rip^
 ! Sub-domain "scribe.rip" unblacklisted from domain "rip"
 @@||scribe.rip^
-! Sub-domain "ecopulse.sbs" unblacklisted from domain "sbs"
-@@||ecopulse.sbs^
 ! Sub-domain "goflix.sbs" unblacklisted from domain "sbs"
 @@||goflix.sbs^
 ! Sub-domain "amazon.science" unblacklisted from domain "science"
@@ -1304,6 +1302,8 @@
 @@||ambr.top^
 ! Sub-domain "caitlin.top" unblacklisted from domain "top"
 @@||caitlin.top^
+! Sub-domain "chillx.top" unblacklisted from domain "top"
+@@||chillx.top^
 ! Sub-domain "corriente.top" unblacklisted from domain "top"
 @@||corriente.top^
 ! Sub-domain "cpolar.top" unblacklisted from domain "top"
