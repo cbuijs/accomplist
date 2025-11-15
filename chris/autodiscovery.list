@@ -8430,6 +8430,8 @@ autoconfig.at.emf.camp
 autoconfig.rt.ht
 autoconfig.elementor.cloud
 autoconfig.elementor.cool
+autoconfig.emergent.cloud
+autoconfig.emergent.host
 autoconfig.en-root.fr
 autoconfig.mytuleap.com
 autoconfig.tuleap-partners.com
@@ -9935,6 +9937,7 @@ autoconfig.inc.hk
 autoconfig.ltd.hk
 autoconfig.hk.org
 autoconfig.it.com
+autoconfig.umso.co
 autoconfig.unison-services.cloud
 autoconfig.virtual-user.de
 autoconfig.virtualuser.de
@@ -18476,6 +18479,8 @@ _autodiscover.at.emf.camp
 _autodiscover.rt.ht
 _autodiscover.elementor.cloud
 _autodiscover.elementor.cool
+_autodiscover.emergent.cloud
+_autodiscover.emergent.host
 _autodiscover.en-root.fr
 _autodiscover.mytuleap.com
 _autodiscover.tuleap-partners.com
@@ -19981,6 +19986,7 @@ _autodiscover.inc.hk
 _autodiscover.ltd.hk
 _autodiscover.hk.org
 _autodiscover.it.com
+_autodiscover.umso.co
 _autodiscover.unison-services.cloud
 _autodiscover.virtual-user.de
 _autodiscover.virtualuser.de
@@ -28522,6 +28528,8 @@ autodiscover.at.emf.camp
 autodiscover.rt.ht
 autodiscover.elementor.cloud
 autodiscover.elementor.cool
+autodiscover.emergent.cloud
+autodiscover.emergent.host
 autodiscover.en-root.fr
 autodiscover.mytuleap.com
 autodiscover.tuleap-partners.com
@@ -30027,6 +30035,7 @@ autodiscover.inc.hk
 autodiscover.ltd.hk
 autodiscover.hk.org
 autodiscover.it.com
+autodiscover.umso.co
 autodiscover.unison-services.cloud
 autodiscover.virtual-user.de
 autodiscover.virtualuser.de
@@ -38568,6 +38577,8 @@ b._dns-sd.at.emf.camp
 b._dns-sd.rt.ht
 b._dns-sd.elementor.cloud
 b._dns-sd.elementor.cool
+b._dns-sd.emergent.cloud
+b._dns-sd.emergent.host
 b._dns-sd.en-root.fr
 b._dns-sd.mytuleap.com
 b._dns-sd.tuleap-partners.com
@@ -40073,6 +40084,7 @@ b._dns-sd.inc.hk
 b._dns-sd.ltd.hk
 b._dns-sd.hk.org
 b._dns-sd.it.com
+b._dns-sd.umso.co
 b._dns-sd.unison-services.cloud
 b._dns-sd.virtual-user.de
 b._dns-sd.virtualuser.de
@@ -48614,6 +48626,8 @@ db._dns-sd.at.emf.camp
 db._dns-sd.rt.ht
 db._dns-sd.elementor.cloud
 db._dns-sd.elementor.cool
+db._dns-sd.emergent.cloud
+db._dns-sd.emergent.host
 db._dns-sd.en-root.fr
 db._dns-sd.mytuleap.com
 db._dns-sd.tuleap-partners.com
@@ -50119,6 +50133,7 @@ db._dns-sd.inc.hk
 db._dns-sd.ltd.hk
 db._dns-sd.hk.org
 db._dns-sd.it.com
+db._dns-sd.umso.co
 db._dns-sd.unison-services.cloud
 db._dns-sd.virtual-user.de
 db._dns-sd.virtualuser.de
@@ -58660,6 +58675,8 @@ isatap.at.emf.camp
 isatap.rt.ht
 isatap.elementor.cloud
 isatap.elementor.cool
+isatap.emergent.cloud
+isatap.emergent.host
 isatap.en-root.fr
 isatap.mytuleap.com
 isatap.tuleap-partners.com
@@ -60165,6 +60182,7 @@ isatap.inc.hk
 isatap.ltd.hk
 isatap.hk.org
 isatap.it.com
+isatap.umso.co
 isatap.unison-services.cloud
 isatap.virtual-user.de
 isatap.virtualuser.de
@@ -68706,6 +68724,8 @@ lb._dns-sd.at.emf.camp
 lb._dns-sd.rt.ht
 lb._dns-sd.elementor.cloud
 lb._dns-sd.elementor.cool
+lb._dns-sd.emergent.cloud
+lb._dns-sd.emergent.host
 lb._dns-sd.en-root.fr
 lb._dns-sd.mytuleap.com
 lb._dns-sd.tuleap-partners.com
@@ -70211,6 +70231,7 @@ lb._dns-sd.inc.hk
 lb._dns-sd.ltd.hk
 lb._dns-sd.hk.org
 lb._dns-sd.it.com
+lb._dns-sd.umso.co
 lb._dns-sd.unison-services.cloud
 lb._dns-sd.virtual-user.de
 lb._dns-sd.virtualuser.de
@@ -78752,6 +78773,8 @@ wpad.at.emf.camp
 wpad.rt.ht
 wpad.elementor.cloud
 wpad.elementor.cool
+wpad.emergent.cloud
+wpad.emergent.host
 wpad.en-root.fr
 wpad.mytuleap.com
 wpad.tuleap-partners.com
@@ -80257,6 +80280,7 @@ wpad.inc.hk
 wpad.ltd.hk
 wpad.hk.org
 wpad.it.com
+wpad.umso.co
 wpad.unison-services.cloud
 wpad.virtual-user.de
 wpad.virtualuser.de
@@ -88798,6 +88822,8 @@ wpad.tcp.at.emf.camp
 wpad.tcp.rt.ht
 wpad.tcp.elementor.cloud
 wpad.tcp.elementor.cool
+wpad.tcp.emergent.cloud
+wpad.tcp.emergent.host
 wpad.tcp.en-root.fr
 wpad.tcp.mytuleap.com
 wpad.tcp.tuleap-partners.com
@@ -90303,6 +90329,7 @@ wpad.tcp.inc.hk
 wpad.tcp.ltd.hk
 wpad.tcp.hk.org
 wpad.tcp.it.com
+wpad.tcp.umso.co
 wpad.tcp.unison-services.cloud
 wpad.tcp.virtual-user.de
 wpad.tcp.virtualuser.de
