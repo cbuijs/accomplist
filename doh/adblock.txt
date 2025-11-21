@@ -1,6 +1,6 @@
 [Adblock Plus 1.1]
 ! Title: Accomplist "Doh" AdBlock List (Top-N Version)
-! Version: 1763624155
+! Version: 1763708813
 ! Homepage: https://github.com/cbuijs/accomplist/tree/master/doh
 !
 ! WhiteList Domains:
@@ -392,6 +392,7 @@
 ||dns-sandbox-alb-275183166.us-east-1.elb.amazonaws.com^
 ||dns-staging-alb-849259019.us-east-1.elb.amazonaws.com^
 ||dns-test-alb-2081756747.us-east-1.elb.amazonaws.com^
+||cdl-prd-https-247c6c9f427caacd.elb.us-east-1.amazonaws.com^
 ||oradns.anbitech.com^
 ||dns.andreykiv.com^
 ||hks.aniuo.com^
@@ -488,6 +489,7 @@
 ||httpdns.c.cdnhwc2.com^
 ||httpdns1.cc.cdnhwc5.com^
 ||adguard.cedoman.com^
+||97ae77aa-221a-48e9-9457-b075395dd048.cfargotunnel.com^
 ||dns.chalkychalk.com^
 ||rdns2.chancetheitguy.com^
 ||adguard.chaudharyarnav.com^
@@ -821,6 +823,7 @@
 ||newlibrarian.myqnapcloud.com^
 ||sexybody.myqnapcloud.com^
 ||dns.mzjtechnology.com^
+||urlforward-https.namebright.com^
 ||httpdns.n.netease.com^
 ||httpdns-sdk.n.netease.com^
 ||httpdnsv4.ntes53.netease.com^
@@ -2335,6 +2338,7 @@
 ||dnscrypt-cert.ffmuc.net^
 ||doh.ffmuc.net^
 ||dot.ffmuc.net^
+||dns.flightspace.net^
 ||dns01.flm9.net^
 ||ns1.flodns.net^
 ||ns2.flodns.net^
@@ -2854,6 +2858,7 @@
 ||area51.mywire.org^
 ||dnsmm.mywire.org^
 ||graf.mywire.org^
+||jch.mywire.org^
 ||fwgw.orangepipc.mywire.org^
 ||nelsonleung.org^
 ||dns.neutopia.org^
