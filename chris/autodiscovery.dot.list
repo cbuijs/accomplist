@@ -8119,6 +8119,9 @@
 .autoconfig.dnshome.de
 .autoconfig.online.th
 .autoconfig.shop.th
+.autoconfig.co.scot
+.autoconfig.me.scot
+.autoconfig.org.scot
 .autoconfig.drayddns.com
 .autoconfig.shoparena.pl
 .autoconfig.dreamhosters.com
@@ -18180,6 +18183,9 @@
 ._autodiscover.dnshome.de
 ._autodiscover.online.th
 ._autodiscover.shop.th
+._autodiscover.co.scot
+._autodiscover.me.scot
+._autodiscover.org.scot
 ._autodiscover.drayddns.com
 ._autodiscover.shoparena.pl
 ._autodiscover.dreamhosters.com
@@ -28241,6 +28247,9 @@
 .autodiscover.dnshome.de
 .autodiscover.online.th
 .autodiscover.shop.th
+.autodiscover.co.scot
+.autodiscover.me.scot
+.autodiscover.org.scot
 .autodiscover.drayddns.com
 .autodiscover.shoparena.pl
 .autodiscover.dreamhosters.com
@@ -38302,6 +38311,9 @@
 .b._dns-sd.dnshome.de
 .b._dns-sd.online.th
 .b._dns-sd.shop.th
+.b._dns-sd.co.scot
+.b._dns-sd.me.scot
+.b._dns-sd.org.scot
 .b._dns-sd.drayddns.com
 .b._dns-sd.shoparena.pl
 .b._dns-sd.dreamhosters.com
@@ -48363,6 +48375,9 @@
 .db._dns-sd.dnshome.de
 .db._dns-sd.online.th
 .db._dns-sd.shop.th
+.db._dns-sd.co.scot
+.db._dns-sd.me.scot
+.db._dns-sd.org.scot
 .db._dns-sd.drayddns.com
 .db._dns-sd.shoparena.pl
 .db._dns-sd.dreamhosters.com
@@ -58424,6 +58439,9 @@
 .isatap.dnshome.de
 .isatap.online.th
 .isatap.shop.th
+.isatap.co.scot
+.isatap.me.scot
+.isatap.org.scot
 .isatap.drayddns.com
 .isatap.shoparena.pl
 .isatap.dreamhosters.com
@@ -68485,6 +68503,9 @@
 .lb._dns-sd.dnshome.de
 .lb._dns-sd.online.th
 .lb._dns-sd.shop.th
+.lb._dns-sd.co.scot
+.lb._dns-sd.me.scot
+.lb._dns-sd.org.scot
 .lb._dns-sd.drayddns.com
 .lb._dns-sd.shoparena.pl
 .lb._dns-sd.dreamhosters.com
@@ -78546,6 +78567,9 @@
 .wpad.dnshome.de
 .wpad.online.th
 .wpad.shop.th
+.wpad.co.scot
+.wpad.me.scot
+.wpad.org.scot
 .wpad.drayddns.com
 .wpad.shoparena.pl
 .wpad.dreamhosters.com
@@ -88607,6 +88631,9 @@
 .wpad.tcp.dnshome.de
 .wpad.tcp.online.th
 .wpad.tcp.shop.th
+.wpad.tcp.co.scot
+.wpad.tcp.me.scot
+.wpad.tcp.org.scot
 .wpad.tcp.drayddns.com
 .wpad.tcp.shoparena.pl
 .wpad.tcp.dreamhosters.com
