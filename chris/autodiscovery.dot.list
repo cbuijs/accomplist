@@ -9665,6 +9665,7 @@
 .autoconfig.we.crm.dev
 .autoconfig.wf.crm.dev
 .autoconfig.sandcats.io
+.autoconfig.sav.case
 .autoconfig.logoip.com
 .autoconfig.logoip.de
 .autoconfig.fr-par-1.baremetal.scw.cloud
@@ -19729,6 +19730,7 @@
 ._autodiscover.we.crm.dev
 ._autodiscover.wf.crm.dev
 ._autodiscover.sandcats.io
+._autodiscover.sav.case
 ._autodiscover.logoip.com
 ._autodiscover.logoip.de
 ._autodiscover.fr-par-1.baremetal.scw.cloud
@@ -29793,6 +29795,7 @@
 .autodiscover.we.crm.dev
 .autodiscover.wf.crm.dev
 .autodiscover.sandcats.io
+.autodiscover.sav.case
 .autodiscover.logoip.com
 .autodiscover.logoip.de
 .autodiscover.fr-par-1.baremetal.scw.cloud
@@ -39857,6 +39860,7 @@
 .b._dns-sd.we.crm.dev
 .b._dns-sd.wf.crm.dev
 .b._dns-sd.sandcats.io
+.b._dns-sd.sav.case
 .b._dns-sd.logoip.com
 .b._dns-sd.logoip.de
 .b._dns-sd.fr-par-1.baremetal.scw.cloud
@@ -49921,6 +49925,7 @@
 .db._dns-sd.we.crm.dev
 .db._dns-sd.wf.crm.dev
 .db._dns-sd.sandcats.io
+.db._dns-sd.sav.case
 .db._dns-sd.logoip.com
 .db._dns-sd.logoip.de
 .db._dns-sd.fr-par-1.baremetal.scw.cloud
@@ -59985,6 +59990,7 @@
 .isatap.we.crm.dev
 .isatap.wf.crm.dev
 .isatap.sandcats.io
+.isatap.sav.case
 .isatap.logoip.com
 .isatap.logoip.de
 .isatap.fr-par-1.baremetal.scw.cloud
@@ -70049,6 +70055,7 @@
 .lb._dns-sd.we.crm.dev
 .lb._dns-sd.wf.crm.dev
 .lb._dns-sd.sandcats.io
+.lb._dns-sd.sav.case
 .lb._dns-sd.logoip.com
 .lb._dns-sd.logoip.de
 .lb._dns-sd.fr-par-1.baremetal.scw.cloud
@@ -80113,6 +80120,7 @@
 .wpad.we.crm.dev
 .wpad.wf.crm.dev
 .wpad.sandcats.io
+.wpad.sav.case
 .wpad.logoip.com
 .wpad.logoip.de
 .wpad.fr-par-1.baremetal.scw.cloud
@@ -90177,6 +90185,7 @@
 .wpad.tcp.we.crm.dev
 .wpad.tcp.wf.crm.dev
 .wpad.tcp.sandcats.io
+.wpad.tcp.sav.case
 .wpad.tcp.logoip.com
 .wpad.tcp.logoip.de
 .wpad.tcp.fr-par-1.baremetal.scw.cloud
