@@ -1,6 +1,6 @@
 [Adblock Plus 1.1]
 ! Title: Accomplist "Tlds" AdBlock List (Top-N Version)
-! Version: 1767769863
+! Version: 1767856144
 ! Homepage: https://github.com/cbuijs/accomplist/tree/master/tlds
 !
 ! WhiteList Domains:
@@ -308,6 +308,8 @@
 @@||thelemmy.club^
 ! Sub-domain "tilde.club" unblacklisted from domain "club"
 @@||tilde.club^
+! Sub-domain "tmdb.club" unblacklisted from domain "club"
+@@||tmdb.club^
 ! Sub-domain "xhtml.club" unblacklisted from domain "club"
 @@||xhtml.club^
 ! Sub-domain "google.cm" unblacklisted from domain "cm"
