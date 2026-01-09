@@ -42,7 +42,6 @@ doh.quickline.ch
 dot.quickline.ch
 dns.sheggi.ch
 metis.sheggi.ch
-dns.simplylinux.ch
 switch.ch
 dnsotls.lab.nic.cl
 friend.bedro.cloud
@@ -656,6 +655,7 @@ sin.core.access.zznet.fun
 syd.core.access.zznet.fun
 hkg2.edge.access.zznet.fun
 sin2.edge.access.zznet.fun
+doh.ndmc.work.gd
 doh.futa.gg
 8888.google
 dns.google
@@ -679,6 +679,7 @@ dns.furina.id
 marasov.id
 d.apemlegit.my.id
 be2aja.my.id
+dns.fadhilyori.my.id
 dns.freddys.my.id
 dns.iki.my.id
 dns-idx1.itsec.my.id
@@ -705,6 +706,7 @@ zapranet.my.id
 positif4.cross.net.id
 homelab.terabit.net.id
 dns.ningkelle.id
+dns.pondokngunut.ponpes.id
 filter.das.sch.id
 dns6.web.id
 dns.engineer.web.id
@@ -734,6 +736,7 @@ doh.kekew.info
 doh3.kekew.info
 testaghome.meshkov.info
 xpen.ns01.info
+c9.dedyn.io
 frank-web.dedyn.io
 k03.dedyn.io
 dns.skous.dedyn.io
@@ -783,6 +786,7 @@ dns.circl.lu
 dnspub.restena.lu
 kaitain.restena.lu
 guard-1.vilbav.id.lv
+guard-2.vilbav.id.lv
 doh.nic.lv
 mydns.ddns.me
 blackdragon6699.diskstation.me
@@ -795,6 +799,7 @@ bucheli.synology.me
 cctv-vp.synology.me
 chlaebi.synology.me
 hockaday.synology.me
+hsulun2000.synology.me
 ibksturm.synology.me
 ihctw.synology.me
 lagreca2.synology.me
@@ -856,6 +861,7 @@ djtesok.ddns.net
 dnsresolver02.ddns.net
 dnsvs.ddns.net
 drkcloud.ddns.net
+facomunit.ddns.net
 gmf-dns.ddns.net
 gmf2.ddns.net
 home-bitteeinbyte.ddns.net
@@ -927,6 +933,8 @@ ns1.i-evolve.net
 eu-cdn.imoim.net
 http-dns.imoim.net
 ns1.95997.ip-ns.net
+adguard1.jsanagustin.net
+adguard1.njy.jsanagustin.net
 adguard1.leadmon.net
 adguard2.leadmon.net
 dns.liberador.net
@@ -1020,6 +1028,7 @@ ancv.sytes.net
 grandmaster.sytes.net
 nsnacho.sytes.net
 virmamp33.sytes.net
+de51.tcpdoor.net
 resolv1.trash.net
 resolv2.trash.net
 resolv3.trash.net
@@ -1059,21 +1068,25 @@ ca.doh.cloudveil.org
 us.doh.cloudveil.org
 dns.csswg.org
 dns35.allone.dpdns.org
+dns.ikun6.dpdns.org
 ad1guard.duckdns.org
 adgrm.duckdns.org
 adguardpi.duckdns.org
 albertocaserta.duckdns.org
 andryk111.duckdns.org
 armm.duckdns.org
+baksabal.duckdns.org
 blamb.duckdns.org
 cdzopi.duckdns.org
 derekcastle.duckdns.org
+dirrectumrx.duckdns.org
 dorkanddoodle.duckdns.org
 eweyo.duckdns.org
 gcpddns.duckdns.org
 genielee.duckdns.org
 home27.duckdns.org
 homejerem.duckdns.org
+hrsm12181.duckdns.org
 jfeoks.duckdns.org
 jonzalvo.duckdns.org
 jurre-home.duckdns.org
@@ -1088,6 +1101,7 @@ mipelinusa.duckdns.org
 montmorot.duckdns.org
 morgenegg.duckdns.org
 nas1403.duckdns.org
+naujas123.duckdns.org
 nikamurs.duckdns.org
 nqh-dns.duckdns.org
 o--o.duckdns.org
@@ -1096,9 +1110,12 @@ pitchforkwaydns.duckdns.org
 punono.duckdns.org
 rcpc2.duckdns.org
 rexdns.duckdns.org
+sabeendns.duckdns.org
 salvadoserver.duckdns.org
 site-2.duckdns.org
 site-3.duckdns.org
+testapp-0-1-1.duckdns.org
+thaibksri.duckdns.org
 theadblocksg.duckdns.org
 ts653d.duckdns.org
 tuandns.duckdns.org
@@ -1187,6 +1204,7 @@ dns-ovh.panszelescik.pl
 n2.panszelescik.pl
 domeq.waw.pl
 poster.place
+ramy.run.place
 doh.apad.pro
 httpdns.pro
 test.marss.pro
@@ -1360,6 +1378,7 @@ addns1.m-it.ro
 adguard.dbase.in.rs
 dns.abppro.ru
 comss.ru
+wp-test.fvds.ru
 dns.geohide.ru
 v1552270.hosted-by-vdsina.ru
 joouddo.ru
