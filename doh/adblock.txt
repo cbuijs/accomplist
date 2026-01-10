@@ -1,6 +1,6 @@
 [Adblock Plus 1.1]
 ! Title: Accomplist "Doh" AdBlock List (Top-N Version)
-! Version: 1767942787
+! Version: 1768029991
 ! Homepage: https://github.com/cbuijs/accomplist/tree/master/doh
 !
 ! WhiteList Domains:
@@ -1347,6 +1347,7 @@
 ||adguard.frece.de^
 ||adguard2.frece.de^
 ||doh.funil.de^
+||dns.furrydns.de^
 ||dns.geekbyte.de^
 ||eime.goip.de^
 ||golegana.de^
@@ -2245,6 +2246,7 @@
 ||dohtrial.att.net^
 ||doh1.b-cdn.net^
 ||doh2.b-cdn.net^
+||home.bi119ate5hxk.net^
 ||dns.bibica.net^
 ||dns.bitdefender.net^
 ||fra-dns.bitdefender.net^
@@ -2903,7 +2905,6 @@
 ||hshh.org^
 ||hkg.hytec.org^
 ||ur.hytec.org^
-||nativecat.iptime.org^
 ||adguard.johnnypatras.org^
 ||josephfamily.org^
 ||joshberg.org^
@@ -3003,7 +3004,7 @@
 ||dd.hlm.ovh^
 ||jackyes.ovh^
 ||dns.mateo.ovh^
-||addns.ovalie.ovh^
+||ovalie.ovh^
 ||dns.privado.ovh^
 ||orpi.privado.ovh^
 ||oury.privado.ovh^
@@ -3898,6 +3899,7 @@
 ||lukscasino-479-tr.xyz^
 ||lukscasino-542-tr.xyz^
 ||lukscasino-929-tr.xyz^
+||dmjp.lyhlyh.xyz^
 ||dns.maolaohei.xyz^
 ||maqgie.xyz^
 ||dns.mh4ckt3mh4ckt1c4s.xyz^
