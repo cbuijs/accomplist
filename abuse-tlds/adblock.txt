@@ -1,6 +1,6 @@
 [Adblock Plus 1.1]
 ! Title: Accomplist "Tlds" AdBlock List (Top-N Version)
-! Version: 1768029716
+! Version: 1768115329
 ! Homepage: https://github.com/cbuijs/accomplist/tree/master/tlds
 !
 ! WhiteList Domains:
@@ -1604,6 +1604,8 @@
 @@||heated.world^
 ! Sub-domain "ift.world" unblacklisted from domain "world"
 @@||ift.world^
+! Sub-domain "juice.world" unblacklisted from domain "world"
+@@||juice.world^
 ! Sub-domain "lemmings.world" unblacklisted from domain "world"
 @@||lemmings.world^
 ! Sub-domain "lemmy.world" unblacklisted from domain "world"
