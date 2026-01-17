@@ -1,6 +1,6 @@
 [Adblock Plus 1.1]
 ! Title: Accomplist "Doh" AdBlock List (Top-N Version)
-! Version: 1768549707
+! Version: 1768634792
 ! Homepage: https://github.com/cbuijs/accomplist/tree/master/doh
 !
 ! WhiteList Domains:
@@ -894,7 +894,6 @@
 ||dns.uk-london-1.oraclecloud.com^
 ||dns.us-ashburn-1.oraclecloud.com^
 ||dns.us-phoenix-1.oraclecloud.com^
-||ortudns.com^
 ||dns.oryxlabs.com^
 ||dns1.oryxlabs.com^
 ||dns.osmenoga.com^
@@ -2515,7 +2514,6 @@
 ||us-nyc-w-p-1.nashkan.net^
 ||us-saj-w-f-1.nashkan.net^
 ||us-saj-w-p-1.nashkan.net^
-||adguard.neotix.net^
 ||dns.netrve.net^
 ||resolv2.nettplus.net^
 ||dns.netvpn.net^
@@ -2543,7 +2541,6 @@
 ||phantom3c.net^
 ||mydns.phatna.net^
 ||dns.phillipjberry.net^
-||pioko.net^
 ||dns.powerbs.net^
 ||home.qbak.net^
 ||hostdare.qtxd.net^
@@ -2738,7 +2735,6 @@
 ||ingenmannsland.online^
 ||inpssh.online^
 ||externalmobiel.lekdijk.online^
-||pure.lunetra.online^
 ||ddns.martinmore.online^
 ||dns.mathewakhil.online^
 ||n8nmegapixar.online^
@@ -3441,7 +3437,6 @@
 ||aicx99.shop^
 ||amopython.shop^
 ||hfgx.shop^
-||paradise-human.shop^
 ||beta.thegodfatheriam.shop^
 ||polisitogel.show^
 ||privacydns.go6lab.si^

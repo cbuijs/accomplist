@@ -23,6 +23,7 @@
 .ad.tzockt.beer
 .dns.schlagheck.berlin
 .adguard.gbrossi.com.br
+.doh.buzz
 .doh.datahata.by
 .dns.npe.bz
 .canadianshield.cira.ca
@@ -183,7 +184,6 @@
 .easyhandshake.com
 .dns.edgeburnmedia.com
 .edgy-dns.com
-.dns.efficientdocuments.com
 .doh.flashstart.com
 .dns.flwagners.com
 .biying.flymlc.com
@@ -204,6 +204,7 @@
 .dns.hoody.com
 .dns.internal.hosmatic.com
 .ads.hunga1k47.com
+.doth.huque.com
 .mask.icloud.com
 .mask-h2.icloud.com
 .dns.ihaveacloud.com
@@ -222,19 +223,21 @@
 .dns.kamilszczepanski.com
 .dns.keviland.com
 .dns.kugoapps.com
+.iterator.lazada.com
 .dns.lepilleur.com
 .dns.lgprk.com
 .dns.lobbygod.com
 .n5.lsasss.com
 .dns.luma-medien.com
+.orau.lz0724.com
 .doh.maskab.com
 .httpdns.meituan.com
 .mendozasdelivery.com
 .doh.mmmalia.com
 .dnstls.mobik.com
 .dns.moonssif.com
-.msr177.com
 .ns.mtsoln.com
+.dns.mzjtechnology.com
 .dns.nguyendn.com
 .d.niaox.com
 .dns-cybersec.nordthreatprotection.com
@@ -463,7 +466,6 @@
 .lastentarvike.fi
 .lelux.fi
 .ns.nwps.fi
-.ns.trcnet.fi
 .doh.42l.fr
 .dns.aquilenet.fr
 .doh.bortzmeyer.fr
@@ -482,6 +484,7 @@
 .blockerads.multimediaconcept.fr
 .rayneau.fr
 .dns.sellan.fr
+.pates.services.sfr.fr.casepp.sfr.fr
 .dns.spirio.fr
 .adb-home.xaoimoon.fr
 .adfiltro.fun
@@ -510,6 +513,7 @@
 .dns.spil.co.id
 .dns.diarbagus.id
 .dns.gnb09.id
+.d.apemlegit.my.id
 .dns.iki.my.id
 .dns.lista.my.id
 .dns.mikrotikrumahan.my.id
@@ -609,7 +613,6 @@
 .dns.redvau.lt
 .sink.nolo.ltd
 .dns.circl.lu
-.blackhole.myon.lu
 .dnspub.restena.lu
 .doh.lv
 .doh.nic.lv
@@ -644,7 +647,6 @@
 .dns.reitmeier.me
 .dns.shimul.me
 .do.shimul.me
-.adguard.sparshbajaj.me
 .ibksturm.synology.me
 .ihctw.synology.me
 .doh.thio.me
@@ -662,8 +664,6 @@
 .dns.sev.monster
 .dns.therifleman.name
 .doh003.280blocker.net
-.res-acst1.absolight.net
-.res-acst2.absolight.net
 .res-acst3.absolight.net
 .resolver1.absolight.net
 .resolver2.absolight.net
@@ -896,7 +896,11 @@
 .ns1.dotls.org
 .home27.duckdns.org
 .jurre-home.duckdns.org
+.krtekvpn.duckdns.org
 .osefcorp.duckdns.org
+.punono.duckdns.org
+.tuandns.duckdns.org
+.tungdnsne.duckdns.org
 .ueni.dyndns.org
 .arashi.eu.org
 .armorrush.eu.org
@@ -946,7 +950,6 @@
 .blocker.thethorsens.org
 .doh.tiarap.org
 .jp.tiarap.org
-.truta.org
 .vorlif.org
 .dns.w3ctag.org
 .wikimedia-dns.org
@@ -1111,13 +1114,13 @@
 .dns.labnekotest.site
 .tecdrive.site
 .vtcuong.site
-.dns.levonet.sk
 .dns.elemental.software
 .dns.cloudtrust.solutions
 .dns.b33.space
 .adg.rueiliu.space
 .dns.sy.st
 .home-server.store
+.dns.fizz.studio
 .dns.xuming.studio
 .crypto.sx
 .dns.cybertonic.tech
@@ -1182,6 +1185,7 @@
 .rockwell.website
 .yuvelirtut.website
 .zakaria.website
+.urology.wiki
 .adg.yybyy.wiki
 .dns.4-the.win
 .dns.dotnet.win
