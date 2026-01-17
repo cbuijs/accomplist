@@ -1,6 +1,6 @@
 [Adblock Plus 1.1]
 ! Title: Accomplist "Tlds" AdBlock List (Top-N Version)
-! Version: 1768549405
+! Version: 1768634492
 ! Homepage: https://github.com/cbuijs/accomplist/tree/master/tlds
 !
 ! WhiteList Domains:
@@ -180,6 +180,8 @@
 @@||imgus.cc^
 ! Sub-domain "is.cc" unblacklisted from domain "cc"
 @@||is.cc^
+! Sub-domain "itead.cc" unblacklisted from domain "cc"
+@@||itead.cc^
 ! Sub-domain "libstc.cc" unblacklisted from domain "cc"
 @@||libstc.cc^
 ! Sub-domain "lilygo.cc" unblacklisted from domain "cc"
@@ -1270,8 +1272,6 @@
 @@||ettoresoftware.store^
 ! Sub-domain "fbits.store" unblacklisted from domain "store"
 @@||fbits.store^
-! Sub-domain "g-h.store" unblacklisted from domain "store"
-@@||g-h.store^
 ! Sub-domain "glitchproductions.store" unblacklisted from domain "store"
 @@||glitchproductions.store^
 ! Sub-domain "hacksmith.store" unblacklisted from domain "store"
@@ -1324,8 +1324,6 @@
 @@||shiki.style^
 ! Sub-domain "encode.su" unblacklisted from domain "su"
 @@||encode.su^
-! Sub-domain "jpg4.su" unblacklisted from domain "su"
-@@||jpg4.su^
 ! Sub-domain "jpg6.su" unblacklisted from domain "su"
 @@||jpg6.su^
 ! Sub-domain "promportal.su" unblacklisted from domain "su"
