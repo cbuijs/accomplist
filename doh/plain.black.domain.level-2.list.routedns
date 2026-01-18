@@ -237,7 +237,6 @@
 .dnstls.mobik.com
 .dns.moonssif.com
 .ns.mtsoln.com
-.dns.mzjtechnology.com
 .dns.nguyendn.com
 .d.niaox.com
 .dns-cybersec.nordthreatprotection.com
@@ -466,6 +465,7 @@
 .lastentarvike.fi
 .lelux.fi
 .ns.nwps.fi
+.ns.trcnet.fi
 .doh.42l.fr
 .dns.aquilenet.fr
 .doh.bortzmeyer.fr
@@ -484,7 +484,6 @@
 .blockerads.multimediaconcept.fr
 .rayneau.fr
 .dns.sellan.fr
-.pates.services.sfr.fr.casepp.sfr.fr
 .dns.spirio.fr
 .adb-home.xaoimoon.fr
 .adfiltro.fun
@@ -613,6 +612,7 @@
 .dns.redvau.lt
 .sink.nolo.ltd
 .dns.circl.lu
+.blackhole.myon.lu
 .dnspub.restena.lu
 .doh.lv
 .doh.nic.lv
@@ -664,6 +664,8 @@
 .dns.sev.monster
 .dns.therifleman.name
 .doh003.280blocker.net
+.res-acst1.absolight.net
+.res-acst2.absolight.net
 .res-acst3.absolight.net
 .resolver1.absolight.net
 .resolver2.absolight.net
@@ -950,6 +952,7 @@
 .blocker.thethorsens.org
 .doh.tiarap.org
 .jp.tiarap.org
+.truta.org
 .vorlif.org
 .dns.w3ctag.org
 .wikimedia-dns.org
@@ -1114,13 +1117,13 @@
 .dns.labnekotest.site
 .tecdrive.site
 .vtcuong.site
+.dns.levonet.sk
 .dns.elemental.software
 .dns.cloudtrust.solutions
 .dns.b33.space
 .adg.rueiliu.space
 .dns.sy.st
 .home-server.store
-.dns.fizz.studio
 .dns.xuming.studio
 .crypto.sx
 .dns.cybertonic.tech
