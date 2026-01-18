@@ -9088,6 +9088,8 @@ autoconfig.ezproxy.kuleuven.be
 autoconfig.kuleuven.cloud
 autoconfig.ae.kg
 autoconfig.keymachine.de
+autoconfig.kiloapps.ai
+autoconfig.kiloapps.io
 autoconfig.kinghost.net
 autoconfig.uni5.net
 autoconfig.knightpoint.systems
@@ -19175,6 +19177,8 @@ _autodiscover.ezproxy.kuleuven.be
 _autodiscover.kuleuven.cloud
 _autodiscover.ae.kg
 _autodiscover.keymachine.de
+_autodiscover.kiloapps.ai
+_autodiscover.kiloapps.io
 _autodiscover.kinghost.net
 _autodiscover.uni5.net
 _autodiscover.knightpoint.systems
@@ -29262,6 +29266,8 @@ autodiscover.ezproxy.kuleuven.be
 autodiscover.kuleuven.cloud
 autodiscover.ae.kg
 autodiscover.keymachine.de
+autodiscover.kiloapps.ai
+autodiscover.kiloapps.io
 autodiscover.kinghost.net
 autodiscover.uni5.net
 autodiscover.knightpoint.systems
@@ -39349,6 +39355,8 @@ b._dns-sd.ezproxy.kuleuven.be
 b._dns-sd.kuleuven.cloud
 b._dns-sd.ae.kg
 b._dns-sd.keymachine.de
+b._dns-sd.kiloapps.ai
+b._dns-sd.kiloapps.io
 b._dns-sd.kinghost.net
 b._dns-sd.uni5.net
 b._dns-sd.knightpoint.systems
@@ -49436,6 +49444,8 @@ db._dns-sd.ezproxy.kuleuven.be
 db._dns-sd.kuleuven.cloud
 db._dns-sd.ae.kg
 db._dns-sd.keymachine.de
+db._dns-sd.kiloapps.ai
+db._dns-sd.kiloapps.io
 db._dns-sd.kinghost.net
 db._dns-sd.uni5.net
 db._dns-sd.knightpoint.systems
@@ -59523,6 +59533,8 @@ isatap.ezproxy.kuleuven.be
 isatap.kuleuven.cloud
 isatap.ae.kg
 isatap.keymachine.de
+isatap.kiloapps.ai
+isatap.kiloapps.io
 isatap.kinghost.net
 isatap.uni5.net
 isatap.knightpoint.systems
@@ -69610,6 +69622,8 @@ lb._dns-sd.ezproxy.kuleuven.be
 lb._dns-sd.kuleuven.cloud
 lb._dns-sd.ae.kg
 lb._dns-sd.keymachine.de
+lb._dns-sd.kiloapps.ai
+lb._dns-sd.kiloapps.io
 lb._dns-sd.kinghost.net
 lb._dns-sd.uni5.net
 lb._dns-sd.knightpoint.systems
@@ -79697,6 +79711,8 @@ wpad.ezproxy.kuleuven.be
 wpad.kuleuven.cloud
 wpad.ae.kg
 wpad.keymachine.de
+wpad.kiloapps.ai
+wpad.kiloapps.io
 wpad.kinghost.net
 wpad.uni5.net
 wpad.knightpoint.systems
@@ -89784,6 +89800,8 @@ wpad.tcp.ezproxy.kuleuven.be
 wpad.tcp.kuleuven.cloud
 wpad.tcp.ae.kg
 wpad.tcp.keymachine.de
+wpad.tcp.kiloapps.ai
+wpad.tcp.kiloapps.io
 wpad.tcp.kinghost.net
 wpad.tcp.uni5.net
 wpad.tcp.knightpoint.systems
