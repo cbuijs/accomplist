@@ -44,6 +44,7 @@ resolver1.opendns.com
 resolver1-fs.opendns.com
 resolver2.opendns.com
 resolver2-fs.opendns.com
+dns.pumplex.com
 dns1.ryan-palmer.com
 doh-01.spectrum.com
 doh-02.spectrum.com
@@ -89,6 +90,7 @@ doh.armadillodns.net
 dohtrial.att.net
 doh1.b-cdn.net
 doh2.b-cdn.net
+dns-tls.bitwiseshift.net
 ibuki.cgnat.net
 dns.cmrg.net
 doh.cox.net
