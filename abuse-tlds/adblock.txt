@@ -1,6 +1,6 @@
 [Adblock Plus 1.1]
 ! Title: Accomplist "Tlds" AdBlock List (Top-N Version)
-! Version: 1768722524
+! Version: 1768805409
 ! Homepage: https://github.com/cbuijs/accomplist/tree/master/tlds
 !
 ! WhiteList Domains:
@@ -1080,6 +1080,8 @@
 @@||freshtorge.shop^
 ! Sub-domain "frontiers.shop" unblacklisted from domain "shop"
 @@||frontiers.shop^
+! Sub-domain "funk-dichtungstechnik.shop" unblacklisted from domain "shop"
+@@||funk-dichtungstechnik.shop^
 ! Sub-domain "geekchic.shop" unblacklisted from domain "shop"
 @@||geekchic.shop^
 ! Sub-domain "grnk.shop" unblacklisted from domain "shop"
