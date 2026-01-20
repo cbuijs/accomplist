@@ -13,7 +13,6 @@
 .rfree2.blue-shield.at
 .dns.fancyorg.at
 .dns.kescher.at
-.cube.neubsi.at
 .dns.neubsi.at
 .dns.sv-zauner.at
 .dns.cloud88.com.au
@@ -185,6 +184,7 @@
 .easyhandshake.com
 .dns.edgeburnmedia.com
 .edgy-dns.com
+.dns.efficientdocuments.com
 .doh.flashstart.com
 .dns.flwagners.com
 .biying.flymlc.com
@@ -465,7 +465,6 @@
 .lastentarvike.fi
 .lelux.fi
 .ns.nwps.fi
-.ns.trcnet.fi
 .doh.42l.fr
 .dns.aquilenet.fr
 .doh.bortzmeyer.fr
@@ -484,6 +483,7 @@
 .blockerads.multimediaconcept.fr
 .rayneau.fr
 .dns.sellan.fr
+.pates.services.sfr.fr.casepp.sfr.fr
 .dns.spirio.fr
 .adb-home.xaoimoon.fr
 .adfiltro.fun
@@ -546,7 +546,6 @@
 .dns.api.staging.globuscs.info
 .dns.api.test.globuscs.info
 .doh.kekew.info
-.kilabit.info
 .testaghome.meshkov.info
 .dns.olpploiopkuyhiopsfrt.info
 .agh.printk.info
@@ -575,6 +574,8 @@
 .resolver.unstoppable.io
 .dns.unx.io
 .dns.wargan.io
+.dns.shecan.ir
+.pro.shecan.ir
 .dns.flatuslifir.is
 .ricko.is
 .doh.ccb-net.it
@@ -601,6 +602,7 @@
 .solaxy.live
 .v2.xx3210766.live
 .d.bod.lol
+.greatideasforlife.lol
 .dns.green-ping.lol
 .johneldenring.lol
 .quic.lol
@@ -663,9 +665,7 @@
 .dns.sev.monster
 .dns.therifleman.name
 .doh003.280blocker.net
-.res-acst1.absolight.net
 .res-acst2.absolight.net
-.res-acst3.absolight.net
 .resolver1.absolight.net
 .resolver2.absolight.net
 .resolver3.absolight.net
@@ -862,7 +862,6 @@
 .dns.melvin2204.nl
 .dns.pccoach.nl
 .doh.sidnlabs.nl
-.dns.sstomp.nl
 .timmes.nl
 .nat64.tuxis.nl
 .adguard.wirimij.nl
@@ -895,7 +894,6 @@
 .dns.colorfreedom.org
 .dns.csswg.org
 .ns1.dotls.org
-.home27.duckdns.org
 .ueni.dyndns.org
 .arashi.eu.org
 .armorrush.eu.org
@@ -1115,6 +1113,7 @@
 .adg.rueiliu.space
 .dns.sy.st
 .home-server.store
+.dns.fizz.studio
 .dns.xuming.studio
 .crypto.sx
 .dns.cybertonic.tech
