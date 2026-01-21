@@ -184,7 +184,6 @@ resolver2.dyndnsinternetguide.com
 easyhandshake.com
 dns.edgeburnmedia.com
 edgy-dns.com
-dns.efficientdocuments.com
 doh.flashstart.com
 dns.flwagners.com
 biying.flymlc.com
@@ -465,6 +464,7 @@ dns.christerwaren.fi
 lastentarvike.fi
 lelux.fi
 ns.nwps.fi
+ns.trcnet.fi
 doh.42l.fr
 dns.aquilenet.fr
 doh.bortzmeyer.fr
@@ -546,6 +546,7 @@ dns.api.sandbox.globuscs.info
 dns.api.staging.globuscs.info
 dns.api.test.globuscs.info
 doh.kekew.info
+kilabit.info
 testaghome.meshkov.info
 dns.olpploiopkuyhiopsfrt.info
 agh.printk.info
@@ -574,8 +575,6 @@ opennic.tenta.io
 resolver.unstoppable.io
 dns.unx.io
 dns.wargan.io
-dns.shecan.ir
-pro.shecan.ir
 dns.flatuslifir.is
 ricko.is
 doh.ccb-net.it
@@ -665,7 +664,9 @@ dns.noridev.moe
 dns.sev.monster
 dns.therifleman.name
 doh003.280blocker.net
+res-acst1.absolight.net
 res-acst2.absolight.net
+res-acst3.absolight.net
 resolver1.absolight.net
 resolver2.absolight.net
 resolver3.absolight.net
@@ -715,7 +716,6 @@ dns.digitalsize.net
 dns4me.net
 dns.dnsoverhttps.net
 takhtakh.domyah.net
-gustamadh.dynv6.net
 dnscache.e-utp.net
 adguard.easez.net
 dns.eddi.net
@@ -862,6 +862,7 @@ meganerd.nl
 dns.melvin2204.nl
 dns.pccoach.nl
 doh.sidnlabs.nl
+dns.sstomp.nl
 timmes.nl
 nat64.tuxis.nl
 adguard.wirimij.nl
@@ -894,6 +895,10 @@ us.doh.cloudveil.org
 dns.colorfreedom.org
 dns.csswg.org
 ns1.dotls.org
+home27.duckdns.org
+osefcorp.duckdns.org
+punono.duckdns.org
+tuandns.duckdns.org
 ueni.dyndns.org
 arashi.eu.org
 armorrush.eu.org
@@ -1113,7 +1118,6 @@ dns.b33.space
 adg.rueiliu.space
 dns.sy.st
 home-server.store
-dns.fizz.studio
 dns.xuming.studio
 crypto.sx
 dns.cybertonic.tech
