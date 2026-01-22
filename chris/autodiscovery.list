@@ -9810,6 +9810,7 @@ autoconfig.my.at
 autoconfig.my.de
 autoconfig.nxa.eu
 autoconfig.nx.gw
+autoconfig.spawnbase.app
 autoconfig.customer.speedpartner.de
 autoconfig.myspreadshop.at
 autoconfig.myspreadshop.com.au
@@ -19899,6 +19900,7 @@ _autodiscover.my.at
 _autodiscover.my.de
 _autodiscover.nxa.eu
 _autodiscover.nx.gw
+_autodiscover.spawnbase.app
 _autodiscover.customer.speedpartner.de
 _autodiscover.myspreadshop.at
 _autodiscover.myspreadshop.com.au
@@ -29988,6 +29990,7 @@ autodiscover.my.at
 autodiscover.my.de
 autodiscover.nxa.eu
 autodiscover.nx.gw
+autodiscover.spawnbase.app
 autodiscover.customer.speedpartner.de
 autodiscover.myspreadshop.at
 autodiscover.myspreadshop.com.au
@@ -40077,6 +40080,7 @@ b._dns-sd.my.at
 b._dns-sd.my.de
 b._dns-sd.nxa.eu
 b._dns-sd.nx.gw
+b._dns-sd.spawnbase.app
 b._dns-sd.customer.speedpartner.de
 b._dns-sd.myspreadshop.at
 b._dns-sd.myspreadshop.com.au
@@ -50166,6 +50170,7 @@ db._dns-sd.my.at
 db._dns-sd.my.de
 db._dns-sd.nxa.eu
 db._dns-sd.nx.gw
+db._dns-sd.spawnbase.app
 db._dns-sd.customer.speedpartner.de
 db._dns-sd.myspreadshop.at
 db._dns-sd.myspreadshop.com.au
@@ -60255,6 +60260,7 @@ isatap.my.at
 isatap.my.de
 isatap.nxa.eu
 isatap.nx.gw
+isatap.spawnbase.app
 isatap.customer.speedpartner.de
 isatap.myspreadshop.at
 isatap.myspreadshop.com.au
@@ -70344,6 +70350,7 @@ lb._dns-sd.my.at
 lb._dns-sd.my.de
 lb._dns-sd.nxa.eu
 lb._dns-sd.nx.gw
+lb._dns-sd.spawnbase.app
 lb._dns-sd.customer.speedpartner.de
 lb._dns-sd.myspreadshop.at
 lb._dns-sd.myspreadshop.com.au
@@ -80433,6 +80440,7 @@ wpad.my.at
 wpad.my.de
 wpad.nxa.eu
 wpad.nx.gw
+wpad.spawnbase.app
 wpad.customer.speedpartner.de
 wpad.myspreadshop.at
 wpad.myspreadshop.com.au
@@ -90522,6 +90530,7 @@ wpad.tcp.my.at
 wpad.tcp.my.de
 wpad.tcp.nxa.eu
 wpad.tcp.nx.gw
+wpad.tcp.spawnbase.app
 wpad.tcp.customer.speedpartner.de
 wpad.tcp.myspreadshop.at
 wpad.tcp.myspreadshop.com.au
