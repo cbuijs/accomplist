@@ -1,6 +1,6 @@
 [Adblock Plus 1.1]
 ! Title: Accomplist "Tlds" AdBlock List (Top-N Version)
-! Version: 1768978821
+! Version: 1769066881
 ! Homepage: https://github.com/cbuijs/accomplist/tree/master/tlds
 !
 ! WhiteList Domains:
@@ -216,6 +216,8 @@
 @@||rutracker.cc^
 ! Sub-domain "shottr.cc" unblacklisted from domain "cc"
 @@||shottr.cc^
+! Sub-domain "silca.cc" unblacklisted from domain "cc"
+@@||silca.cc^
 ! Sub-domain "toxicland.cc" unblacklisted from domain "cc"
 @@||toxicland.cc^
 ! Sub-domain "ultra.cc" unblacklisted from domain "cc"
@@ -1382,10 +1384,10 @@
 @@||lemmy.today^
 ! Sub-domain "oldweb.today" unblacklisted from domain "today"
 @@||oldweb.today^
+! Sub-domain "som.today" unblacklisted from domain "today"
+@@||som.today^
 ! Sub-domain "type.today" unblacklisted from domain "today"
 @@||type.today^
-! Sub-domain "tmaeno.tokyo" unblacklisted from domain "tokyo"
-@@||tmaeno.tokyo^
 ! Sub-domain "ambr.top" unblacklisted from domain "top"
 @@||ambr.top^
 ! Sub-domain "caitlin.top" unblacklisted from domain "top"
