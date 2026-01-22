@@ -577,8 +577,6 @@ secure-dns.dns-ga.de
 adguard-koe.dns64.de
 dnsforge.de
 dns.dnshome.de
-atlantic.dyn1.de
-dns.dyn1.de
 opennic1.eth-services.de
 eime.goip.de
 dns1.in-berlin.de
@@ -593,6 +591,9 @@ doh.niyawe.de
 dns.peb-schmidt.de
 project-evoex.de
 wifrousl.spdns.de
+resolve.srv-pro.de
+resolve02.srv-pro.de
+resolve2.srv-pro.de
 dns.t-ipnet.de
 dns.t53.de
 td-doh.dns.t53.de
@@ -741,7 +742,6 @@ doh.kekew.info
 doh3.kekew.info
 testaghome.meshkov.info
 xpen.ns01.info
-gr.skrsteam.info
 c9.dedyn.io
 frank-web.dedyn.io
 k03.dedyn.io
@@ -765,11 +765,10 @@ icn-aa.objet.seia.io
 xstl.objet.seia.io
 xstl.seia.io
 dns.smartguard.io
-iana.tenta.io
-opennic.tenta.io
 dns.unx.io
 doh-rs.whalebone.io
 dns.shecan.ir
+free.shecan.ir
 pro.shecan.ir
 cryptostorm.is
 dns.flatuslifir.is
@@ -955,7 +954,6 @@ dnspod-vip5.beian.mydnspod.net
 echoe1yidzu4ioo5.myfritz.net
 sp1wpdybsw1twq1d.myfritz.net
 96500b732ed8.sn.mynetname.net
-doh-ca.naftalie.net
 ae-fuj-w-p-1.nashkan.net
 ae-fuj-w-p-2.nashkan.net
 ae-fuj-w-p-3.nashkan.net

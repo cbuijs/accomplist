@@ -1,6 +1,6 @@
 [Adblock Plus 1.1]
 ! Title: Accomplist "Doh" AdBlock List (Top-N Version)
-! Version: 1768979099
+! Version: 1769067170
 ! Homepage: https://github.com/cbuijs/accomplist/tree/master/doh
 !
 ! WhiteList Domains:
@@ -1963,6 +1963,7 @@
 ||adguard.nostaloogia.ir^
 ||dns.sbstructure.ir^
 ||dns.shecan.ir^
+||free.shecan.ir^
 ||pro.shecan.ir^
 ||dns.virtual-qr.ir^
 ||cryptostorm.is^

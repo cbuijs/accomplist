@@ -13,6 +13,7 @@
 .rfree2.blue-shield.at
 .dns.fancyorg.at
 .dns.kescher.at
+.cube.neubsi.at
 .dns.neubsi.at
 .dns.sv-zauner.at
 .dns.cloud88.com.au
@@ -420,7 +421,6 @@
 .dns.jinwoo.dev
 .pihole.aws.ketan.dev
 .adg.khon.dev
-.adblock.krctech.dev
 .dns.molinero.dev
 .dns.mrkaran.dev
 .renardbleu.dev
@@ -575,6 +575,8 @@
 .resolver.unstoppable.io
 .dns.unx.io
 .dns.wargan.io
+.dns.shecan.ir
+.pro.shecan.ir
 .dns.flatuslifir.is
 .ricko.is
 .doh.ccb-net.it
@@ -583,6 +585,7 @@
 .dns.neeb.it
 .doh.luigi.nexific.it
 .adguard.pangerl.it
+.dns.repressoh.it
 .galileo.math.unipd.it
 .iij.jp
 .dns.cctld.kg
@@ -716,6 +719,7 @@
 .dns4me.net
 .dns.dnsoverhttps.net
 .takhtakh.domyah.net
+.gustamadh.dynv6.net
 .dnscache.e-utp.net
 .adguard.easez.net
 .dns.eddi.net
@@ -889,16 +893,12 @@
 .dns.blokada.org
 .catdns.org
 .cfdjb.org
-.cleanbrowsing.org
 .ca.doh.cloudveil.org
 .us.doh.cloudveil.org
 .dns.colorfreedom.org
 .dns.csswg.org
 .ns1.dotls.org
-.home27.duckdns.org
-.osefcorp.duckdns.org
-.punono.duckdns.org
-.tuandns.duckdns.org
+.krtekvpn.duckdns.org
 .ueni.dyndns.org
 .arashi.eu.org
 .armorrush.eu.org
@@ -1118,6 +1118,7 @@
 .adg.rueiliu.space
 .dns.sy.st
 .home-server.store
+.dns.fizz.studio
 .dns.xuming.studio
 .crypto.sx
 .dns.cybertonic.tech
