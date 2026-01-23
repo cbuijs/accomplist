@@ -13,7 +13,6 @@
 .rfree2.blue-shield.at
 .dns.fancyorg.at
 .dns.kescher.at
-.cube.neubsi.at
 .dns.neubsi.at
 .dns.sv-zauner.at
 .dns.cloud88.com.au
@@ -112,7 +111,6 @@
 .dns.ares-taiwan.com
 .dns.arkbotech.com
 .dns.asterimoon.com
-.dandelionsprout.asuscomm.com
 .dns.asysec.com
 .adguardhome.atakorah.com
 .secure.avastdns.com
@@ -185,6 +183,7 @@
 .easyhandshake.com
 .dns.edgeburnmedia.com
 .edgy-dns.com
+.dns.efficientdocuments.com
 .doh.flashstart.com
 .dns.flwagners.com
 .biying.flymlc.com
@@ -211,7 +210,6 @@
 .dns.ihaveacloud.com
 .dns.ikataruto.com
 .noads.imbuffering.com
-.dns.inclusioproject.com
 .dns.inforlogia.com
 .dns1.irumatech.com
 .dns.is0mino.com
@@ -421,6 +419,7 @@
 .dns.jinwoo.dev
 .pihole.aws.ketan.dev
 .adg.khon.dev
+.adblock.krctech.dev
 .dns.molinero.dev
 .dns.mrkaran.dev
 .renardbleu.dev
@@ -464,7 +463,6 @@
 .lastentarvike.fi
 .lelux.fi
 .ns.nwps.fi
-.ns.trcnet.fi
 .doh.42l.fr
 .dns.aquilenet.fr
 .doh.bortzmeyer.fr
@@ -615,7 +613,6 @@
 .dns.redvau.lt
 .sink.nolo.ltd
 .dns.circl.lu
-.blackhole.myon.lu
 .dnspub.restena.lu
 .doh.lv
 .doh.nic.lv
@@ -669,7 +666,6 @@
 .doh003.280blocker.net
 .res-acst1.absolight.net
 .res-acst2.absolight.net
-.res-acst3.absolight.net
 .resolver1.absolight.net
 .resolver2.absolight.net
 .resolver3.absolight.net
@@ -893,12 +889,19 @@
 .dns.blokada.org
 .catdns.org
 .cfdjb.org
+.cleanbrowsing.org
 .ca.doh.cloudveil.org
 .us.doh.cloudveil.org
 .dns.colorfreedom.org
 .dns.csswg.org
 .ns1.dotls.org
+.home27.duckdns.org
+.jurre-home.duckdns.org
 .krtekvpn.duckdns.org
+.osefcorp.duckdns.org
+.punono.duckdns.org
+.tuandns.duckdns.org
+.tungdnsne.duckdns.org
 .ueni.dyndns.org
 .arashi.eu.org
 .armorrush.eu.org
@@ -906,6 +909,7 @@
 .arashi.net.eu.org
 .sukidayo.eu.org
 .dns.falkenthal.org
+.adguard.gambini.org
 .dns.girino.org
 .dns.api.globus.org
 .dns.api.preview.globus.org
@@ -1118,7 +1122,6 @@
 .adg.rueiliu.space
 .dns.sy.st
 .home-server.store
-.dns.fizz.studio
 .dns.xuming.studio
 .crypto.sx
 .dns.cybertonic.tech
@@ -1177,7 +1180,6 @@
 .dns.mtoo.vip
 .squidmall.vip
 .tienpham.id.vn
-.chungocoai.name.vn
 .dns.watch
 .polisitogel.webcam
 .rockwell.website
