@@ -12,7 +12,6 @@
 .rfree1.blue-shield.at
 .rfree2.blue-shield.at
 .dns.fancyorg.at
-.dns.kescher.at
 .dns.neubsi.at
 .dns.sv-zauner.at
 .dns.cloud88.com.au
@@ -111,6 +110,7 @@
 .dns.ares-taiwan.com
 .dns.arkbotech.com
 .dns.asterimoon.com
+.dandelionsprout.asuscomm.com
 .dns.asysec.com
 .adguardhome.atakorah.com
 .secure.avastdns.com
@@ -456,13 +456,13 @@
 .doh.securedns.eu
 .dns.skrep.eu
 .unasw.eu
-.zougloub.eu
 .dns.expert
 .dns.connect.fail
 .dns.christerwaren.fi
 .lastentarvike.fi
 .lelux.fi
 .ns.nwps.fi
+.ns.trcnet.fi
 .doh.42l.fr
 .dns.aquilenet.fr
 .doh.bortzmeyer.fr
@@ -481,7 +481,6 @@
 .blockerads.multimediaconcept.fr
 .rayneau.fr
 .dns.sellan.fr
-.pates.services.sfr.fr.casepp.sfr.fr
 .dns.spirio.fr
 .adb-home.xaoimoon.fr
 .adfiltro.fun
@@ -583,7 +582,6 @@
 .dns.neeb.it
 .doh.luigi.nexific.it
 .adguard.pangerl.it
-.dns.repressoh.it
 .galileo.math.unipd.it
 .iij.jp
 .dns.cctld.kg
@@ -666,6 +664,7 @@
 .doh003.280blocker.net
 .res-acst1.absolight.net
 .res-acst2.absolight.net
+.res-acst3.absolight.net
 .resolver1.absolight.net
 .resolver2.absolight.net
 .resolver3.absolight.net
@@ -898,7 +897,6 @@
 .home27.duckdns.org
 .jurre-home.duckdns.org
 .krtekvpn.duckdns.org
-.osefcorp.duckdns.org
 .punono.duckdns.org
 .tuandns.duckdns.org
 .tungdnsne.duckdns.org
@@ -948,10 +946,8 @@
 .ny.teradns.org
 .sg.teradns.org
 .dns.thebuckners.org
-.blocker.thethorsens.org
 .doh.tiarap.org
 .jp.tiarap.org
-.truta.org
 .vorlif.org
 .dns.w3ctag.org
 .wikimedia-dns.org
@@ -1115,7 +1111,6 @@
 .dns.labnekotest.site
 .tecdrive.site
 .vtcuong.site
-.dns.levonet.sk
 .dns.elemental.software
 .dns.cloudtrust.solutions
 .dns.b33.space
@@ -1180,6 +1175,7 @@
 .dns.mtoo.vip
 .squidmall.vip
 .tienpham.id.vn
+.chungocoai.name.vn
 .dns.watch
 .polisitogel.webcam
 .rockwell.website
