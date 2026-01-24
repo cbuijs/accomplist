@@ -1,6 +1,6 @@
 [Adblock Plus 1.1]
 ! Title: Accomplist "Tlds" AdBlock List (Top-N Version)
-! Version: 1769154323
+! Version: 1769239691
 ! Homepage: https://github.com/cbuijs/accomplist/tree/master/tlds
 !
 ! WhiteList Domains:
@@ -60,6 +60,8 @@
 @@||epg.best^
 ! Sub-domain "xhamster.best" unblacklisted from domain "best"
 @@||xhamster.best^
+! Sub-domain "thescore.bet" unblacklisted from domain "bet"
+@@||thescore.bet^
 ! Sub-domain "dat.bike" unblacklisted from domain "bike"
 @@||dat.bike^
 ! Sub-domain "lime.bike" unblacklisted from domain "bike"
