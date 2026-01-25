@@ -12,6 +12,8 @@ tlz.asia
 rfree1.blue-shield.at
 rfree2.blue-shield.at
 dns.fancyorg.at
+dns.kescher.at
+cube.neubsi.at
 dns.neubsi.at
 dns.sv-zauner.at
 dns.cloud88.com.au
@@ -179,11 +181,9 @@ uncensored-dot.dnswarden.com
 doh.us.dnswarden.com
 dnswebvsn.com
 family.dns.doubleangels.com
-resolver2.dyndnsinternetguide.com
 easyhandshake.com
 dns.edgeburnmedia.com
 edgy-dns.com
-dns.efficientdocuments.com
 doh.flashstart.com
 dns.flwagners.com
 biying.flymlc.com
@@ -419,7 +419,6 @@ dns.hanahira.dev
 dns.jinwoo.dev
 pihole.aws.ketan.dev
 adg.khon.dev
-adblock.krctech.dev
 dns.molinero.dev
 dns.mrkaran.dev
 renardbleu.dev
@@ -456,13 +455,13 @@ ads-doh.securedns.eu
 doh.securedns.eu
 dns.skrep.eu
 unasw.eu
+zougloub.eu
 dns.expert
 dns.connect.fail
 dns.christerwaren.fi
 lastentarvike.fi
 lelux.fi
 ns.nwps.fi
-ns.trcnet.fi
 doh.42l.fr
 dns.aquilenet.fr
 doh.bortzmeyer.fr
@@ -611,6 +610,7 @@ dns.ourvau.lt
 dns.redvau.lt
 sink.nolo.ltd
 dns.circl.lu
+blackhole.myon.lu
 dnspub.restena.lu
 doh.lv
 doh.nic.lv
@@ -714,7 +714,6 @@ dns.digitalsize.net
 dns4me.net
 dns.dnsoverhttps.net
 takhtakh.domyah.net
-gustamadh.dynv6.net
 dnscache.e-utp.net
 adguard.easez.net
 dns.eddi.net
@@ -800,7 +799,6 @@ us-saj-w-f-1.nashkan.net
 us-saj-w-p-1.nashkan.net
 dns.netvpn.net
 kiri.nonexiste.net
-dns.novg.net
 dnscache0.ns71.net
 dns.nullgate.net
 dns.ofdoom.net
@@ -896,7 +894,6 @@ dns.csswg.org
 ns1.dotls.org
 home27.duckdns.org
 jurre-home.duckdns.org
-krtekvpn.duckdns.org
 punono.duckdns.org
 tuandns.duckdns.org
 tungdnsne.duckdns.org
@@ -940,14 +937,15 @@ fi.doh.dns.snopyta.org
 spacedns.org
 dns.stormycloud.org
 doh.suche.org
-doh.syshero.org
 dns1.techeasy.org
 de.teradns.org
 ny.teradns.org
 sg.teradns.org
 dns.thebuckners.org
+blocker.thethorsens.org
 doh.tiarap.org
 jp.tiarap.org
+truta.org
 vorlif.org
 dns.w3ctag.org
 wikimedia-dns.org
@@ -1111,12 +1109,14 @@ dns.l337.site
 dns.labnekotest.site
 tecdrive.site
 vtcuong.site
+dns.levonet.sk
 dns.elemental.software
 dns.cloudtrust.solutions
 dns.b33.space
 adg.rueiliu.space
 dns.sy.st
 home-server.store
+dns.fizz.studio
 dns.xuming.studio
 crypto.sx
 dns.cybertonic.tech
@@ -1227,8 +1227,6 @@ dns.maolaohei.xyz
 maqgie.xyz
 dns.mh4ckt3mh4ckt1c4s.xyz
 mikezhang.xyz
-a.passcloud.xyz
-i.passcloud.xyz
 pepetio.xyz
 pm1239-bd.xyz
 pm7051-br.xyz
