@@ -1,6 +1,6 @@
 [Adblock Plus 1.1]
 ! Title: Accomplist "Tlds" AdBlock List (Top-N Version)
-! Version: 1769239691
+! Version: 1769326543
 ! Homepage: https://github.com/cbuijs/accomplist/tree/master/tlds
 !
 ! WhiteList Domains:
@@ -48,10 +48,26 @@
 @@||shopdisney.asia^
 ! Sub-domain "flying-circus.band" unblacklisted from domain "band"
 @@||flying-circus.band^
+! Sub-domain "bolero.bar" unblacklisted from domain "bar"
+@@||bolero.bar^
+! Sub-domain "brexx.bar" unblacklisted from domain "bar"
+@@||brexx.bar^
+! Sub-domain "einhorn.bar" unblacklisted from domain "bar"
+@@||einhorn.bar^
+! Sub-domain "ethics.bar" unblacklisted from domain "bar"
+@@||ethics.bar^
 ! Sub-domain "fap.bar" unblacklisted from domain "bar"
 @@||fap.bar^
+! Sub-domain "hai.bar" unblacklisted from domain "bar"
+@@||hai.bar^
+! Sub-domain "herz.bar" unblacklisted from domain "bar"
+@@||herz.bar^
 ! Sub-domain "mavie.bar" unblacklisted from domain "bar"
 @@||mavie.bar^
+! Sub-domain "metro.bar" unblacklisted from domain "bar"
+@@||metro.bar^
+! Sub-domain "reit.bar" unblacklisted from domain "bar"
+@@||reit.bar^
 ! Sub-domain "strem.bar" unblacklisted from domain "bar"
 @@||strem.bar^
 ! Sub-domain "voi.bar" unblacklisted from domain "bar"
