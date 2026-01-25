@@ -7967,6 +7967,7 @@
 .autoconfig.ae.org
 .autoconfig.com.se
 .autoconfig.cx.ua
+.autoconfig.discourse.diy
 .autoconfig.discourse.group
 .autoconfig.discourse.team
 .autoconfig.clerk.app
@@ -8055,6 +8056,7 @@
 .autoconfig.gov.ru
 .autoconfig.int.ru
 .autoconfig.mil.ru
+.autoconfig.corespeed.app
 .autoconfig.dyn.cosidns.de
 .autoconfig.dnsupdater.de
 .autoconfig.dynamisches-dns.de
@@ -9098,6 +9100,8 @@
 .autoconfig.krellian.net
 .autoconfig.oya.to
 .autoconfig.co.de
+.autoconfig.shiptoday.app
+.autoconfig.shiptoday.build
 .autoconfig.laravel.cloud
 .autoconfig.on-forge.com
 .autoconfig.on-vapor.com
@@ -9256,6 +9260,8 @@
 .autoconfig.same-app.com
 .autoconfig.same-preview.com
 .autoconfig.csx.cc
+.autoconfig.miren.app
+.autoconfig.miren.systems
 .autoconfig.mydbserver.com
 .autoconfig.webspaceconfig.de
 .autoconfig.mittwald.info
@@ -18057,6 +18063,7 @@
 ._autodiscover.ae.org
 ._autodiscover.com.se
 ._autodiscover.cx.ua
+._autodiscover.discourse.diy
 ._autodiscover.discourse.group
 ._autodiscover.discourse.team
 ._autodiscover.clerk.app
@@ -18145,6 +18152,7 @@
 ._autodiscover.gov.ru
 ._autodiscover.int.ru
 ._autodiscover.mil.ru
+._autodiscover.corespeed.app
 ._autodiscover.dyn.cosidns.de
 ._autodiscover.dnsupdater.de
 ._autodiscover.dynamisches-dns.de
@@ -19188,6 +19196,8 @@
 ._autodiscover.krellian.net
 ._autodiscover.oya.to
 ._autodiscover.co.de
+._autodiscover.shiptoday.app
+._autodiscover.shiptoday.build
 ._autodiscover.laravel.cloud
 ._autodiscover.on-forge.com
 ._autodiscover.on-vapor.com
@@ -19346,6 +19356,8 @@
 ._autodiscover.same-app.com
 ._autodiscover.same-preview.com
 ._autodiscover.csx.cc
+._autodiscover.miren.app
+._autodiscover.miren.systems
 ._autodiscover.mydbserver.com
 ._autodiscover.webspaceconfig.de
 ._autodiscover.mittwald.info
@@ -28147,6 +28159,7 @@
 .autodiscover.ae.org
 .autodiscover.com.se
 .autodiscover.cx.ua
+.autodiscover.discourse.diy
 .autodiscover.discourse.group
 .autodiscover.discourse.team
 .autodiscover.clerk.app
@@ -28235,6 +28248,7 @@
 .autodiscover.gov.ru
 .autodiscover.int.ru
 .autodiscover.mil.ru
+.autodiscover.corespeed.app
 .autodiscover.dyn.cosidns.de
 .autodiscover.dnsupdater.de
 .autodiscover.dynamisches-dns.de
@@ -29278,6 +29292,8 @@
 .autodiscover.krellian.net
 .autodiscover.oya.to
 .autodiscover.co.de
+.autodiscover.shiptoday.app
+.autodiscover.shiptoday.build
 .autodiscover.laravel.cloud
 .autodiscover.on-forge.com
 .autodiscover.on-vapor.com
@@ -29436,6 +29452,8 @@
 .autodiscover.same-app.com
 .autodiscover.same-preview.com
 .autodiscover.csx.cc
+.autodiscover.miren.app
+.autodiscover.miren.systems
 .autodiscover.mydbserver.com
 .autodiscover.webspaceconfig.de
 .autodiscover.mittwald.info
@@ -38237,6 +38255,7 @@
 .b._dns-sd.ae.org
 .b._dns-sd.com.se
 .b._dns-sd.cx.ua
+.b._dns-sd.discourse.diy
 .b._dns-sd.discourse.group
 .b._dns-sd.discourse.team
 .b._dns-sd.clerk.app
@@ -38325,6 +38344,7 @@
 .b._dns-sd.gov.ru
 .b._dns-sd.int.ru
 .b._dns-sd.mil.ru
+.b._dns-sd.corespeed.app
 .b._dns-sd.dyn.cosidns.de
 .b._dns-sd.dnsupdater.de
 .b._dns-sd.dynamisches-dns.de
@@ -39368,6 +39388,8 @@
 .b._dns-sd.krellian.net
 .b._dns-sd.oya.to
 .b._dns-sd.co.de
+.b._dns-sd.shiptoday.app
+.b._dns-sd.shiptoday.build
 .b._dns-sd.laravel.cloud
 .b._dns-sd.on-forge.com
 .b._dns-sd.on-vapor.com
@@ -39526,6 +39548,8 @@
 .b._dns-sd.same-app.com
 .b._dns-sd.same-preview.com
 .b._dns-sd.csx.cc
+.b._dns-sd.miren.app
+.b._dns-sd.miren.systems
 .b._dns-sd.mydbserver.com
 .b._dns-sd.webspaceconfig.de
 .b._dns-sd.mittwald.info
@@ -48327,6 +48351,7 @@
 .db._dns-sd.ae.org
 .db._dns-sd.com.se
 .db._dns-sd.cx.ua
+.db._dns-sd.discourse.diy
 .db._dns-sd.discourse.group
 .db._dns-sd.discourse.team
 .db._dns-sd.clerk.app
@@ -48415,6 +48440,7 @@
 .db._dns-sd.gov.ru
 .db._dns-sd.int.ru
 .db._dns-sd.mil.ru
+.db._dns-sd.corespeed.app
 .db._dns-sd.dyn.cosidns.de
 .db._dns-sd.dnsupdater.de
 .db._dns-sd.dynamisches-dns.de
@@ -49458,6 +49484,8 @@
 .db._dns-sd.krellian.net
 .db._dns-sd.oya.to
 .db._dns-sd.co.de
+.db._dns-sd.shiptoday.app
+.db._dns-sd.shiptoday.build
 .db._dns-sd.laravel.cloud
 .db._dns-sd.on-forge.com
 .db._dns-sd.on-vapor.com
@@ -49616,6 +49644,8 @@
 .db._dns-sd.same-app.com
 .db._dns-sd.same-preview.com
 .db._dns-sd.csx.cc
+.db._dns-sd.miren.app
+.db._dns-sd.miren.systems
 .db._dns-sd.mydbserver.com
 .db._dns-sd.webspaceconfig.de
 .db._dns-sd.mittwald.info
@@ -58417,6 +58447,7 @@
 .isatap.ae.org
 .isatap.com.se
 .isatap.cx.ua
+.isatap.discourse.diy
 .isatap.discourse.group
 .isatap.discourse.team
 .isatap.clerk.app
@@ -58505,6 +58536,7 @@
 .isatap.gov.ru
 .isatap.int.ru
 .isatap.mil.ru
+.isatap.corespeed.app
 .isatap.dyn.cosidns.de
 .isatap.dnsupdater.de
 .isatap.dynamisches-dns.de
@@ -59548,6 +59580,8 @@
 .isatap.krellian.net
 .isatap.oya.to
 .isatap.co.de
+.isatap.shiptoday.app
+.isatap.shiptoday.build
 .isatap.laravel.cloud
 .isatap.on-forge.com
 .isatap.on-vapor.com
@@ -59706,6 +59740,8 @@
 .isatap.same-app.com
 .isatap.same-preview.com
 .isatap.csx.cc
+.isatap.miren.app
+.isatap.miren.systems
 .isatap.mydbserver.com
 .isatap.webspaceconfig.de
 .isatap.mittwald.info
@@ -68507,6 +68543,7 @@
 .lb._dns-sd.ae.org
 .lb._dns-sd.com.se
 .lb._dns-sd.cx.ua
+.lb._dns-sd.discourse.diy
 .lb._dns-sd.discourse.group
 .lb._dns-sd.discourse.team
 .lb._dns-sd.clerk.app
@@ -68595,6 +68632,7 @@
 .lb._dns-sd.gov.ru
 .lb._dns-sd.int.ru
 .lb._dns-sd.mil.ru
+.lb._dns-sd.corespeed.app
 .lb._dns-sd.dyn.cosidns.de
 .lb._dns-sd.dnsupdater.de
 .lb._dns-sd.dynamisches-dns.de
@@ -69638,6 +69676,8 @@
 .lb._dns-sd.krellian.net
 .lb._dns-sd.oya.to
 .lb._dns-sd.co.de
+.lb._dns-sd.shiptoday.app
+.lb._dns-sd.shiptoday.build
 .lb._dns-sd.laravel.cloud
 .lb._dns-sd.on-forge.com
 .lb._dns-sd.on-vapor.com
@@ -69796,6 +69836,8 @@
 .lb._dns-sd.same-app.com
 .lb._dns-sd.same-preview.com
 .lb._dns-sd.csx.cc
+.lb._dns-sd.miren.app
+.lb._dns-sd.miren.systems
 .lb._dns-sd.mydbserver.com
 .lb._dns-sd.webspaceconfig.de
 .lb._dns-sd.mittwald.info
@@ -78597,6 +78639,7 @@
 .wpad.ae.org
 .wpad.com.se
 .wpad.cx.ua
+.wpad.discourse.diy
 .wpad.discourse.group
 .wpad.discourse.team
 .wpad.clerk.app
@@ -78685,6 +78728,7 @@
 .wpad.gov.ru
 .wpad.int.ru
 .wpad.mil.ru
+.wpad.corespeed.app
 .wpad.dyn.cosidns.de
 .wpad.dnsupdater.de
 .wpad.dynamisches-dns.de
@@ -79728,6 +79772,8 @@
 .wpad.krellian.net
 .wpad.oya.to
 .wpad.co.de
+.wpad.shiptoday.app
+.wpad.shiptoday.build
 .wpad.laravel.cloud
 .wpad.on-forge.com
 .wpad.on-vapor.com
@@ -79886,6 +79932,8 @@
 .wpad.same-app.com
 .wpad.same-preview.com
 .wpad.csx.cc
+.wpad.miren.app
+.wpad.miren.systems
 .wpad.mydbserver.com
 .wpad.webspaceconfig.de
 .wpad.mittwald.info
@@ -88687,6 +88735,7 @@
 .wpad.tcp.ae.org
 .wpad.tcp.com.se
 .wpad.tcp.cx.ua
+.wpad.tcp.discourse.diy
 .wpad.tcp.discourse.group
 .wpad.tcp.discourse.team
 .wpad.tcp.clerk.app
@@ -88775,6 +88824,7 @@
 .wpad.tcp.gov.ru
 .wpad.tcp.int.ru
 .wpad.tcp.mil.ru
+.wpad.tcp.corespeed.app
 .wpad.tcp.dyn.cosidns.de
 .wpad.tcp.dnsupdater.de
 .wpad.tcp.dynamisches-dns.de
@@ -89818,6 +89868,8 @@
 .wpad.tcp.krellian.net
 .wpad.tcp.oya.to
 .wpad.tcp.co.de
+.wpad.tcp.shiptoday.app
+.wpad.tcp.shiptoday.build
 .wpad.tcp.laravel.cloud
 .wpad.tcp.on-forge.com
 .wpad.tcp.on-vapor.com
@@ -89976,6 +90028,8 @@
 .wpad.tcp.same-app.com
 .wpad.tcp.same-preview.com
 .wpad.tcp.csx.cc
+.wpad.tcp.miren.app
+.wpad.tcp.miren.systems
 .wpad.tcp.mydbserver.com
 .wpad.tcp.webspaceconfig.de
 .wpad.tcp.mittwald.info
