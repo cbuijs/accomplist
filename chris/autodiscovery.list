@@ -7064,6 +7064,7 @@ autoconfig.auth.us-west-1.amazoncognito.com
 autoconfig.auth-fips.us-west-1.amazoncognito.com
 autoconfig.auth.us-west-2.amazoncognito.com
 autoconfig.auth-fips.us-west-2.amazoncognito.com
+autoconfig.auth.cognito-idp.eusc-de-east-1.on.amazonwebservices.eu
 autoconfig.compute.amazonaws.com.cn
 autoconfig.compute.amazonaws.com
 autoconfig.compute-1.amazonaws.com
@@ -7533,6 +7534,7 @@ autoconfig.s3.dualstack.us-gov-east-1.amazonaws.com
 autoconfig.s3-accesspoint.dualstack.us-gov-east-1.amazonaws.com
 autoconfig.s3-accesspoint-fips.dualstack.us-gov-east-1.amazonaws.com
 autoconfig.s3-fips.dualstack.us-gov-east-1.amazonaws.com
+autoconfig.s3-website.dualstack.us-gov-east-1.amazonaws.com
 autoconfig.s3.us-gov-east-1.amazonaws.com
 autoconfig.s3-accesspoint.us-gov-east-1.amazonaws.com
 autoconfig.s3-accesspoint-fips.us-gov-east-1.amazonaws.com
@@ -7543,6 +7545,7 @@ autoconfig.s3.dualstack.us-gov-west-1.amazonaws.com
 autoconfig.s3-accesspoint.dualstack.us-gov-west-1.amazonaws.com
 autoconfig.s3-accesspoint-fips.dualstack.us-gov-west-1.amazonaws.com
 autoconfig.s3-fips.dualstack.us-gov-west-1.amazonaws.com
+autoconfig.s3-website.dualstack.us-gov-west-1.amazonaws.com
 autoconfig.s3.us-gov-west-1.amazonaws.com
 autoconfig.s3-accesspoint.us-gov-west-1.amazonaws.com
 autoconfig.s3-accesspoint-fips.us-gov-west-1.amazonaws.com
@@ -7806,6 +7809,7 @@ autoconfig.transfer-webapp.ap-southeast-2.on.aws
 autoconfig.transfer-webapp.ap-southeast-3.on.aws
 autoconfig.transfer-webapp.ap-southeast-4.on.aws
 autoconfig.transfer-webapp.ap-southeast-5.on.aws
+autoconfig.transfer-webapp.ap-southeast-7.on.aws
 autoconfig.transfer-webapp.ca-central-1.on.aws
 autoconfig.transfer-webapp.ca-west-1.on.aws
 autoconfig.transfer-webapp.eu-central-1.on.aws
@@ -7819,6 +7823,7 @@ autoconfig.transfer-webapp.eu-west-3.on.aws
 autoconfig.transfer-webapp.il-central-1.on.aws
 autoconfig.transfer-webapp.me-central-1.on.aws
 autoconfig.transfer-webapp.me-south-1.on.aws
+autoconfig.transfer-webapp.mx-central-1.on.aws
 autoconfig.transfer-webapp.sa-east-1.on.aws
 autoconfig.transfer-webapp.us-east-1.on.aws
 autoconfig.transfer-webapp.us-east-2.on.aws
@@ -17160,6 +17165,7 @@ _autodiscover.auth.us-west-1.amazoncognito.com
 _autodiscover.auth-fips.us-west-1.amazoncognito.com
 _autodiscover.auth.us-west-2.amazoncognito.com
 _autodiscover.auth-fips.us-west-2.amazoncognito.com
+_autodiscover.auth.cognito-idp.eusc-de-east-1.on.amazonwebservices.eu
 _autodiscover.compute.amazonaws.com.cn
 _autodiscover.compute.amazonaws.com
 _autodiscover.compute-1.amazonaws.com
@@ -17629,6 +17635,7 @@ _autodiscover.s3.dualstack.us-gov-east-1.amazonaws.com
 _autodiscover.s3-accesspoint.dualstack.us-gov-east-1.amazonaws.com
 _autodiscover.s3-accesspoint-fips.dualstack.us-gov-east-1.amazonaws.com
 _autodiscover.s3-fips.dualstack.us-gov-east-1.amazonaws.com
+_autodiscover.s3-website.dualstack.us-gov-east-1.amazonaws.com
 _autodiscover.s3.us-gov-east-1.amazonaws.com
 _autodiscover.s3-accesspoint.us-gov-east-1.amazonaws.com
 _autodiscover.s3-accesspoint-fips.us-gov-east-1.amazonaws.com
@@ -17639,6 +17646,7 @@ _autodiscover.s3.dualstack.us-gov-west-1.amazonaws.com
 _autodiscover.s3-accesspoint.dualstack.us-gov-west-1.amazonaws.com
 _autodiscover.s3-accesspoint-fips.dualstack.us-gov-west-1.amazonaws.com
 _autodiscover.s3-fips.dualstack.us-gov-west-1.amazonaws.com
+_autodiscover.s3-website.dualstack.us-gov-west-1.amazonaws.com
 _autodiscover.s3.us-gov-west-1.amazonaws.com
 _autodiscover.s3-accesspoint.us-gov-west-1.amazonaws.com
 _autodiscover.s3-accesspoint-fips.us-gov-west-1.amazonaws.com
@@ -17902,6 +17910,7 @@ _autodiscover.transfer-webapp.ap-southeast-2.on.aws
 _autodiscover.transfer-webapp.ap-southeast-3.on.aws
 _autodiscover.transfer-webapp.ap-southeast-4.on.aws
 _autodiscover.transfer-webapp.ap-southeast-5.on.aws
+_autodiscover.transfer-webapp.ap-southeast-7.on.aws
 _autodiscover.transfer-webapp.ca-central-1.on.aws
 _autodiscover.transfer-webapp.ca-west-1.on.aws
 _autodiscover.transfer-webapp.eu-central-1.on.aws
@@ -17915,6 +17924,7 @@ _autodiscover.transfer-webapp.eu-west-3.on.aws
 _autodiscover.transfer-webapp.il-central-1.on.aws
 _autodiscover.transfer-webapp.me-central-1.on.aws
 _autodiscover.transfer-webapp.me-south-1.on.aws
+_autodiscover.transfer-webapp.mx-central-1.on.aws
 _autodiscover.transfer-webapp.sa-east-1.on.aws
 _autodiscover.transfer-webapp.us-east-1.on.aws
 _autodiscover.transfer-webapp.us-east-2.on.aws
@@ -27256,6 +27266,7 @@ autodiscover.auth.us-west-1.amazoncognito.com
 autodiscover.auth-fips.us-west-1.amazoncognito.com
 autodiscover.auth.us-west-2.amazoncognito.com
 autodiscover.auth-fips.us-west-2.amazoncognito.com
+autodiscover.auth.cognito-idp.eusc-de-east-1.on.amazonwebservices.eu
 autodiscover.compute.amazonaws.com.cn
 autodiscover.compute.amazonaws.com
 autodiscover.compute-1.amazonaws.com
@@ -27725,6 +27736,7 @@ autodiscover.s3.dualstack.us-gov-east-1.amazonaws.com
 autodiscover.s3-accesspoint.dualstack.us-gov-east-1.amazonaws.com
 autodiscover.s3-accesspoint-fips.dualstack.us-gov-east-1.amazonaws.com
 autodiscover.s3-fips.dualstack.us-gov-east-1.amazonaws.com
+autodiscover.s3-website.dualstack.us-gov-east-1.amazonaws.com
 autodiscover.s3.us-gov-east-1.amazonaws.com
 autodiscover.s3-accesspoint.us-gov-east-1.amazonaws.com
 autodiscover.s3-accesspoint-fips.us-gov-east-1.amazonaws.com
@@ -27735,6 +27747,7 @@ autodiscover.s3.dualstack.us-gov-west-1.amazonaws.com
 autodiscover.s3-accesspoint.dualstack.us-gov-west-1.amazonaws.com
 autodiscover.s3-accesspoint-fips.dualstack.us-gov-west-1.amazonaws.com
 autodiscover.s3-fips.dualstack.us-gov-west-1.amazonaws.com
+autodiscover.s3-website.dualstack.us-gov-west-1.amazonaws.com
 autodiscover.s3.us-gov-west-1.amazonaws.com
 autodiscover.s3-accesspoint.us-gov-west-1.amazonaws.com
 autodiscover.s3-accesspoint-fips.us-gov-west-1.amazonaws.com
@@ -27998,6 +28011,7 @@ autodiscover.transfer-webapp.ap-southeast-2.on.aws
 autodiscover.transfer-webapp.ap-southeast-3.on.aws
 autodiscover.transfer-webapp.ap-southeast-4.on.aws
 autodiscover.transfer-webapp.ap-southeast-5.on.aws
+autodiscover.transfer-webapp.ap-southeast-7.on.aws
 autodiscover.transfer-webapp.ca-central-1.on.aws
 autodiscover.transfer-webapp.ca-west-1.on.aws
 autodiscover.transfer-webapp.eu-central-1.on.aws
@@ -28011,6 +28025,7 @@ autodiscover.transfer-webapp.eu-west-3.on.aws
 autodiscover.transfer-webapp.il-central-1.on.aws
 autodiscover.transfer-webapp.me-central-1.on.aws
 autodiscover.transfer-webapp.me-south-1.on.aws
+autodiscover.transfer-webapp.mx-central-1.on.aws
 autodiscover.transfer-webapp.sa-east-1.on.aws
 autodiscover.transfer-webapp.us-east-1.on.aws
 autodiscover.transfer-webapp.us-east-2.on.aws
@@ -37352,6 +37367,7 @@ b._dns-sd.auth.us-west-1.amazoncognito.com
 b._dns-sd.auth-fips.us-west-1.amazoncognito.com
 b._dns-sd.auth.us-west-2.amazoncognito.com
 b._dns-sd.auth-fips.us-west-2.amazoncognito.com
+b._dns-sd.auth.cognito-idp.eusc-de-east-1.on.amazonwebservices.eu
 b._dns-sd.compute.amazonaws.com.cn
 b._dns-sd.compute.amazonaws.com
 b._dns-sd.compute-1.amazonaws.com
@@ -37821,6 +37837,7 @@ b._dns-sd.s3.dualstack.us-gov-east-1.amazonaws.com
 b._dns-sd.s3-accesspoint.dualstack.us-gov-east-1.amazonaws.com
 b._dns-sd.s3-accesspoint-fips.dualstack.us-gov-east-1.amazonaws.com
 b._dns-sd.s3-fips.dualstack.us-gov-east-1.amazonaws.com
+b._dns-sd.s3-website.dualstack.us-gov-east-1.amazonaws.com
 b._dns-sd.s3.us-gov-east-1.amazonaws.com
 b._dns-sd.s3-accesspoint.us-gov-east-1.amazonaws.com
 b._dns-sd.s3-accesspoint-fips.us-gov-east-1.amazonaws.com
@@ -37831,6 +37848,7 @@ b._dns-sd.s3.dualstack.us-gov-west-1.amazonaws.com
 b._dns-sd.s3-accesspoint.dualstack.us-gov-west-1.amazonaws.com
 b._dns-sd.s3-accesspoint-fips.dualstack.us-gov-west-1.amazonaws.com
 b._dns-sd.s3-fips.dualstack.us-gov-west-1.amazonaws.com
+b._dns-sd.s3-website.dualstack.us-gov-west-1.amazonaws.com
 b._dns-sd.s3.us-gov-west-1.amazonaws.com
 b._dns-sd.s3-accesspoint.us-gov-west-1.amazonaws.com
 b._dns-sd.s3-accesspoint-fips.us-gov-west-1.amazonaws.com
@@ -38094,6 +38112,7 @@ b._dns-sd.transfer-webapp.ap-southeast-2.on.aws
 b._dns-sd.transfer-webapp.ap-southeast-3.on.aws
 b._dns-sd.transfer-webapp.ap-southeast-4.on.aws
 b._dns-sd.transfer-webapp.ap-southeast-5.on.aws
+b._dns-sd.transfer-webapp.ap-southeast-7.on.aws
 b._dns-sd.transfer-webapp.ca-central-1.on.aws
 b._dns-sd.transfer-webapp.ca-west-1.on.aws
 b._dns-sd.transfer-webapp.eu-central-1.on.aws
@@ -38107,6 +38126,7 @@ b._dns-sd.transfer-webapp.eu-west-3.on.aws
 b._dns-sd.transfer-webapp.il-central-1.on.aws
 b._dns-sd.transfer-webapp.me-central-1.on.aws
 b._dns-sd.transfer-webapp.me-south-1.on.aws
+b._dns-sd.transfer-webapp.mx-central-1.on.aws
 b._dns-sd.transfer-webapp.sa-east-1.on.aws
 b._dns-sd.transfer-webapp.us-east-1.on.aws
 b._dns-sd.transfer-webapp.us-east-2.on.aws
@@ -47448,6 +47468,7 @@ db._dns-sd.auth.us-west-1.amazoncognito.com
 db._dns-sd.auth-fips.us-west-1.amazoncognito.com
 db._dns-sd.auth.us-west-2.amazoncognito.com
 db._dns-sd.auth-fips.us-west-2.amazoncognito.com
+db._dns-sd.auth.cognito-idp.eusc-de-east-1.on.amazonwebservices.eu
 db._dns-sd.compute.amazonaws.com.cn
 db._dns-sd.compute.amazonaws.com
 db._dns-sd.compute-1.amazonaws.com
@@ -47917,6 +47938,7 @@ db._dns-sd.s3.dualstack.us-gov-east-1.amazonaws.com
 db._dns-sd.s3-accesspoint.dualstack.us-gov-east-1.amazonaws.com
 db._dns-sd.s3-accesspoint-fips.dualstack.us-gov-east-1.amazonaws.com
 db._dns-sd.s3-fips.dualstack.us-gov-east-1.amazonaws.com
+db._dns-sd.s3-website.dualstack.us-gov-east-1.amazonaws.com
 db._dns-sd.s3.us-gov-east-1.amazonaws.com
 db._dns-sd.s3-accesspoint.us-gov-east-1.amazonaws.com
 db._dns-sd.s3-accesspoint-fips.us-gov-east-1.amazonaws.com
@@ -47927,6 +47949,7 @@ db._dns-sd.s3.dualstack.us-gov-west-1.amazonaws.com
 db._dns-sd.s3-accesspoint.dualstack.us-gov-west-1.amazonaws.com
 db._dns-sd.s3-accesspoint-fips.dualstack.us-gov-west-1.amazonaws.com
 db._dns-sd.s3-fips.dualstack.us-gov-west-1.amazonaws.com
+db._dns-sd.s3-website.dualstack.us-gov-west-1.amazonaws.com
 db._dns-sd.s3.us-gov-west-1.amazonaws.com
 db._dns-sd.s3-accesspoint.us-gov-west-1.amazonaws.com
 db._dns-sd.s3-accesspoint-fips.us-gov-west-1.amazonaws.com
@@ -48190,6 +48213,7 @@ db._dns-sd.transfer-webapp.ap-southeast-2.on.aws
 db._dns-sd.transfer-webapp.ap-southeast-3.on.aws
 db._dns-sd.transfer-webapp.ap-southeast-4.on.aws
 db._dns-sd.transfer-webapp.ap-southeast-5.on.aws
+db._dns-sd.transfer-webapp.ap-southeast-7.on.aws
 db._dns-sd.transfer-webapp.ca-central-1.on.aws
 db._dns-sd.transfer-webapp.ca-west-1.on.aws
 db._dns-sd.transfer-webapp.eu-central-1.on.aws
@@ -48203,6 +48227,7 @@ db._dns-sd.transfer-webapp.eu-west-3.on.aws
 db._dns-sd.transfer-webapp.il-central-1.on.aws
 db._dns-sd.transfer-webapp.me-central-1.on.aws
 db._dns-sd.transfer-webapp.me-south-1.on.aws
+db._dns-sd.transfer-webapp.mx-central-1.on.aws
 db._dns-sd.transfer-webapp.sa-east-1.on.aws
 db._dns-sd.transfer-webapp.us-east-1.on.aws
 db._dns-sd.transfer-webapp.us-east-2.on.aws
@@ -57544,6 +57569,7 @@ isatap.auth.us-west-1.amazoncognito.com
 isatap.auth-fips.us-west-1.amazoncognito.com
 isatap.auth.us-west-2.amazoncognito.com
 isatap.auth-fips.us-west-2.amazoncognito.com
+isatap.auth.cognito-idp.eusc-de-east-1.on.amazonwebservices.eu
 isatap.compute.amazonaws.com.cn
 isatap.compute.amazonaws.com
 isatap.compute-1.amazonaws.com
@@ -58013,6 +58039,7 @@ isatap.s3.dualstack.us-gov-east-1.amazonaws.com
 isatap.s3-accesspoint.dualstack.us-gov-east-1.amazonaws.com
 isatap.s3-accesspoint-fips.dualstack.us-gov-east-1.amazonaws.com
 isatap.s3-fips.dualstack.us-gov-east-1.amazonaws.com
+isatap.s3-website.dualstack.us-gov-east-1.amazonaws.com
 isatap.s3.us-gov-east-1.amazonaws.com
 isatap.s3-accesspoint.us-gov-east-1.amazonaws.com
 isatap.s3-accesspoint-fips.us-gov-east-1.amazonaws.com
@@ -58023,6 +58050,7 @@ isatap.s3.dualstack.us-gov-west-1.amazonaws.com
 isatap.s3-accesspoint.dualstack.us-gov-west-1.amazonaws.com
 isatap.s3-accesspoint-fips.dualstack.us-gov-west-1.amazonaws.com
 isatap.s3-fips.dualstack.us-gov-west-1.amazonaws.com
+isatap.s3-website.dualstack.us-gov-west-1.amazonaws.com
 isatap.s3.us-gov-west-1.amazonaws.com
 isatap.s3-accesspoint.us-gov-west-1.amazonaws.com
 isatap.s3-accesspoint-fips.us-gov-west-1.amazonaws.com
@@ -58286,6 +58314,7 @@ isatap.transfer-webapp.ap-southeast-2.on.aws
 isatap.transfer-webapp.ap-southeast-3.on.aws
 isatap.transfer-webapp.ap-southeast-4.on.aws
 isatap.transfer-webapp.ap-southeast-5.on.aws
+isatap.transfer-webapp.ap-southeast-7.on.aws
 isatap.transfer-webapp.ca-central-1.on.aws
 isatap.transfer-webapp.ca-west-1.on.aws
 isatap.transfer-webapp.eu-central-1.on.aws
@@ -58299,6 +58328,7 @@ isatap.transfer-webapp.eu-west-3.on.aws
 isatap.transfer-webapp.il-central-1.on.aws
 isatap.transfer-webapp.me-central-1.on.aws
 isatap.transfer-webapp.me-south-1.on.aws
+isatap.transfer-webapp.mx-central-1.on.aws
 isatap.transfer-webapp.sa-east-1.on.aws
 isatap.transfer-webapp.us-east-1.on.aws
 isatap.transfer-webapp.us-east-2.on.aws
@@ -67640,6 +67670,7 @@ lb._dns-sd.auth.us-west-1.amazoncognito.com
 lb._dns-sd.auth-fips.us-west-1.amazoncognito.com
 lb._dns-sd.auth.us-west-2.amazoncognito.com
 lb._dns-sd.auth-fips.us-west-2.amazoncognito.com
+lb._dns-sd.auth.cognito-idp.eusc-de-east-1.on.amazonwebservices.eu
 lb._dns-sd.compute.amazonaws.com.cn
 lb._dns-sd.compute.amazonaws.com
 lb._dns-sd.compute-1.amazonaws.com
@@ -68109,6 +68140,7 @@ lb._dns-sd.s3.dualstack.us-gov-east-1.amazonaws.com
 lb._dns-sd.s3-accesspoint.dualstack.us-gov-east-1.amazonaws.com
 lb._dns-sd.s3-accesspoint-fips.dualstack.us-gov-east-1.amazonaws.com
 lb._dns-sd.s3-fips.dualstack.us-gov-east-1.amazonaws.com
+lb._dns-sd.s3-website.dualstack.us-gov-east-1.amazonaws.com
 lb._dns-sd.s3.us-gov-east-1.amazonaws.com
 lb._dns-sd.s3-accesspoint.us-gov-east-1.amazonaws.com
 lb._dns-sd.s3-accesspoint-fips.us-gov-east-1.amazonaws.com
@@ -68119,6 +68151,7 @@ lb._dns-sd.s3.dualstack.us-gov-west-1.amazonaws.com
 lb._dns-sd.s3-accesspoint.dualstack.us-gov-west-1.amazonaws.com
 lb._dns-sd.s3-accesspoint-fips.dualstack.us-gov-west-1.amazonaws.com
 lb._dns-sd.s3-fips.dualstack.us-gov-west-1.amazonaws.com
+lb._dns-sd.s3-website.dualstack.us-gov-west-1.amazonaws.com
 lb._dns-sd.s3.us-gov-west-1.amazonaws.com
 lb._dns-sd.s3-accesspoint.us-gov-west-1.amazonaws.com
 lb._dns-sd.s3-accesspoint-fips.us-gov-west-1.amazonaws.com
@@ -68382,6 +68415,7 @@ lb._dns-sd.transfer-webapp.ap-southeast-2.on.aws
 lb._dns-sd.transfer-webapp.ap-southeast-3.on.aws
 lb._dns-sd.transfer-webapp.ap-southeast-4.on.aws
 lb._dns-sd.transfer-webapp.ap-southeast-5.on.aws
+lb._dns-sd.transfer-webapp.ap-southeast-7.on.aws
 lb._dns-sd.transfer-webapp.ca-central-1.on.aws
 lb._dns-sd.transfer-webapp.ca-west-1.on.aws
 lb._dns-sd.transfer-webapp.eu-central-1.on.aws
@@ -68395,6 +68429,7 @@ lb._dns-sd.transfer-webapp.eu-west-3.on.aws
 lb._dns-sd.transfer-webapp.il-central-1.on.aws
 lb._dns-sd.transfer-webapp.me-central-1.on.aws
 lb._dns-sd.transfer-webapp.me-south-1.on.aws
+lb._dns-sd.transfer-webapp.mx-central-1.on.aws
 lb._dns-sd.transfer-webapp.sa-east-1.on.aws
 lb._dns-sd.transfer-webapp.us-east-1.on.aws
 lb._dns-sd.transfer-webapp.us-east-2.on.aws
@@ -77736,6 +77771,7 @@ wpad.auth.us-west-1.amazoncognito.com
 wpad.auth-fips.us-west-1.amazoncognito.com
 wpad.auth.us-west-2.amazoncognito.com
 wpad.auth-fips.us-west-2.amazoncognito.com
+wpad.auth.cognito-idp.eusc-de-east-1.on.amazonwebservices.eu
 wpad.compute.amazonaws.com.cn
 wpad.compute.amazonaws.com
 wpad.compute-1.amazonaws.com
@@ -78205,6 +78241,7 @@ wpad.s3.dualstack.us-gov-east-1.amazonaws.com
 wpad.s3-accesspoint.dualstack.us-gov-east-1.amazonaws.com
 wpad.s3-accesspoint-fips.dualstack.us-gov-east-1.amazonaws.com
 wpad.s3-fips.dualstack.us-gov-east-1.amazonaws.com
+wpad.s3-website.dualstack.us-gov-east-1.amazonaws.com
 wpad.s3.us-gov-east-1.amazonaws.com
 wpad.s3-accesspoint.us-gov-east-1.amazonaws.com
 wpad.s3-accesspoint-fips.us-gov-east-1.amazonaws.com
@@ -78215,6 +78252,7 @@ wpad.s3.dualstack.us-gov-west-1.amazonaws.com
 wpad.s3-accesspoint.dualstack.us-gov-west-1.amazonaws.com
 wpad.s3-accesspoint-fips.dualstack.us-gov-west-1.amazonaws.com
 wpad.s3-fips.dualstack.us-gov-west-1.amazonaws.com
+wpad.s3-website.dualstack.us-gov-west-1.amazonaws.com
 wpad.s3.us-gov-west-1.amazonaws.com
 wpad.s3-accesspoint.us-gov-west-1.amazonaws.com
 wpad.s3-accesspoint-fips.us-gov-west-1.amazonaws.com
@@ -78478,6 +78516,7 @@ wpad.transfer-webapp.ap-southeast-2.on.aws
 wpad.transfer-webapp.ap-southeast-3.on.aws
 wpad.transfer-webapp.ap-southeast-4.on.aws
 wpad.transfer-webapp.ap-southeast-5.on.aws
+wpad.transfer-webapp.ap-southeast-7.on.aws
 wpad.transfer-webapp.ca-central-1.on.aws
 wpad.transfer-webapp.ca-west-1.on.aws
 wpad.transfer-webapp.eu-central-1.on.aws
@@ -78491,6 +78530,7 @@ wpad.transfer-webapp.eu-west-3.on.aws
 wpad.transfer-webapp.il-central-1.on.aws
 wpad.transfer-webapp.me-central-1.on.aws
 wpad.transfer-webapp.me-south-1.on.aws
+wpad.transfer-webapp.mx-central-1.on.aws
 wpad.transfer-webapp.sa-east-1.on.aws
 wpad.transfer-webapp.us-east-1.on.aws
 wpad.transfer-webapp.us-east-2.on.aws
@@ -87832,6 +87872,7 @@ wpad.tcp.auth.us-west-1.amazoncognito.com
 wpad.tcp.auth-fips.us-west-1.amazoncognito.com
 wpad.tcp.auth.us-west-2.amazoncognito.com
 wpad.tcp.auth-fips.us-west-2.amazoncognito.com
+wpad.tcp.auth.cognito-idp.eusc-de-east-1.on.amazonwebservices.eu
 wpad.tcp.compute.amazonaws.com.cn
 wpad.tcp.compute.amazonaws.com
 wpad.tcp.compute-1.amazonaws.com
@@ -88301,6 +88342,7 @@ wpad.tcp.s3.dualstack.us-gov-east-1.amazonaws.com
 wpad.tcp.s3-accesspoint.dualstack.us-gov-east-1.amazonaws.com
 wpad.tcp.s3-accesspoint-fips.dualstack.us-gov-east-1.amazonaws.com
 wpad.tcp.s3-fips.dualstack.us-gov-east-1.amazonaws.com
+wpad.tcp.s3-website.dualstack.us-gov-east-1.amazonaws.com
 wpad.tcp.s3.us-gov-east-1.amazonaws.com
 wpad.tcp.s3-accesspoint.us-gov-east-1.amazonaws.com
 wpad.tcp.s3-accesspoint-fips.us-gov-east-1.amazonaws.com
@@ -88311,6 +88353,7 @@ wpad.tcp.s3.dualstack.us-gov-west-1.amazonaws.com
 wpad.tcp.s3-accesspoint.dualstack.us-gov-west-1.amazonaws.com
 wpad.tcp.s3-accesspoint-fips.dualstack.us-gov-west-1.amazonaws.com
 wpad.tcp.s3-fips.dualstack.us-gov-west-1.amazonaws.com
+wpad.tcp.s3-website.dualstack.us-gov-west-1.amazonaws.com
 wpad.tcp.s3.us-gov-west-1.amazonaws.com
 wpad.tcp.s3-accesspoint.us-gov-west-1.amazonaws.com
 wpad.tcp.s3-accesspoint-fips.us-gov-west-1.amazonaws.com
@@ -88574,6 +88617,7 @@ wpad.tcp.transfer-webapp.ap-southeast-2.on.aws
 wpad.tcp.transfer-webapp.ap-southeast-3.on.aws
 wpad.tcp.transfer-webapp.ap-southeast-4.on.aws
 wpad.tcp.transfer-webapp.ap-southeast-5.on.aws
+wpad.tcp.transfer-webapp.ap-southeast-7.on.aws
 wpad.tcp.transfer-webapp.ca-central-1.on.aws
 wpad.tcp.transfer-webapp.ca-west-1.on.aws
 wpad.tcp.transfer-webapp.eu-central-1.on.aws
@@ -88587,6 +88631,7 @@ wpad.tcp.transfer-webapp.eu-west-3.on.aws
 wpad.tcp.transfer-webapp.il-central-1.on.aws
 wpad.tcp.transfer-webapp.me-central-1.on.aws
 wpad.tcp.transfer-webapp.me-south-1.on.aws
+wpad.tcp.transfer-webapp.mx-central-1.on.aws
 wpad.tcp.transfer-webapp.sa-east-1.on.aws
 wpad.tcp.transfer-webapp.us-east-1.on.aws
 wpad.tcp.transfer-webapp.us-east-2.on.aws
