@@ -833,6 +833,7 @@
 .publicdnsserver.com
 .dns.pumpkinvrar.com
 .dns.pumplex.com
+.dnscrypt-cert.pumplex.com
 .dns.qq.com
 .httpdns.kg.qq.com
 .dns.weixin.qq.com
@@ -2344,6 +2345,7 @@
 .armm.duckdns.org
 .baksabal.duckdns.org
 .blamb.duckdns.org
+.cdzopi.duckdns.org
 .derekcastle.duckdns.org
 .dirrectumrx.duckdns.org
 .dorkanddoodle.duckdns.org
@@ -2351,12 +2353,17 @@
 .gcpddns.duckdns.org
 .genielee.duckdns.org
 .home27.duckdns.org
+.homejerem.duckdns.org
 .hrsm12181.duckdns.org
+.jfeoks.duckdns.org
 .jonzalvo.duckdns.org
 .jurre-home.duckdns.org
+.kalwat.duckdns.org
 .kiwifunke.duckdns.org
+.kolobok2.duckdns.org
 .krafty31.duckdns.org
 .krtekvpn.duckdns.org
+.ldaman.duckdns.org
 .leoadguard.duckdns.org
 .mipelinusa.duckdns.org
 .morgenegg.duckdns.org
@@ -2376,11 +2383,14 @@
 .site-3.duckdns.org
 .testapp-0-1-1.duckdns.org
 .thaibksri.duckdns.org
+.theadblocksg.duckdns.org
 .ts653d.duckdns.org
 .tuandns.duckdns.org
 .tungdnsne.duckdns.org
 .unixfox.duckdns.org
+.vpich.duckdns.org
 .wired-guardian.duckdns.org
+.wisehomeguard.duckdns.org
 .workcavestl.duckdns.org
 .x-o-x.duckdns.org
 .x861g.duckdns.org
@@ -2733,7 +2743,6 @@
 .tyo03.dnscry.pt
 .vie01.dnscry.pt
 .vno01.dnscry.pt
-.waw01.dnscry.pt
 .waw02.dnscry.pt
 .yhz01.dnscry.pt
 .ymq01.dnscry.pt
@@ -2844,8 +2853,7 @@
 .dns.henek.ru
 .v1552270.hosted-by-vdsina.ru
 .adg.hostingab.ru
-.ec.i-puppy.ru
-.ru.i-puppy.ru
+.i-puppy.ru
 .az.i81.ru
 .hr.i81.ru
 .amigo.px.i81.ru
@@ -3575,7 +3583,6 @@
 .vps119.brueggus.de
 .vps214.brueggus.de
 .vps217.brueggus.de
-.vps221.brueggus.de
 .vps222.brueggus.de
 .vps225.brueggus.de
 .vps226.brueggus.de
@@ -3885,6 +3892,7 @@
 .oracle1.pierzchlewicz.pl
 .domeq.waw.pl
 .poster.place
+.waw01.dnscry.pt
 .orasrv.kellys.pw
 .redsea.meetz.pw
 .deepblue.labar.re
