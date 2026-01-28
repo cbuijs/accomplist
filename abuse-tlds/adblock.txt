@@ -1,6 +1,6 @@
 [Adblock Plus 1.1]
 ! Title: Accomplist "Tlds" AdBlock List (Top-N Version)
-! Version: 1769409406
+! Version: 1769584085
 ! Homepage: https://github.com/cbuijs/accomplist/tree/master/tlds
 !
 ! WhiteList Domains:
@@ -546,6 +546,8 @@
 @@||mastodon.green^
 ! Sub-domain "tilde.green" unblacklisted from domain "green"
 @@||tilde.green^
+! Sub-domain "treebal.green" unblacklisted from domain "green"
+@@||treebal.green^
 ! Sub-domain "cfw.guide" unblacklisted from domain "guide"
 @@||cfw.guide^
 ! Sub-domain "discordjs.guide" unblacklisted from domain "guide"
@@ -1088,8 +1090,12 @@
 @@||4id.shop^
 ! Sub-domain "axisms.shop" unblacklisted from domain "shop"
 @@||axisms.shop^
+! Sub-domain "buergerspital.shop" unblacklisted from domain "shop"
+@@||buergerspital.shop^
 ! Sub-domain "chessvibes.shop" unblacklisted from domain "shop"
 @@||chessvibes.shop^
+! Sub-domain "derweinladen.shop" unblacklisted from domain "shop"
+@@||derweinladen.shop^
 ! Sub-domain "domainname.shop" unblacklisted from domain "shop"
 @@||domainname.shop^
 ! Sub-domain "domene.shop" unblacklisted from domain "shop"
@@ -1148,8 +1154,14 @@
 @@||terminal.shop^
 ! Sub-domain "urlbluemedia.shop" unblacklisted from domain "shop"
 @@||urlbluemedia.shop^
+! Sub-domain "weinbibliothek.shop" unblacklisted from domain "shop"
+@@||weinbibliothek.shop^
+! Sub-domain "weinwunder.shop" unblacklisted from domain "shop"
+@@||weinwunder.shop^
 ! Sub-domain "wielrenner.shop" unblacklisted from domain "shop"
 @@||wielrenner.shop^
+! Sub-domain "winefactory.shop" unblacklisted from domain "shop"
+@@||winefactory.shop^
 ! Sub-domain "xn--dnemark-5wa.shop" unblacklisted from domain "shop"
 @@||xn--dnemark-5wa.shop^
 ! Sub-domain "camz.show" unblacklisted from domain "show"
