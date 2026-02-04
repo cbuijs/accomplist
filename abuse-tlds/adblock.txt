@@ -1,6 +1,6 @@
 [Adblock Plus 1.1]
 ! Title: Accomplist "Tlds" AdBlock List (Top-N Version)
-! Version: 1770102063
+! Version: 1770188918
 ! Homepage: https://github.com/cbuijs/accomplist/tree/master/tlds
 !
 ! WhiteList Domains:
@@ -314,6 +314,8 @@
 @@||chinaq.club^
 ! Sub-domain "ctrl-c.club" unblacklisted from domain "club"
 @@||ctrl-c.club^
+! Sub-domain "debian.club" unblacklisted from domain "club"
+@@||debian.club^
 ! Sub-domain "digipres.club" unblacklisted from domain "club"
 @@||digipres.club^
 ! Sub-domain "hack.club" unblacklisted from domain "club"
@@ -355,6 +357,8 @@
 @@||cnyes.cool^
 ! Sub-domain "compromise.cool" unblacklisted from domain "cool"
 @@||compromise.cool^
+! Sub-domain "eagle.cool" unblacklisted from domain "cool"
+@@||eagle.cool^
 ! Sub-domain "shirtz.cool" unblacklisted from domain "cool"
 @@||shirtz.cool^
 ! Sub-domain "upbitit.cool" unblacklisted from domain "cool"
