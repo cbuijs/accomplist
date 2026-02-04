@@ -1,6 +1,6 @@
 [Adblock Plus 1.1]
 ! Title: Accomplist "Doh" AdBlock List (Top-N Version)
-! Version: 1770102331
+! Version: 1770189195
 ! Homepage: https://github.com/cbuijs/accomplist/tree/master/doh
 !
 ! WhiteList Domains:
@@ -696,12 +696,10 @@
 ||mnsvless.ikwb.com^
 ||ilinhy.com^
 ||ilmxs.com^
-||dns.imaicool.com^
 ||ad.imblien.com^
 ||noads.imbuffering.com^
 ||adgh.imtsui.com^
 ||incaseineeditoneday.com^
-||dns.inclusioproject.com^
 ||dns.indybanipal.com^
 ||dns.inforlogia.com^
 ||infotechlibrary.com^
@@ -750,7 +748,6 @@
 ||dns.keskinnetwork.com^
 ||dns.keskonet.com^
 ||dns.keviland.com^
-||khsan.com^
 ||shield.kidshielder.com^
 ||dns.knyfie.com^
 ||adguard.konikoni428.com^
@@ -1965,7 +1962,6 @@
 ||jungle-im.ir^
 ||kcolspacrm.ir^
 ||maincloud.ir^
-||dns.midping.ir^
 ||adhost.netblue.ir^
 ||adguard.nostaloogia.ir^
 ||dns.sbstructure.ir^
@@ -2032,7 +2028,6 @@
 ||dns.getnoclip.link^
 ||guidetoworld.link^
 ||intertop.link^
-||s2.littlebr.link^
 ||dns.pmxu.link^
 ||adguard.ihatemy.live^
 ||balancer.mc.ihatemy.live^
@@ -2127,7 +2122,6 @@
 ||agh.josephyap.me^
 ||dns.karadag.me^
 ||dns2.keinewerbung.me^
-||dns.koshin.me^
 ||dns.kostydenis.me^
 ||dns1.kostydenis.me^
 ||sndkcuf.lekun.me^
@@ -2416,7 +2410,6 @@
 ||getdnsapi.net^
 ||ashixu.ggff.net^
 ||jkmoon.ggff.net^
-||dns.gokgoz.net^
 ||dns.gsmseti.net^
 ||ordns.he.net^
 ||carolinareaper.heeremans.net^
@@ -2478,6 +2471,7 @@
 ||echoe1yidzu4ioo5.myfritz.net^
 ||sp1wpdybsw1twq1d.myfritz.net^
 ||96500b732ed8.sn.mynetname.net^
+||hf009ems6n7.sn.mynetname.net^
 ||doh-ca.naftalie.net^
 ||ae-fuj-w-p-1.nashkan.net^
 ||ae-fuj-w-p-2.nashkan.net^
@@ -2837,7 +2831,6 @@
 ||thaibksri.duckdns.org^
 ||ts653d.duckdns.org^
 ||tuandns.duckdns.org^
-||tungdnsne.duckdns.org^
 ||unixfox.duckdns.org^
 ||wired-guardian.duckdns.org^
 ||workcavestl.duckdns.org^
@@ -3062,7 +3055,6 @@
 ||gl33tch.pro^
 ||httpdns.pro^
 ||ns1.lab321.pro^
-||test.marss.pro^
 ||ntwrkh.pro^
 ||dns.privateservices.pro^
 ||cdn.refined.pro^
@@ -3419,6 +3411,7 @@
 ||vpnmy.ru^
 ||waydnes.ru^
 ||dns.x8net.ru^
+||xbox-dns.ru^
 ||dns.xcapenet.ru^
 ||dns2.xcapenet.ru^
 ||doh.xorlet.ru^
@@ -3526,7 +3519,6 @@
 ||dns.daarrk.tech^
 ||dns.everdns.tech^
 ||doh.everdns.tech^
-||makatla.tech^
 ||dns.moraes.tech^
 ||qqmcfw.tech^
 ||dns.romain.tech^
@@ -3583,7 +3575,6 @@
 ||adguard.johanliebert.top^
 ||blog.kimiblock.top^
 ||2024.laijy.top^
-||lboxtv.top^
 ||lesuo.top^
 ||10.ln7371.top^
 ||xm.ln7371.top^
