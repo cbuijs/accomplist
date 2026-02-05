@@ -1,6 +1,6 @@
 [Adblock Plus 1.1]
 ! Title: Accomplist "Tlds" AdBlock List (Top-N Version)
-! Version: 1770188918
+! Version: 1770274907
 ! Homepage: https://github.com/cbuijs/accomplist/tree/master/tlds
 !
 ! WhiteList Domains:
@@ -472,6 +472,8 @@
 ! Sub-domain "johnreed.fitness" unblacklisted from domain "fitness"
 @@||johnreed.fitness^
 @@||helloworld.foo^
+! Sub-domain "way.food" unblacklisted from domain "food"
+@@||way.food^
 ! Sub-domain "e.foundation" unblacklisted from domain "foundation"
 @@||e.foundation^
 ! Sub-domain "grapheneos.foundation" unblacklisted from domain "foundation"
@@ -554,10 +556,14 @@
 @@||tilde.green^
 ! Sub-domain "treebal.green" unblacklisted from domain "green"
 @@||treebal.green^
+! Sub-domain "bedandbreakfast.guide" unblacklisted from domain "guide"
+@@||bedandbreakfast.guide^
 ! Sub-domain "cfw.guide" unblacklisted from domain "guide"
 @@||cfw.guide^
 ! Sub-domain "discordjs.guide" unblacklisted from domain "guide"
 @@||discordjs.guide^
+! Sub-domain "goodtravel.guide" unblacklisted from domain "guide"
+@@||goodtravel.guide^
 ! Sub-domain "hacks.guide" unblacklisted from domain "guide"
 @@||hacks.guide^
 ! Sub-domain "homebrew.guide" unblacklisted from domain "guide"
@@ -568,6 +574,10 @@
 @@||ripped.guide^
 ! Sub-domain "site.guide" unblacklisted from domain "guide"
 @@||site.guide^
+! Sub-domain "slowfood.guide" unblacklisted from domain "guide"
+@@||slowfood.guide^
+! Sub-domain "thebook.guide" unblacklisted from domain "guide"
+@@||thebook.guide^
 ! Sub-domain "wii.guide" unblacklisted from domain "guide"
 @@||wii.guide^
 ! Sub-domain "wisely.guide" unblacklisted from domain "guide"
