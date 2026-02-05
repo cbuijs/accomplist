@@ -9082,7 +9082,6 @@ autoconfig.la1-plenit.com
 autoconfig.us1-plenit.com
 autoconfig.webadorsite.com
 autoconfig.jouwweb.site
-autoconfig.cns.joyent.com
 autoconfig.triton.zone
 autoconfig.js.org
 autoconfig.kaas.gg
@@ -9253,10 +9252,10 @@ autoconfig.westus2.azurestaticapps.net
 autoconfig.azurewebsites.net
 autoconfig.cloudapp.net
 autoconfig.trafficmanager.net
-autoconfig.servicebus.usgovcloudapi.net
 autoconfig.blob.core.usgovcloudapi.net
 autoconfig.file.core.usgovcloudapi.net
 autoconfig.web.core.usgovcloudapi.net
+autoconfig.servicebus.usgovcloudapi.net
 autoconfig.usgovcloudapp.net
 autoconfig.usgovtrafficmanager.net
 autoconfig.blob.core.windows.net
@@ -19204,7 +19203,6 @@ _autodiscover.la1-plenit.com
 _autodiscover.us1-plenit.com
 _autodiscover.webadorsite.com
 _autodiscover.jouwweb.site
-_autodiscover.cns.joyent.com
 _autodiscover.triton.zone
 _autodiscover.js.org
 _autodiscover.kaas.gg
@@ -19375,10 +19373,10 @@ _autodiscover.westus2.azurestaticapps.net
 _autodiscover.azurewebsites.net
 _autodiscover.cloudapp.net
 _autodiscover.trafficmanager.net
-_autodiscover.servicebus.usgovcloudapi.net
 _autodiscover.blob.core.usgovcloudapi.net
 _autodiscover.file.core.usgovcloudapi.net
 _autodiscover.web.core.usgovcloudapi.net
+_autodiscover.servicebus.usgovcloudapi.net
 _autodiscover.usgovcloudapp.net
 _autodiscover.usgovtrafficmanager.net
 _autodiscover.blob.core.windows.net
@@ -29326,7 +29324,6 @@ autodiscover.la1-plenit.com
 autodiscover.us1-plenit.com
 autodiscover.webadorsite.com
 autodiscover.jouwweb.site
-autodiscover.cns.joyent.com
 autodiscover.triton.zone
 autodiscover.js.org
 autodiscover.kaas.gg
@@ -29497,10 +29494,10 @@ autodiscover.westus2.azurestaticapps.net
 autodiscover.azurewebsites.net
 autodiscover.cloudapp.net
 autodiscover.trafficmanager.net
-autodiscover.servicebus.usgovcloudapi.net
 autodiscover.blob.core.usgovcloudapi.net
 autodiscover.file.core.usgovcloudapi.net
 autodiscover.web.core.usgovcloudapi.net
+autodiscover.servicebus.usgovcloudapi.net
 autodiscover.usgovcloudapp.net
 autodiscover.usgovtrafficmanager.net
 autodiscover.blob.core.windows.net
@@ -39448,7 +39445,6 @@ b._dns-sd.la1-plenit.com
 b._dns-sd.us1-plenit.com
 b._dns-sd.webadorsite.com
 b._dns-sd.jouwweb.site
-b._dns-sd.cns.joyent.com
 b._dns-sd.triton.zone
 b._dns-sd.js.org
 b._dns-sd.kaas.gg
@@ -39619,10 +39615,10 @@ b._dns-sd.westus2.azurestaticapps.net
 b._dns-sd.azurewebsites.net
 b._dns-sd.cloudapp.net
 b._dns-sd.trafficmanager.net
-b._dns-sd.servicebus.usgovcloudapi.net
 b._dns-sd.blob.core.usgovcloudapi.net
 b._dns-sd.file.core.usgovcloudapi.net
 b._dns-sd.web.core.usgovcloudapi.net
+b._dns-sd.servicebus.usgovcloudapi.net
 b._dns-sd.usgovcloudapp.net
 b._dns-sd.usgovtrafficmanager.net
 b._dns-sd.blob.core.windows.net
@@ -49570,7 +49566,6 @@ db._dns-sd.la1-plenit.com
 db._dns-sd.us1-plenit.com
 db._dns-sd.webadorsite.com
 db._dns-sd.jouwweb.site
-db._dns-sd.cns.joyent.com
 db._dns-sd.triton.zone
 db._dns-sd.js.org
 db._dns-sd.kaas.gg
@@ -49741,10 +49736,10 @@ db._dns-sd.westus2.azurestaticapps.net
 db._dns-sd.azurewebsites.net
 db._dns-sd.cloudapp.net
 db._dns-sd.trafficmanager.net
-db._dns-sd.servicebus.usgovcloudapi.net
 db._dns-sd.blob.core.usgovcloudapi.net
 db._dns-sd.file.core.usgovcloudapi.net
 db._dns-sd.web.core.usgovcloudapi.net
+db._dns-sd.servicebus.usgovcloudapi.net
 db._dns-sd.usgovcloudapp.net
 db._dns-sd.usgovtrafficmanager.net
 db._dns-sd.blob.core.windows.net
@@ -59692,7 +59687,6 @@ isatap.la1-plenit.com
 isatap.us1-plenit.com
 isatap.webadorsite.com
 isatap.jouwweb.site
-isatap.cns.joyent.com
 isatap.triton.zone
 isatap.js.org
 isatap.kaas.gg
@@ -59863,10 +59857,10 @@ isatap.westus2.azurestaticapps.net
 isatap.azurewebsites.net
 isatap.cloudapp.net
 isatap.trafficmanager.net
-isatap.servicebus.usgovcloudapi.net
 isatap.blob.core.usgovcloudapi.net
 isatap.file.core.usgovcloudapi.net
 isatap.web.core.usgovcloudapi.net
+isatap.servicebus.usgovcloudapi.net
 isatap.usgovcloudapp.net
 isatap.usgovtrafficmanager.net
 isatap.blob.core.windows.net
@@ -69814,7 +69808,6 @@ lb._dns-sd.la1-plenit.com
 lb._dns-sd.us1-plenit.com
 lb._dns-sd.webadorsite.com
 lb._dns-sd.jouwweb.site
-lb._dns-sd.cns.joyent.com
 lb._dns-sd.triton.zone
 lb._dns-sd.js.org
 lb._dns-sd.kaas.gg
@@ -69985,10 +69978,10 @@ lb._dns-sd.westus2.azurestaticapps.net
 lb._dns-sd.azurewebsites.net
 lb._dns-sd.cloudapp.net
 lb._dns-sd.trafficmanager.net
-lb._dns-sd.servicebus.usgovcloudapi.net
 lb._dns-sd.blob.core.usgovcloudapi.net
 lb._dns-sd.file.core.usgovcloudapi.net
 lb._dns-sd.web.core.usgovcloudapi.net
+lb._dns-sd.servicebus.usgovcloudapi.net
 lb._dns-sd.usgovcloudapp.net
 lb._dns-sd.usgovtrafficmanager.net
 lb._dns-sd.blob.core.windows.net
@@ -79936,7 +79929,6 @@ wpad.la1-plenit.com
 wpad.us1-plenit.com
 wpad.webadorsite.com
 wpad.jouwweb.site
-wpad.cns.joyent.com
 wpad.triton.zone
 wpad.js.org
 wpad.kaas.gg
@@ -80107,10 +80099,10 @@ wpad.westus2.azurestaticapps.net
 wpad.azurewebsites.net
 wpad.cloudapp.net
 wpad.trafficmanager.net
-wpad.servicebus.usgovcloudapi.net
 wpad.blob.core.usgovcloudapi.net
 wpad.file.core.usgovcloudapi.net
 wpad.web.core.usgovcloudapi.net
+wpad.servicebus.usgovcloudapi.net
 wpad.usgovcloudapp.net
 wpad.usgovtrafficmanager.net
 wpad.blob.core.windows.net
@@ -90058,7 +90050,6 @@ wpad.tcp.la1-plenit.com
 wpad.tcp.us1-plenit.com
 wpad.tcp.webadorsite.com
 wpad.tcp.jouwweb.site
-wpad.tcp.cns.joyent.com
 wpad.tcp.triton.zone
 wpad.tcp.js.org
 wpad.tcp.kaas.gg
@@ -90229,10 +90220,10 @@ wpad.tcp.westus2.azurestaticapps.net
 wpad.tcp.azurewebsites.net
 wpad.tcp.cloudapp.net
 wpad.tcp.trafficmanager.net
-wpad.tcp.servicebus.usgovcloudapi.net
 wpad.tcp.blob.core.usgovcloudapi.net
 wpad.tcp.file.core.usgovcloudapi.net
 wpad.tcp.web.core.usgovcloudapi.net
+wpad.tcp.servicebus.usgovcloudapi.net
 wpad.tcp.usgovcloudapp.net
 wpad.tcp.usgovtrafficmanager.net
 wpad.tcp.blob.core.windows.net
