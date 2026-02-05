@@ -82,6 +82,7 @@ dns.beardic.cn
 dns.weixin.qq.com.cn
 dns.tuna.tsinghua.edu.cn
 dns.hujiayucc.cn
+dns.mbrjun.cn
 mc-sft.cn
 dns.muxinghe.cn
 dns.mzrme.cn
@@ -560,6 +561,7 @@ dns.jichi.io
 doh.kidzonet.io
 dns.n23.io
 resolver4.dns.openinternet.io
+de.dns.privex.io
 nl.dns.privex.io
 doh.qis.io
 doh.rezhajul.io
@@ -616,7 +618,6 @@ dns.ourvau.lt
 dns.redvau.lt
 sink.nolo.ltd
 dns.circl.lu
-blackhole.myon.lu
 dnspub.restena.lu
 doh.lv
 doh.nic.lv
@@ -722,6 +723,7 @@ dns.digitalsize.net
 dns4me.net
 dns.dnsoverhttps.net
 takhtakh.domyah.net
+gustamadh.dynv6.net
 dnscache.e-utp.net
 adguard.easez.net
 dns.eddi.net
@@ -1254,7 +1256,6 @@ dns.vip-kingstore.xyz
 dns.vod11.xyz
 dns.xwdmw.xyz
 pihole.datamatter.co.za
-dns.oliviertv.co.za
 pooblet.co.za
 paulo.nom.za
 dns.froth.zone
