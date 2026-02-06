@@ -1,6 +1,6 @@
 [Adblock Plus 1.1]
 ! Title: Accomplist "Doh" AdBlock List (Top-N Version)
-! Version: 1770275180
+! Version: 1770363714
 ! Homepage: https://github.com/cbuijs/accomplist/tree/master/doh
 !
 ! WhiteList Domains:
@@ -311,7 +311,6 @@
 ||dns.weibo.cn^
 ||xiaoxinhui.cn^
 ||dns.xinwujiang.cn^
-||dns.zoogle.cn^
 ||dns.zzuhacker.cn^
 ||dns.containerpi.co^
 ||nas.embraced.co^
@@ -695,7 +694,6 @@
 ||mnsvless.ikwb.com^
 ||ilinhy.com^
 ||ilmxs.com^
-||dns.imaicool.com^
 ||ad.imblien.com^
 ||noads.imbuffering.com^
 ||adgh.imtsui.com^
@@ -2370,6 +2368,7 @@
 ||dd.elashri.net^
 ||pdns.elecura.net^
 ||home.enjoymylife.net^
+||dns.envs.net^
 ||shield1.eranext.net^
 ||doh.ersei.net^
 ||adguard.exium.net^
@@ -2805,7 +2804,6 @@
 ||krtekvpn.duckdns.org^
 ||ldaman.duckdns.org^
 ||mipelinusa.duckdns.org^
-||montmorot.duckdns.org^
 ||morgenegg.duckdns.org^
 ||nas1403.duckdns.org^
 ||naujas123.duckdns.org^
@@ -3671,6 +3669,7 @@
 ||do.dnscrypt.uk^
 ||doh.dnscrypt.uk^
 ||v.dnscrypt.uk^
+||dns.dooks.uk^
 ||dns.goshawk22.uk^
 ||bigseal1.gu-natee.uk^
 ||admin.homedns.uk^

@@ -3,7 +3,6 @@
 .doh.disconnect.app
 .doh.futa.app
 .dns.narl.app
-.dns.tryk.app
 .dns.redhosting.com.ar
 .dnsdoh.art
 .dns.wang.art
@@ -237,6 +236,7 @@
 .dnstls.mobik.com
 .dns.moonssif.com
 .ns.mtsoln.com
+.dns.mzjtechnology.com
 .dns.nguyendn.com
 .d.niaox.com
 .dns-cybersec.nordthreatprotection.com
@@ -484,6 +484,7 @@
 .blockerads.multimediaconcept.fr
 .rayneau.fr
 .dns.sellan.fr
+.pates.services.sfr.fr.casepp.sfr.fr
 .dns.spirio.fr
 .adb-home.xaoimoon.fr
 .adfiltro.fun
@@ -618,6 +619,7 @@
 .dns.redvau.lt
 .sink.nolo.ltd
 .dns.circl.lu
+.blackhole.myon.lu
 .dnspub.restena.lu
 .doh.lv
 .doh.nic.lv
@@ -959,7 +961,6 @@
 .blocker.thethorsens.org
 .doh.tiarap.org
 .jp.tiarap.org
-.truta.org
 .vorlif.org
 .dns.w3ctag.org
 .wikimedia-dns.org
@@ -1178,6 +1179,7 @@
 .do.dnscrypt.uk
 .doh.dnscrypt.uk
 .v.dnscrypt.uk
+.dns.dooks.uk
 .dns.aa.net.uk
 .princez.uk
 .agh.fltn.us
@@ -1256,6 +1258,7 @@
 .dns.vod11.xyz
 .dns.xwdmw.xyz
 .pihole.datamatter.co.za
+.dns.oliviertv.co.za
 .pooblet.co.za
 .paulo.nom.za
 .dns.froth.zone
