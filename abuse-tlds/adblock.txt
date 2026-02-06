@@ -1,6 +1,6 @@
 [Adblock Plus 1.1]
 ! Title: Accomplist "Tlds" AdBlock List (Top-N Version)
-! Version: 1770274907
+! Version: 1770363438
 ! Homepage: https://github.com/cbuijs/accomplist/tree/master/tlds
 !
 ! WhiteList Domains:
@@ -471,6 +471,8 @@
 @@||union.fit^
 ! Sub-domain "johnreed.fitness" unblacklisted from domain "fitness"
 @@||johnreed.fitness^
+! Sub-domain "leaphealth.fitness" unblacklisted from domain "fitness"
+@@||leaphealth.fitness^
 @@||helloworld.foo^
 ! Sub-domain "way.food" unblacklisted from domain "food"
 @@||way.food^
