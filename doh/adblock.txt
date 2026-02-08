@@ -1,6 +1,6 @@
 [Adblock Plus 1.1]
 ! Title: Accomplist "Doh" AdBlock List (Top-N Version)
-! Version: 1770448972
+! Version: 1770536064
 ! Homepage: https://github.com/cbuijs/accomplist/tree/master/doh
 !
 ! WhiteList Domains:
@@ -694,6 +694,7 @@
 ||mnsvless.ikwb.com^
 ||ilinhy.com^
 ||ilmxs.com^
+||dns.imaicool.com^
 ||ad.imblien.com^
 ||noads.imbuffering.com^
 ||adgh.imtsui.com^
@@ -2266,6 +2267,7 @@
 ||callbackping.net^
 ||delta.caspervk.net^
 ||dns.caspervk.net^
+||centauricorex.net^
 ||dns.cfiec.net^
 ||ibuki.cgnat.net^
 ||chandr1000.net^
@@ -2282,6 +2284,7 @@
 ||adguard-vn2.cloudmini.net^
 ||dns.cmrg.net^
 ||dns.comff.net^
+||adguard.condorbs.net^
 ||dns1.conne.net^
 ||doh.cox.net^
 ||dot.cox.net^
@@ -2981,6 +2984,7 @@
 ||dns.w3ctag.org^
 ||wikimedia-dns.org^
 ||wikimediadns.org^
+||dns.xiumu.org^
 ||look.xshentx.org^
 ||akylah.zapto.org^
 ||toolbox.cloud.zknt.org^

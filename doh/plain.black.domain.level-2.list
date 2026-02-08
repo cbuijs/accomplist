@@ -12,6 +12,7 @@ rfree1.blue-shield.at
 rfree2.blue-shield.at
 dns.fancyorg.at
 dns.kescher.at
+dns.neubsi.at
 dns.sv-zauner.at
 dns.cloud88.com.au
 dns.netraptor.com.au
@@ -71,7 +72,6 @@ dns.comeonjames.club
 adguard.ef67daisuki.club
 ps1.modr.club
 dns.soldier.terumi.club
-doh.18bit.cn
 doh.360.cn
 dot.360.cn
 dns.baishiyuan.cn
@@ -80,6 +80,7 @@ dns.weixin.qq.com.cn
 dns.tuna.tsinghua.edu.cn
 dns.hujiayucc.cn
 dns.mbrjun.cn
+mc-sft.cn
 dns.muxinghe.cn
 dns.mzrme.cn
 dns.rubyfish.cn
@@ -109,6 +110,7 @@ doh.dns.apple.com
 dns.ares-taiwan.com
 dns.arkbotech.com
 dns.asterimoon.com
+dandelionsprout.asuscomm.com
 dns.asysec.com
 adguardhome.atakorah.com
 secure.avastdns.com
@@ -180,7 +182,6 @@ family.dns.doubleangels.com
 easyhandshake.com
 dns.edgeburnmedia.com
 edgy-dns.com
-dns.efficientdocuments.com
 doh.flashstart.com
 dns.flwagners.com
 biying.flymlc.com
@@ -205,7 +206,6 @@ doth.huque.com
 mask.icloud.com
 mask-h2.icloud.com
 dns.ihaveacloud.com
-dns.ikataruto.com
 noads.imbuffering.com
 dns.inforlogia.com
 dns1.irumatech.com
@@ -213,7 +213,6 @@ dns.is0mino.com
 dns.islandnet.com
 opencdn.jomodns.com
 dns.jstockley.com
-dns.jupitrdns.com
 ad.justincounts.com
 dns.justinnetworkingsolutions.com
 dns.kamilszczepanski.com
@@ -322,7 +321,6 @@ doh.umbrella.com
 doh.valscosmos.com
 wantaquddin.com
 ns2.wuyouss.com
-ns3.wuyouss.com
 xbcpb668.com
 doh.xfinity.com
 dot.xfinity.com
@@ -480,6 +478,7 @@ dns.mestdag.fr
 blockerads.multimediaconcept.fr
 rayneau.fr
 dns.sellan.fr
+pates.services.sfr.fr.casepp.sfr.fr
 dns.spirio.fr
 adb-home.xaoimoon.fr
 adfiltro.fun
@@ -544,7 +543,6 @@ dns.api.sandbox.globuscs.info
 dns.api.staging.globuscs.info
 dns.api.test.globuscs.info
 doh.kekew.info
-kilabit.info
 testaghome.meshkov.info
 dns.olpploiopkuyhiopsfrt.info
 agh.printk.info
@@ -593,7 +591,6 @@ dns.eliv.kr
 adblock.leenit.kr
 dns.nako.kr
 dns.njal.la
-xmr.land
 doh.li
 tor.vasi.li
 dns.txq.life
@@ -614,7 +611,6 @@ dns.ourvau.lt
 dns.redvau.lt
 sink.nolo.ltd
 dns.circl.lu
-blackhole.myon.lu
 dnspub.restena.lu
 doh.lv
 doh.nic.lv
@@ -668,7 +664,6 @@ dns.sev.monster
 dns.therifleman.name
 doh003.280blocker.net
 res-acst1.absolight.net
-res-acst2.absolight.net
 res-acst3.absolight.net
 resolver1.absolight.net
 resolver2.absolight.net
@@ -806,7 +801,6 @@ us-saj-w-f-1.nashkan.net
 us-saj-w-p-1.nashkan.net
 dns.netvpn.net
 kiri.nonexiste.net
-dns.novg.net
 dnscache0.ns71.net
 dns.nullgate.net
 dns.ofdoom.net
@@ -960,6 +954,7 @@ truta.org
 vorlif.org
 dns.w3ctag.org
 wikimedia-dns.org
+dns.xiumu.org
 doh.zknt.org
 doh.azoris.ovh
 cloudns.bosco.ovh
@@ -1095,6 +1090,7 @@ dns.quiet.rocks
 qual.cuprum.ru
 adguard.dekonix.ru
 vd.i81.ru
+dns.iamninja.ru
 muxyuji.ru
 dns.nas-server.ru
 adguard.oms-ctr.ru
@@ -1126,6 +1122,7 @@ dns.b33.space
 adg.rueiliu.space
 dns.sy.st
 home-server.store
+dns.fizz.studio
 dns.xuming.studio
 crypto.sx
 3jjxxl.tech
@@ -1242,14 +1239,12 @@ pm1239-bd.xyz
 pm7051-br.xyz
 pm9352-bd.xyz
 dns.propheci.xyz
-doh.sublime9.xyz
 tujenasnaszato.xyz
 adguard.twotigers.xyz
 dns.vaioswolke.xyz
 securedns.vendorvista.xyz
 dns.vinnyp.xyz
 dns.vip-kingstore.xyz
-dns.vod11.xyz
 dns.xwdmw.xyz
 pihole.datamatter.co.za
 dns.oliviertv.co.za
