@@ -1,0 +1,3097 @@
+[Adblock Plus 1.1]
+! Title: Accomplist "Tlds" AdBlock List (Top-N Version)
+! Version: 1771224477
+! Homepage: https://github.com/cbuijs/accomplist/tree/master/tlds
+!
+! WhiteList Domains:
+! Sub-domain "nation.africa" unblacklisted from domain "africa"
+@@||nation.africa^
+! Sub-domain "apptoro.agency" unblacklisted from domain "agency"
+@@||apptoro.agency^
+! Sub-domain "baam.agency" unblacklisted from domain "agency"
+@@||baam.agency^
+! Sub-domain "battlefield.agency" unblacklisted from domain "agency"
+@@||battlefield.agency^
+! Sub-domain "byteful.agency" unblacklisted from domain "agency"
+@@||byteful.agency^
+! Sub-domain "robotzebra.agency" unblacklisted from domain "agency"
+@@||robotzebra.agency^
+! Sub-domain "uphotel.agency" unblacklisted from domain "agency"
+@@||uphotel.agency^
+! Sub-domain "usenet.agency" unblacklisted from domain "agency"
+@@||usenet.agency^
+! Sub-domain "ws.agency" unblacklisted from domain "agency"
+@@||ws.agency^
+! Sub-domain "phishing.army" unblacklisted from domain "army"
+@@||phishing.army^
+! Sub-domain "amzn.asia" unblacklisted from domain "asia"
+@@||amzn.asia^
+! Sub-domain "autoads.asia" unblacklisted from domain "asia"
+@@||autoads.asia^
+! Sub-domain "bandainamcoent.asia" unblacklisted from domain "asia"
+@@||bandainamcoent.asia^
+! Sub-domain "dbankcloud.asia" unblacklisted from domain "asia"
+@@||dbankcloud.asia^
+! Sub-domain "disney.asia" unblacklisted from domain "asia"
+@@||disney.asia^
+! Sub-domain "elgaucho.asia" unblacklisted from domain "asia"
+@@||elgaucho.asia^
+! Sub-domain "homelands.asia" unblacklisted from domain "asia"
+@@||homelands.asia^
+! Sub-domain "livwell.asia" unblacklisted from domain "asia"
+@@||livwell.asia^
+! Sub-domain "pansci.asia" unblacklisted from domain "asia"
+@@||pansci.asia^
+! Sub-domain "rainviewer.asia" unblacklisted from domain "asia"
+@@||rainviewer.asia^
+! Sub-domain "shopdisney.asia" unblacklisted from domain "asia"
+@@||shopdisney.asia^
+! Sub-domain "flying-circus.band" unblacklisted from domain "band"
+@@||flying-circus.band^
+! Sub-domain "bolero.bar" unblacklisted from domain "bar"
+@@||bolero.bar^
+! Sub-domain "brexx.bar" unblacklisted from domain "bar"
+@@||brexx.bar^
+! Sub-domain "einhorn.bar" unblacklisted from domain "bar"
+@@||einhorn.bar^
+! Sub-domain "ethics.bar" unblacklisted from domain "bar"
+@@||ethics.bar^
+! Sub-domain "fap.bar" unblacklisted from domain "bar"
+@@||fap.bar^
+! Sub-domain "hai.bar" unblacklisted from domain "bar"
+@@||hai.bar^
+! Sub-domain "herz.bar" unblacklisted from domain "bar"
+@@||herz.bar^
+! Sub-domain "mavie.bar" unblacklisted from domain "bar"
+@@||mavie.bar^
+! Sub-domain "metro.bar" unblacklisted from domain "bar"
+@@||metro.bar^
+! Sub-domain "reit.bar" unblacklisted from domain "bar"
+@@||reit.bar^
+! Sub-domain "strem.bar" unblacklisted from domain "bar"
+@@||strem.bar^
+! Sub-domain "voi.bar" unblacklisted from domain "bar"
+@@||voi.bar^
+! Sub-domain "amphi.beer" unblacklisted from domain "beer"
+@@||amphi.beer^
+! Sub-domain "epg.best" unblacklisted from domain "best"
+@@||epg.best^
+! Sub-domain "xhamster.best" unblacklisted from domain "best"
+@@||xhamster.best^
+! Sub-domain "thescore.bet" unblacklisted from domain "bet"
+@@||thescore.bet^
+! Sub-domain "dat.bike" unblacklisted from domain "bike"
+@@||dat.bike^
+! Sub-domain "lime.bike" unblacklisted from domain "bike"
+@@||lime.bike^
+! Sub-domain "onlinesizing.bike" unblacklisted from domain "bike"
+@@||onlinesizing.bike^
+! Sub-domain "rapido.bike" unblacklisted from domain "bike"
+@@||rapido.bike^
+! Sub-domain "anonymurl.biz" unblacklisted from domain "biz"
+@@||anonymurl.biz^
+! Sub-domain "asana.biz" unblacklisted from domain "biz"
+@@||asana.biz^
+! Sub-domain "beiniz.biz" unblacklisted from domain "biz"
+@@||beiniz.biz^
+! Sub-domain "bonial.biz" unblacklisted from domain "biz"
+@@||bonial.biz^
+! Sub-domain "cloudns.biz" unblacklisted from domain "biz"
+@@||cloudns.biz^
+! Sub-domain "cyberciti.biz" unblacklisted from domain "biz"
+@@||cyberciti.biz^
+! Sub-domain "dailyinnovation.biz" unblacklisted from domain "biz"
+@@||dailyinnovation.biz^
+! Sub-domain "engelliler.biz" unblacklisted from domain "biz"
+@@||engelliler.biz^
+! Sub-domain "epson.biz" unblacklisted from domain "biz"
+@@||epson.biz^
+! Sub-domain "ette.biz" unblacklisted from domain "biz"
+@@||ette.biz^
+! Sub-domain "figureit.biz" unblacklisted from domain "biz"
+@@||figureit.biz^
+! Sub-domain "gamesindustry.biz" unblacklisted from domain "biz"
+@@||gamesindustry.biz^
+! Sub-domain "giftee.biz" unblacklisted from domain "biz"
+@@||giftee.biz^
+! Sub-domain "gimmeporn.biz" unblacklisted from domain "biz"
+@@||gimmeporn.biz^
+! Sub-domain "hb.biz" unblacklisted from domain "biz"
+@@||hb.biz^
+! Sub-domain "iimwf.biz" unblacklisted from domain "biz"
+@@||iimwf.biz^
+! Sub-domain "kioskcms.biz" unblacklisted from domain "biz"
+@@||kioskcms.biz^
+! Sub-domain "knuddels.biz" unblacklisted from domain "biz"
+@@||knuddels.biz^
+! Sub-domain "line.biz" unblacklisted from domain "biz"
+@@||line.biz^
+! Sub-domain "localise.biz" unblacklisted from domain "biz"
+@@||localise.biz^
+! Sub-domain "luckysbarbershop.biz" unblacklisted from domain "biz"
+@@||luckysbarbershop.biz^
+! Sub-domain "movabletype.biz" unblacklisted from domain "biz"
+@@||movabletype.biz^
+! Sub-domain "netcetera.biz" unblacklisted from domain "biz"
+@@||netcetera.biz^
+! Sub-domain "notebookcheck.biz" unblacklisted from domain "biz"
+@@||notebookcheck.biz^
+! Sub-domain "oe24cdn.biz" unblacklisted from domain "biz"
+@@||oe24cdn.biz^
+! Sub-domain "ooshahwa.biz" unblacklisted from domain "biz"
+@@||ooshahwa.biz^
+! Sub-domain "panasonic.biz" unblacklisted from domain "biz"
+@@||panasonic.biz^
+! Sub-domain "slussen.biz" unblacklisted from domain "biz"
+@@||slussen.biz^
+! Sub-domain "surveycake.biz" unblacklisted from domain "biz"
+@@||surveycake.biz^
+! Sub-domain "volvocars.biz" unblacklisted from domain "biz"
+@@||volvocars.biz^
+! Sub-domain "wiz.biz" unblacklisted from domain "biz"
+@@||wiz.biz^
+! Sub-domain "wspay.biz" unblacklisted from domain "biz"
+@@||wspay.biz^
+! Sub-domain "wyborcza.biz" unblacklisted from domain "biz"
+@@||wyborcza.biz^
+! Sub-domain "yoox.biz" unblacklisted from domain "biz"
+@@||yoox.biz^
+! Sub-domain "niim.blue" unblacklisted from domain "blue"
+@@||niim.blue^
+! Sub-domain "spook.boo" unblacklisted from domain "boo"
+@@||spook.boo^
+! Sub-domain "sideb.buzz" unblacklisted from domain "buzz"
+@@||sideb.buzz^
+! Sub-domain "scalable.capital" unblacklisted from domain "capital"
+@@||scalable.capital^
+! Sub-domain "commonspirit.careers" unblacklisted from domain "careers"
+@@||commonspirit.careers^
+! Sub-domain "nabu.casa" unblacklisted from domain "casa"
+@@||nabu.casa^
+! Sub-domain "doe.cash" unblacklisted from domain "cash"
+@@||doe.cash^
+! Sub-domain "10gen.cc" unblacklisted from domain "cc"
+@@||10gen.cc^
+! Sub-domain "adguard-vpn.cc" unblacklisted from domain "cc"
+@@||adguard-vpn.cc^
+! Sub-domain "akami-solutions.cc" unblacklisted from domain "cc"
+@@||akami-solutions.cc^
+! Sub-domain "arduino.cc" unblacklisted from domain "cc"
+@@||arduino.cc^
+! Sub-domain "clashofmagic.cc" unblacklisted from domain "cc"
+@@||clashofmagic.cc^
+! Sub-domain "coolkit.cc" unblacklisted from domain "cc"
+@@||coolkit.cc^
+! Sub-domain "coopoo.cc" unblacklisted from domain "cc"
+@@||coopoo.cc^
+! Sub-domain "crcon.cc" unblacklisted from domain "cc"
+@@||crcon.cc^
+! Sub-domain "datapump.cc" unblacklisted from domain "cc"
+@@||datapump.cc^
+! Sub-domain "dhilosnetworks.cc" unblacklisted from domain "cc"
+@@||dhilosnetworks.cc^
+! Sub-domain "dict.cc" unblacklisted from domain "cc"
+@@||dict.cc^
+! Sub-domain "fanbox.cc" unblacklisted from domain "cc"
+@@||fanbox.cc^
+! Sub-domain "fiedler.cc" unblacklisted from domain "cc"
+@@||fiedler.cc^
+! Sub-domain "forestapp.cc" unblacklisted from domain "cc"
+@@||forestapp.cc^
+! Sub-domain "frontrow.cc" unblacklisted from domain "cc"
+@@||frontrow.cc^
+! Sub-domain "imgus.cc" unblacklisted from domain "cc"
+@@||imgus.cc^
+! Sub-domain "is.cc" unblacklisted from domain "cc"
+@@||is.cc^
+! Sub-domain "itead.cc" unblacklisted from domain "cc"
+@@||itead.cc^
+! Sub-domain "libstc.cc" unblacklisted from domain "cc"
+@@||libstc.cc^
+! Sub-domain "lilygo.cc" unblacklisted from domain "cc"
+@@||lilygo.cc^
+! Sub-domain "lurl.cc" unblacklisted from domain "cc"
+@@||lurl.cc^
+! Sub-domain "mydaddy.cc" unblacklisted from domain "cc"
+@@||mydaddy.cc^
+! Sub-domain "myppt.cc" unblacklisted from domain "cc"
+@@||myppt.cc^
+! Sub-domain "postimg.cc" unblacklisted from domain "cc"
+@@||postimg.cc^
+! Sub-domain "ppt.cc" unblacklisted from domain "cc"
+@@||ppt.cc^
+! Sub-domain "pretendo.cc" unblacklisted from domain "cc"
+@@||pretendo.cc^
+! Sub-domain "ptt.cc" unblacklisted from domain "cc"
+@@||ptt.cc^
+! Sub-domain "pttweb.cc" unblacklisted from domain "cc"
+@@||pttweb.cc^
+! Sub-domain "rapha.cc" unblacklisted from domain "cc"
+@@||rapha.cc^
+! Sub-domain "rapidcdn.cc" unblacklisted from domain "cc"
+@@||rapidcdn.cc^
+! Sub-domain "reurl.cc" unblacklisted from domain "cc"
+@@||reurl.cc^
+! Sub-domain "road.cc" unblacklisted from domain "cc"
+@@||road.cc^
+! Sub-domain "rutracker.cc" unblacklisted from domain "cc"
+@@||rutracker.cc^
+! Sub-domain "shottr.cc" unblacklisted from domain "cc"
+@@||shottr.cc^
+! Sub-domain "silca.cc" unblacklisted from domain "cc"
+@@||silca.cc^
+! Sub-domain "sneakpeek.cc" unblacklisted from domain "cc"
+@@||sneakpeek.cc^
+! Sub-domain "toxicland.cc" unblacklisted from domain "cc"
+@@||toxicland.cc^
+! Sub-domain "ultra.cc" unblacklisted from domain "cc"
+@@||ultra.cc^
+! Sub-domain "ultracloud.cc" unblacklisted from domain "cc"
+@@||ultracloud.cc^
+! Sub-domain "vern.cc" unblacklisted from domain "cc"
+@@||vern.cc^
+! Sub-domain "vocus.cc" unblacklisted from domain "cc"
+@@||vocus.cc^
+! Sub-domain "wallhaven.cc" unblacklisted from domain "cc"
+@@||wallhaven.cc^
+! Sub-domain "yipee.cc" unblacklisted from domain "cc"
+@@||yipee.cc^
+! Sub-domain "yz168.cc" unblacklisted from domain "cc"
+@@||yz168.cc^
+! Sub-domain "zcyph.cc" unblacklisted from domain "cc"
+@@||zcyph.cc^
+! Sub-domain "mein-kunden.center" unblacklisted from domain "center"
+@@||mein-kunden.center^
+! Sub-domain "oh.center" unblacklisted from domain "center"
+@@||oh.center^
+! Sub-domain "priv.center" unblacklisted from domain "center"
+@@||priv.center^
+! Sub-domain "relaxx.center" unblacklisted from domain "center"
+@@||relaxx.center^
+! Sub-domain "google.cf" unblacklisted from domain "cf"
+@@||google.cf^
+! Sub-domain "host.church" unblacklisted from domain "church"
+@@||host.church^
+! Sub-domain "life.church" unblacklisted from domain "church"
+@@||life.church^
+! Sub-domain "online.church" unblacklisted from domain "church"
+@@||online.church^
+! Sub-domain "bypass.city" unblacklisted from domain "city"
+@@||bypass.city^
+! Sub-domain "ops.city" unblacklisted from domain "city"
+@@||ops.city^
+! Sub-domain "technical.city" unblacklisted from domain "city"
+@@||technical.city^
+! Sub-domain "am-videos.click" unblacklisted from domain "click"
+@@||am-videos.click^
+! Sub-domain "buybox.click" unblacklisted from domain "click"
+@@||buybox.click^
+! Sub-domain "fibra.click" unblacklisted from domain "click"
+@@||fibra.click^
+! Sub-domain "popcat.click" unblacklisted from domain "click"
+@@||popcat.click^
+! Sub-domain "popdog.click" unblacklisted from domain "click"
+@@||popdog.click^
+! Sub-domain "porsche.click" unblacklisted from domain "click"
+@@||porsche.click^
+! Sub-domain "qr-code.click" unblacklisted from domain "click"
+@@||qr-code.click^
+! Sub-domain "ravelin.click" unblacklisted from domain "click"
+@@||ravelin.click^
+! Sub-domain "wmg.click" unblacklisted from domain "click"
+@@||wmg.click^
+! Sub-domain "1kb.club" unblacklisted from domain "club"
+@@||1kb.club^
+! Sub-domain "1mb.club" unblacklisted from domain "club"
+@@||1mb.club^
+! Sub-domain "250kb.club" unblacklisted from domain "club"
+@@||250kb.club^
+! Sub-domain "512kb.club" unblacklisted from domain "club"
+@@||512kb.club^
+! Sub-domain "acstuff.club" unblacklisted from domain "club"
+@@||acstuff.club^
+! Sub-domain "assettocorsa.club" unblacklisted from domain "club"
+@@||assettocorsa.club^
+! Sub-domain "baby-beamup.club" unblacklisted from domain "club"
+@@||baby-beamup.club^
+! Sub-domain "chinaq.club" unblacklisted from domain "club"
+@@||chinaq.club^
+! Sub-domain "ctrl-c.club" unblacklisted from domain "club"
+@@||ctrl-c.club^
+! Sub-domain "debian.club" unblacklisted from domain "club"
+@@||debian.club^
+! Sub-domain "digipres.club" unblacklisted from domain "club"
+@@||digipres.club^
+! Sub-domain "hack.club" unblacklisted from domain "club"
+@@||hack.club^
+! Sub-domain "hd-olimpo.club" unblacklisted from domain "club"
+@@||hd-olimpo.club^
+! Sub-domain "hopium.club" unblacklisted from domain "club"
+@@||hopium.club^
+! Sub-domain "j-novel.club" unblacklisted from domain "club"
+@@||j-novel.club^
+! Sub-domain "mbcherohub.club" unblacklisted from domain "club"
+@@||mbcherohub.club^
+! Sub-domain "no-js.club" unblacklisted from domain "club"
+@@||no-js.club^
+! Sub-domain "nocss.club" unblacklisted from domain "club"
+@@||nocss.club^
+! Sub-domain "rwinfo.club" unblacklisted from domain "club"
+@@||rwinfo.club^
+! Sub-domain "skin.club" unblacklisted from domain "club"
+@@||skin.club^
+! Sub-domain "thelemmy.club" unblacklisted from domain "club"
+@@||thelemmy.club^
+! Sub-domain "tilde.club" unblacklisted from domain "club"
+@@||tilde.club^
+! Sub-domain "tmdb.club" unblacklisted from domain "club"
+@@||tmdb.club^
+! Sub-domain "xhtml.club" unblacklisted from domain "club"
+@@||xhtml.club^
+! Sub-domain "google.cm" unblacklisted from domain "cm"
+@@||google.cm^
+@@||raw.githubusercontent.com^
+! Sub-domain "helium.computer" unblacklisted from domain "computer"
+@@||helium.computer^
+! Sub-domain "libre.computer" unblacklisted from domain "computer"
+@@||libre.computer^
+! Sub-domain "neat.computer" unblacklisted from domain "computer"
+@@||neat.computer^
+! Sub-domain "silly.computer" unblacklisted from domain "computer"
+@@||silly.computer^
+! Sub-domain "cnyes.cool" unblacklisted from domain "cool"
+@@||cnyes.cool^
+! Sub-domain "compromise.cool" unblacklisted from domain "cool"
+@@||compromise.cool^
+! Sub-domain "eagle.cool" unblacklisted from domain "cool"
+@@||eagle.cool^
+! Sub-domain "shirtz.cool" unblacklisted from domain "cool"
+@@||shirtz.cool^
+! Sub-domain "upbitit.cool" unblacklisted from domain "cool"
+@@||upbitit.cool^
+! Sub-domain "hammertime.cyou" unblacklisted from domain "cyou"
+@@||hammertime.cyou^
+! Sub-domain "prometko.cyou" unblacklisted from domain "cyou"
+@@||prometko.cyou^
+! Sub-domain "daily.dad" unblacklisted from domain "dad"
+@@||daily.dad^
+! Sub-domain "dear.dad" unblacklisted from domain "dad"
+@@||dear.dad^
+! Sub-domain "gdflix.dad" unblacklisted from domain "dad"
+@@||gdflix.dad^
+! Sub-domain "gdtot.dad" unblacklisted from domain "dad"
+@@||gdtot.dad^
+! Sub-domain "rad.dad" unblacklisted from domain "dad"
+@@||rad.dad^
+! Sub-domain "endoflife.date" unblacklisted from domain "date"
+@@||endoflife.date^
+! Sub-domain "boo.dating" unblacklisted from domain "dating"
+@@||boo.dating^
+! Sub-domain "breeze.dating" unblacklisted from domain "dating"
+@@||breeze.dating^
+! Sub-domain "gaudi.dating" unblacklisted from domain "dating"
+@@||gaudi.dating^
+! Sub-domain "gg.deals" unblacklisted from domain "deals"
+@@||gg.deals^
+! Sub-domain "opf.degree" unblacklisted from domain "degree"
+@@||opf.degree^
+! Sub-domain "three60.degree" unblacklisted from domain "degree"
+@@||three60.degree^
+! Sub-domain "push.delivery" unblacklisted from domain "delivery"
+@@||push.delivery^
+! Sub-domain "return-my.delivery" unblacklisted from domain "delivery"
+@@||return-my.delivery^
+! Sub-domain "xhamster.desi" unblacklisted from domain "desi"
+@@||xhamster.desi^
+! Sub-domain "2fa.directory" unblacklisted from domain "directory"
+@@||2fa.directory^
+! Sub-domain "cursor.directory" unblacklisted from domain "directory"
+@@||cursor.directory^
+! Sub-domain "fedi.directory" unblacklisted from domain "directory"
+@@||fedi.directory^
+! Sub-domain "ooh.directory" unblacklisted from domain "directory"
+@@||ooh.directory^
+! Sub-domain "passkeys.directory" unblacklisted from domain "directory"
+@@||passkeys.directory^
+! Sub-domain "reactnative.directory" unblacklisted from domain "directory"
+@@||reactnative.directory^
+! Sub-domain "real.discount" unblacklisted from domain "discount"
+@@||real.discount^
+! Sub-domain "chainsawman.dog" unblacklisted from domain "dog"
+@@||chainsawman.dog^
+! Sub-domain "heika.dog" unblacklisted from domain "dog"
+@@||heika.dog^
+! Sub-domain "misskey.dog" unblacklisted from domain "dog"
+@@||misskey.dog^
+! Sub-domain "telegram.dog" unblacklisted from domain "dog"
+@@||telegram.dog^
+! Sub-domain "caido.download" unblacklisted from domain "download"
+@@||caido.download^
+! Sub-domain "kali.download" unblacklisted from domain "download"
+@@||kali.download^
+! Sub-domain "mkvtoolnix.download" unblacklisted from domain "download"
+@@||mkvtoolnix.download^
+! Sub-domain "orangefox.download" unblacklisted from domain "download"
+@@||orangefox.download^
+! Sub-domain "up4ever.download" unblacklisted from domain "download"
+@@||up4ever.download^
+! Sub-domain "upfiles.download" unblacklisted from domain "download"
+@@||upfiles.download^
+! Sub-domain "elli.eco" unblacklisted from domain "eco"
+@@||elli.eco^
+! Sub-domain "mer.eco" unblacklisted from domain "eco"
+@@||mer.eco^
+! Sub-domain "play.eco" unblacklisted from domain "eco"
+@@||play.eco^
+! Sub-domain "biqu.equipment" unblacklisted from domain "equipment"
+@@||biqu.equipment^
+! Sub-domain "ticketco.events" unblacklisted from domain "events"
+@@||ticketco.events^
+! Sub-domain "infosec.exchange" unblacklisted from domain "exchange"
+@@||infosec.exchange^
+! Sub-domain "ioc.exchange" unblacklisted from domain "exchange"
+@@||ioc.exchange^
+! Sub-domain "bahn.expert" unblacklisted from domain "expert"
+@@||bahn.expert^
+! Sub-domain "booking.expert" unblacklisted from domain "expert"
+@@||booking.expert^
+! Sub-domain "malware.expert" unblacklisted from domain "expert"
+@@||malware.expert^
+! Sub-domain "lemmy.fan" unblacklisted from domain "fan"
+@@||lemmy.fan^
+! Sub-domain "os.fan" unblacklisted from domain "fan"
+@@||os.fan^
+! Sub-domain "haal.fashion" unblacklisted from domain "fashion"
+@@||haal.fashion^
+! Sub-domain "xynth.finance" unblacklisted from domain "finance"
+@@||xynth.finance^
+! Sub-domain "appetit.fit" unblacklisted from domain "fit"
+@@||appetit.fit^
+! Sub-domain "clubb.fit" unblacklisted from domain "fit"
+@@||clubb.fit^
+! Sub-domain "justget.fit" unblacklisted from domain "fit"
+@@||justget.fit^
+! Sub-domain "pridegym.fit" unblacklisted from domain "fit"
+@@||pridegym.fit^
+! Sub-domain "union.fit" unblacklisted from domain "fit"
+@@||union.fit^
+! Sub-domain "johnreed.fitness" unblacklisted from domain "fitness"
+@@||johnreed.fitness^
+! Sub-domain "leaphealth.fitness" unblacklisted from domain "fitness"
+@@||leaphealth.fitness^
+@@||helloworld.foo^
+! Sub-domain "way.food" unblacklisted from domain "food"
+@@||way.food^
+! Sub-domain "e.foundation" unblacklisted from domain "foundation"
+@@||e.foundation^
+! Sub-domain "grapheneos.foundation" unblacklisted from domain "foundation"
+@@||grapheneos.foundation^
+! Sub-domain "jp.foundation" unblacklisted from domain "foundation"
+@@||jp.foundation^
+! Sub-domain "lgbt.foundation" unblacklisted from domain "foundation"
+@@||lgbt.foundation^
+! Sub-domain "player.foundation" unblacklisted from domain "foundation"
+@@||player.foundation^
+! Sub-domain "cdn.fun" unblacklisted from domain "fun"
+@@||cdn.fun^
+! Sub-domain "chinaq.fun" unblacklisted from domain "fun"
+@@||chinaq.fun^
+! Sub-domain "enza.fun" unblacklisted from domain "fun"
+@@||enza.fun^
+! Sub-domain "neal.fun" unblacklisted from domain "fun"
+@@||neal.fun^
+! Sub-domain "patterncraft.fun" unblacklisted from domain "fun"
+@@||patterncraft.fun^
+! Sub-domain "strem.fun" unblacklisted from domain "fun"
+@@||strem.fun^
+! Sub-domain "apollo.fyi" unblacklisted from domain "fyi"
+@@||apollo.fyi^
+! Sub-domain "better.fyi" unblacklisted from domain "fyi"
+@@||better.fyi^
+! Sub-domain "crypt.fyi" unblacklisted from domain "fyi"
+@@||crypt.fyi^
+! Sub-domain "genderdysphoria.fyi" unblacklisted from domain "fyi"
+@@||genderdysphoria.fyi^
+! Sub-domain "iusearchlinux.fyi" unblacklisted from domain "fyi"
+@@||iusearchlinux.fyi^
+! Sub-domain "laelaps.fyi" unblacklisted from domain "fyi"
+@@||laelaps.fyi^
+! Sub-domain "levels.fyi" unblacklisted from domain "fyi"
+@@||levels.fyi^
+! Sub-domain "lunar.fyi" unblacklisted from domain "fyi"
+@@||lunar.fyi^
+! Sub-domain "notbyai.fyi" unblacklisted from domain "fyi"
+@@||notbyai.fyi^
+! Sub-domain "ost2.fyi" unblacklisted from domain "fyi"
+@@||ost2.fyi^
+! Sub-domain "poyoanon.fyi" unblacklisted from domain "fyi"
+@@||poyoanon.fyi^
+! Sub-domain "recollect.fyi" unblacklisted from domain "fyi"
+@@||recollect.fyi^
+! Sub-domain "vercel.fyi" unblacklisted from domain "fyi"
+@@||vercel.fyi^
+! Sub-domain "wpt.fyi" unblacklisted from domain "fyi"
+@@||wpt.fyi^
+! Sub-domain "google.ga" unblacklisted from domain "ga"
+@@||google.ga^
+! Sub-domain "mmo.ga" unblacklisted from domain "ga"
+@@||mmo.ga^
+! Sub-domain "crazypanda.games" unblacklisted from domain "games"
+@@||crazypanda.games^
+! Sub-domain "embark.games" unblacklisted from domain "games"
+@@||embark.games^
+! Sub-domain "eneba.games" unblacklisted from domain "games"
+@@||eneba.games^
+! Sub-domain "gxcorner.games" unblacklisted from domain "games"
+@@||gxcorner.games^
+! Sub-domain "skystone.games" unblacklisted from domain "games"
+@@||skystone.games^
+! Sub-domain "cst.gdn" unblacklisted from domain "gdn"
+@@||cst.gdn^
+! Sub-domain "stad.gent" unblacklisted from domain "gent"
+@@||stad.gent^
+! Sub-domain "discord.gift" unblacklisted from domain "gift"
+@@||discord.gift^
+! Sub-domain "domain.glass" unblacklisted from domain "glass"
+@@||domain.glass^
+! Sub-domain "xnxx.gold" unblacklisted from domain "gold"
+@@||xnxx.gold^
+! Sub-domain "inege.gq" unblacklisted from domain "gq"
+@@||inege.gq^
+! Sub-domain "mastodon.green" unblacklisted from domain "green"
+@@||mastodon.green^
+! Sub-domain "tilde.green" unblacklisted from domain "green"
+@@||tilde.green^
+! Sub-domain "treebal.green" unblacklisted from domain "green"
+@@||treebal.green^
+! Sub-domain "bedandbreakfast.guide" unblacklisted from domain "guide"
+@@||bedandbreakfast.guide^
+! Sub-domain "cfw.guide" unblacklisted from domain "guide"
+@@||cfw.guide^
+! Sub-domain "discordjs.guide" unblacklisted from domain "guide"
+@@||discordjs.guide^
+! Sub-domain "goodtravel.guide" unblacklisted from domain "guide"
+@@||goodtravel.guide^
+! Sub-domain "hacks.guide" unblacklisted from domain "guide"
+@@||hacks.guide^
+! Sub-domain "homebrew.guide" unblacklisted from domain "guide"
+@@||homebrew.guide^
+! Sub-domain "opensource.guide" unblacklisted from domain "guide"
+@@||opensource.guide^
+! Sub-domain "ripped.guide" unblacklisted from domain "guide"
+@@||ripped.guide^
+! Sub-domain "site.guide" unblacklisted from domain "guide"
+@@||site.guide^
+! Sub-domain "slowfood.guide" unblacklisted from domain "guide"
+@@||slowfood.guide^
+! Sub-domain "thebook.guide" unblacklisted from domain "guide"
+@@||thebook.guide^
+! Sub-domain "wii.guide" unblacklisted from domain "guide"
+@@||wii.guide^
+! Sub-domain "wisely.guide" unblacklisted from domain "guide"
+@@||wisely.guide^
+! Sub-domain "zig.guide" unblacklisted from domain "guide"
+@@||zig.guide^
+! Sub-domain "bahn.guru" unblacklisted from domain "guru"
+@@||bahn.guru^
+! Sub-domain "base64.guru" unblacklisted from domain "guru"
+@@||base64.guru^
+! Sub-domain "crontab.guru" unblacklisted from domain "guru"
+@@||crontab.guru^
+! Sub-domain "greenlight.guru" unblacklisted from domain "guru"
+@@||greenlight.guru^
+! Sub-domain "jav.guru" unblacklisted from domain "guru"
+@@||jav.guru^
+! Sub-domain "ludwig.guru" unblacklisted from domain "guru"
+@@||ludwig.guru^
+! Sub-domain "mags.guru" unblacklisted from domain "guru"
+@@||mags.guru^
+! Sub-domain "tilde.guru" unblacklisted from domain "guru"
+@@||tilde.guru^
+! Sub-domain "watcher.guru" unblacklisted from domain "guru"
+@@||watcher.guru^
+! Sub-domain "webcal.guru" unblacklisted from domain "guru"
+@@||webcal.guru^
+! Sub-domain "sca.health" unblacklisted from domain "health"
+@@||sca.health^
+! Sub-domain "severance.healthcare" unblacklisted from domain "healthcare"
+@@||severance.healthcare^
+! Sub-domain "crisp.help" unblacklisted from domain "help"
+@@||crisp.help^
+! Sub-domain "fastmail.help" unblacklisted from domain "help"
+@@||fastmail.help^
+! Sub-domain "gorgias.help" unblacklisted from domain "help"
+@@||gorgias.help^
+! Sub-domain "kustomer.help" unblacklisted from domain "help"
+@@||kustomer.help^
+! Sub-domain "pixiv.help" unblacklisted from domain "help"
+@@||pixiv.help^
+! Sub-domain "stremio.homes" unblacklisted from domain "homes"
+@@||stremio.homes^
+! Sub-domain "minecraft.hot" unblacklisted from domain "hot"
+@@||minecraft.hot^
+! Sub-domain "lanparty.house" unblacklisted from domain "house"
+@@||lanparty.house^
+! Sub-domain "nature.house" unblacklisted from domain "house"
+@@||nature.house^
+! Sub-domain "mond.how" unblacklisted from domain "how"
+@@||mond.how^
+! Sub-domain "notrace.how" unblacklisted from domain "how"
+@@||notrace.how^
+! Sub-domain "intervals.icu" unblacklisted from domain "icu"
+@@||intervals.icu^
+! Sub-domain "lunar.icu" unblacklisted from domain "icu"
+@@||lunar.icu^
+! Sub-domain "mon.icu" unblacklisted from domain "icu"
+@@||mon.icu^
+! Sub-domain "filepress.ink" unblacklisted from domain "ink"
+@@||filepress.ink^
+! Sub-domain "ishortn.ink" unblacklisted from domain "ink"
+@@||ishortn.ink^
+! Sub-domain "mez.ink" unblacklisted from domain "ink"
+@@||mez.ink^
+! Sub-domain "next.ink" unblacklisted from domain "ink"
+@@||next.ink^
+! Sub-domain "rdl.ink" unblacklisted from domain "ink"
+@@||rdl.ink^
+! Sub-domain "shrinkme.ink" unblacklisted from domain "ink"
+@@||shrinkme.ink^
+! Sub-domain "simple.ink" unblacklisted from domain "ink"
+@@||simple.ink^
+! Sub-domain "sumerian.ink" unblacklisted from domain "ink"
+@@||sumerian.ink^
+! Sub-domain "work.ink" unblacklisted from domain "ink"
+@@||work.ink^
+! Sub-domain "returns.international" unblacklisted from domain "international"
+@@||returns.international^
+! Sub-domain "doctolib.legal" unblacklisted from domain "legal"
+@@||doctolib.legal^
+! Sub-domain "wbs.legal" unblacklisted from domain "legal"
+@@||wbs.legal^
+! Sub-domain "lex.lgbt" unblacklisted from domain "lgbt"
+@@||lex.lgbt^
+! Sub-domain "mint.lgbt" unblacklisted from domain "lgbt"
+@@||mint.lgbt^
+! Sub-domain "tech.lgbt" unblacklisted from domain "lgbt"
+@@||tech.lgbt^
+! Sub-domain "2ch.life" unblacklisted from domain "life"
+@@||2ch.life^
+! Sub-domain "billo.life" unblacklisted from domain "life"
+@@||billo.life^
+! Sub-domain "circles.life" unblacklisted from domain "life"
+@@||circles.life^
+! Sub-domain "colorgame.life" unblacklisted from domain "life"
+@@||colorgame.life^
+! Sub-domain "digitalcitizen.life" unblacklisted from domain "life"
+@@||digitalcitizen.life^
+! Sub-domain "fami.life" unblacklisted from domain "life"
+@@||fami.life^
+! Sub-domain "iboost.life" unblacklisted from domain "life"
+@@||iboost.life^
+! Sub-domain "lifetime.life" unblacklisted from domain "life"
+@@||lifetime.life^
+! Sub-domain "loveinfaith.life" unblacklisted from domain "life"
+@@||loveinfaith.life^
+! Sub-domain "stepone.life" unblacklisted from domain "life"
+@@||stepone.life^
+! Sub-domain "via.life" unblacklisted from domain "life"
+@@||via.life^
+! Sub-domain "yiff.life" unblacklisted from domain "life"
+@@||yiff.life^
+! Sub-domain "ratcloud.llc" unblacklisted from domain "llc"
+@@||ratcloud.llc^
+! Sub-domain "adsb.lol" unblacklisted from domain "lol"
+@@||adsb.lol^
+! Sub-domain "ags.lol" unblacklisted from domain "lol"
+@@||ags.lol^
+! Sub-domain "animevietsub.lol" unblacklisted from domain "lol"
+@@||animevietsub.lol^
+! Sub-domain "browser.lol" unblacklisted from domain "lol"
+@@||browser.lol^
+! Sub-domain "dankmemer.lol" unblacklisted from domain "lol"
+@@||dankmemer.lol^
+! Sub-domain "fmhy.lol" unblacklisted from domain "lol"
+@@||fmhy.lol^
+! Sub-domain "guns.lol" unblacklisted from domain "lol"
+@@||guns.lol^
+! Sub-domain "hubcloud.lol" unblacklisted from domain "lol"
+@@||hubcloud.lol^
+! Sub-domain "io.lol" unblacklisted from domain "lol"
+@@||io.lol^
+! Sub-domain "kizuki.lol" unblacklisted from domain "lol"
+@@||kizuki.lol^
+! Sub-domain "lemy.lol" unblacklisted from domain "lol"
+@@||lemy.lol^
+! Sub-domain "library.lol" unblacklisted from domain "lol"
+@@||library.lol^
+! Sub-domain "nexdrive.lol" unblacklisted from domain "lol"
+@@||nexdrive.lol^
+! Sub-domain "nos.lol" unblacklisted from domain "lol"
+@@||nos.lol^
+! Sub-domain "noted.lol" unblacklisted from domain "lol"
+@@||noted.lol^
+! Sub-domain "objection.lol" unblacklisted from domain "lol"
+@@||objection.lol^
+! Sub-domain "omg.lol" unblacklisted from domain "lol"
+@@||omg.lol^
+! Sub-domain "paste.lol" unblacklisted from domain "lol"
+@@||paste.lol^
+! Sub-domain "proven.lol" unblacklisted from domain "lol"
+@@||proven.lol^
+! Sub-domain "sibellavia.lol" unblacklisted from domain "lol"
+@@||sibellavia.lol^
+! Sub-domain "social.lol" unblacklisted from domain "lol"
+@@||social.lol^
+! Sub-domain "status.lol" unblacklisted from domain "lol"
+@@||status.lol^
+! Sub-domain "techaro.lol" unblacklisted from domain "lol"
+@@||techaro.lol^
+! Sub-domain "weblog.lol" unblacklisted from domain "lol"
+@@||weblog.lol^
+! Sub-domain "wpp.lol" unblacklisted from domain "lol"
+@@||wpp.lol^
+! Sub-domain "homebrew.ltd" unblacklisted from domain "ltd"
+@@||homebrew.ltd^
+! Sub-domain "picsee.ltd" unblacklisted from domain "ltd"
+@@||picsee.ltd^
+! Sub-domain "swizzin.ltd" unblacklisted from domain "ltd"
+@@||swizzin.ltd^
+! Sub-domain "bird.makeup" unblacklisted from domain "makeup"
+@@||bird.makeup^
+! Sub-domain "digiseller.market" unblacklisted from domain "market"
+@@||digiseller.market^
+! Sub-domain "otto.market" unblacklisted from domain "market"
+@@||otto.market^
+! Sub-domain "plati.market" unblacklisted from domain "market"
+@@||plati.market^
+! Sub-domain "poly.market" unblacklisted from domain "market"
+@@||poly.market^
+! Sub-domain "spotim.market" unblacklisted from domain "market"
+@@||spotim.market^
+! Sub-domain "warframe.market" unblacklisted from domain "market"
+@@||warframe.market^
+! Sub-domain "virgile.men" unblacklisted from domain "men"
+@@||virgile.men^
+! Sub-domain "speisekarte.menu" unblacklisted from domain "menu"
+@@||speisekarte.menu^
+! Sub-domain "viewthe.menu" unblacklisted from domain "menu"
+@@||viewthe.menu^
+! Sub-domain "aire.ml" unblacklisted from domain "ml"
+@@||aire.ml^
+! Sub-domain "amap.ml" unblacklisted from domain "ml"
+@@||amap.ml^
+! Sub-domain "google.ml" unblacklisted from domain "ml"
+@@||google.ml^
+! Sub-domain "info-matin.ml" unblacklisted from domain "ml"
+@@||info-matin.ml^
+! Sub-domain "lemmy.ml" unblacklisted from domain "ml"
+@@||lemmy.ml^
+! Sub-domain "lemmygrad.ml" unblacklisted from domain "ml"
+@@||lemmygrad.ml^
+! Sub-domain "lingva.ml" unblacklisted from domain "ml"
+@@||lingva.ml^
+! Sub-domain "loma.ml" unblacklisted from domain "ml"
+@@||loma.ml^
+! Sub-domain "mastodon.ml" unblacklisted from domain "ml"
+@@||mastodon.ml^
+! Sub-domain "melody.ml" unblacklisted from domain "ml"
+@@||melody.ml^
+! Sub-domain "precure.ml" unblacklisted from domain "ml"
+@@||precure.ml^
+! Sub-domain "prompt.ml" unblacklisted from domain "ml"
+@@||prompt.ml^
+! Sub-domain "anh.moe" unblacklisted from domain "moe"
+@@||anh.moe^
+! Sub-domain "aniya.moe" unblacklisted from domain "moe"
+@@||aniya.moe^
+! Sub-domain "catbox.moe" unblacklisted from domain "moe"
+@@||catbox.moe^
+! Sub-domain "cdn.moe" unblacklisted from domain "moe"
+@@||cdn.moe^
+! Sub-domain "cubari.moe" unblacklisted from domain "moe"
+@@||cubari.moe^
+! Sub-domain "ddlc.moe" unblacklisted from domain "moe"
+@@||ddlc.moe^
+! Sub-domain "dmn.moe" unblacklisted from domain "moe"
+@@||dmn.moe^
+! Sub-domain "honse.moe" unblacklisted from domain "moe"
+@@||honse.moe^
+! Sub-domain "mathi.moe" unblacklisted from domain "moe"
+@@||mathi.moe^
+! Sub-domain "nyarchlinux.moe" unblacklisted from domain "moe"
+@@||nyarchlinux.moe^
+! Sub-domain "sakurajima.moe" unblacklisted from domain "moe"
+@@||sakurajima.moe^
+! Sub-domain "save.moe" unblacklisted from domain "moe"
+@@||save.moe^
+! Sub-domain "snug.moe" unblacklisted from domain "moe"
+@@||snug.moe^
+! Sub-domain "trace.moe" unblacklisted from domain "moe"
+@@||trace.moe^
+! Sub-domain "tzatzikiweeb.moe" unblacklisted from domain "moe"
+@@||tzatzikiweeb.moe^
+! Sub-domain "uma.moe" unblacklisted from domain "moe"
+@@||uma.moe^
+! Sub-domain "copilot.money" unblacklisted from domain "money"
+@@||copilot.money^
+! Sub-domain "flowyour.money" unblacklisted from domain "money"
+@@||flowyour.money^
+! Sub-domain "super.money" unblacklisted from domain "money"
+@@||super.money^
+! Sub-domain "unstoppable.money" unblacklisted from domain "money"
+@@||unstoppable.money^
+! Sub-domain "usual.money" unblacklisted from domain "money"
+@@||usual.money^
+! Sub-domain "vivid.money" unblacklisted from domain "money"
+@@||vivid.money^
+! Sub-domain "cloudcdn.monster" unblacklisted from domain "monster"
+@@||cloudcdn.monster^
+! Sub-domain "fedi.monster" unblacklisted from domain "monster"
+@@||fedi.monster^
+! Sub-domain "mortgage.monster" unblacklisted from domain "monster"
+@@||mortgage.monster^
+! Sub-domain "rollenspiel.monster" unblacklisted from domain "monster"
+@@||rollenspiel.monster^
+! Sub-domain "tts.monster" unblacklisted from domain "monster"
+@@||tts.monster^
+! Sub-domain "yts.monster" unblacklisted from domain "monster"
+@@||yts.monster^
+! Sub-domain "david.mov" unblacklisted from domain "mov"
+@@||david.mov^
+! Sub-domain "peerflix.mov" unblacklisted from domain "mov"
+@@||peerflix.mov^
+! Sub-domain "pstream.mov" unblacklisted from domain "mov"
+@@||pstream.mov^
+! Sub-domain "chris.boyle.name" unblacklisted from domain "name"
+@@||chris.boyle.name^
+! Sub-domain "davidwalsh.name" unblacklisted from domain "name"
+@@||davidwalsh.name^
+! Sub-domain "keenetic.name" unblacklisted from domain "name"
+@@||keenetic.name^
+! Sub-domain "stefvanbuuren.name" unblacklisted from domain "name"
+@@||stefvanbuuren.name^
+! Sub-domain "vlo.name" unblacklisted from domain "name"
+@@||vlo.name^
+! Sub-domain "bolt.new" unblacklisted from domain "new"
+@@||bolt.new^
+! Sub-domain "doc.new" unblacklisted from domain "new"
+@@||doc.new^
+! Sub-domain "drawing.new" unblacklisted from domain "new"
+@@||drawing.new^
+! Sub-domain "form.new" unblacklisted from domain "new"
+@@||form.new^
+! Sub-domain "git.new" unblacklisted from domain "new"
+@@||git.new^
+! Sub-domain "lecture.new" unblacklisted from domain "new"
+@@||lecture.new^
+! Sub-domain "postgres.new" unblacklisted from domain "new"
+@@||postgres.new^
+! Sub-domain "sheet.new" unblacklisted from domain "new"
+@@||sheet.new^
+! Sub-domain "site.new" unblacklisted from domain "new"
+@@||site.new^
+! Sub-domain "slide.new" unblacklisted from domain "new"
+@@||slide.new^
+@@||google.com.ng^
+! Sub-domain "poe.ninja" unblacklisted from domain "ninja"
+@@||poe.ninja^
+! Sub-domain "protomedia.ninja" unblacklisted from domain "ninja"
+@@||protomedia.ninja^
+! Sub-domain "project2025.observer" unblacklisted from domain "observer"
+@@||project2025.observer^
+! Sub-domain "gc.onl" unblacklisted from domain "onl"
+@@||gc.onl^
+! Sub-domain "2kweb.online" unblacklisted from domain "online"
+@@||2kweb.online^
+! Sub-domain "adguard-vpn.online" unblacklisted from domain "online"
+@@||adguard-vpn.online^
+! Sub-domain "argon2.online" unblacklisted from domain "online"
+@@||argon2.online^
+! Sub-domain "bebraver.online" unblacklisted from domain "online"
+@@||bebraver.online^
+! Sub-domain "blink.online" unblacklisted from domain "online"
+@@||blink.online^
+! Sub-domain "dancewave.online" unblacklisted from domain "online"
+@@||dancewave.online^
+! Sub-domain "discuss.online" unblacklisted from domain "online"
+@@||discuss.online^
+! Sub-domain "dnsspeedtest.online" unblacklisted from domain "online"
+@@||dnsspeedtest.online^
+! Sub-domain "eufh.online" unblacklisted from domain "online"
+@@||eufh.online^
+! Sub-domain "fireshinegames.online" unblacklisted from domain "online"
+@@||fireshinegames.online^
+! Sub-domain "flexilead.online" unblacklisted from domain "online"
+@@||flexilead.online^
+! Sub-domain "forceofwind.online" unblacklisted from domain "online"
+@@||forceofwind.online^
+! Sub-domain "geoigarape.online" unblacklisted from domain "online"
+@@||geoigarape.online^
+! Sub-domain "grapheneos.online" unblacklisted from domain "online"
+@@||grapheneos.online^
+! Sub-domain "incdn.online" unblacklisted from domain "online"
+@@||incdn.online^
+! Sub-domain "infomax.online" unblacklisted from domain "online"
+@@||infomax.online^
+! Sub-domain "instructions.online" unblacklisted from domain "online"
+@@||instructions.online^
+! Sub-domain "manuals.online" unblacklisted from domain "online"
+@@||manuals.online^
+! Sub-domain "mastodon.online" unblacklisted from domain "online"
+@@||mastodon.online^
+! Sub-domain "mrprice.online" unblacklisted from domain "online"
+@@||mrprice.online^
+! Sub-domain "open.online" unblacklisted from domain "online"
+@@||open.online^
+! Sub-domain "owncast.online" unblacklisted from domain "online"
+@@||owncast.online^
+! Sub-domain "photostore24.online" unblacklisted from domain "online"
+@@||photostore24.online^
+! Sub-domain "radarpayment.online" unblacklisted from domain "online"
+@@||radarpayment.online^
+! Sub-domain "randemretail.online" unblacklisted from domain "online"
+@@||randemretail.online^
+! Sub-domain "ravendawn.online" unblacklisted from domain "online"
+@@||ravendawn.online^
+! Sub-domain "shueisha.online" unblacklisted from domain "online"
+@@||shueisha.online^
+! Sub-domain "vmwesa.online" unblacklisted from domain "online"
+@@||vmwesa.online^
+! Sub-domain "zander.online" unblacklisted from domain "online"
+@@||zander.online^
+! Sub-domain "term.ooo" unblacklisted from domain "ooo"
+@@||term.ooo^
+! Sub-domain "toast.ooo" unblacklisted from domain "ooo"
+@@||toast.ooo^
+! Sub-domain "1password.partners" unblacklisted from domain "partners"
+@@||1password.partners^
+! Sub-domain "nvidia.partners" unblacklisted from domain "partners"
+@@||nvidia.partners^
+! Sub-domain "stripe.partners" unblacklisted from domain "partners"
+@@||stripe.partners^
+! Sub-domain "xh.partners" unblacklisted from domain "partners"
+@@||xh.partners^
+! Sub-domain "ducks.party" unblacklisted from domain "party"
+@@||ducks.party^
+! Sub-domain "mstdn.party" unblacklisted from domain "party"
+@@||mstdn.party^
+! Sub-domain "ntc.party" unblacklisted from domain "party"
+@@||ntc.party^
+! Sub-domain "spankbang.party" unblacklisted from domain "party"
+@@||spankbang.party^
+! Sub-domain "kickthespy.pet" unblacklisted from domain "pet"
+@@||kickthespy.pet^
+! Sub-domain "kuma.pet" unblacklisted from domain "pet"
+@@||kuma.pet^
+! Sub-domain "safe.pharmacy" unblacklisted from domain "pharmacy"
+@@||safe.pharmacy^
+@@||rafael.phd^
+! Sub-domain "faceapp.photo" unblacklisted from domain "photo"
+@@||faceapp.photo^
+! Sub-domain "glass.photo" unblacklisted from domain "photo"
+@@||glass.photo^
+! Sub-domain "picsum.photos" unblacklisted from domain "photos"
+@@||picsum.photos^
+! Sub-domain "am-cdn.pics" unblacklisted from domain "pics"
+@@||am-cdn.pics^
+! Sub-domain "covet.pics" unblacklisted from domain "pics"
+@@||covet.pics^
+! Sub-domain "pixers.pics" unblacklisted from domain "pics"
+@@||pixers.pics^
+! Sub-domain "sexhd.pics" unblacklisted from domain "pics"
+@@||sexhd.pics^
+! Sub-domain "slow.pics" unblacklisted from domain "pics"
+@@||slow.pics^
+! Sub-domain "twic.pics" unblacklisted from domain "pics"
+@@||twic.pics^
+! Sub-domain "cleanup.pictures" unblacklisted from domain "pictures"
+@@||cleanup.pictures^
+! Sub-domain "comick.pictures" unblacklisted from domain "pictures"
+@@||comick.pictures^
+! Sub-domain "pornhoarder.pictures" unblacklisted from domain "pictures"
+@@||pornhoarder.pictures^
+! Sub-domain "tux.pizza" unblacklisted from domain "pizza"
+@@||tux.pizza^
+! Sub-domain "gamedev.place" unblacklisted from domain "place"
+@@||gamedev.place^
+! Sub-domain "mstdn.plus" unblacklisted from domain "plus"
+@@||mstdn.plus^
+! Sub-domain "pahe.plus" unblacklisted from domain "plus"
+@@||pahe.plus^
+! Sub-domain "rcti.plus" unblacklisted from domain "plus"
+@@||rcti.plus^
+! Sub-domain "saepay.plus" unblacklisted from domain "plus"
+@@||saepay.plus^
+! Sub-domain "cypruspost.post" unblacklisted from domain "post"
+@@||cypruspost.post^
+! Sub-domain "casey.prof" unblacklisted from domain "prof"
+@@||casey.prof^
+! Sub-domain "arc.pub" unblacklisted from domain "pub"
+@@||arc.pub^
+! Sub-domain "bierbaum.pub" unblacklisted from domain "pub"
+@@||bierbaum.pub^
+! Sub-domain "infosec.pub" unblacklisted from domain "pub"
+@@||infosec.pub^
+! Sub-domain "leaflet.pub" unblacklisted from domain "pub"
+@@||leaflet.pub^
+! Sub-domain "static.pub" unblacklisted from domain "pub"
+@@||static.pub^
+! Sub-domain "wapo.pub" unblacklisted from domain "pub"
+@@||wapo.pub^
+! Sub-domain "buttercup.pw" unblacklisted from domain "pw"
+@@||buttercup.pw^
+! Sub-domain "core.pw" unblacklisted from domain "pw"
+@@||core.pw^
+! Sub-domain "darkcrystal.pw" unblacklisted from domain "pw"
+@@||darkcrystal.pw^
+! Sub-domain "dpc.pw" unblacklisted from domain "pw"
+@@||dpc.pw^
+! Sub-domain "gopass.pw" unblacklisted from domain "pw"
+@@||gopass.pw^
+! Sub-domain "palaugov.pw" unblacklisted from domain "pw"
+@@||palaugov.pw^
+! Sub-domain "petridish.pw" unblacklisted from domain "pw"
+@@||petridish.pw^
+! Sub-domain "plutonium.pw" unblacklisted from domain "pw"
+@@||plutonium.pw^
+! Sub-domain "tabula-rasa.pw" unblacklisted from domain "pw"
+@@||tabula-rasa.pw^
+! Sub-domain "xor.pw" unblacklisted from domain "pw"
+@@||xor.pw^
+! Sub-domain "zok.pw" unblacklisted from domain "pw"
+@@||zok.pw^
+! Sub-domain "dice.quest" unblacklisted from domain "quest"
+@@||dice.quest^
+! Sub-domain "epochal.quest" unblacklisted from domain "quest"
+@@||epochal.quest^
+! Sub-domain "mhn.quest" unblacklisted from domain "quest"
+@@||mhn.quest^
+! Sub-domain "mylegendary.quest" unblacklisted from domain "quest"
+@@||mylegendary.quest^
+! Sub-domain "prometheus.quest" unblacklisted from domain "quest"
+@@||prometheus.quest^
+! Sub-domain "raccoon.quest" unblacklisted from domain "quest"
+@@||raccoon.quest^
+! Sub-domain "bunkr.red" unblacklisted from domain "red"
+@@||bunkr.red^
+! Sub-domain "sci-hub.red" unblacklisted from domain "red"
+@@||sci-hub.red^
+! Sub-domain "xvideos.red" unblacklisted from domain "red"
+@@||xvideos.red^
+! Sub-domain "srv.rent" unblacklisted from domain "rent"
+@@||srv.rent^
+! Sub-domain "insomnia.rest" unblacklisted from domain "rest"
+@@||insomnia.rest^
+! Sub-domain "nect.rest" unblacklisted from domain "rest"
+@@||nect.rest^
+! Sub-domain "moyos.restaurant" unblacklisted from domain "restaurant"
+@@||moyos.restaurant^
+! Sub-domain "vecchioamore.restaurant" unblacklisted from domain "restaurant"
+@@||vecchioamore.restaurant^
+! Sub-domain "highquality.rip" unblacklisted from domain "rip"
+@@||highquality.rip^
+! Sub-domain "medium.rip" unblacklisted from domain "rip"
+@@||medium.rip^
+! Sub-domain "nest.rip" unblacklisted from domain "rip"
+@@||nest.rip^
+! Sub-domain "scribe.rip" unblacklisted from domain "rip"
+@@||scribe.rip^
+! Sub-domain "goflix.sbs" unblacklisted from domain "sbs"
+@@||goflix.sbs^
+! Sub-domain "amazon.science" unblacklisted from domain "science"
+@@||amazon.science^
+! Sub-domain "canonn.science" unblacklisted from domain "science"
+@@||canonn.science^
+! Sub-domain "hal.science" unblacklisted from domain "science"
+@@||hal.science^
+! Sub-domain "wander.science" unblacklisted from domain "science"
+@@||wander.science^
+! Sub-domain "privacy.sexy" unblacklisted from domain "sexy"
+@@||privacy.sexy^
+! Sub-domain "terminal.sexy" unblacklisted from domain "sexy"
+@@||terminal.sexy^
+! Sub-domain "11ts.shop" unblacklisted from domain "shop"
+@@||11ts.shop^
+! Sub-domain "30grad.shop" unblacklisted from domain "shop"
+@@||30grad.shop^
+! Sub-domain "4id.shop" unblacklisted from domain "shop"
+@@||4id.shop^
+! Sub-domain "aloedent.shop" unblacklisted from domain "shop"
+@@||aloedent.shop^
+! Sub-domain "axisms.shop" unblacklisted from domain "shop"
+@@||axisms.shop^
+! Sub-domain "buergerspital.shop" unblacklisted from domain "shop"
+@@||buergerspital.shop^
+! Sub-domain "chessvibes.shop" unblacklisted from domain "shop"
+@@||chessvibes.shop^
+! Sub-domain "derweinladen.shop" unblacklisted from domain "shop"
+@@||derweinladen.shop^
+! Sub-domain "domainname.shop" unblacklisted from domain "shop"
+@@||domainname.shop^
+! Sub-domain "domene.shop" unblacklisted from domain "shop"
+@@||domene.shop^
+! Sub-domain "durst.shop" unblacklisted from domain "shop"
+@@||durst.shop^
+! Sub-domain "elbsand.shop" unblacklisted from domain "shop"
+@@||elbsand.shop^
+! Sub-domain "epicdesk.shop" unblacklisted from domain "shop"
+@@||epicdesk.shop^
+! Sub-domain "eventix.shop" unblacklisted from domain "shop"
+@@||eventix.shop^
+! Sub-domain "freshtorge.shop" unblacklisted from domain "shop"
+@@||freshtorge.shop^
+! Sub-domain "frontiers.shop" unblacklisted from domain "shop"
+@@||frontiers.shop^
+! Sub-domain "funk-dichtungstechnik.shop" unblacklisted from domain "shop"
+@@||funk-dichtungstechnik.shop^
+! Sub-domain "geekchic.shop" unblacklisted from domain "shop"
+@@||geekchic.shop^
+! Sub-domain "grnk.shop" unblacklisted from domain "shop"
+@@||grnk.shop^
+! Sub-domain "grog.shop" unblacklisted from domain "shop"
+@@||grog.shop^
+! Sub-domain "henssler.shop" unblacklisted from domain "shop"
+@@||henssler.shop^
+! Sub-domain "kalypso.shop" unblacklisted from domain "shop"
+@@||kalypso.shop^
+! Sub-domain "majblomman.shop" unblacklisted from domain "shop"
+@@||majblomman.shop^
+! Sub-domain "munu.shop" unblacklisted from domain "shop"
+@@||munu.shop^
+! Sub-domain "music-merchant.shop" unblacklisted from domain "shop"
+@@||music-merchant.shop^
+! Sub-domain "myshopline.shop" unblacklisted from domain "shop"
+@@||myshopline.shop^
+! Sub-domain "neurosama.shop" unblacklisted from domain "shop"
+@@||neurosama.shop^
+! Sub-domain "nocut.shop" unblacklisted from domain "shop"
+@@||nocut.shop^
+! Sub-domain "nordland.shop" unblacklisted from domain "shop"
+@@||nordland.shop^
+! Sub-domain "owl-dampfer.shop" unblacklisted from domain "shop"
+@@||owl-dampfer.shop^
+! Sub-domain "oxiline.shop" unblacklisted from domain "shop"
+@@||oxiline.shop^
+! Sub-domain "prohibited.shop" unblacklisted from domain "shop"
+@@||prohibited.shop^
+! Sub-domain "schweden.shop" unblacklisted from domain "shop"
+@@||schweden.shop^
+! Sub-domain "scorpions.shop" unblacklisted from domain "shop"
+@@||scorpions.shop^
+! Sub-domain "sentry.shop" unblacklisted from domain "shop"
+@@||sentry.shop^
+! Sub-domain "swedish-supplements.shop" unblacklisted from domain "shop"
+@@||swedish-supplements.shop^
+! Sub-domain "terminal.shop" unblacklisted from domain "shop"
+@@||terminal.shop^
+! Sub-domain "urlbluemedia.shop" unblacklisted from domain "shop"
+@@||urlbluemedia.shop^
+! Sub-domain "weinbibliothek.shop" unblacklisted from domain "shop"
+@@||weinbibliothek.shop^
+! Sub-domain "weinwunder.shop" unblacklisted from domain "shop"
+@@||weinwunder.shop^
+! Sub-domain "wielrenner.shop" unblacklisted from domain "shop"
+@@||wielrenner.shop^
+! Sub-domain "winefactory.shop" unblacklisted from domain "shop"
+@@||winefactory.shop^
+! Sub-domain "xn--dnemark-5wa.shop" unblacklisted from domain "shop"
+@@||xn--dnemark-5wa.shop^
+! Sub-domain "camz.show" unblacklisted from domain "show"
+@@||camz.show^
+! Sub-domain "j.show" unblacklisted from domain "show"
+@@||j.show^
+! Sub-domain "7mb.site" unblacklisted from domain "site"
+@@||7mb.site^
+! Sub-domain "additive-apps.site" unblacklisted from domain "site"
+@@||additive-apps.site^
+! Sub-domain "aftermath.site" unblacklisted from domain "site"
+@@||aftermath.site^
+! Sub-domain "anonimayzer.site" unblacklisted from domain "site"
+@@||anonimayzer.site^
+! Sub-domain "bio.site" unblacklisted from domain "site"
+@@||bio.site^
+! Sub-domain "canva.site" unblacklisted from domain "site"
+@@||canva.site^
+! Sub-domain "claude.site" unblacklisted from domain "site"
+@@||claude.site^
+! Sub-domain "edgeone.site" unblacklisted from domain "site"
+@@||edgeone.site^
+! Sub-domain "fbsmarthome.site" unblacklisted from domain "site"
+@@||fbsmarthome.site^
+! Sub-domain "gov-img.site" unblacklisted from domain "site"
+@@||gov-img.site^
+! Sub-domain "heimdall.site" unblacklisted from domain "site"
+@@||heimdall.site^
+! Sub-domain "heyflow.site" unblacklisted from domain "site"
+@@||heyflow.site^
+! Sub-domain "i5i.site" unblacklisted from domain "site"
+@@||i5i.site^
+! Sub-domain "kaylees.site" unblacklisted from domain "site"
+@@||kaylees.site^
+! Sub-domain "leafbrowser.site" unblacklisted from domain "site"
+@@||leafbrowser.site^
+! Sub-domain "miteru.site" unblacklisted from domain "site"
+@@||miteru.site^
+! Sub-domain "notion.site" unblacklisted from domain "site"
+@@||notion.site^
+! Sub-domain "onrocket.site" unblacklisted from domain "site"
+@@||onrocket.site^
+! Sub-domain "platformsh.site" unblacklisted from domain "site"
+@@||platformsh.site^
+! Sub-domain "privacy-test-pages.site" unblacklisted from domain "site"
+@@||privacy-test-pages.site^
+! Sub-domain "reddit-doesnt-like-this.site" unblacklisted from domain "site"
+@@||reddit-doesnt-like-this.site^
+! Sub-domain "shopapps.site" unblacklisted from domain "site"
+@@||shopapps.site^
+! Sub-domain "srht.site" unblacklisted from domain "site"
+@@||srht.site^
+! Sub-domain "toast.site" unblacklisted from domain "site"
+@@||toast.site^
+! Sub-domain "tst.site" unblacklisted from domain "site"
+@@||tst.site^
+! Sub-domain "turkvetka.site" unblacklisted from domain "site"
+@@||turkvetka.site^
+! Sub-domain "wishonly.site" unblacklisted from domain "site"
+@@||wishonly.site^
+! Sub-domain "wolow.site" unblacklisted from domain "site"
+@@||wolow.site^
+! Sub-domain "wpdns.site" unblacklisted from domain "site"
+@@||wpdns.site^
+! Sub-domain "forecast.solar" unblacklisted from domain "solar"
+@@||forecast.solar^
+! Sub-domain "optimizer.solar" unblacklisted from domain "solar"
+@@||optimizer.solar^
+! Sub-domain "ariadne.space" unblacklisted from domain "space"
+@@||ariadne.space^
+! Sub-domain "dragonscave.space" unblacklisted from domain "space"
+@@||dragonscave.space^
+! Sub-domain "drgns.space" unblacklisted from domain "space"
+@@||drgns.space^
+! Sub-domain "embed-player.space" unblacklisted from domain "space"
+@@||embed-player.space^
+! Sub-domain "filesafe.space" unblacklisted from domain "space"
+@@||filesafe.space^
+! Sub-domain "hf.space" unblacklisted from domain "space"
+@@||hf.space^
+! Sub-domain "httpjames.space" unblacklisted from domain "space"
+@@||httpjames.space^
+! Sub-domain "hullseals.space" unblacklisted from domain "space"
+@@||hullseals.space^
+! Sub-domain "hyper.space" unblacklisted from domain "space"
+@@||hyper.space^
+! Sub-domain "infosec.space" unblacklisted from domain "space"
+@@||infosec.space^
+! Sub-domain "ippen.space" unblacklisted from domain "space"
+@@||ippen.space^
+! Sub-domain "jetbrains.space" unblacklisted from domain "space"
+@@||jetbrains.space^
+! Sub-domain "keyboard-test.space" unblacklisted from domain "space"
+@@||keyboard-test.space^
+! Sub-domain "latent.space" unblacklisted from domain "space"
+@@||latent.space^
+! Sub-domain "link.space" unblacklisted from domain "space"
+@@||link.space^
+! Sub-domain "mapstodon.space" unblacklisted from domain "space"
+@@||mapstodon.space^
+! Sub-domain "melmac.space" unblacklisted from domain "space"
+@@||melmac.space^
+! Sub-domain "mempool.space" unblacklisted from domain "space"
+@@||mempool.space^
+! Sub-domain "metahub.space" unblacklisted from domain "space"
+@@||metahub.space^
+! Sub-domain "momonster.space" unblacklisted from domain "space"
+@@||momonster.space^
+! Sub-domain "monitorburz.space" unblacklisted from domain "space"
+@@||monitorburz.space^
+! Sub-domain "nitter.space" unblacklisted from domain "space"
+@@||nitter.space^
+! Sub-domain "ocr.space" unblacklisted from domain "space"
+@@||ocr.space^
+! Sub-domain "oldbytes.space" unblacklisted from domain "space"
+@@||oldbytes.space^
+! Sub-domain "qwik.space" unblacklisted from domain "space"
+@@||qwik.space^
+! Sub-domain "roguecorp.space" unblacklisted from domain "space"
+@@||roguecorp.space^
+! Sub-domain "scurra.space" unblacklisted from domain "space"
+@@||scurra.space^
+! Sub-domain "searx.space" unblacklisted from domain "space"
+@@||searx.space^
+! Sub-domain "slashtw.space" unblacklisted from domain "space"
+@@||slashtw.space^
+! Sub-domain "snapapi.space" unblacklisted from domain "space"
+@@||snapapi.space^
+! Sub-domain "takeb1nzyto.space" unblacklisted from domain "space"
+@@||takeb1nzyto.space^
+! Sub-domain "telegram.space" unblacklisted from domain "space"
+@@||telegram.space^
+! Sub-domain "truepeople.space" unblacklisted from domain "space"
+@@||truepeople.space^
+! Sub-domain "uexcorp.space" unblacklisted from domain "space"
+@@||uexcorp.space^
+! Sub-domain "dyn.sport" unblacklisted from domain "sport"
+@@||dyn.sport^
+! Sub-domain "adidashardware.store" unblacklisted from domain "store"
+@@||adidashardware.store^
+! Sub-domain "beyondagency.store" unblacklisted from domain "store"
+@@||beyondagency.store^
+! Sub-domain "bigtimerush.store" unblacklisted from domain "store"
+@@||bigtimerush.store^
+! Sub-domain "bigtimerushuk.store" unblacklisted from domain "store"
+@@||bigtimerushuk.store^
+! Sub-domain "cleanmasters.store" unblacklisted from domain "store"
+@@||cleanmasters.store^
+! Sub-domain "ettoresoftware.store" unblacklisted from domain "store"
+@@||ettoresoftware.store^
+! Sub-domain "fbits.store" unblacklisted from domain "store"
+@@||fbits.store^
+! Sub-domain "glitchproductions.store" unblacklisted from domain "store"
+@@||glitchproductions.store^
+! Sub-domain "hacksmith.store" unblacklisted from domain "store"
+@@||hacksmith.store^
+! Sub-domain "heavysaurus.store" unblacklisted from domain "store"
+@@||heavysaurus.store^
+! Sub-domain "immich.store" unblacklisted from domain "store"
+@@||immich.store^
+! Sub-domain "iqunix.store" unblacklisted from domain "store"
+@@||iqunix.store^
+! Sub-domain "myexpresscarwash.store" unblacklisted from domain "store"
+@@||myexpresscarwash.store^
+! Sub-domain "pbshop.store" unblacklisted from domain "store"
+@@||pbshop.store^
+! Sub-domain "peugeot.store" unblacklisted from domain "store"
+@@||peugeot.store^
+! Sub-domain "roble.store" unblacklisted from domain "store"
+@@||roble.store^
+! Sub-domain "rokomari.store" unblacklisted from domain "store"
+@@||rokomari.store^
+! Sub-domain "shoplazza.store" unblacklisted from domain "store"
+@@||shoplazza.store^
+! Sub-domain "shopware.store" unblacklisted from domain "store"
+@@||shopware.store^
+! Sub-domain "stan.store" unblacklisted from domain "store"
+@@||stan.store^
+! Sub-domain "tatemcrae.store" unblacklisted from domain "store"
+@@||tatemcrae.store^
+! Sub-domain "tatemcraeeu.store" unblacklisted from domain "store"
+@@||tatemcraeeu.store^
+! Sub-domain "timberjacks.store" unblacklisted from domain "store"
+@@||timberjacks.store^
+! Sub-domain "affinity.studio" unblacklisted from domain "studio"
+@@||affinity.studio^
+! Sub-domain "ai.studio" unblacklisted from domain "studio"
+@@||ai.studio^
+! Sub-domain "firebase.studio" unblacklisted from domain "studio"
+@@||firebase.studio^
+! Sub-domain "flourish.studio" unblacklisted from domain "studio"
+@@||flourish.studio^
+! Sub-domain "starapps.studio" unblacklisted from domain "studio"
+@@||starapps.studio^
+! Sub-domain "woodsea.studio" unblacklisted from domain "studio"
+@@||woodsea.studio^
+! Sub-domain "zenn.studio" unblacklisted from domain "studio"
+@@||zenn.studio^
+! Sub-domain "primer.style" unblacklisted from domain "style"
+@@||primer.style^
+! Sub-domain "shiki.style" unblacklisted from domain "style"
+@@||shiki.style^
+! Sub-domain "encode.su" unblacklisted from domain "su"
+@@||encode.su^
+! Sub-domain "jpg4.su" unblacklisted from domain "su"
+@@||jpg4.su^
+! Sub-domain "jpg6.su" unblacklisted from domain "su"
+@@||jpg6.su^
+! Sub-domain "promportal.su" unblacklisted from domain "su"
+@@||promportal.su^
+! Sub-domain "saint2.su" unblacklisted from domain "su"
+@@||saint2.su^
+! Sub-domain "ada.support" unblacklisted from domain "support"
+@@||ada.support^
+! Sub-domain "jitsi.support" unblacklisted from domain "support"
+@@||jitsi.support^
+! Sub-domain "s-wings.surf" unblacklisted from domain "surf"
+@@||s-wings.surf^
+! Sub-domain "filemoon.sx" unblacklisted from domain "sx"
+@@||filemoon.sx^
+! Sub-domain "voe.sx" unblacklisted from domain "sx"
+@@||voe.sx^
+! Sub-domain "swing.tennis" unblacklisted from domain "tennis"
+@@||swing.tennis^
+! Sub-domain "air.tk" unblacklisted from domain "tk"
+@@||air.tk^
+! Sub-domain "bstweaker.tk" unblacklisted from domain "tk"
+@@||bstweaker.tk^
+! Sub-domain "budterence.tk" unblacklisted from domain "tk"
+@@||budterence.tk^
+! Sub-domain "c-r-t.tk" unblacklisted from domain "tk"
+@@||c-r-t.tk^
+! Sub-domain "google.tk" unblacklisted from domain "tk"
+@@||google.tk^
+! Sub-domain "goshujin.tk" unblacklisted from domain "tk"
+@@||goshujin.tk^
+! Sub-domain "kabi.tk" unblacklisted from domain "tk"
+@@||kabi.tk^
+! Sub-domain "sironi.tk" unblacklisted from domain "tk"
+@@||sironi.tk^
+! Sub-domain "tokelau-info.tk" unblacklisted from domain "tk"
+@@||tokelau-info.tk^
+! Sub-domain "xn--qubec-csa.tk" unblacklisted from domain "tk"
+@@||xn--qubec-csa.tk^
+! Sub-domain "zete.tk" unblacklisted from domain "tk"
+@@||zete.tk^
+! Sub-domain "addtocart.today" unblacklisted from domain "today"
+@@||addtocart.today^
+! Sub-domain "applefans.today" unblacklisted from domain "today"
+@@||applefans.today^
+! Sub-domain "archive.today" unblacklisted from domain "today"
+@@||archive.today^
+! Sub-domain "futurology.today" unblacklisted from domain "today"
+@@||futurology.today^
+! Sub-domain "lemmy.today" unblacklisted from domain "today"
+@@||lemmy.today^
+! Sub-domain "oldweb.today" unblacklisted from domain "today"
+@@||oldweb.today^
+! Sub-domain "som.today" unblacklisted from domain "today"
+@@||som.today^
+! Sub-domain "type.today" unblacklisted from domain "today"
+@@||type.today^
+! Sub-domain "ambr.top" unblacklisted from domain "top"
+@@||ambr.top^
+! Sub-domain "caitlin.top" unblacklisted from domain "top"
+@@||caitlin.top^
+! Sub-domain "chillx.top" unblacklisted from domain "top"
+@@||chillx.top^
+! Sub-domain "corriente.top" unblacklisted from domain "top"
+@@||corriente.top^
+! Sub-domain "cpolar.top" unblacklisted from domain "top"
+@@||cpolar.top^
+! Sub-domain "dinsden.top" unblacklisted from domain "top"
+@@||dinsden.top^
+! Sub-domain "edgeless.top" unblacklisted from domain "top"
+@@||edgeless.top^
+! Sub-domain "mastodon.top" unblacklisted from domain "top"
+@@||mastodon.top^
+! Sub-domain "mianbeian.top" unblacklisted from domain "top"
+@@||mianbeian.top^
+! Sub-domain "nfmirrorcdn.top" unblacklisted from domain "top"
+@@||nfmirrorcdn.top^
+! Sub-domain "pegelinux.top" unblacklisted from domain "top"
+@@||pegelinux.top^
+! Sub-domain "polar.top" unblacklisted from domain "top"
+@@||polar.top^
+! Sub-domain "qwertycxz.top" unblacklisted from domain "top"
+@@||qwertycxz.top^
+! Sub-domain "reminder.top" unblacklisted from domain "top"
+@@||reminder.top^
+! Sub-domain "saltwood.top" unblacklisted from domain "top"
+@@||saltwood.top^
+! Sub-domain "shucks.top" unblacklisted from domain "top"
+@@||shucks.top^
+! Sub-domain "strims.top" unblacklisted from domain "top"
+@@||strims.top^
+! Sub-domain "suiten.top" unblacklisted from domain "top"
+@@||suiten.top^
+! Sub-domain "thedesk.top" unblacklisted from domain "top"
+@@||thedesk.top^
+! Sub-domain "vsdb.top" unblacklisted from domain "top"
+@@||vsdb.top^
+! Sub-domain "tilde.town" unblacklisted from domain "town"
+@@||tilde.town^
+! Sub-domain "composer.trade" unblacklisted from domain "trade"
+@@||composer.trade^
+! Sub-domain "dx.trade" unblacklisted from domain "trade"
+@@||dx.trade^
+! Sub-domain "kite.trade" unblacklisted from domain "trade"
+@@||kite.trade^
+! Sub-domain "hoes.tube" unblacklisted from domain "tube"
+@@||hoes.tube^
+! Sub-domain "neat.tube" unblacklisted from domain "tube"
+@@||neat.tube^
+! Sub-domain "platform.uno" unblacklisted from domain "uno"
+@@||platform.uno^
+! Sub-domain "18comic.vip" unblacklisted from domain "vip"
+@@||18comic.vip^
+! Sub-domain "liberta.vip" unblacklisted from domain "vip"
+@@||liberta.vip^
+! Sub-domain "oldskool.vip" unblacklisted from domain "vip"
+@@||oldskool.vip^
+! Sub-domain "posh.vip" unblacklisted from domain "vip"
+@@||posh.vip^
+! Sub-domain "ryde.vip" unblacklisted from domain "vip"
+@@||ryde.vip^
+! Sub-domain "stream.vip" unblacklisted from domain "vip"
+@@||stream.vip^
+! Sub-domain "trdiziizle.vip" unblacklisted from domain "vip"
+@@||trdiziizle.vip^
+! Sub-domain "vidstream.vip" unblacklisted from domain "vip"
+@@||vidstream.vip^
+! Sub-domain "wetv.vip" unblacklisted from domain "vip"
+@@||wetv.vip^
+! Sub-domain "yesporn.vip" unblacklisted from domain "vip"
+@@||yesporn.vip^
+! Sub-domain "swing.vision" unblacklisted from domain "vision"
+@@||swing.vision^
+! Sub-domain "arizona.vote" unblacklisted from domain "vote"
+@@||arizona.vote^
+! Sub-domain "acro.website" unblacklisted from domain "website"
+@@||acro.website^
+! Sub-domain "bestmotherfucking.website" unblacklisted from domain "website"
+@@||bestmotherfucking.website^
+! Sub-domain "eddie.website" unblacklisted from domain "website"
+@@||eddie.website^
+! Sub-domain "noclip.website" unblacklisted from domain "website"
+@@||noclip.website^
+! Sub-domain "thatsup.website" unblacklisted from domain "website"
+@@||thatsup.website^
+! Sub-domain "tilde.website" unblacklisted from domain "website"
+@@||tilde.website^
+! Sub-domain "uphold.website" unblacklisted from domain "website"
+@@||uphold.website^
+! Sub-domain "avid.wiki" unblacklisted from domain "wiki"
+@@||avid.wiki^
+! Sub-domain "bakugan.wiki" unblacklisted from domain "wiki"
+@@||bakugan.wiki^
+! Sub-domain "bg3.wiki" unblacklisted from domain "wiki"
+@@||bg3.wiki^
+! Sub-domain "blazblue.wiki" unblacklisted from domain "wiki"
+@@||blazblue.wiki^
+! Sub-domain "burnout.wiki" unblacklisted from domain "wiki"
+@@||burnout.wiki^
+! Sub-domain "chibi-robo.wiki" unblacklisted from domain "wiki"
+@@||chibi-robo.wiki^
+! Sub-domain "consumerrights.wiki" unblacklisted from domain "wiki"
+@@||consumerrights.wiki^
+! Sub-domain "cooked.wiki" unblacklisted from domain "wiki"
+@@||cooked.wiki^
+! Sub-domain "datei.wiki" unblacklisted from domain "wiki"
+@@||datei.wiki^
+! Sub-domain "deadlock.wiki" unblacklisted from domain "wiki"
+@@||deadlock.wiki^
+! Sub-domain "deltarune.wiki" unblacklisted from domain "wiki"
+@@||deltarune.wiki^
+! Sub-domain "dragalialost.wiki" unblacklisted from domain "wiki"
+@@||dragalialost.wiki^
+! Sub-domain "drawntolife.wiki" unblacklisted from domain "wiki"
+@@||drawntolife.wiki^
+! Sub-domain "falcom.wiki" unblacklisted from domain "wiki"
+@@||falcom.wiki^
+! Sub-domain "fallout.wiki" unblacklisted from domain "wiki"
+@@||fallout.wiki^
+! Sub-domain "gbf.wiki" unblacklisted from domain "wiki"
+@@||gbf.wiki^
+! Sub-domain "getindie.wiki" unblacklisted from domain "wiki"
+@@||getindie.wiki^
+! Sub-domain "hacktricks.wiki" unblacklisted from domain "wiki"
+@@||hacktricks.wiki^
+! Sub-domain "hollowknight.wiki" unblacklisted from domain "wiki"
+@@||hollowknight.wiki^
+! Sub-domain "hololive.wiki" unblacklisted from domain "wiki"
+@@||hololive.wiki^
+! Sub-domain "klingon.wiki" unblacklisted from domain "wiki"
+@@||klingon.wiki^
+! Sub-domain "kodi.wiki" unblacklisted from domain "wiki"
+@@||kodi.wiki^
+! Sub-domain "koeitecmo.wiki" unblacklisted from domain "wiki"
+@@||koeitecmo.wiki^
+! Sub-domain "kometa.wiki" unblacklisted from domain "wiki"
+@@||kometa.wiki^
+! Sub-domain "lain.wiki" unblacklisted from domain "wiki"
+@@||lain.wiki^
+! Sub-domain "lhlab.wiki" unblacklisted from domain "wiki"
+@@||lhlab.wiki^
+! Sub-domain "libreelec.wiki" unblacklisted from domain "wiki"
+@@||libreelec.wiki^
+! Sub-domain "manson.wiki" unblacklisted from domain "wiki"
+@@||manson.wiki^
+! Sub-domain "mediaclients.wiki" unblacklisted from domain "wiki"
+@@||mediaclients.wiki^
+! Sub-domain "minecraft.wiki" unblacklisted from domain "wiki"
+@@||minecraft.wiki^
+! Sub-domain "modding.wiki" unblacklisted from domain "wiki"
+@@||modding.wiki^
+! Sub-domain "mtg.wiki" unblacklisted from domain "wiki"
+@@||mtg.wiki^
+! Sub-domain "namu.wiki" unblacklisted from domain "wiki"
+@@||namu.wiki^
+! Sub-domain "nixos.wiki" unblacklisted from domain "wiki"
+@@||nixos.wiki^
+! Sub-domain "notifiarr.wiki" unblacklisted from domain "wiki"
+@@||notifiarr.wiki^
+! Sub-domain "osrs.wiki" unblacklisted from domain "wiki"
+@@||osrs.wiki^
+! Sub-domain "pizzatower.wiki" unblacklisted from domain "wiki"
+@@||pizzatower.wiki^
+! Sub-domain "rs.wiki" unblacklisted from domain "wiki"
+@@||rs.wiki^
+! Sub-domain "runescape.wiki" unblacklisted from domain "wiki"
+@@||runescape.wiki^
+! Sub-domain "saintsrow.wiki" unblacklisted from domain "wiki"
+@@||saintsrow.wiki^
+! Sub-domain "severance.wiki" unblacklisted from domain "wiki"
+@@||severance.wiki^
+! Sub-domain "survivors.wiki" unblacklisted from domain "wiki"
+@@||survivors.wiki^
+! Sub-domain "tajrobe.wiki" unblacklisted from domain "wiki"
+@@||tajrobe.wiki^
+! Sub-domain "tardis.wiki" unblacklisted from domain "wiki"
+@@||tardis.wiki^
+! Sub-domain "thehomelab.wiki" unblacklisted from domain "wiki"
+@@||thehomelab.wiki^
+! Sub-domain "tilde.wiki" unblacklisted from domain "wiki"
+@@||tilde.wiki^
+! Sub-domain "twewy.wiki" unblacklisted from domain "wiki"
+@@||twewy.wiki^
+! Sub-domain "umamusu.wiki" unblacklisted from domain "wiki"
+@@||umamusu.wiki^
+! Sub-domain "undertale.wiki" unblacklisted from domain "wiki"
+@@||undertale.wiki^
+! Sub-domain "usermanual.wiki" unblacklisted from domain "wiki"
+@@||usermanual.wiki^
+! Sub-domain "vaporwave.wiki" unblacklisted from domain "wiki"
+@@||vaporwave.wiki^
+! Sub-domain "w.wiki" unblacklisted from domain "wiki"
+@@||w.wiki^
+! Sub-domain "yume.wiki" unblacklisted from domain "wiki"
+@@||yume.wiki^
+! Sub-domain "zeldawiki.wiki" unblacklisted from domain "wiki"
+@@||zeldawiki.wiki^
+! Sub-domain "zeppelin.wiki" unblacklisted from domain "wiki"
+@@||zeppelin.wiki^
+! Sub-domain "activated.win" unblacklisted from domain "win"
+@@||activated.win^
+! Sub-domain "communities.win" unblacklisted from domain "win"
+@@||communities.win^
+! Sub-domain "debloat.win" unblacklisted from domain "win"
+@@||debloat.win^
+! Sub-domain "ios-countdown.win" unblacklisted from domain "win"
+@@||ios-countdown.win^
+! Sub-domain "patriots.win" unblacklisted from domain "win"
+@@||patriots.win^
+! Sub-domain "vaultcord.win" unblacklisted from domain "win"
+@@||vaultcord.win^
+! Sub-domain "nostr.wine" unblacklisted from domain "wine"
+@@||nostr.wine^
+! Sub-domain "doesmycode.work" unblacklisted from domain "work"
+@@||doesmycode.work^
+! Sub-domain "elphago.work" unblacklisted from domain "work"
+@@||elphago.work^
+! Sub-domain "frame.work" unblacklisted from domain "work"
+@@||frame.work^
+! Sub-domain "koding.work" unblacklisted from domain "work"
+@@||koding.work^
+! Sub-domain "mirror.work" unblacklisted from domain "work"
+@@||mirror.work^
+! Sub-domain "schueller.work" unblacklisted from domain "work"
+@@||schueller.work^
+! Sub-domain "bevisioneers.world" unblacklisted from domain "world"
+@@||bevisioneers.world^
+! Sub-domain "boo.world" unblacklisted from domain "world"
+@@||boo.world^
+! Sub-domain "calckey.world" unblacklisted from domain "world"
+@@||calckey.world^
+! Sub-domain "camhub.world" unblacklisted from domain "world"
+@@||camhub.world^
+! Sub-domain "edgecdn.world" unblacklisted from domain "world"
+@@||edgecdn.world^
+! Sub-domain "heated.world" unblacklisted from domain "world"
+@@||heated.world^
+! Sub-domain "ift.world" unblacklisted from domain "world"
+@@||ift.world^
+! Sub-domain "juice.world" unblacklisted from domain "world"
+@@||juice.world^
+! Sub-domain "lemmings.world" unblacklisted from domain "world"
+@@||lemmings.world^
+! Sub-domain "lemmy.world" unblacklisted from domain "world"
+@@||lemmy.world^
+! Sub-domain "mastodon.world" unblacklisted from domain "world"
+@@||mastodon.world^
+! Sub-domain "maxwellcat.world" unblacklisted from domain "world"
+@@||maxwellcat.world^
+! Sub-domain "meming.world" unblacklisted from domain "world"
+@@||meming.world^
+! Sub-domain "mnetplus.world" unblacklisted from domain "world"
+@@||mnetplus.world^
+! Sub-domain "mnr.world" unblacklisted from domain "world"
+@@||mnr.world^
+! Sub-domain "shitposter.world" unblacklisted from domain "world"
+@@||shitposter.world^
+! Sub-domain "unidays.world" unblacklisted from domain "world"
+@@||unidays.world^
+! Sub-domain "userstyles.world" unblacklisted from domain "world"
+@@||userstyles.world^
+! Sub-domain "welocal.world" unblacklisted from domain "world"
+@@||welocal.world^
+! Sub-domain "wetdry.world" unblacklisted from domain "world"
+@@||wetdry.world^
+! Sub-domain "wiz.world" unblacklisted from domain "world"
+@@||wiz.world^
+! Sub-domain "akko.wtf" unblacklisted from domain "wtf"
+@@||akko.wtf^
+! Sub-domain "cyber.wtf" unblacklisted from domain "wtf"
+@@||cyber.wtf^
+! Sub-domain "fx.wtf" unblacklisted from domain "wtf"
+@@||fx.wtf^
+! Sub-domain "ip.wtf" unblacklisted from domain "wtf"
+@@||ip.wtf^
+! Sub-domain "jascha.wtf" unblacklisted from domain "wtf"
+@@||jascha.wtf^
+! Sub-domain "lemmy.wtf" unblacklisted from domain "wtf"
+@@||lemmy.wtf^
+! Sub-domain "myip.wtf" unblacklisted from domain "wtf"
+@@||myip.wtf^
+! Sub-domain "tigress.wtf" unblacklisted from domain "wtf"
+@@||tigress.wtf^
+! Sub-domain "wxx.wtf" unblacklisted from domain "wtf"
+@@||wxx.wtf^
+! Sub-domain "xo.wtf" unblacklisted from domain "wtf"
+@@||xo.wtf^
+! Sub-domain "sinking.yachts" unblacklisted from domain "yachts"
+@@||sinking.yachts^
+! Sub-domain "community.zip" unblacklisted from domain "zip"
+@@||community.zip^
+! Sub-domain "financialstatement.zip" unblacklisted from domain "zip"
+@@||financialstatement.zip^
+! Sub-domain "lemmy.zip" unblacklisted from domain "zip"
+@@||lemmy.zip^
+! Sub-domain "makea.zip" unblacklisted from domain "zip"
+@@||makea.zip^
+! Sub-domain "transfer.zip" unblacklisted from domain "zip"
+@@||transfer.zip^
+! Sub-domain "uploaded-files.zip" unblacklisted from domain "zip"
+@@||uploaded-files.zip^
+! Sub-domain "voron.zip" unblacklisted from domain "zip"
+@@||voron.zip^
+!
+! BlackList TLDs:
+||*.-^
+||*.0^
+||*.1^
+||*.537z^
+||*.6r^
+||*.888^
+||*.a^
+||*.aaaa^
+||*.abb^
+||*.abbott^
+||*.abc^
+||*.abogado^
+||*.abudhabi^
+||*.ac^
+||*.academy^
+||*.accountant^
+||*.accountants^
+||*.aco^
+||*.action^
+||*.actor^
+||*.ad^
+||*.ads^
+||*.adult^
+||*.ae^
+||*.aeg^
+||*.aero^
+||*.af^
+||*.afamilycompany^
+||*.afl^
+||*.africa^
+||*.ag^
+||*.agakhan^
+||*.agency^
+||*.airforce^
+||*.alibaba^
+||*.alipay^
+||*.allow^
+||*.am^
+||*.an^
+||*.analytic^
+||*.analytics^
+||*.anquan^
+||*.apartments^
+||*.aq^
+||*.aquarelle^
+||*.arab^
+||*.archi^
+||*.army^
+||*.arpa^
+||*.arris^
+||*.art^
+||*.ashx^
+||*.asia^
+||*.asmx^
+||*.asp^
+||*.aspx^
+||*.associates^
+||*.asus^
+||*.asx^
+||*.ati^
+||*.attorney^
+||*.auction^
+||*.audio^
+||*.auto^
+||*.autos^
+||*.aws^
+||*.axd^
+||*.az^
+||*.baby^
+||*.badalg^
+||*.badcookie^
+||*.badkey^
+||*.badmode^
+||*.badname^
+||*.badsig^
+||*.badtime^
+||*.badtrunc^
+||*.badvers^
+||*.band^
+||*.bapuji^
+||*.bar^
+||*.bargain^
+||*.bargains^
+||*.bash^
+||*.bat^
+||*.bayern^
+||*.baza^
+||*.bazar^
+||*.bbrouter^
+||*.bbs^
+||*.bd^
+||*.beauty^
+||*.beer^
+||*.bel^
+||*.belkin^
+||*.best^
+||*.bet^
+||*.bh^
+||*.bible^
+||*.bid^
+||*.bike^
+||*.bin^
+||*.bind^
+||*.bingo^
+||*.bio^
+||*.bit^
+||*.bitcoin^
+||*.bitnet^
+||*.biz^
+||*.bl^
+||*.black^
+||*.blackfriday^
+||*.blinkap^
+||*.block^
+||*.blockchain^
+||*.blog^
+||*.blue^
+||*.bnpparibas^
+||*.boats^
+||*.bond^
+||*.boo^
+||*.book^
+||*.booking^
+||*.boston^
+||*.bot^
+||*.boutique^
+||*.box^
+||*.br^
+||*.bradesco^
+||*.broadcasthost^
+||*.broker^
+||*.brother^
+||*.brown^
+||*.budapest^
+||*.build^
+||*.builders^
+||*.business^
+||*.buy^
+||*.buzz^
+||*.bv^
+||*.by^
+||*.cab^
+||*.cafe^
+||*.cam^
+||*.camera^
+||*.camp^
+||*.capetown^
+||*.capital^
+||*.car^
+||*.card^
+||*.cards^
+||*.care^
+||*.career^
+||*.careers^
+||*.cars^
+||*.casa^
+||*.cash^
+||*.casino^
+||*.cat^
+||*.catering^
+||*.catholic^
+||*.cc^
+||*.cd^
+||*.center^
+||*.ceo^
+||*.cf^
+||*.cfd^
+||*.cfm^
+||*.cgi^
+||*.chain^
+||*.chan^
+||*.channel^
+||*.charity^
+||*.chat^
+||*.cheap^
+||*.chn^
+||*.christmas^
+||*.church^
+||*.ci^
+||*.cisco^
+||*.citic^
+||*.city^
+||*.cityeats^
+||*.cl^
+||*.claims^
+||*.cleaning^
+||*.click^
+||*.clinic^
+||*.clinique^
+||*.clothing^
+||*.club^
+||*.cm^
+||*.cmd^
+||*.cn^
+||*.cname^
+||*.coach^
+||*.codes^
+||*.coffee^
+||*.coin^
+||*.college^
+||*.community^
+||*.company^
+||*.computer^
+||*.comsec^
+||*.condos^
+||*.construction^
+||*.consul^
+||*.consulting^
+||*.contact^
+||*.contractors^
+||*.cookie^
+||*.cooking^
+||*.cool^
+||*.coop^
+||*.corp^
+||*.corporate^
+||*.corsica^
+||*.country^
+||*.coupon^
+||*.coupons^
+||*.courses^
+||*.cp6^
+||*.cpa^
+||*.credit^
+||*.creditcard^
+||*.cricket^
+||*.crown^
+||*.cruise^
+||*.cruises^
+||*.crypto^
+||*.cs^
+||*.csnet^
+||*.css^
+||*.csv^
+||*.cy^
+||*.cyb^
+||*.cym^
+||*.cymru^
+||*.cyou^
+||*.dad^
+||*.dance^
+||*.dao^
+||*.dat^
+||*.data^
+||*.date^
+||*.dating^
+||*.davolink^
+||*.day^
+||*.dclk^
+||*.dd^
+||*.deal^
+||*.dealer^
+||*.deals^
+||*.degree^
+||*.delivery^
+||*.democrat^
+||*.dental^
+||*.dentist^
+||*.deny^
+||*.desi^
+||*.design^
+||*.device^
+||*.dhcp^
+||*.diamonds^
+||*.diet^
+||*.dig^
+||*.digicom-adsl^
+||*.digital^
+||*.direct^
+||*.directory^
+||*.discount^
+||*.discover^
+||*.dish^
+||*.diwali^
+||*.diy^
+||*.dlink^
+||*.dlinkrouter^
+||*.dll^
+||*.dns^
+||*.do^
+||*.doc^
+||*.docs^
+||*.doctor^
+||*.docx^
+||*.doesnotexist^
+||*.dog^
+||*.doha^
+||*.dom^
+||*.domain^
+||*.domains^
+||*.dot^
+||*.download^
+||*.drive^
+||*.dsotypeni^
+||*.dubai^
+||*.duck^
+||*.dummy^
+||*.durban^
+||*.dyn^
+||*.dz^
+||*.earth^
+||*.easter^
+||*.eat^
+||*.eco^
+||*.ecs^
+||*.edns^
+||*.edns0^
+||*.education^
+||*.ee^
+||*.eg^
+||*.eh^
+||*.eio^
+||*.email^
+||*.emc^
+||*.emerck^
+||*.energy^
+||*.eng^
+||*.engeniusrouter^
+||*.engineer^
+||*.engineering^
+||*.enterprises^
+||*.epic^
+||*.epost^
+||*.equipment^
+||*.ericsson^
+||*.esq^
+||*.estate^
+||*.esurance^
+||*.etc^
+||*.eth^
+||*.eth0^
+||*.eth1^
+||*.eurovision^
+||*.events^
+||*.example^
+||*.exchange^
+||*.exe^
+||*.exit^
+||*.expert^
+||*.exposed^
+||*.express^
+||*.extraspace^
+||*.fail^
+||*.faith^
+||*.fam^
+||*.family^
+||*.fan^
+||*.fans^
+||*.farm^
+||*.farmers^
+||*.fashion^
+||*.fast^
+||*.feedback^
+||*.feorge^
+||*.fidelity^
+||*.fido^
+||*.film^
+||*.final^
+||*.finance^
+||*.financial^
+||*.fire^
+||*.fish^
+||*.fishing^
+||*.fit^
+||*.fitness^
+||*.flights^
+||*.florist^
+||*.flowers^
+||*.fly^
+||*.food^
+||*.football^
+||*.forex^
+||*.formerr^
+||*.forsale^
+||*.foundation^
+||*.free^
+||*.frogans^
+||*.frontdoor^
+||*.frontier^
+||*.ftp^
+||*.fun^
+||*.fund^
+||*.fur^
+||*.furniture^
+||*.futbol^
+||*.fw^
+||*.fyi^
+||*.ga^
+||*.gallery^
+||*.game^
+||*.games^
+||*.garden^
+||*.gateway^
+||*.gay^
+||*.gb^
+||*.gbiz^
+||*.gdn^
+||*.geek^
+||*.gent^
+||*.genting^
+||*.getcacheddhcpresultsforcurrentconfig^
+||*.gg^
+||*.gif^
+||*.gift^
+||*.gifts^
+||*.gives^
+||*.giving^
+||*.glade^
+||*.glass^
+||*.global^
+||*.glue^
+||*.gmail^
+||*.gmbh^
+||*.gold^
+||*.goldpoint^
+||*.golf^
+||*.gop^
+||*.gopher^
+||*.got^
+||*.gq^
+||*.grainger^
+||*.graphics^
+||*.gratis^
+||*.green^
+||*.gripe^
+||*.grocery^
+||*.group^
+||*.gs^
+||*.guge^
+||*.guide^
+||*.guitars^
+||*.guru^
+||*.gw^
+||*.gz^
+||*.hair^
+||*.hangout^
+||*.hanukkah^
+||*.haus^
+||*.health^
+||*.healthcare^
+||*.help^
+||*.helsinki^
+||*.here^
+||*.hiphop^
+||*.hiv^
+||*.hk^
+||*.hkt^
+||*.hockey^
+||*.holdings^
+||*.holiday^
+||*.home^
+||*.homegoods^
+||*.homes^
+||*.homesense^
+||*.hongkong^
+||*.horse^
+||*.hospital^
+||*.host^
+||*.hosting^
+||*.hot^
+||*.hoteles^
+||*.hotels^
+||*.house^
+||*.how^
+||*.hr^
+||*.htm^
+||*.html^
+||*.htmls^
+||*.http^
+||*.https^
+||*.hub^
+||*.i2p^
+||*.ice^
+||*.icu^
+||*.id^
+||*.im^
+||*.immo^
+||*.immobilien^
+||*.imrworld^
+||*.in^
+||*.inc^
+||*.industries^
+||*.indy^
+||*.infiniti^
+||*.info^
+||*.infos^
+||*.ink^
+||*.institute^
+||*.insurance^
+||*.insure^
+||*.internal^
+||*.international^
+||*.intra^
+||*.intranet^
+||*.invalid^
+||*.investments^
+||*.ip^
+||*.ip6-allnodes^
+||*.ip6-allrouters^
+||*.ip6-localhost^
+||*.ip6-localnet^
+||*.ip6-loopback^
+||*.ip6-mcastprefix^
+||*.iq^
+||*.ir^
+||*.irish^
+||*.ist^
+||*.istanbul^
+||*.itv^
+||*.java^
+||*.javascript^
+||*.je^
+||*.jehovax0^
+||*.jehovax1^
+||*.jetzt^
+||*.jewelry^
+||*.jhtml^
+||*.jmp^
+||*.jnpl^
+||*.jobs^
+||*.joburg^
+||*.jomodns^
+||*.joy^
+||*.jp^
+||*.jpeg^
+||*.jpg^
+||*.js^
+||*.json^
+||*.jsp^
+||*.jspx^
+||*.juegos^
+||*.junior^
+||*.jupiter^
+||*.k12^
+||*.kaufen^
+||*.ke^
+||*.ker^
+||*.kid^
+||*.kids^
+||*.kim^
+||*.kinder^
+||*.kitchen^
+||*.kiwi^
+||*.ko^
+||*.kom^
+||*.kr^
+||*.krd^
+||*.ku^
+||*.kyoto^
+||*.lab^
+||*.lan^
+||*.lan1^
+||*.lan2^
+||*.land^
+||*.lat^
+||*.law^
+||*.lawyer^
+||*.le^
+||*.lease^
+||*.legal^
+||*.lgbt^
+||*.li^
+||*.lib^
+||*.libra^
+||*.libre^
+||*.lic^
+||*.life^
+||*.lifeinsurance^
+||*.lifestyle^
+||*.lighting^
+||*.like^
+||*.limited^
+||*.limo^
+||*.link^
+||*.live^
+||*.living^
+||*.lk^
+||*.llc^
+||*.lli^
+||*.llp^
+||*.ln^
+||*.loan^
+||*.loans^
+||*.locahost^
+||*.local^
+||*.localdomain^
+||*.localdomain4^
+||*.localdomain6^
+||*.localhost^
+||*.localhost4^
+||*.localhost6^
+||*.localnet^
+||*.locker^
+||*.locus^
+||*.loft^
+||*.lol^
+||*.london^
+||*.lotte^
+||*.lotto^
+||*.love^
+||*.lt^
+||*.ltd^
+||*.ltda^
+||*.lunar^
+||*.luxe^
+||*.luxury^
+||*.lv^
+||*.mail^
+||*.maison^
+||*.makeup^
+||*.man^
+||*.management^
+||*.map^
+||*.maps^
+||*.market^
+||*.marketing^
+||*.markets^
+||*.mars^
+||*.mba^
+||*.md^
+||*.me^
+||*.med^
+||*.media^
+||*.melbourne^
+||*.meme^
+||*.memorial^
+||*.men^
+||*.menu^
+||*.metric^
+||*.metrics^
+||*.mf^
+||*.miami^
+||*.mini^
+||*.mint^
+||*.ml^
+||*.mn^
+||*.mobi^
+||*.mobile^
+||*.mockba^
+||*.moda^
+||*.modem^
+||*.moe^
+||*.moh^
+||*.moi^
+||*.mom^
+||*.money^
+||*.monster^
+||*.moon^
+||*.mormon^
+||*.mortgage^
+||*.moscow^
+||*.moto^
+||*.motorcycles^
+||*.mov^
+||*.movie^
+||*.mp3^
+||*.mp4^
+||*.mpeg^
+||*.mrmuscle^
+||*.mshome^
+||*.museum^
+||*.mutual^
+||*.mw^
+||*.my^
+||*.mygateway^
+||*.nagoya^
+||*.nai^
+||*.name^
+||*.nationwide^
+||*.natura^
+||*.navy^
+||*.ncsi^
+||*.neo^
+||*.neptune^
+||*.netbank^
+||*.network^
+||*.new^
+||*.newholland^
+||*.news^
+||*.next^
+||*.nextdirect^
+||*.nexus^
+||*.nf^
+||*.nft^
+||*.ngo^
+||*.ninja^
+||*.nissay^
+||*.nocookie^
+||*.nodata^
+||*.noerror^
+||*.non^
+||*.notauth^
+||*.notimp^
+||*.notzone^
+||*.now^
+||*.nowruz^
+||*.nowtv^
+||*.npo^
+||*.nra^
+||*.ns^
+||*.nsid^
+||*.nslookup^
+||*.null^
+||*.nxdomain^
+||*.nxrrset^
+||*.nxt^
+||*.o^
+||*.observer^
+||*.off^
+||*.office^
+||*.okinawa^
+||*.om^
+||*.one^
+||*.ong^
+||*.onion^
+||*.onl^
+||*.online^
+||*.onyourside^
+||*.ooo^
+||*.open^
+||*.opendns^
+||*.opennic^
+||*.openshift^
+||*.openshiftlocal^
+||*.openstack^
+||*.openstacklocal^
+||*.opr^
+||*.organic^
+||*.origins^
+||*.osaka^
+||*.oss^
+||*.otsuka^
+||*.ovh^
+||*.oz^
+||*.p2p^
+||*.pa^
+||*.pac^
+||*.page^
+||*.parody^
+||*.pars^
+||*.partners^
+||*.parts^
+||*.party^
+||*.passover^
+||*.pay^
+||*.pccw^
+||*.pdf^
+||*.per^
+||*.pet^
+||*.ph^
+||*.pharmacy^
+||*.phone^
+||*.photo^
+||*.photography^
+||*.photos^
+||*.php^
+||*.php3^
+||*.php4^
+||*.phtml^
+||*.physio^
+||*.pics^
+||*.pictures^
+||*.pin^
+||*.ping^
+||*.pink^
+||*.pirate^
+||*.pizza^
+||*.pk^
+||*.pl^
+||*.place^
+||*.play^
+||*.playstation^
+||*.plist^
+||*.plumbing^
+||*.plus^
+||*.pluto^
+||*.pm^
+||*.png^
+||*.pocketdata^
+||*.poker^
+||*.porn^
+||*.porno^
+||*.post^
+||*.ppt^
+||*.pptx^
+||*.pq^
+||*.pramerica^
+||*.praxi^
+||*.press^
+||*.prime^
+||*.private^
+||*.pro^
+||*.prod^
+||*.productions^
+||*.prof^
+||*.progressive^
+||*.promo^
+||*.properties^
+||*.property^
+||*.protection^
+||*.ptr^
+||*.pub^
+||*.purim^
+||*.pvt^
+||*.pw^
+||*.py^
+||*.pyc^
+||*.qencode-encoder-cd22de30229b11ec9a3d62b78d0049ec^
+||*.qpon^
+||*.quest^
+||*.qvc^
+||*.rac2v1a^
+||*.racing^
+||*.radio^
+||*.raid^
+||*.rb^
+||*.read^
+||*.realestate^
+||*.realtek^
+||*.realtor^
+||*.realty^
+||*.recipes^
+||*.red^
+||*.redstone^
+||*.redumbrella^
+||*.refused^
+||*.rehab^
+||*.reise^
+||*.reisen^
+||*.reit^
+||*.reject^
+||*.rejected^
+||*.reliance^
+||*.ren^
+||*.rent^
+||*.rentals^
+||*.repair^
+||*.report^
+||*.republican^
+||*.rest^
+||*.restaurant^
+||*.reverse-dns^
+||*.review^
+||*.reviews^
+||*.rhtml^
+||*.rich^
+||*.richardli^
+||*.rightathome^
+||*.ril^
+||*.rio^
+||*.rip^
+||*.rm^
+||*.ro^
+||*.rock^
+||*.rocks^
+||*.rodeo^
+||*.room^
+||*.root^
+||*.router^
+||*.rr^
+||*.rs^
+||*.rss^
+||*.rsvp^
+||*.ru^
+||*.rugby^
+||*.run^
+||*.ryukyu^
+||*.safe^
+||*.safety^
+||*.sakura^
+||*.sale^
+||*.salon^
+||*.sarl^
+||*.saturn^
+||*.save^
+||*.saxo^
+||*.sbs^
+||*.scholarships^
+||*.school^
+||*.schule^
+||*.science^
+||*.scjohnson^
+||*.sco^
+||*.script^
+||*.search^
+||*.seat^
+||*.secure^
+||*.security^
+||*.seek^
+||*.seks^
+||*.select^
+||*.server^
+||*.servfail^
+||*.service^
+||*.services^
+||*.seven^
+||*.sew^
+||*.sex^
+||*.sexy^
+||*.sg^
+||*.sh^
+||*.shangrila^
+||*.sharp^
+||*.shaw^
+||*.shell^
+||*.shia^
+||*.shiksha^
+||*.shoes^
+||*.shop^
+||*.shopping^
+||*.shouji^
+||*.show^
+||*.showtime^
+||*.shriram^
+||*.shtml^
+||*.si^
+||*.sic^
+||*.silk^
+||*.sina^
+||*.singles^
+||*.site^
+||*.size^
+||*.sj^
+||*.ski^
+||*.skin^
+||*.sling^
+||*.smart^
+||*.smile^
+||*.soa^
+||*.soccer^
+||*.social^
+||*.software^
+||*.solar^
+||*.solution^
+||*.solutions^
+||*.song^
+||*.soy^
+||*.space^
+||*.sport^
+||*.spot^
+||*.spreadbetting^
+||*.srl^
+||*.ssh^
+||*.star^
+||*.stockholm^
+||*.storage^
+||*.store^
+||*.stream^
+||*.studio^
+||*.study^
+||*.style^
+||*.su^
+||*.suck^
+||*.sucks^
+||*.sun^
+||*.supplies^
+||*.supply^
+||*.support^
+||*.surf^
+||*.surgery^
+||*.svg^
+||*.swf^
+||*.swift^
+||*.swiss^
+||*.sx^
+||*.sydney^
+||*.system^
+||*.systems^
+||*.sz^
+||*.tab^
+||*.taipei^
+||*.taiwan^
+||*.taobao^
+||*.tar^
+||*.tatar^
+||*.tattoo^
+||*.tax^
+||*.taxi^
+||*.tc^
+||*.te^
+||*.team^
+||*.tech^
+||*.technologies^
+||*.technology^
+||*.tel^
+||*.temasek^
+||*.tennis^
+||*.test^
+||*.text^
+||*.tf^
+||*.th^
+||*.theater^
+||*.theatre^
+||*.ti^
+||*.tickets^
+||*.tienda^
+||*.tips^
+||*.tires^
+||*.tk^
+||*.tld^
+||*.tmall^
+||*.today^
+||*.tokyo^
+||*.tomorrow^
+||*.tools^
+||*.top^
+||*.tor^
+||*.toronto^
+||*.total^
+||*.totolink^
+||*.tours^
+||*.town^
+||*.toys^
+||*.tp^
+||*.tr^
+||*.trade^
+||*.trading^
+||*.training^
+||*.travel^
+||*.travelers^
+||*.travelersinsurance^
+||*.trust^
+||*.tt^
+||*.tube^
+||*.tunes^
+||*.tushu^
+||*.tw^
+||*.txt^
+||*.ua^
+||*.um^
+||*.unassigned^
+||*.unicom^
+||*.university^
+||*.unknown^
+||*.unknowndomain^
+||*.uno^
+||*.uol^
+||*.uranus^
+||*.url^
+||*.us^
+||*.uu^
+||*.uucp^
+||*.uz^
+||*.vacations^
+||*.vegas^
+||*.ventures^
+||*.venus^
+||*.vera^
+||*.versicherung^
+||*.version^
+||*.vet^
+||*.viajes^
+||*.video^
+||*.vig^
+||*.viking^
+||*.villas^
+||*.vin^
+||*.vip^
+||*.virtualmin^
+||*.virtus^
+||*.vision^
+||*.vlaanderen^
+||*.vn^
+||*.vodka^
+||*.vote^
+||*.voting^
+||*.voto^
+||*.voyage^
+||*.wales^
+||*.wallet^
+||*.wang^
+||*.wanggou^
+||*.watch^
+||*.watches^
+||*.weather^
+||*.web^
+||*.webcam^
+||*.webcamsex^
+||*.weber^
+||*.webp^
+||*.website^
+||*.wed^
+||*.wedding^
+||*.weibo^
+||*.wf^
+||*.whatever^
+||*.white^
+||*.whoswho^
+||*.wiki^
+||*.williamhill^
+||*.win^
+||*.windows^
+||*.wine^
+||*.winners^
+||*.wirelessap^
+||*.wlan_ap^
+||*.work^
+||*.workgroup^
+||*.works^
+||*.world^
+||*.wow^
+||*.wpad^
+||*.ws^
+||*.wss^
+||*.wtf^
+||*.www^
+||*.x^
+||*.xhtm^
+||*.xhtml^
+||*.xihuan^
+||*.xin^
+||*.xls^
+||*.xlsx^
+||*.xmas^
+||*.xml^
+||*.xn--0zwm56d^
+||*.xn--11b4c3d^
+||*.xn--11b5bs3a9aj6g^
+||*.xn--1ck2e1b^
+||*.xn--1qqw23a^
+||*.xn--2scrj9c^
+||*.xn--30rr7y^
+||*.xn--3bst00m^
+||*.xn--3ds443g^
+||*.xn--3e0b707e^
+||*.xn--3hcrj9c^
+||*.xn--3oq18vl8pn36a^
+||*.xn--3pxu8k^
+||*.xn--42c2d9a^
+||*.xn--45br5cyl^
+||*.xn--45brj9c^
+||*.xn--45q11c^
+||*.xn--4dbrk0ce^
+||*.xn--4gbrim^
+||*.xn--54b7fta0cc^
+||*.xn--55qw42g^
+||*.xn--55qx5d^
+||*.xn--5su34j936bgsg^
+||*.xn--5tzm5g^
+||*.xn--6frz82g^
+||*.xn--6qq986b3xl^
+||*.xn--80adxhks^
+||*.xn--80akhbyknj4f^
+||*.xn--80ao21a^
+||*.xn--80aqecdr1a^
+||*.xn--80asehdb^
+||*.xn--80aswg^
+||*.xn--8y0a063a^
+||*.xn--90a3ac^
+||*.xn--90ae^
+||*.xn--90ais^
+||*.xn--9dbq2a^
+||*.xn--9et52u^
+||*.xn--9krt00a^
+||*.xn--9t4b11yi5a^
+||*.xn--b4w605ferd^
+||*.xn--bck1b9a5dre4c^
+||*.xn--c1avg^
+||*.xn--c2br7g^
+||*.xn--cck2b3b^
+||*.xn--cckwcxetd^
+||*.xn--cg4bki^
+||*.xn--clchc0ea0b2g2a9gcd^
+||*.xn--czr694b^
+||*.xn--czrs0t^
+||*.xn--czru2d^
+||*.xn--d1acj3b^
+||*.xn--d1alf^
+||*.xn--deba0ad^
+||*.xn--e1a4c^
+||*.xn--eckvdtc9d^
+||*.xn--efvy88h^
+||*.xn--estv75g^
+||*.xn--fct429k^
+||*.xn--fhbei^
+||*.xn--fiq228c5hs^
+||*.xn--fiq64b^
+||*.xn--fiqs8s^
+||*.xn--fiqz9s^
+||*.xn--fjq720a^
+||*.xn--flw351e^
+||*.xn--fpcrj9c3d^
+||*.xn--fzc2c9e2c^
+||*.xn--fzys8d69uvgm^
+||*.xn--g2xx48c^
+||*.xn--g6w251d^
+||*.xn--gckr3f0f^
+||*.xn--gecrj9c^
+||*.xn--gk3at1e^
+||*.xn--h2breg3eve^
+||*.xn--h2brj9c^
+||*.xn--h2brj9c8c^
+||*.xn--hgbk6aj7f53bba^
+||*.xn--hlcj6aya9esc7a^
+||*.xn--hxt814e^
+||*.xn--i1b6b1a6a2e^
+||*.xn--imr513n^
+||*.xn--io0a7i^
+||*.xn--j1aef^
+||*.xn--j1amh^
+||*.xn--j6w193g^
+||*.xn--jlq480n2rg^
+||*.xn--jlq61u9w7b^
+||*.xn--jvr189m^
+||*.xn--jxalpdlp^
+||*.xn--kcrx77d1x4a^
+||*.xn--kgbechtv^
+||*.xn--kprw13d^
+||*.xn--kpry57d^
+||*.xn--kput3i^
+||*.xn--l1acc^
+||*.xn--lgbbat1ad8j^
+||*.xn--mgb9awbf^
+||*.xn--mgba3a3ejt^
+||*.xn--mgba3a4f16a^
+||*.xn--mgba3a4fra^
+||*.xn--mgba7c0bbn0a^
+||*.xn--mgbaakc7dvf^
+||*.xn--mgbaam7a8h^
+||*.xn--mgbab2bd^
+||*.xn--mgbah1a3hjkrd^
+||*.xn--mgbai9a5eva00b^
+||*.xn--mgbai9azgqp6j^
+||*.xn--mgbayh7gpa^
+||*.xn--mgbbh1a^
+||*.xn--mgbbh1a71e^
+||*.xn--mgbc0a9azcg^
+||*.xn--mgbca7dzdo^
+||*.xn--mgbcpq6gpa1a^
+||*.xn--mgberp4a5d4ar^
+||*.xn--mgbgu82a^
+||*.xn--mgbguxyz^
+||*.xn--mgbi4ecexp^
+||*.xn--mgbi4ecxyz^
+||*.xn--mgbpl2fh^
+||*.xn--mgbt3dhd^
+||*.xn--mgbtx2b^
+||*.xn--mgbx4cd0ab^
+||*.xn--mix082f^
+||*.xn--mix891f^
+||*.xn--mk1bu44c^
+||*.xn--mxtq1m^
+||*.xn--ngbc5azd^
+||*.xn--ngbe9e0a^
+||*.xn--ngbrx^
+||*.xn--nnx388a^
+||*.xn--node^
+||*.xn--nqv7f^
+||*.xn--nqv7fs00ema^
+||*.xn--nyqy26a^
+||*.xn--o3cw4h^
+||*.xn--ogbpf8fl^
+||*.xn--otu796d^
+||*.xn--p1acf^
+||*.xn--p1ai^
+||*.xn--pgbs0dh^
+||*.xn--pssy2u^
+||*.xn--q7ce6a^
+||*.xn--q9jyb4c^
+||*.xn--qcka1pmc^
+||*.xn--qxa6a^
+||*.xn--qxam^
+||*.xn--rhqv96g^
+||*.xn--rovu88b^
+||*.xn--rvc1e0am3e^
+||*.xn--s9brj9c^
+||*.xn--ses554g^
+||*.xn--t60b56a^
+||*.xn--tckwe^
+||*.xn--tiq49xqyj^
+||*.xn--unup4y^
+||*.xn--vcst06ab2a^
+||*.xn--vermgensberater-ctb^
+||*.xn--vermgensberatung-pwb^
+||*.xn--vhquv^
+||*.xn--vuq861b^
+||*.xn--w4r85el8fhu5dnra^
+||*.xn--w4rs40l^
+||*.xn--wgbh1c^
+||*.xn--wgbl6a^
+||*.xn--wgv71a^
+||*.xn--xhq521b^
+||*.xn--xkc2al3hye2a^
+||*.xn--xkc2dl3a5ee0h^
+||*.xn--y9a3aq^
+||*.xn--yfro4i67o^
+||*.xn--ygbi2ammx^
+||*.xn--zckzah^
+||*.xn--zfr164b^
+||*.xnxyz^
+||*.xxx^
+||*.xyz^
+||*.yachts^
+||*.yamaxun^
+||*.yandex^
+||*.yaws^
+||*.yd^
+||*.yesterday^
+||*.ykp^
+||*.yodobashi^
+||*.yoga^
+||*.yokohama^
+||*.you^
+||*.yu^
+||*.yun^
+||*.yxdomain^
+||*.yxrrset^
+||*.z^
+||*.zero^
+||*.zervdns^
+||*.zghjccbob3n0^
+||*.zhongguo^
+||*.zil^
+||*.zip^
+||*.zone^
+||*.zr^
+||*.zw^
+!
+! BlackList Domains:
+||example.com^
+||sa.com^
+||za.com^
+||edu.eu^
+||qzz.io^
+||us.kg^
+||xx.kg^
+||example.net^
+||dpdns.org^
+||example.org^
+!
+! EOF

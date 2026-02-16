@@ -1,0 +1,47 @@
+[Adblock Plus 1.1]
+! Title: Accomplist "Ofac" AdBlock List (Top-N Version)
+! Version: 1771243259
+! Homepage: https://github.com/cbuijs/accomplist/tree/master/ofac
+!
+! BlackList TLDs:
+||*.ba^
+||*.bi^
+||*.by^
+||*.cd^
+||*.cf^
+||*.cg^
+||*.ci^
+||*.cn^
+||*.cu^
+||*.cy^
+||*.er^
+||*.et^
+||*.hk^
+||*.ht^
+||*.iq^
+||*.ir^
+||*.it^
+||*.kp^
+||*.lb^
+||*.lk^
+||*.lr^
+||*.ly^
+||*.mk^
+||*.mm^
+||*.ni^
+||*.ro^
+||*.ru^
+||*.sd^
+||*.so^
+||*.ss^
+||*.sy^
+||*.ua^
+||*.ve^
+||*.vn^
+||*.xk^
+||*.ye^
+||*.zw^
+!
+! BlackList Domains:
+!
+! EOF
