@@ -1,6 +1,6 @@
 [Adblock Plus 1.1]
 ! Title: Accomplist "Tlds" AdBlock List (Top-N Version)
-! Version: 1771224477
+! Version: 1771312107
 ! Homepage: https://github.com/cbuijs/accomplist/tree/master/tlds
 !
 ! WhiteList Domains:
@@ -1352,6 +1352,8 @@
 @@||hacksmith.store^
 ! Sub-domain "heavysaurus.store" unblacklisted from domain "store"
 @@||heavysaurus.store^
+! Sub-domain "hom.store" unblacklisted from domain "store"
+@@||hom.store^
 ! Sub-domain "immich.store" unblacklisted from domain "store"
 @@||immich.store^
 ! Sub-domain "iqunix.store" unblacklisted from domain "store"
