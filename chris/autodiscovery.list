@@ -6809,7 +6809,6 @@ autoconfig.windows
 autoconfig.wine
 autoconfig.winners
 autoconfig.wme
-autoconfig.wolterskluwer
 autoconfig.woodside
 autoconfig.work
 autoconfig.works
@@ -16948,7 +16947,6 @@ _autodiscover.windows
 _autodiscover.wine
 _autodiscover.winners
 _autodiscover.wme
-_autodiscover.wolterskluwer
 _autodiscover.woodside
 _autodiscover.work
 _autodiscover.works
@@ -27087,7 +27085,6 @@ autodiscover.windows
 autodiscover.wine
 autodiscover.winners
 autodiscover.wme
-autodiscover.wolterskluwer
 autodiscover.woodside
 autodiscover.work
 autodiscover.works
@@ -37226,7 +37223,6 @@ b._dns-sd.windows
 b._dns-sd.wine
 b._dns-sd.winners
 b._dns-sd.wme
-b._dns-sd.wolterskluwer
 b._dns-sd.woodside
 b._dns-sd.work
 b._dns-sd.works
@@ -47365,7 +47361,6 @@ db._dns-sd.windows
 db._dns-sd.wine
 db._dns-sd.winners
 db._dns-sd.wme
-db._dns-sd.wolterskluwer
 db._dns-sd.woodside
 db._dns-sd.work
 db._dns-sd.works
@@ -57504,7 +57499,6 @@ isatap.windows
 isatap.wine
 isatap.winners
 isatap.wme
-isatap.wolterskluwer
 isatap.woodside
 isatap.work
 isatap.works
@@ -67643,7 +67637,6 @@ lb._dns-sd.windows
 lb._dns-sd.wine
 lb._dns-sd.winners
 lb._dns-sd.wme
-lb._dns-sd.wolterskluwer
 lb._dns-sd.woodside
 lb._dns-sd.work
 lb._dns-sd.works
@@ -77782,7 +77775,6 @@ wpad.windows
 wpad.wine
 wpad.winners
 wpad.wme
-wpad.wolterskluwer
 wpad.woodside
 wpad.work
 wpad.works
@@ -87921,7 +87913,6 @@ wpad.tcp.windows
 wpad.tcp.wine
 wpad.tcp.winners
 wpad.tcp.wme
-wpad.tcp.wolterskluwer
 wpad.tcp.woodside
 wpad.tcp.work
 wpad.tcp.works
