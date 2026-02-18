@@ -9104,6 +9104,7 @@ autoconfig.js.org
 autoconfig.kaas.gg
 autoconfig.khplay.nl
 autoconfig.kapsi.fi
+autoconfig.kdns.fr
 autoconfig.ezproxy.kuleuven.be
 autoconfig.kuleuven.cloud
 autoconfig.keenetic.io
@@ -19242,6 +19243,7 @@ _autodiscover.js.org
 _autodiscover.kaas.gg
 _autodiscover.khplay.nl
 _autodiscover.kapsi.fi
+_autodiscover.kdns.fr
 _autodiscover.ezproxy.kuleuven.be
 _autodiscover.kuleuven.cloud
 _autodiscover.keenetic.io
@@ -29380,6 +29382,7 @@ autodiscover.js.org
 autodiscover.kaas.gg
 autodiscover.khplay.nl
 autodiscover.kapsi.fi
+autodiscover.kdns.fr
 autodiscover.ezproxy.kuleuven.be
 autodiscover.kuleuven.cloud
 autodiscover.keenetic.io
@@ -39518,6 +39521,7 @@ b._dns-sd.js.org
 b._dns-sd.kaas.gg
 b._dns-sd.khplay.nl
 b._dns-sd.kapsi.fi
+b._dns-sd.kdns.fr
 b._dns-sd.ezproxy.kuleuven.be
 b._dns-sd.kuleuven.cloud
 b._dns-sd.keenetic.io
@@ -49656,6 +49660,7 @@ db._dns-sd.js.org
 db._dns-sd.kaas.gg
 db._dns-sd.khplay.nl
 db._dns-sd.kapsi.fi
+db._dns-sd.kdns.fr
 db._dns-sd.ezproxy.kuleuven.be
 db._dns-sd.kuleuven.cloud
 db._dns-sd.keenetic.io
@@ -59794,6 +59799,7 @@ isatap.js.org
 isatap.kaas.gg
 isatap.khplay.nl
 isatap.kapsi.fi
+isatap.kdns.fr
 isatap.ezproxy.kuleuven.be
 isatap.kuleuven.cloud
 isatap.keenetic.io
@@ -69932,6 +69938,7 @@ lb._dns-sd.js.org
 lb._dns-sd.kaas.gg
 lb._dns-sd.khplay.nl
 lb._dns-sd.kapsi.fi
+lb._dns-sd.kdns.fr
 lb._dns-sd.ezproxy.kuleuven.be
 lb._dns-sd.kuleuven.cloud
 lb._dns-sd.keenetic.io
@@ -80070,6 +80077,7 @@ wpad.js.org
 wpad.kaas.gg
 wpad.khplay.nl
 wpad.kapsi.fi
+wpad.kdns.fr
 wpad.ezproxy.kuleuven.be
 wpad.kuleuven.cloud
 wpad.keenetic.io
@@ -90208,6 +90216,7 @@ wpad.tcp.js.org
 wpad.tcp.kaas.gg
 wpad.tcp.khplay.nl
 wpad.tcp.kapsi.fi
+wpad.tcp.kdns.fr
 wpad.tcp.ezproxy.kuleuven.be
 wpad.tcp.kuleuven.cloud
 wpad.tcp.keenetic.io
