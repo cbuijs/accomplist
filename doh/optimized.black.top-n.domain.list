@@ -9,7 +9,7 @@ homec92.dns.army
 dns.wang.art
 rfree1.blue-shield.at
 rfree2.blue-shield.at
-dns.fancyorg.at
+dns.family.fraiss.at
 dns.kescher.at
 kudns.kescher.at
 dns.belnet.be
@@ -584,9 +584,6 @@ doh.niyawe.de
 dns.peb-schmidt.de
 project-evoex.de
 wifrousl.spdns.de
-resolve.srv-pro.de
-resolve02.srv-pro.de
-resolve2.srv-pro.de
 dns.t-ipnet.de
 dns.t53.de
 td-doh.dns.t53.de
@@ -729,6 +726,8 @@ dns.api.integration.globuscs.info
 dns.api.sandbox.globuscs.info
 dns.api.staging.globuscs.info
 dns.api.test.globuscs.info
+doh.kekew.info
+doh3.kekew.info
 testaghome.meshkov.info
 xpen.ns01.info
 c9.dedyn.io
@@ -1387,8 +1386,6 @@ vds2380673.my-ihor.ru
 myadg.ru
 dns.petqa.ru
 dns.ronc.ru
-dns.serdcebolit.ru
-dns1.serdcebolit.ru
 lomoff.spb.ru
 dns0.tardishost.ru
 dns1.tardishost.ru
@@ -1404,7 +1401,6 @@ nl-ams2.doh.sb
 sg-sin2.doh.sb
 resolver.sunet.se
 privacydns.go6lab.si
-dns.l337.site
 dns.levonet.sk
 dns.p3k.sk
 n1.p3k.sk
@@ -1484,7 +1480,6 @@ agh.dshubham.xyz
 hole.elbschloss.xyz
 opennic.i2pd.xyz
 opennic2.i2pd.xyz
-dns.propheci.xyz
 crusnik80.co.za
 adg.datamatter.co.za
 pihole.datamatter.co.za

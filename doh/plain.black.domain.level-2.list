@@ -13,7 +13,6 @@ rfree1.blue-shield.at
 rfree2.blue-shield.at
 dns.fancyorg.at
 dns.kescher.at
-cube.neubsi.at
 dns.neubsi.at
 dns.sv-zauner.at
 dns.cloud88.com.au
@@ -53,7 +52,6 @@ dns.momou.ch
 doh.quickline.ch
 dot.quickline.ch
 dns.sheggi.ch
-adguard.ruby.ci
 dns.michelo.cl
 dnsotls.lab.nic.cl
 justhost.bedro.cloud
@@ -183,7 +181,6 @@ family.dns.doubleangels.com
 easyhandshake.com
 dns.edgeburnmedia.com
 edgy-dns.com
-dns.efficientdocuments.com
 doh.flashstart.com
 dns.flwagners.com
 biying.flymlc.com
@@ -867,6 +864,7 @@ meganerd.nl
 dns.melvin2204.nl
 dns.pccoach.nl
 doh.sidnlabs.nl
+dns.sstomp.nl
 timmes.nl
 nat64.tuxis.nl
 adguard.wirimij.nl
@@ -953,8 +951,10 @@ de.teradns.org
 ny.teradns.org
 sg.teradns.org
 dns.thebuckners.org
+blocker.thethorsens.org
 doh.tiarap.org
 jp.tiarap.org
+truta.org
 vorlif.org
 dns.w3ctag.org
 wikimedia-dns.org
@@ -1126,7 +1126,6 @@ dns.b33.space
 adg.rueiliu.space
 dns.sy.st
 home-server.store
-dns.fizz.studio
 dns.xuming.studio
 crypto.sx
 3jjxxl.tech

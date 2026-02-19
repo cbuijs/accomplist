@@ -1,6 +1,6 @@
 [Adblock Plus 1.1]
 ! Title: Accomplist "Doh" AdBlock List (Top-N Version)
-! Version: 1771399555
+! Version: 1771486245
 ! Homepage: https://github.com/cbuijs/accomplist/tree/master/doh
 !
 ! WhiteList Domains:
@@ -171,8 +171,6 @@
 ||xenergy.cc^
 ||hk.yoosoo.cc^
 ||dns.yuzia.cc^
-||dns140.zhhz.cc^
-||dns168.zhhz.cc^
 ||ns.cd^
 ||dns.keweon.center^
 ||ux.go20.cf^
@@ -696,7 +694,6 @@
 ||mnsvless.ikwb.com^
 ||ilinhy.com^
 ||ilmxs.com^
-||dns.imaicool.com^
 ||ad.imblien.com^
 ||noads.imbuffering.com^
 ||adgh.imtsui.com^
@@ -1093,7 +1090,6 @@
 ||xorbiadns.com^
 ||dns.xusqui.com^
 ||v1.xylto.com^
-||dns.yameenassotally.com^
 ||agh-hetzner.yasirafique.com^
 ||lion.yazilimatolye.com^
 ||sg.yepdns.com^
@@ -1445,7 +1441,6 @@
 ||home.wriedts.de^
 ||vsrv15195.customer.xenway.de^
 ||xn--durhre-yxa.de^
-||dns.ygonline.de^
 ||ys4.de^
 ||adguard-kartoffel.zernico.de^
 ||adguard01.zitronen-server.de^
@@ -2036,7 +2031,6 @@
 ||balancer.mc.ihatemy.live^
 ||de.mc.ihatemy.live^
 ||xins.live^
-||v2.xx3210766.live^
 ||acomit.lk^
 ||d.bod.lol^
 ||greatideasforlife.lol^
