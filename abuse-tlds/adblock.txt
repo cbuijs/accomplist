@@ -1,6 +1,6 @@
 [Adblock Plus 1.1]
 ! Title: Accomplist "Tlds" AdBlock List (Top-N Version)
-! Version: 1771485937
+! Version: 1771572922
 ! Homepage: https://github.com/cbuijs/accomplist/tree/master/tlds
 !
 ! WhiteList Domains:
@@ -336,6 +336,8 @@
 @@||no-js.club^
 ! Sub-domain "nocss.club" unblacklisted from domain "club"
 @@||nocss.club^
+! Sub-domain "readme.club" unblacklisted from domain "club"
+@@||readme.club^
 ! Sub-domain "rwinfo.club" unblacklisted from domain "club"
 @@||rwinfo.club^
 ! Sub-domain "skin.club" unblacklisted from domain "club"
@@ -397,6 +399,8 @@
 @@||opf.degree^
 ! Sub-domain "three60.degree" unblacklisted from domain "degree"
 @@||three60.degree^
+! Sub-domain "meucarrinho.delivery" unblacklisted from domain "delivery"
+@@||meucarrinho.delivery^
 ! Sub-domain "push.delivery" unblacklisted from domain "delivery"
 @@||push.delivery^
 ! Sub-domain "return-my.delivery" unblacklisted from domain "delivery"
