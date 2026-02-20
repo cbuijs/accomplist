@@ -13,6 +13,7 @@ rfree1.blue-shield.at
 rfree2.blue-shield.at
 dns.fancyorg.at
 dns.kescher.at
+cube.neubsi.at
 dns.neubsi.at
 dns.sv-zauner.at
 dns.cloud88.com.au
@@ -52,6 +53,7 @@ dns.momou.ch
 doh.quickline.ch
 dot.quickline.ch
 dns.sheggi.ch
+adguard.ruby.ci
 dns.michelo.cl
 dnsotls.lab.nic.cl
 justhost.bedro.cloud
@@ -233,7 +235,6 @@ doh.mmmalia.com
 dnstls.mobik.com
 dns.moonssif.com
 ns.mtsoln.com
-dns.mzjtechnology.com
 dns.nguyendn.com
 d.niaox.com
 dns-cybersec.nordthreatprotection.com
@@ -362,7 +363,6 @@ dnsforge.de
 dns.dnshome.de
 dns.dremaxx.de
 dukun.de
-dns.dyn1.de
 opennic1.eth-services.de
 dns.fehlsprache.de
 dns.ffnw.de
@@ -480,6 +480,7 @@ dns.mestdag.fr
 blockerads.multimediaconcept.fr
 rayneau.fr
 dns.sellan.fr
+pates.services.sfr.fr.casepp.sfr.fr
 dns.spirio.fr
 adb-home.xaoimoon.fr
 adfiltro.fun
@@ -899,20 +900,12 @@ dns.colorfreedom.org
 dns.csswg.org
 dns8.org
 ns1.dotls.org
-home27.duckdns.org
-jurre-home.duckdns.org
-krtekvpn.duckdns.org
-punono.duckdns.org
-tuandns.duckdns.org
-tungdnsne.duckdns.org
 ueni.dyndns.org
 arashi.eu.org
 armorrush.eu.org
 dns.mayx.eu.org
 arashi.net.eu.org
-sukidayo.eu.org
 dns.falkenthal.org
-adguard.gambini.org
 dns.girino.org
 dns.api.globus.org
 dns.api.preview.globus.org
@@ -1182,7 +1175,6 @@ adg.jnorton.us
 dns-privacy.puregeni.us
 dns.scott-smith.us
 adguard.senthil.us
-dns.horcrux.vip
 dns.mtoo.vip
 squidmall.vip
 tienpham.id.vn
