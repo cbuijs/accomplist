@@ -1,6 +1,6 @@
 [Adblock Plus 1.1]
 ! Title: Accomplist "Tlds" AdBlock List (Top-N Version)
-! Version: 1771572922
+! Version: 1771659660
 ! Homepage: https://github.com/cbuijs/accomplist/tree/master/tlds
 !
 ! WhiteList Domains:
@@ -780,10 +780,6 @@
 @@||warframe.market^
 ! Sub-domain "virgile.men" unblacklisted from domain "men"
 @@||virgile.men^
-! Sub-domain "speisekarte.menu" unblacklisted from domain "menu"
-@@||speisekarte.menu^
-! Sub-domain "viewthe.menu" unblacklisted from domain "menu"
-@@||viewthe.menu^
 ! Sub-domain "aire.ml" unblacklisted from domain "ml"
 @@||aire.ml^
 ! Sub-domain "amap.ml" unblacklisted from domain "ml"
@@ -1310,8 +1306,6 @@
 @@||metahub.space^
 ! Sub-domain "momonster.space" unblacklisted from domain "space"
 @@||momonster.space^
-! Sub-domain "monitorburz.space" unblacklisted from domain "space"
-@@||monitorburz.space^
 ! Sub-domain "nitter.space" unblacklisted from domain "space"
 @@||nitter.space^
 ! Sub-domain "ocr.space" unblacklisted from domain "space"
@@ -1354,6 +1348,8 @@
 @@||ettoresoftware.store^
 ! Sub-domain "fbits.store" unblacklisted from domain "store"
 @@||fbits.store^
+! Sub-domain "g-h.store" unblacklisted from domain "store"
+@@||g-h.store^
 ! Sub-domain "glitchproductions.store" unblacklisted from domain "store"
 @@||glitchproductions.store^
 ! Sub-domain "hacksmith.store" unblacklisted from domain "store"
