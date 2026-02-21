@@ -7,9 +7,10 @@
 .guigu.dns.army
 .homec92.dns.army
 .dns.wang.art
+.penta.aeins.at
+.tetra.aeins.at
 .rfree1.blue-shield.at
 .rfree2.blue-shield.at
-.dns.family.fraiss.at
 .dns.kescher.at
 .kudns.kescher.at
 .dns.belnet.be
@@ -621,7 +622,6 @@
 .noads.joindns4.eu
 .protective.joindns4.eu
 .unfiltered.joindns4.eu
-.dns.skrep.eu
 .vdska-pl.ydns.eu
 .lelux.fi
 .ns.nwps.fi
@@ -694,6 +694,7 @@
 .agh3.server.my.id
 .dns1.server.my.id
 .dns.velyn.my.id
+.dyn.velyn.my.id
 .dns.vmath.my.id
 .zapranet.my.id
 .positif4.cross.net.id
@@ -725,6 +726,8 @@
 .dns.api.sandbox.globuscs.info
 .dns.api.staging.globuscs.info
 .dns.api.test.globuscs.info
+.doh.kekew.info
+.doh3.kekew.info
 .testaghome.meshkov.info
 .xpen.ns01.info
 .c9.dedyn.io
@@ -764,7 +767,6 @@
 .tk2-404-43267.vs.sakura.ne.jp
 .x210-131-219-118.static.xvps.ne.jp
 .dns.cctld.kg
-.ns.net.kg
 .dns.eliv.kr
 .dns.njal.la
 .eth.link
@@ -897,7 +899,6 @@
 .dnscache.e-utp.net
 .dns.envs.net
 .doh.ersei.net
-.adguard.exium.net
 .pdns.faelix.net
 .rdns.faelix.net
 .dualstack.t.sni.global.fastly.net
