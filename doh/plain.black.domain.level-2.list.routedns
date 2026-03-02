@@ -235,7 +235,6 @@
 .dnstls.mobik.com
 .dns.moonssif.com
 .ns.mtsoln.com
-.dns.mzjtechnology.com
 .dns.nguyendn.com
 .d.niaox.com
 .dns-cybersec.nordthreatprotection.com
@@ -357,6 +356,7 @@
 .fdns2.dismail.de
 .dns1.dns-ga.de
 .dns2.dns-ga.de
+.dns3.dns-ga.de
 .doh.dns-ga.de
 .secure-dns.dns-ga.de
 .dnsforge.de
@@ -418,7 +418,6 @@
 .dns.jinwoo.dev
 .pihole.aws.ketan.dev
 .adg.khon.dev
-.adblock.krctech.dev
 .dns.molinero.dev
 .dns.mrkaran.dev
 .renardbleu.dev
@@ -614,7 +613,6 @@
 .dns.redvau.lt
 .sink.nolo.ltd
 .dns.circl.lu
-.blackhole.myon.lu
 .dnspub.restena.lu
 .doh.lv
 .doh.nic.lv
@@ -955,6 +953,7 @@
 .blocker.thethorsens.org
 .doh.tiarap.org
 .jp.tiarap.org
+.truta.org
 .vorlif.org
 .dns.w3ctag.org
 .wikimedia-dns.org
