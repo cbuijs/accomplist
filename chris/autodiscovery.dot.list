@@ -6988,6 +6988,8 @@
 .autoconfig.compute.estate
 .autoconfig.alces.network
 .autoconfig.alibabacloudcs.com
+.autoconfig.ms.fun
+.autoconfig.ms.show
 .autoconfig.kasserver.com
 .autoconfig.altervista.org
 .autoconfig.alwaysdata.net
@@ -9315,6 +9317,7 @@
 .autoconfig.net.ru
 .autoconfig.org.ru
 .autoconfig.pp.ru
+.autoconfig.my.be
 .autoconfig.hostedpi.com
 .autoconfig.caracal.mythic-beasts.com
 .autoconfig.customer.mythic-beasts.com
@@ -17139,6 +17142,8 @@
 ._autodiscover.compute.estate
 ._autodiscover.alces.network
 ._autodiscover.alibabacloudcs.com
+._autodiscover.ms.fun
+._autodiscover.ms.show
 ._autodiscover.kasserver.com
 ._autodiscover.altervista.org
 ._autodiscover.alwaysdata.net
@@ -19466,6 +19471,7 @@
 ._autodiscover.net.ru
 ._autodiscover.org.ru
 ._autodiscover.pp.ru
+._autodiscover.my.be
 ._autodiscover.hostedpi.com
 ._autodiscover.caracal.mythic-beasts.com
 ._autodiscover.customer.mythic-beasts.com
@@ -27290,6 +27296,8 @@
 .autodiscover.compute.estate
 .autodiscover.alces.network
 .autodiscover.alibabacloudcs.com
+.autodiscover.ms.fun
+.autodiscover.ms.show
 .autodiscover.kasserver.com
 .autodiscover.altervista.org
 .autodiscover.alwaysdata.net
@@ -29617,6 +29625,7 @@
 .autodiscover.net.ru
 .autodiscover.org.ru
 .autodiscover.pp.ru
+.autodiscover.my.be
 .autodiscover.hostedpi.com
 .autodiscover.caracal.mythic-beasts.com
 .autodiscover.customer.mythic-beasts.com
@@ -37441,6 +37450,8 @@
 .b._dns-sd.compute.estate
 .b._dns-sd.alces.network
 .b._dns-sd.alibabacloudcs.com
+.b._dns-sd.ms.fun
+.b._dns-sd.ms.show
 .b._dns-sd.kasserver.com
 .b._dns-sd.altervista.org
 .b._dns-sd.alwaysdata.net
@@ -39768,6 +39779,7 @@
 .b._dns-sd.net.ru
 .b._dns-sd.org.ru
 .b._dns-sd.pp.ru
+.b._dns-sd.my.be
 .b._dns-sd.hostedpi.com
 .b._dns-sd.caracal.mythic-beasts.com
 .b._dns-sd.customer.mythic-beasts.com
@@ -47592,6 +47604,8 @@
 .db._dns-sd.compute.estate
 .db._dns-sd.alces.network
 .db._dns-sd.alibabacloudcs.com
+.db._dns-sd.ms.fun
+.db._dns-sd.ms.show
 .db._dns-sd.kasserver.com
 .db._dns-sd.altervista.org
 .db._dns-sd.alwaysdata.net
@@ -49919,6 +49933,7 @@
 .db._dns-sd.net.ru
 .db._dns-sd.org.ru
 .db._dns-sd.pp.ru
+.db._dns-sd.my.be
 .db._dns-sd.hostedpi.com
 .db._dns-sd.caracal.mythic-beasts.com
 .db._dns-sd.customer.mythic-beasts.com
@@ -57743,6 +57758,8 @@
 .isatap.compute.estate
 .isatap.alces.network
 .isatap.alibabacloudcs.com
+.isatap.ms.fun
+.isatap.ms.show
 .isatap.kasserver.com
 .isatap.altervista.org
 .isatap.alwaysdata.net
@@ -60070,6 +60087,7 @@
 .isatap.net.ru
 .isatap.org.ru
 .isatap.pp.ru
+.isatap.my.be
 .isatap.hostedpi.com
 .isatap.caracal.mythic-beasts.com
 .isatap.customer.mythic-beasts.com
@@ -67894,6 +67912,8 @@
 .lb._dns-sd.compute.estate
 .lb._dns-sd.alces.network
 .lb._dns-sd.alibabacloudcs.com
+.lb._dns-sd.ms.fun
+.lb._dns-sd.ms.show
 .lb._dns-sd.kasserver.com
 .lb._dns-sd.altervista.org
 .lb._dns-sd.alwaysdata.net
@@ -70221,6 +70241,7 @@
 .lb._dns-sd.net.ru
 .lb._dns-sd.org.ru
 .lb._dns-sd.pp.ru
+.lb._dns-sd.my.be
 .lb._dns-sd.hostedpi.com
 .lb._dns-sd.caracal.mythic-beasts.com
 .lb._dns-sd.customer.mythic-beasts.com
@@ -78045,6 +78066,8 @@
 .wpad.compute.estate
 .wpad.alces.network
 .wpad.alibabacloudcs.com
+.wpad.ms.fun
+.wpad.ms.show
 .wpad.kasserver.com
 .wpad.altervista.org
 .wpad.alwaysdata.net
@@ -80372,6 +80395,7 @@
 .wpad.net.ru
 .wpad.org.ru
 .wpad.pp.ru
+.wpad.my.be
 .wpad.hostedpi.com
 .wpad.caracal.mythic-beasts.com
 .wpad.customer.mythic-beasts.com
@@ -88196,6 +88220,8 @@
 .wpad.tcp.compute.estate
 .wpad.tcp.alces.network
 .wpad.tcp.alibabacloudcs.com
+.wpad.tcp.ms.fun
+.wpad.tcp.ms.show
 .wpad.tcp.kasserver.com
 .wpad.tcp.altervista.org
 .wpad.tcp.alwaysdata.net
@@ -90523,6 +90549,7 @@
 .wpad.tcp.net.ru
 .wpad.tcp.org.ru
 .wpad.tcp.pp.ru
+.wpad.tcp.my.be
 .wpad.tcp.hostedpi.com
 .wpad.tcp.caracal.mythic-beasts.com
 .wpad.tcp.customer.mythic-beasts.com
