@@ -1,6 +1,6 @@
 [Adblock Plus 1.1]
 ! Title: Accomplist "Tlds" AdBlock List (Top-N Version)
-! Version: 1772609099
+! Version: 1772695849
 ! Homepage: https://github.com/cbuijs/accomplist/tree/master/tlds
 !
 ! WhiteList Domains:
@@ -447,6 +447,8 @@
 @@||up4ever.download^
 ! Sub-domain "upfiles.download" unblacklisted from domain "download"
 @@||upfiles.download^
+! Sub-domain "auk.eco" unblacklisted from domain "eco"
+@@||auk.eco^
 ! Sub-domain "elli.eco" unblacklisted from domain "eco"
 @@||elli.eco^
 ! Sub-domain "mer.eco" unblacklisted from domain "eco"
