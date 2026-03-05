@@ -17,7 +17,6 @@ dns.belnet.be
 9132706292.cloudns.be
 kirov.unicom.cloudns.be
 adguard.veanswart.cloudns.be
-dns1.pietjacobs.be
 d51538618.access.telenet.be
 doh.beauty
 dflexy.house.nom.br
@@ -368,7 +367,6 @@ httpsdns.n.shifen.com
 doh-01.spectrum.com
 doh-02.spectrum.com
 doh-03.spectrum.com
-doh.srv00.com
 dns.surfshark.com
 dns.surfsharkdns.com
 dns.syaifullah.com
@@ -574,7 +572,6 @@ opennic1.eth-services.de
 eime.goip.de
 dns1.in-berlin.de
 dns2.in-berlin.de
-homeserver.marcore.de
 v2202405224322270920.megasrv.de
 esel.stusta.mhn.de
 muli.stusta.mhn.de
@@ -583,6 +580,9 @@ doh.niyawe.de
 dns.peb-schmidt.de
 project-evoex.de
 wifrousl.spdns.de
+resolve.srv-pro.de
+resolve02.srv-pro.de
+resolve2.srv-pro.de
 dns.t-ipnet.de
 dns.t53.de
 td-doh.dns.t53.de
@@ -926,8 +926,6 @@ ns1.i-evolve.net
 eu-cdn.imoim.net
 http-dns.imoim.net
 ns1.95997.ip-ns.net
-adguard1.jsanagustin.net
-adguard1.njy.jsanagustin.net
 adguard1.leadmon.net
 adguard2.leadmon.net
 africadns1.liquidtelecom.net
@@ -1197,7 +1195,6 @@ domeq.waw.pl
 poster.place
 ramy.run.place
 doh.apad.pro
-dns.dynx.pro
 httpdns.pro
 abe01.dnscry.pt
 abn01.dnscry.pt
@@ -1374,7 +1371,6 @@ wp-test.fvds.ru
 dns.geohide.ru
 v1552270.hosted-by-vdsina.ru
 joouddo.ru
-adguard.kazantsev97.msk.ru
 vds2380673.my-ihor.ru
 myadg.ru
 dns.petqa.ru

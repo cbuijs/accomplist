@@ -1,6 +1,6 @@
 [Adblock Plus 1.1]
 ! Title: Accomplist "Doh" AdBlock List (Top-N Version)
-! Version: 1772609399
+! Version: 1772696155
 ! Homepage: https://github.com/cbuijs/accomplist/tree/master/doh
 !
 ! WhiteList Domains:
@@ -320,7 +320,6 @@
 ||blokuj.ujwie.co^
 ||kozak.ujwie.co^
 ||nitter.ujwie.co^
-||dns.nguyendangduong.codes^
 ||dns.tipsy.coffee^
 ||dns.13evl.com^
 ||dns1.13evl.com^
@@ -1004,7 +1003,6 @@
 ||doh-01.spectrum.com^
 ||doh-02.spectrum.com^
 ||doh-03.spectrum.com^
-||doh.srv00.com^
 ||hk2.ss.startagegames.com^
 ||adguard.stealbit.com^
 ||adguard2.stealbit.com^
@@ -1659,7 +1657,6 @@
 ||blockerads.multimediaconcept.fr^
 ||pdns1.n00b.fr^
 ||nicolas-dorriere.fr^
-||dns.nimzero.fr^
 ||dns.octoworld.fr^
 ||nas.patrick-antoine.fr^
 ||dns.qkc.fr^
@@ -1736,7 +1733,6 @@
 ||dns.0ooo.icu^
 ||dns.devopscloud.icu^
 ||dns.maybe.icu^
-||caddy.rkn.icu^
 ||d2.shabi.icu^
 ||sq.trin.icu^
 ||yundun.icu^
@@ -2730,7 +2726,6 @@
 ||pdnssrvagh.online^
 ||petinom.online^
 ||shadowart.online^
-||media.streamfusion.online^
 ||vadim.online^
 ||veraris.online^
 ||ns1.4netguides.org^
@@ -3036,7 +3031,6 @@
 ||hsu.plus^
 ||dns.ghost.pm^
 ||ion.pm^
-||michelo.line.pm^
 ||abrakadabra.pro^
 ||adampowell.pro^
 ||doh.apad.pro^
@@ -3346,7 +3340,6 @@
 ||n10.martkotur.ru^
 ||n50.martkotur.ru^
 ||mistasinresolver.ru^
-||adguard.kazantsev97.msk.ru^
 ||dns.msxnet.ru^
 ||mtsdns.ru^
 ||muxyuji.ru^
@@ -3435,7 +3428,6 @@
 ||aicx99.shop^
 ||amopython.shop^
 ||hfgx.shop^
-||beta.thegodfatheriam.shop^
 ||polisitogel.show^
 ||privacydns.go6lab.si^
 ||adguard.marto.si^
@@ -3702,7 +3694,6 @@
 ||adguard.ro0t.us^
 ||dns.scott-smith.us^
 ||adguard.senthil.us^
-||dns.timkevin.us^
 ||dns.xwu.us^
 ||doh.aipps.vip^
 ||dns.horcrux.vip^
