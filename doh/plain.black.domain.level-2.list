@@ -185,7 +185,6 @@ family.dns.doubleangels.com
 easyhandshake.com
 dns.edgeburnmedia.com
 edgy-dns.com
-dns.efficientdocuments.com
 doh.flashstart.com
 dns.flwagners.com
 biying.flymlc.com
@@ -420,6 +419,7 @@ dns.hanahira.dev
 dns.jinwoo.dev
 pihole.aws.ketan.dev
 adg.khon.dev
+adblock.krctech.dev
 dns.molinero.dev
 dns.mrkaran.dev
 renardbleu.dev
@@ -445,7 +445,6 @@ dns.decky.eu
 doh.dns4all.eu
 dns.filipccz.eu
 dns.jiyi.eu
-child.joindns4.eu
 child-noads.joindns4.eu
 noads.joindns4.eu
 protective.joindns4.eu
@@ -615,6 +614,7 @@ dns.ourvau.lt
 dns.redvau.lt
 sink.nolo.ltd
 dns.circl.lu
+blackhole.myon.lu
 dnspub.restena.lu
 doh.lv
 doh.nic.lv
@@ -666,7 +666,9 @@ kavkaz.monster
 dns.sev.monster
 dns.therifleman.name
 doh003.280blocker.net
+res-acst1.absolight.net
 res-acst2.absolight.net
+res-acst3.absolight.net
 resolver1.absolight.net
 resolver2.absolight.net
 resolver3.absolight.net
@@ -803,6 +805,7 @@ us-saj-w-f-1.nashkan.net
 us-saj-w-p-1.nashkan.net
 dns.netvpn.net
 kiri.nonexiste.net
+dns.novg.net
 dnscache0.ns71.net
 dns.nullgate.net
 dns.ofdoom.net
@@ -941,7 +944,6 @@ dns2.saferbfc.org
 dns.scuola.org
 dns.silen.org
 fi.doh.dns.snopyta.org
-spacedns.org
 dns.stormycloud.org
 doh.suche.org
 doh.syshero.org
@@ -953,6 +955,7 @@ dns.thebuckners.org
 blocker.thethorsens.org
 doh.tiarap.org
 jp.tiarap.org
+truta.org
 vorlif.org
 dns.w3ctag.org
 wikimedia-dns.org
@@ -1081,7 +1084,6 @@ united-arab-emirates.privacy-dns.pw
 ant.dns.qwer.pw
 dog.dns.qwer.pw
 frog.dns.qwer.pw
-lion.dns.qwer.pw
 tiger.dns.qwer.pw
 5g.o0o.re
 v.recipes
@@ -1122,6 +1124,7 @@ dns.b33.space
 adg.rueiliu.space
 dns.sy.st
 home-server.store
+dns.fizz.studio
 dns.xuming.studio
 crypto.sx
 3jjxxl.tech
@@ -1229,7 +1232,6 @@ kx-97795-tr.xyz
 lukscasino-479-tr.xyz
 lukscasino-542-tr.xyz
 lukscasino-929-tr.xyz
-dns.maolaohei.xyz
 maqgie.xyz
 dns.mh4ckt3mh4ckt1c4s.xyz
 mikezhang.xyz
@@ -1242,6 +1244,7 @@ adguard.twotigers.xyz
 dns.vaioswolke.xyz
 securedns.vendorvista.xyz
 dns.vinnyp.xyz
+dns.vip-kingstore.xyz
 dns.xwdmw.xyz
 pihole.datamatter.co.za
 dns.oliviertv.co.za

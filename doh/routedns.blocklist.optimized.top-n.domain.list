@@ -6,7 +6,6 @@
 .fargos2.dns.army
 .guigu.dns.army
 .homec92.dns.army
-.dns.wang.art
 .penta.aeins.at
 .tetra.aeins.at
 .rfree1.blue-shield.at
@@ -81,6 +80,7 @@
 .dns.7vpn.com
 .doh.dns.apple.com.v.aaplimg.com
 .doh-dns-apple-com.v.aaplimg.com
+.mask-canary.v.aaplimg.com
 .dns.adguard.com
 .dns-family.adguard.com
 .dns-unfiltered.adguard.com
@@ -297,7 +297,6 @@
 .dnx.niko-sem.com
 .dns1.nordvpn.com
 .dns2.nordvpn.com
-.dns.odinpl.com
 .andybunn.onthewifi.com
 .hknat.ooguy.com
 .dns.opendns.com
@@ -560,7 +559,6 @@
 .vps66.brueggus.de
 .dns.hub.com.de
 .dns.csaonline.de
-.dns.datenquark.de
 .marcrnt.ddnss.de
 .doh.defaultroutes.de
 .fdns1.dismail.de
@@ -577,7 +575,6 @@
 .muli.stusta.mhn.de
 .dns.mnet-online.de
 .doh.niyawe.de
-.dns.peb-schmidt.de
 .project-evoex.de
 .wifrousl.spdns.de
 .resolve.srv-pro.de
@@ -724,7 +721,6 @@
 .dns.api.test.globuscs.info
 .doh.kekew.info
 .doh3.kekew.info
-.testaghome.meshkov.info
 .xpen.ns01.info
 .c9.dedyn.io
 .frank-web.dedyn.io
