@@ -14,7 +14,6 @@
 .dns.fancyorg.at
 .dns.kescher.at
 .cube.neubsi.at
-.dns.neubsi.at
 .dns.sv-zauner.at
 .dns.cloud88.com.au
 .dns.netraptor.com.au
@@ -57,7 +56,6 @@
 .adguard.ruby.ci
 .dns.michelo.cl
 .dnsotls.lab.nic.cl
-.dns.listo.click
 .justhost.bedro.cloud
 .dns.brembeck.cloud
 .dns.clanto.cloud
@@ -93,7 +91,6 @@
 .mailkyb.co
 .dns.oszx.co
 .dns.tipsy.coffee
-.dns.13evl.com
 .dns.7vpn.com
 .adb.aadityakushwaha.com
 .doh.dns.apple.com.v.aaplimg.com
@@ -113,7 +110,6 @@
 .dns.ares-taiwan.com
 .dns.arkbotech.com
 .dns.asterimoon.com
-.dandelionsprout.asuscomm.com
 .dns.asysec.com
 .adguardhome.atakorah.com
 .secure.avastdns.com
@@ -185,7 +181,6 @@
 .easyhandshake.com
 .dns.edgeburnmedia.com
 .edgy-dns.com
-.dns.efficientdocuments.com
 .doh.flashstart.com
 .dns.flwagners.com
 .biying.flymlc.com
@@ -237,7 +232,6 @@
 .dnstls.mobik.com
 .dns.moonssif.com
 .ns.mtsoln.com
-.dns.mzjtechnology.com
 .dns.nguyendn.com
 .d.niaox.com
 .dns-cybersec.nordthreatprotection.com
@@ -252,7 +246,6 @@
 .jp2.ooroot.com
 .kr1.ooroot.com
 .kr2.ooroot.com
-.sg2.ooroot.com
 .dns.opendns.com
 .doh.opendns.com
 .familyshield.opendns.com
@@ -465,6 +458,7 @@
 .lastentarvike.fi
 .lelux.fi
 .ns.nwps.fi
+.ns.trcnet.fi
 .doh.42l.fr
 .dns.aquilenet.fr
 .doh.bortzmeyer.fr
@@ -666,11 +660,9 @@
 .dns.sev.monster
 .dns.therifleman.name
 .doh003.280blocker.net
-.res-acst1.absolight.net
 .res-acst2.absolight.net
 .res-acst3.absolight.net
 .resolver1.absolight.net
-.resolver2.absolight.net
 .resolver3.absolight.net
 .adl.adfilter.net
 .per.adfilter.net
@@ -920,7 +912,6 @@
 .dns.api.preview.globus.org
 .dns.goldplate.org
 .keithchung.hopto.org
-.hshh.org
 .dns.jundev.org
 .doh.kooman.org
 .dart.kpsn.org
@@ -956,7 +947,6 @@
 .blocker.thethorsens.org
 .doh.tiarap.org
 .jp.tiarap.org
-.truta.org
 .vorlif.org
 .dns.w3ctag.org
 .wikimedia-dns.org
@@ -1106,6 +1096,7 @@
 .your-dns.run
 .dns.sb
 .doh.sb
+.dns.butterfly87.sbs
 .myatris.sbs
 .resolver.sunet.se
 .dns.9999.sg
@@ -1119,7 +1110,6 @@
 .dns.labnekotest.site
 .tecdrive.site
 .vtcuong.site
-.dns.levonet.sk
 .dns.elemental.software
 .dns.cloudtrust.solutions
 .dns.b33.space
@@ -1246,6 +1236,7 @@
 .dns.vaioswolke.xyz
 .securedns.vendorvista.xyz
 .dns.vinnyp.xyz
+.dns.vip-kingstore.xyz
 .dns.xwdmw.xyz
 .pihole.datamatter.co.za
 .dns.oliviertv.co.za
