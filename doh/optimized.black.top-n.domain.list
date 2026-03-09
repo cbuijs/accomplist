@@ -103,6 +103,7 @@ ops-httpdns.aliyuncs.com
 popunify-4.aliyuncs.com
 ga-bp1x5hjt57jh3adltd1si.aliyunga0019.com
 dns.alvosec.com
+k8s-nginxing-nginxing-03a7d90adb-ea695017b9e1ca6b.elb.ap-southeast-2.amazonaws.com
 eu-opush-heytapmobile-pubgw-1244993624.eu-west-3.elb.amazonaws.com
 eu-opush-oppomobile-pubgw-928071339.eu-west-3.elb.amazonaws.com
 dns-integration-alb-618104398.us-east-1.elb.amazonaws.com
@@ -661,7 +662,6 @@ woc.beelstb.biz.id
 dns.gi.co.id
 dns.spil.co.id
 dns.furina.id
-marasov.id
 d.apemlegit.my.id
 be2aja.my.id
 dns.fadhilyori.my.id
@@ -741,9 +741,6 @@ doh.seby.io
 doh-2.seby.io
 dot.seby.io
 dns.seia.io
-icn-aa.objet.seia.io
-xstl.objet.seia.io
-xstl.seia.io
 dns.smartguard.io
 doh-rs.whalebone.io
 dns.shecan.ir
@@ -789,6 +786,7 @@ ihctw.synology.me
 lagreca2.synology.me
 siddeus.synology.me
 woalongit.synology.me
+doh.aaaab3n.moe
 dns.vaguthu.mv
 domain.name
 doh003.280blocker.net
@@ -1114,7 +1112,6 @@ x-o-x.duckdns.org
 x861g.duckdns.org
 akhilkalwakurthy.dyndns.org
 ueni.dyndns.org
-dns.electrotm.org
 ad-blocking.eu.org
 arm.adblocker.eu.org
 adguard-dns.eu.org
@@ -1360,7 +1357,6 @@ tiger.dns.qwer.pw
 v.recipes
 roadesdyn.go.ro
 socolov.home.ro
-addns1.m-it.ro
 adguard.dbase.in.rs
 comss.ru
 wp-test.fvds.ru

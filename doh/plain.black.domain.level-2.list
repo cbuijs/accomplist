@@ -14,6 +14,7 @@ rfree2.blue-shield.at
 dns.fancyorg.at
 dns.kescher.at
 cube.neubsi.at
+dns.neubsi.at
 dns.sv-zauner.at
 dns.cloud88.com.au
 dns.netraptor.com.au
@@ -91,6 +92,7 @@ dns.zzuhacker.cn
 mailkyb.co
 dns.oszx.co
 dns.tipsy.coffee
+dns.13evl.com
 dns.7vpn.com
 adb.aadityakushwaha.com
 doh.dns.apple.com.v.aaplimg.com
@@ -110,6 +112,7 @@ doh.dns.apple.com
 dns.ares-taiwan.com
 dns.arkbotech.com
 dns.asterimoon.com
+dandelionsprout.asuscomm.com
 dns.asysec.com
 adguardhome.atakorah.com
 secure.avastdns.com
@@ -149,7 +152,6 @@ dns.coderoria.com
 dns.containerpi.com
 dns.controld.com
 freedns.controld.com
-dns.cooluc.com
 dns.cryptomize.com
 cubedns.com
 dns.cwlys.com
@@ -232,6 +234,7 @@ doh.mmmalia.com
 dnstls.mobik.com
 dns.moonssif.com
 ns.mtsoln.com
+dns.mzjtechnology.com
 dns.nguyendn.com
 d.niaox.com
 dns-cybersec.nordthreatprotection.com
@@ -245,7 +248,6 @@ dns.odinpl.com
 hk2.ooroot.com
 jp2.ooroot.com
 kr1.ooroot.com
-kr2.ooroot.com
 dns.opendns.com
 doh.opendns.com
 familyshield.opendns.com
@@ -410,6 +412,7 @@ bazooki-infra.dev
 dns.blaumer.dev
 dns.caliph.dev
 dns.daw.dev
+dns.edison42.dev
 dns.hanahira.dev
 dns.jinwoo.dev
 pihole.aws.ketan.dev
@@ -477,6 +480,7 @@ dns.mestdag.fr
 blockerads.multimediaconcept.fr
 rayneau.fr
 dns.sellan.fr
+pates.services.sfr.fr.casepp.sfr.fr
 dns.spirio.fr
 adb-home.xaoimoon.fr
 adfiltro.fun
@@ -563,7 +567,6 @@ dnscrypt-cert.dns.seby.io
 doh.seby.io
 doh-2.seby.io
 dot.seby.io
-dns.seia.io
 dns.smartguard.io
 iana.tenta.io
 opennic.tenta.io
@@ -660,9 +663,10 @@ kavkaz.monster
 dns.sev.monster
 dns.therifleman.name
 doh003.280blocker.net
-res-acst2.absolight.net
+res-acst1.absolight.net
 res-acst3.absolight.net
 resolver1.absolight.net
+resolver2.absolight.net
 resolver3.absolight.net
 adl.adfilter.net
 per.adfilter.net
@@ -912,6 +916,7 @@ dns.api.globus.org
 dns.api.preview.globus.org
 dns.goldplate.org
 keithchung.hopto.org
+hshh.org
 dns.jundev.org
 doh.kooman.org
 dart.kpsn.org
@@ -944,9 +949,9 @@ de.teradns.org
 ny.teradns.org
 sg.teradns.org
 dns.thebuckners.org
-blocker.thethorsens.org
 doh.tiarap.org
 jp.tiarap.org
+truta.org
 vorlif.org
 dns.w3ctag.org
 wikimedia-dns.org
@@ -1110,6 +1115,7 @@ dns.l337.site
 dns.labnekotest.site
 tecdrive.site
 vtcuong.site
+dns.levonet.sk
 dns.elemental.software
 dns.cloudtrust.solutions
 dns.b33.space
@@ -1209,8 +1215,10 @@ doh.xyz
 agh.dshubham.xyz
 hole.elbschloss.xyz
 fra1.eyecay.xyz
+dns.f97.xyz
 performance.gosami.xyz
 jp.gridns.xyz
+dns.haoxuan.xyz
 opennic.i2pd.xyz
 opennic2.i2pd.xyz
 ivnkn.xyz
