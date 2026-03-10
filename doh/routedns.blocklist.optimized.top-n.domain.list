@@ -6,8 +6,6 @@
 .fargos2.dns.army
 .guigu.dns.army
 .homec92.dns.army
-.penta.aeins.at
-.tetra.aeins.at
 .rfree1.blue-shield.at
 .rfree2.blue-shield.at
 .dns.kescher.at
@@ -35,8 +33,6 @@
 .dns.quickline.ch
 .doh.quickline.ch
 .dot.quickline.ch
-.dns.sheggi.ch
-.metis.sheggi.ch
 .dns.simplylinux.ch
 .switch.ch
 .dnsotls.lab.nic.cl
@@ -113,6 +109,7 @@
 .dns-staging-alb-849259019.us-east-1.elb.amazonaws.com
 .dns-test-alb-2081756747.us-east-1.elb.amazonaws.com
 .doh.dns.apple.com
+.dns.arapurayil.com
 .amgr.asuscomm.com
 .dandelionsprout.asuscomm.com
 .himeko297.asuscomm.com
@@ -628,7 +625,6 @@
 .qlf-doh.inria.fr
 .dns.kebree.fr
 .home.kebree.fr
-.nicolas-dorriere.fr
 .pates.services.sfr.fr.casepp.sfr.fr
 .lfbn-gre-1-319-7.w90-112.abo.wanadoo.fr
 .dupatruwi22.fun
@@ -746,7 +742,6 @@
 .dns.shecan.ir
 .free.shecan.ir
 .pro.shecan.ir
-.cryptostorm.is
 .dns.flatuslifir.is
 .homenet.telecomitalia.it
 .galileo.math.unipd.it
@@ -786,7 +781,6 @@
 .lagreca2.synology.me
 .siddeus.synology.me
 .woalongit.synology.me
-.doh.aaaab3n.moe
 .dns.vaguthu.mv
 .domain.name
 .doh003.280blocker.net
@@ -932,6 +926,7 @@
 .echoe1yidzu4ioo5.myfritz.net
 .sp1wpdybsw1twq1d.myfritz.net
 .96500b732ed8.sn.mynetname.net
+.hee08mkxk9s.sn.mynetname.net
 .hf009ems6n7.sn.mynetname.net
 .doh-ca.naftalie.net
 .ae-fuj-w-p-1.nashkan.net
@@ -1002,6 +997,7 @@
 .dnscrypt-cert.quad9.net
 .resolver.r0cket.net
 .agh.realwap.net
+.dns.homenet.saschagaspar.net
 .dns.scarx.net
 .dns.sindominio.net
 .clientdns3.softcom.net

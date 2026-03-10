@@ -1,6 +1,6 @@
 [Adblock Plus 1.1]
 ! Title: Accomplist "Doh" AdBlock List (Top-N Version)
-! Version: 1773039732
+! Version: 1773127327
 ! Homepage: https://github.com/cbuijs/accomplist/tree/master/doh
 !
 ! WhiteList Domains:
@@ -153,7 +153,7 @@
 ||irrelevant.cc^
 ||bt.luoo.cc^
 ||maxfong.cc^
-||dns.mytest.cc^
+||mytest.cc^
 ||dns.niccoli.cc^
 ||dns.nonomi.cc^
 ||doh.plop.cc^
@@ -1691,6 +1691,7 @@
 ||cynntex.fun^
 ||dupatruwi22.fun^
 ||dns.f4a.fun^
+||inoainoa.fun^
 ||jcdns.fun^
 ||kekv.fun^
 ||x.laoban.fun^
@@ -2100,7 +2101,7 @@
 ||ns2.hjk.me^
 ||jpdns.hker.me^
 ||dns.huas.me^
-||pppoe1.jamex.me^
+||nas.jamex.me^
 ||jkdns.me^
 ||dns.johndave.me^
 ||agh.josephyap.me^
@@ -2455,6 +2456,7 @@
 ||echoe1yidzu4ioo5.myfritz.net^
 ||sp1wpdybsw1twq1d.myfritz.net^
 ||96500b732ed8.sn.mynetname.net^
+||hee08mkxk9s.sn.mynetname.net^
 ||hf009ems6n7.sn.mynetname.net^
 ||doh-ca.naftalie.net^
 ||ae-fuj-w-p-1.nashkan.net^
@@ -2550,6 +2552,7 @@
 ||dns.sarakas.net^
 ||dns1.sarakas.net^
 ||dns2.sarakas.net^
+||dns.homenet.saschagaspar.net^
 ||dns.scarx.net^
 ||dns.shareworx.net^
 ||adguard.shutgaming.net^
