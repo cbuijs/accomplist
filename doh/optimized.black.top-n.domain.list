@@ -72,7 +72,6 @@ httpdns.music.163.com
 dns.5ososea.com
 family.5ososea.com
 kids.5ososea.com
-dns.7vpn.com
 doh.dns.apple.com.v.aaplimg.com
 doh-dns-apple-com.v.aaplimg.com
 mask-canary.v.aaplimg.com
@@ -998,6 +997,7 @@ dnscrypt-cert.quad9.net
 resolver.r0cket.net
 agh.realwap.net
 dns.homenet.saschagaspar.net
+router.homenet.saschagaspar.net
 dns.scarx.net
 dns.sindominio.net
 clientdns3.softcom.net
@@ -1378,7 +1378,6 @@ nl-ams2.doh.sb
 sg-sin2.doh.sb
 resolver.sunet.se
 privacydns.go6lab.si
-s1.s2.shahramv1.site
 dns.levonet.sk
 dns.p3k.sk
 n1.p3k.sk
@@ -1391,7 +1390,6 @@ moph.go.th
 host8.248.cloudhost.in.th
 dns.koala.us.to
 mcore.us.to
-dns.thiz.top
 doh.ptqy.gitv.tv
 doh.viatech.com.tw
 atelier.alica.idv.tw
