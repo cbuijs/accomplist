@@ -36,6 +36,7 @@
 .dns.simplylinux.ch
 .switch.ch
 .dnsotls.lab.nic.cl
+.farewellkou.click
 .friend.bedro.cloud
 .justhost.bedro.cloud
 .bf961d83-f61a-4753-bfe3-7e039b62395e.pub.instances.scw.cloud
@@ -63,7 +64,6 @@
 .v6.rubyfish.cn
 .paydns.wechatpay.cn
 .dns.weibo.cn
-.adg.meviusberry.hidns.co
 .dns.oszx.co
 .httpdns.c.163.com
 .httpdns.music.163.com
@@ -149,6 +149,7 @@
 .dot-jp.blahdns.com
 .dot-sg.blahdns.com
 .doh.blockerdns.com
+.11776.bodis.com
 .bravedns.com
 .doh.bt.com
 .httpdns-volc.byte008.com
@@ -359,6 +360,10 @@
 .bce-httpsdns.n.shifen.com
 .httpdns.n.shifen.com
 .httpsdns.n.shifen.com
+.dnsovertls.sinodun.com
+.dnsovertls1.sinodun.com
+.dnsovertls2.sinodun.com
+.dnsovertls3.sinodun.com
 .doh-01.spectrum.com
 .doh-02.spectrum.com
 .doh-03.spectrum.com
@@ -563,6 +568,8 @@
 .dnsforge.de
 .dns.dnshome.de
 .opennic1.eth-services.de
+.dns.ffnw.de
+.resolv01.ffnw.de
 .eime.goip.de
 .dns1.in-berlin.de
 .dns2.in-berlin.de
@@ -749,7 +756,6 @@
 .tk2-404-43267.vs.sakura.ne.jp
 .x210-131-219-118.static.xvps.ne.jp
 .dns.cctld.kg
-.dns.eliv.kr
 .dns.njal.la
 .eth.link
 .adguard.ihatemy.live
@@ -1076,7 +1082,6 @@
 .ldaman.duckdns.org
 .leoadguard.duckdns.org
 .mipelinusa.duckdns.org
-.montmorot.duckdns.org
 .morgenegg.duckdns.org
 .nas1403.duckdns.org
 .naujas123.duckdns.org
