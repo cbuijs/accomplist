@@ -1,6 +1,6 @@
 [Adblock Plus 1.1]
 ! Title: Accomplist "Tlds" AdBlock List (Top-N Version)
-! Version: 1773213899
+! Version: 1773300812
 ! Homepage: https://github.com/cbuijs/accomplist/tree/master/tlds
 !
 ! WhiteList Domains:
@@ -1142,6 +1142,8 @@
 @@||buergerspital.shop^
 ! Sub-domain "chessvibes.shop" unblacklisted from domain "shop"
 @@||chessvibes.shop^
+! Sub-domain "cineorder.shop" unblacklisted from domain "shop"
+@@||cineorder.shop^
 ! Sub-domain "derweinladen.shop" unblacklisted from domain "shop"
 @@||derweinladen.shop^
 ! Sub-domain "domainname.shop" unblacklisted from domain "shop"
