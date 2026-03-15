@@ -28,7 +28,6 @@
 .dns.omada.cafe
 .dns.flymc.cc
 .digitale-gesellschaft.ch
-.doh.immerda.ch
 .eu1.dns.lavate.ch
 .us1.dns.lavate.ch
 .dns.quickline.ch
@@ -291,7 +290,6 @@
 .httpdns.music.ntes53.netease.com
 .nim-httpdns-outsea.ntes53.netease.com
 .nim-lbs-oversea-tmp.ntes53.netease.com
-.dns.niffelen.com
 .adguard.niko-sem.com
 .dnx.niko-sem.com
 .dns1.nordvpn.com
@@ -699,7 +697,6 @@
 .dns.vmath.my.id
 .zapranet.my.id
 .positif4.cross.net.id
-.doh.palapa.net.id
 .homelab.terabit.net.id
 .dns.ningkelle.id
 .dns.pondokngunut.ponpes.id
@@ -707,7 +704,7 @@
 .dns6.web.id
 .dns.engineer.web.id
 .dns.jsd.web.id
-.server.padil.web.id
+.padil.web.id
 .panser.web.id
 .doh.this.web.id
 .doh.iucc.ac.il
@@ -720,6 +717,7 @@
 .static.captnemo.in
 .a-bld.sys-adm.in
 .bld.sys-adm.in
+.bilidon.dnsuser.info
 .integration.dnsteam.globuscs.info
 .preview.dnsteam.globuscs.info
 .staging.dnsteam.globuscs.info
@@ -1474,7 +1472,6 @@
 .adsl.viettel.vn
 .dns.watch
 .dns.brahma.world
-.dns.d94.xyz
 .opennic.i2pd.xyz
 .opennic2.i2pd.xyz
 .crusnik80.co.za
