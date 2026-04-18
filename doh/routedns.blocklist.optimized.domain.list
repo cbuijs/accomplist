@@ -59,7 +59,6 @@
 .kirov.unicom.cloudns.be
 .adguard.veanswart.cloudns.be
 .digitallink.be
-.dns.fifux.be
 .dns.housedenolf.be
 .dns.jimirobaer.be
 .dns1.nielsdb.be
@@ -401,7 +400,6 @@
 .sradg.eastus.cloudapp.azure.com
 .sradg2.eastus.cloudapp.azure.com
 .robin.northcentralus.cloudapp.azure.com
-.kawpad.southeastasia.cloudapp.azure.com
 .ydmaz-docker.southeastasia.cloudapp.azure.com
 .dns.b72.com
 .dns.bai0012.com
@@ -468,7 +466,6 @@
 .dns.chriswservers.com
 .dns.chunghwamc.com
 .oraclejp2.chungyu.com
-.doh.cippapp.com
 .dns.citrahost.com
 .midns.clicinternet.com
 .dns.clickitsolutionsllc.com
@@ -1320,7 +1317,6 @@
 .opennic1.eth-services.de
 .dns.exonip.de
 .farshidhakimy.de
-.dns.fdue.de
 .dns.fehlsprache.de
 .dns.ffnw.de
 .resolv01.ffnw.de
@@ -1772,6 +1768,7 @@
 .agh3.server.my.id
 .dns1.server.my.id
 .dns.velyn.my.id
+.dyn.velyn.my.id
 .dns.vmath.my.id
 .zapranet.my.id
 .positif4.cross.net.id
@@ -2766,7 +2763,6 @@
 .andryk111.duckdns.org
 .andrykarcew.duckdns.org
 .armm.duckdns.org
-.baksabal.duckdns.org
 .blamb.duckdns.org
 .cdzopi.duckdns.org
 .chynik.duckdns.org
@@ -3873,6 +3869,7 @@
 .opennic.i2pd.xyz
 .opennic2.i2pd.xyz
 .ikarosalpha.xyz
+.dns.infosec.xyz
 .dns.itya.xyz
 .ivnkn.xyz
 .tj.jamesxue.xyz
