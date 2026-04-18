@@ -6676,6 +6676,15 @@ db._dns-sd.menu
 lb._dns-sd.menu
 wpad.menu
 wpad.tcp.menu
+autoconfig.merck
+autodiscover.merck
+_autodiscover._tcp.merck
+isatap.merck
+b._dns-sd.merck
+db._dns-sd.merck
+lb._dns-sd.merck
+wpad.merck
+wpad.tcp.merck
 autoconfig.merckmsd
 autodiscover.merckmsd
 _autodiscover._tcp.merckmsd
