@@ -1,6 +1,6 @@
 [Adblock Plus 1.1]
 ! Title: Accomplist "Tlds" AdBlock List (Top-N Version)
-! Version: 1776410379
+! Version: 1776496247
 ! Homepage: https://github.com/cbuijs/accomplist/tree/master/tlds
 !
 ! WhiteList Domains:
@@ -658,6 +658,8 @@
 @@||fastmail.help^
 ! Sub-domain "gorgias.help" unblacklisted from domain "help"
 @@||gorgias.help^
+! Sub-domain "intercom.help" unblacklisted from domain "help"
+@@||intercom.help^
 ! Sub-domain "kustomer.help" unblacklisted from domain "help"
 @@||kustomer.help^
 ! Sub-domain "pixiv.help" unblacklisted from domain "help"
@@ -1537,6 +1539,8 @@
 @@||mianbeian.top^
 ! Sub-domain "nfmirrorcdn.top" unblacklisted from domain "top"
 @@||nfmirrorcdn.top^
+! Sub-domain "noru.top" unblacklisted from domain "top"
+@@||noru.top^
 ! Sub-domain "pegelinux.top" unblacklisted from domain "top"
 @@||pegelinux.top^
 ! Sub-domain "polar.top" unblacklisted from domain "top"
