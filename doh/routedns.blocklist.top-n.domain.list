@@ -90,8 +90,6 @@
 .dns-family.adguard.com
 .dns-unfiltered.adguard.com
 .adguard-dns.com
-.blitz.ahadns.com
-.blitz-setup.ahadns.com
 .dns.akbxr.com
 .resolvers-cn.httpdns.aliyuncs.com.gds.alibabadns.com
 .httpdns-api.aliyuncs.com.gds.alibabadns.com
@@ -233,8 +231,6 @@
 .google-public-dns-b.google.com
 .dot.libredns.gr.com
 .secure.hafnova.com
-.resolver.haringstad.com
-.resolver-eu.haringstad.com
 .httpdns.ocloud.heytapmobi.com
 .httpdns-push.heytapmobile.com
 .httpdns.huaweicloud.com
@@ -723,6 +719,7 @@
 .dns.vmath.my.id
 .zapranet.my.id
 .positif4.cross.net.id
+.doh.palapa.net.id
 .homelab.terabit.net.id
 .dns.ningkelle.id
 .dns.pondokngunut.ponpes.id
@@ -937,7 +934,6 @@
 .gustamadh.dynv6.net
 .dnscache.e-utp.net
 .dns.envs.net
-.doh.ersei.net
 .adguard.exium.net
 .pdns.faelix.net
 .rdns.faelix.net
