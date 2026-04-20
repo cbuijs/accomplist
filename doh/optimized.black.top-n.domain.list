@@ -934,6 +934,7 @@ quangdo92.dynu.net
 gustamadh.dynv6.net
 dnscache.e-utp.net
 dns.envs.net
+doh.ersei.net
 adguard.exium.net
 pdns.faelix.net
 rdns.faelix.net
@@ -1226,6 +1227,12 @@ mypihole.hopto.org
 stroveer.hopto.org
 voyagerz.hopto.org
 hshh.org
+doh.dns1.lonet.org
+doh.phdns1.lonet.org
+doh.phdns2.lonet.org
+doh.phdns3.lonet.org
+doh.phdns4.lonet.org
+doh.phdns5.lonet.org
 area51.mywire.org
 dnsmm.mywire.org
 graf.mywire.org
@@ -1436,12 +1443,14 @@ dns.geohide.ru
 v1552270.hosted-by-vdsina.ru
 vds2380673.my-ihor.ru
 dns.petqa.ru
+lb-gl-ru.petqa.ru
 dns.ronc.ru
 lomoff.spb.ru
 dns0.tardishost.ru
 dns1.tardishost.ru
 dns.vk09.ru
 xbox-dns.ru
+dns.xcapenet.ru
 dns.yandex.ru
 dns.sb
 doh.sb

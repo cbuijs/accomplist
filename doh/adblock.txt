@@ -1,6 +1,6 @@
 [Adblock Plus 1.1]
 ! Title: Accomplist "Doh" AdBlock List (Top-N Version)
-! Version: 1776583897
+! Version: 1776668331
 ! Homepage: https://github.com/cbuijs/accomplist/tree/master/doh
 !
 ! WhiteList Domains:
@@ -290,7 +290,6 @@
 ||cname.netshi.cn^
 ||route.netshi.cn^
 ||doh.p2cdn.cn^
-||dns.quickso.cn^
 ||dns.rubyfish.cn^
 ||ea-dns.rubyfish.cn^
 ||uw-dns.rubyfish.cn^
@@ -982,6 +981,7 @@
 ||bce-httpsdns.n.shifen.com^
 ||httpdns.n.shifen.com^
 ||httpsdns.n.shifen.com^
+||shitblocker.com^
 ||adguard.shoupperuser.com^
 ||dns.silentlybren.com^
 ||dnsovertls.sinodun.com^
@@ -2558,7 +2558,6 @@
 ||test3.adg.siudzinski.net^
 ||test4.adg.siudzinski.net^
 ||dns.slinkyman.net^
-||001.smallnode.net^
 ||home.snow-sugar.net^
 ||clientdns3.softcom.net^
 ||myprivityvpn.softether.net^
@@ -3240,7 +3239,6 @@
 ||frog.dns.qwer.pw^
 ||lion.dns.qwer.pw^
 ||tiger.dns.qwer.pw^
-||raj.pw^
 ||dns.vps.pw^
 ||doh.kekew.racing^
 ||deepblue.labar.re^
@@ -3366,6 +3364,7 @@
 ||dns.pastorov.ru^
 ||wg.pastorov.ru^
 ||dns.petqa.ru^
+||lb-gl-ru.petqa.ru^
 ||door.plasmadancer.ru^
 ||dns.ploshadi.ru^
 ||dns.polarwinds.ru^
