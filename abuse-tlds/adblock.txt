@@ -1,6 +1,6 @@
 [Adblock Plus 1.1]
 ! Title: Accomplist "Tlds" AdBlock List (Top-N Version)
-! Version: 1776583583
+! Version: 1776668035
 ! Homepage: https://github.com/cbuijs/accomplist/tree/master/tlds
 !
 ! WhiteList Domains:
@@ -174,6 +174,8 @@
 @@||nabu.casa^
 ! Sub-domain "doe.cash" unblacklisted from domain "cash"
 @@||doe.cash^
+! Sub-domain "redtiger.cash" unblacklisted from domain "cash"
+@@||redtiger.cash^
 ! Sub-domain "10gen.cc" unblacklisted from domain "cc"
 @@||10gen.cc^
 ! Sub-domain "adguard-vpn.cc" unblacklisted from domain "cc"
@@ -530,6 +532,8 @@
 @@||cdn.fun^
 ! Sub-domain "chinaq.fun" unblacklisted from domain "fun"
 @@||chinaq.fun^
+! Sub-domain "disasterpr.fun" unblacklisted from domain "fun"
+@@||disasterpr.fun^
 ! Sub-domain "enza.fun" unblacklisted from domain "fun"
 @@||enza.fun^
 ! Sub-domain "neal.fun" unblacklisted from domain "fun"
@@ -1237,6 +1241,8 @@
 @@||oxiline.shop^
 ! Sub-domain "prohibited.shop" unblacklisted from domain "shop"
 @@||prohibited.shop^
+! Sub-domain "scayle.shop" unblacklisted from domain "shop"
+@@||scayle.shop^
 ! Sub-domain "schweden.shop" unblacklisted from domain "shop"
 @@||schweden.shop^
 ! Sub-domain "scorpions.shop" unblacklisted from domain "shop"
