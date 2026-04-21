@@ -7842,6 +7842,7 @@
 .autoconfig.eero-stage.online
 .autoconfig.opentunnel.xyz
 .autoconfig.antagonist.cloud
+.autoconfig.claude.app
 .autoconfig.apigee.io
 .autoconfig.panel.dev
 .autoconfig.siiites.com
@@ -8889,8 +8890,6 @@
 .autoconfig.cloudfunctions.net
 .autoconfig.goupile.fr
 .autoconfig.pymnt.uk
-.autoconfig.cloudapps.digital
-.autoconfig.london.cloudapps.digital
 .autoconfig.gov.nl
 .autoconfig.grafana-dev.net
 .autoconfig.grayjayleagues.com
@@ -18039,6 +18038,7 @@
 ._autodiscover.eero-stage.online
 ._autodiscover.opentunnel.xyz
 ._autodiscover.antagonist.cloud
+._autodiscover.claude.app
 ._autodiscover.apigee.io
 ._autodiscover.panel.dev
 ._autodiscover.siiites.com
@@ -19086,8 +19086,6 @@
 ._autodiscover.cloudfunctions.net
 ._autodiscover.goupile.fr
 ._autodiscover.pymnt.uk
-._autodiscover.cloudapps.digital
-._autodiscover.london.cloudapps.digital
 ._autodiscover.gov.nl
 ._autodiscover.grafana-dev.net
 ._autodiscover.grayjayleagues.com
@@ -28236,6 +28234,7 @@
 .autodiscover.eero-stage.online
 .autodiscover.opentunnel.xyz
 .autodiscover.antagonist.cloud
+.autodiscover.claude.app
 .autodiscover.apigee.io
 .autodiscover.panel.dev
 .autodiscover.siiites.com
@@ -29283,8 +29282,6 @@
 .autodiscover.cloudfunctions.net
 .autodiscover.goupile.fr
 .autodiscover.pymnt.uk
-.autodiscover.cloudapps.digital
-.autodiscover.london.cloudapps.digital
 .autodiscover.gov.nl
 .autodiscover.grafana-dev.net
 .autodiscover.grayjayleagues.com
@@ -38433,6 +38430,7 @@
 .b._dns-sd.eero-stage.online
 .b._dns-sd.opentunnel.xyz
 .b._dns-sd.antagonist.cloud
+.b._dns-sd.claude.app
 .b._dns-sd.apigee.io
 .b._dns-sd.panel.dev
 .b._dns-sd.siiites.com
@@ -39480,8 +39478,6 @@
 .b._dns-sd.cloudfunctions.net
 .b._dns-sd.goupile.fr
 .b._dns-sd.pymnt.uk
-.b._dns-sd.cloudapps.digital
-.b._dns-sd.london.cloudapps.digital
 .b._dns-sd.gov.nl
 .b._dns-sd.grafana-dev.net
 .b._dns-sd.grayjayleagues.com
@@ -48630,6 +48626,7 @@
 .db._dns-sd.eero-stage.online
 .db._dns-sd.opentunnel.xyz
 .db._dns-sd.antagonist.cloud
+.db._dns-sd.claude.app
 .db._dns-sd.apigee.io
 .db._dns-sd.panel.dev
 .db._dns-sd.siiites.com
@@ -49677,8 +49674,6 @@
 .db._dns-sd.cloudfunctions.net
 .db._dns-sd.goupile.fr
 .db._dns-sd.pymnt.uk
-.db._dns-sd.cloudapps.digital
-.db._dns-sd.london.cloudapps.digital
 .db._dns-sd.gov.nl
 .db._dns-sd.grafana-dev.net
 .db._dns-sd.grayjayleagues.com
@@ -58827,6 +58822,7 @@
 .isatap.eero-stage.online
 .isatap.opentunnel.xyz
 .isatap.antagonist.cloud
+.isatap.claude.app
 .isatap.apigee.io
 .isatap.panel.dev
 .isatap.siiites.com
@@ -59874,8 +59870,6 @@
 .isatap.cloudfunctions.net
 .isatap.goupile.fr
 .isatap.pymnt.uk
-.isatap.cloudapps.digital
-.isatap.london.cloudapps.digital
 .isatap.gov.nl
 .isatap.grafana-dev.net
 .isatap.grayjayleagues.com
@@ -69024,6 +69018,7 @@
 .lb._dns-sd.eero-stage.online
 .lb._dns-sd.opentunnel.xyz
 .lb._dns-sd.antagonist.cloud
+.lb._dns-sd.claude.app
 .lb._dns-sd.apigee.io
 .lb._dns-sd.panel.dev
 .lb._dns-sd.siiites.com
@@ -70071,8 +70066,6 @@
 .lb._dns-sd.cloudfunctions.net
 .lb._dns-sd.goupile.fr
 .lb._dns-sd.pymnt.uk
-.lb._dns-sd.cloudapps.digital
-.lb._dns-sd.london.cloudapps.digital
 .lb._dns-sd.gov.nl
 .lb._dns-sd.grafana-dev.net
 .lb._dns-sd.grayjayleagues.com
@@ -79221,6 +79214,7 @@
 .wpad.eero-stage.online
 .wpad.opentunnel.xyz
 .wpad.antagonist.cloud
+.wpad.claude.app
 .wpad.apigee.io
 .wpad.panel.dev
 .wpad.siiites.com
@@ -80268,8 +80262,6 @@
 .wpad.cloudfunctions.net
 .wpad.goupile.fr
 .wpad.pymnt.uk
-.wpad.cloudapps.digital
-.wpad.london.cloudapps.digital
 .wpad.gov.nl
 .wpad.grafana-dev.net
 .wpad.grayjayleagues.com
@@ -89418,6 +89410,7 @@
 .wpad.tcp.eero-stage.online
 .wpad.tcp.opentunnel.xyz
 .wpad.tcp.antagonist.cloud
+.wpad.tcp.claude.app
 .wpad.tcp.apigee.io
 .wpad.tcp.panel.dev
 .wpad.tcp.siiites.com
@@ -90465,8 +90458,6 @@
 .wpad.tcp.cloudfunctions.net
 .wpad.tcp.goupile.fr
 .wpad.tcp.pymnt.uk
-.wpad.tcp.cloudapps.digital
-.wpad.tcp.london.cloudapps.digital
 .wpad.tcp.gov.nl
 .wpad.tcp.grafana-dev.net
 .wpad.tcp.grayjayleagues.com
