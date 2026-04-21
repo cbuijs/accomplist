@@ -1,6 +1,6 @@
 [Adblock Plus 1.1]
 ! Title: Accomplist "Tlds" AdBlock List (Top-N Version)
-! Version: 1776668035
+! Version: 1776756118
 ! Homepage: https://github.com/cbuijs/accomplist/tree/master/tlds
 !
 ! WhiteList Domains:
@@ -700,6 +700,8 @@
 @@||shrinkme.ink^
 ! Sub-domain "simple.ink" unblacklisted from domain "ink"
 @@||simple.ink^
+! Sub-domain "spaceforce.ink" unblacklisted from domain "ink"
+@@||spaceforce.ink^
 ! Sub-domain "sumerian.ink" unblacklisted from domain "ink"
 @@||sumerian.ink^
 ! Sub-domain "work.ink" unblacklisted from domain "ink"
