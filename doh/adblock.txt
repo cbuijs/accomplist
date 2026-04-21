@@ -1,6 +1,6 @@
 [Adblock Plus 1.1]
 ! Title: Accomplist "Doh" AdBlock List (Top-N Version)
-! Version: 1776668331
+! Version: 1776756428
 ! Homepage: https://github.com/cbuijs/accomplist/tree/master/doh
 !
 ! WhiteList Domains:
@@ -249,7 +249,6 @@
 ||qrtz.club^
 ||apne1.dns.terumi.club^
 ||dns.soldier.terumi.club^
-||woodbridge.club^
 ||doh.18bit.cn^
 ||doh.360.cn^
 ||dot.360.cn^
@@ -2527,6 +2526,7 @@
 ||dns.powerbs.net^
 ||home.qbak.net^
 ||hostdare.qtxd.net^
+||alpha-dns.quad9.net^
 ||dns.quad9.net^
 ||dns-nosec.quad9.net^
 ||dns10.quad9.net^
@@ -3536,6 +3536,7 @@
 ||doh.post-factum.tk^
 ||dns.readlook.tk^
 ||ag.teqilla.tk^
+||cloud.vinokurov.tk^
 ||dns.vinokurov.tk^
 ||dns.koala.us.to^
 ||mcore.us.to^

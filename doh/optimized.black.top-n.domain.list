@@ -24,8 +24,6 @@ doh.datahata.by
 canadianshield.cira.ca
 dns1.dnscrypt.ca
 dns2.dnscrypt.ca
-ag.ff0x.ca
-pangolin.ff0x.ca
 dns.omada.cafe
 chuncheon.dnsovertor.cc
 japan.dnsovertor.cc
@@ -189,6 +187,7 @@ rafal.ddnsgeek.com
 dns.decloudus.com
 dns.dev-umbrellagov.com
 home.dlinkddns.com
+dns.dns-over-https.com
 ns1.recursive.dnsbycomodo.com
 ns2.recursive.dnsbycomodo.com
 dnscrypt-cert.shield-2.dnsbycomodo.com
@@ -690,7 +689,6 @@ dns.unpak.ac.id
 dns-lb.unpak.ac.id
 woc.beelstb.biz.id
 dns.gi.co.id
-dns.furina.id
 d.apemlegit.my.id
 be2aja.my.id
 dns.fadhilyori.my.id
@@ -719,7 +717,6 @@ dyn.velyn.my.id
 dns.vmath.my.id
 zapranet.my.id
 positif4.cross.net.id
-doh.palapa.net.id
 homelab.terabit.net.id
 dns.ningkelle.id
 dns.pondokngunut.ponpes.id
@@ -1043,6 +1040,7 @@ dns.uk-london-1.oci.oraclecloud.net
 dns.us-ashburn-1.oci.oraclecloud.net
 dns.us-phoenix-1.oci.oraclecloud.net
 rpz-public-resolver1.rrdns.pch.net
+alpha-dns.quad9.net
 dns.quad9.net
 dns-nosec.quad9.net
 dns10.quad9.net
@@ -1104,7 +1102,6 @@ ns2.4netguides.org
 vir.accesscam.org
 doh.archuser.org
 nsec.arnor.org
-dns.artikel10.org
 dns.blokada.org
 radia.bortzmeyer.org
 cleanbrowsing.org
