@@ -1,6 +1,6 @@
 [Adblock Plus 1.1]
 ! Title: Accomplist "Tlds" AdBlock List (Top-N Version)
-! Version: 1776756118
+! Version: 1776915792
 ! Homepage: https://github.com/cbuijs/accomplist/tree/master/tlds
 !
 ! WhiteList Domains:
@@ -232,6 +232,8 @@
 @@||postimg.cc^
 ! Sub-domain "ppt.cc" unblacklisted from domain "cc"
 @@||ppt.cc^
+! Sub-domain "pravatar.cc" unblacklisted from domain "cc"
+@@||pravatar.cc^
 ! Sub-domain "pretendo.cc" unblacklisted from domain "cc"
 @@||pretendo.cc^
 ! Sub-domain "ptt.cc" unblacklisted from domain "cc"
@@ -419,6 +421,8 @@
 @@||push.delivery^
 ! Sub-domain "return-my.delivery" unblacklisted from domain "delivery"
 @@||return-my.delivery^
+! Sub-domain "wedos.delivery" unblacklisted from domain "delivery"
+@@||wedos.delivery^
 ! Sub-domain "ze.delivery" unblacklisted from domain "delivery"
 @@||ze.delivery^
 ! Sub-domain "clear.dental" unblacklisted from domain "dental"
@@ -479,6 +483,8 @@
 @@||octopus.energy^
 ! Sub-domain "biqu.equipment" unblacklisted from domain "equipment"
 @@||biqu.equipment^
+! Sub-domain "lyyti.events" unblacklisted from domain "events"
+@@||lyyti.events^
 ! Sub-domain "ticketco.events" unblacklisted from domain "events"
 @@||ticketco.events^
 ! Sub-domain "infosec.exchange" unblacklisted from domain "exchange"
@@ -960,6 +966,8 @@
 @@||bebraver.online^
 ! Sub-domain "blink.online" unblacklisted from domain "online"
 @@||blink.online^
+! Sub-domain "cf-equality.online" unblacklisted from domain "online"
+@@||cf-equality.online^
 ! Sub-domain "dancewave.online" unblacklisted from domain "online"
 @@||dancewave.online^
 ! Sub-domain "discuss.online" unblacklisted from domain "online"
@@ -1091,6 +1099,8 @@
 @@||leaflet.pub^
 ! Sub-domain "lunar.pub" unblacklisted from domain "pub"
 @@||lunar.pub^
+! Sub-domain "outpost.pub" unblacklisted from domain "pub"
+@@||outpost.pub^
 ! Sub-domain "soapbox.pub" unblacklisted from domain "pub"
 @@||soapbox.pub^
 ! Sub-domain "static.pub" unblacklisted from domain "pub"
@@ -1221,6 +1231,8 @@
 @@||henssler.shop^
 ! Sub-domain "kalypso.shop" unblacklisted from domain "shop"
 @@||kalypso.shop^
+! Sub-domain "layers.shop" unblacklisted from domain "shop"
+@@||layers.shop^
 ! Sub-domain "majblomman.shop" unblacklisted from domain "shop"
 @@||majblomman.shop^
 ! Sub-domain "munu.shop" unblacklisted from domain "shop"
@@ -1753,6 +1765,8 @@
 @@||nostr.wine^
 ! Sub-domain "doesmycode.work" unblacklisted from domain "work"
 @@||doesmycode.work^
+! Sub-domain "dood.work" unblacklisted from domain "work"
+@@||dood.work^
 ! Sub-domain "elphago.work" unblacklisted from domain "work"
 @@||elphago.work^
 ! Sub-domain "frame.work" unblacklisted from domain "work"
