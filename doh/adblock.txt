@@ -1,6 +1,6 @@
 [Adblock Plus 1.1]
 ! Title: Accomplist "Doh" AdBlock List (Top-N Version)
-! Version: 1776848130
+! Version: 1776916057
 ! Homepage: https://github.com/cbuijs/accomplist/tree/master/doh
 !
 ! WhiteList Domains:
@@ -292,7 +292,6 @@
 ||dns.rubyfish.cn^
 ||ea-dns.rubyfish.cn^
 ||uw-dns.rubyfish.cn^
-||v6.rubyfish.cn^
 ||us.sc92.cn^
 ||dns.tefuir0829.cn^
 ||paydns.wechatpay.cn^
@@ -571,8 +570,6 @@
 ||twingatedns.dr3ff1c13nt.com^
 ||dvgarm.com^
 ||roucious.dyndns-remote.com^
-||resolver1.dyndnsinternetguide.com^
-||resolver2.dyndnsinternetguide.com^
 ||rafi.dynns.com^
 ||saomai.dynu.com^
 ||safe.eaccelera.com^

@@ -31,7 +31,6 @@ doh.datahata.by
 dns.npe.bz
 canadianshield.cira.ca
 dns1.dnscrypt.ca
-dns2.dnscrypt.ca
 ag.ff0x.ca
 adguard.jfchenier.ca
 dot.tooli.ca
@@ -91,7 +90,6 @@ ea-dns.rubyfish.cn
 uw-dns.rubyfish.cn
 dns.zzuhacker.cn
 mailkyb.co
-dns.oszx.co
 dns.tipsy.coffee
 dns.13evl.com
 dns.7vpn.com
@@ -192,6 +190,7 @@ biying.flymlc.com
 dns.gamban.com
 gclouddns.com
 sdns22.gkonuralp.com
+dns.glorydns.com
 doh-primary-pool.goodbyegambling.com
 dns.google.com
 google-public-dns-a.google.com
@@ -269,10 +268,6 @@ dns.us-ashburn-1.oraclecloud.com
 dns.us-phoenix-1.oraclecloud.com
 pashagame456.com
 dns.pesaventofilippo.com
-doh.centraleu.pi-dns.com
-doh.eastus.pi-dns.com
-doh.northeu.pi-dns.com
-doh.westus.pi-dns.com
 helios.plan9-dns.com
 kronos.plan9-dns.com
 pluton.plan9-dns.com
@@ -451,8 +446,6 @@ protective.joindns4.eu
 unfiltered.joindns4.eu
 dns1.klcd.eu
 dns2.klcd.eu
-ads-doh.securedns.eu
-doh.securedns.eu
 dns.skrep.eu
 unasw.eu
 zougloub.eu
@@ -460,7 +453,6 @@ dns.expert
 dns.connect.fail
 dns.christerwaren.fi
 lastentarvike.fi
-resolver-eu.lelux.fi
 ns.trcnet.fi
 doh.42l.fr
 dns.aquilenet.fr
@@ -678,10 +670,7 @@ syd.adfilter.net
 affcdn.net
 ahadns.net
 adguard.ajinga.net
-dns.alekberg.net
-dns2.alekberg.net
 dnsnl.alekberg.net
-dnsse.alekberg.net
 doh.appliedprivacy.net
 dot1.appliedprivacy.net
 doh.armadillodns.net
@@ -899,7 +888,6 @@ dns.colorfreedom.org
 dns.csswg.org
 dns8.org
 ns1.dotls.org
-home27.duckdns.org
 jurre-home.duckdns.org
 krtekvpn.duckdns.org
 punono.duckdns.org
@@ -940,7 +928,6 @@ rumpelsepp.org
 dns2.saferbfc.org
 dns.scuola.org
 dns.silen.org
-fi.doh.dns.snopyta.org
 spacedns.org
 dns.stormycloud.org
 doh.suche.org
@@ -1225,7 +1212,6 @@ hole.elbschloss.xyz
 fra1.eyecay.xyz
 dns.f97.xyz
 performance.gosami.xyz
-jp.gridns.xyz
 opennic.i2pd.xyz
 opennic2.i2pd.xyz
 ikarosalpha.xyz
