@@ -1,6 +1,6 @@
 [Adblock Plus 1.1]
 ! Title: Accomplist "Tlds" AdBlock List (Top-N Version)
-! Version: 1776915792
+! Version: 1777004075
 ! Homepage: https://github.com/cbuijs/accomplist/tree/master/tlds
 !
 ! WhiteList Domains:
@@ -170,12 +170,16 @@
 @@||scalable.capital^
 ! Sub-domain "commonspirit.careers" unblacklisted from domain "careers"
 @@||commonspirit.careers^
+! Sub-domain "keys.casa" unblacklisted from domain "casa"
+@@||keys.casa^
 ! Sub-domain "nabu.casa" unblacklisted from domain "casa"
 @@||nabu.casa^
 ! Sub-domain "doe.cash" unblacklisted from domain "cash"
 @@||doe.cash^
 ! Sub-domain "redtiger.cash" unblacklisted from domain "cash"
 @@||redtiger.cash^
+! Sub-domain "vitunleija.cash" unblacklisted from domain "cash"
+@@||vitunleija.cash^
 ! Sub-domain "10gen.cc" unblacklisted from domain "cc"
 @@||10gen.cc^
 ! Sub-domain "adguard-vpn.cc" unblacklisted from domain "cc"
@@ -1527,6 +1531,8 @@
 @@||applefans.today^
 ! Sub-domain "archive.today" unblacklisted from domain "today"
 @@||archive.today^
+! Sub-domain "eventz.today" unblacklisted from domain "today"
+@@||eventz.today^
 ! Sub-domain "futurology.today" unblacklisted from domain "today"
 @@||futurology.today^
 ! Sub-domain "lemmy.today" unblacklisted from domain "today"
@@ -1765,8 +1771,6 @@
 @@||nostr.wine^
 ! Sub-domain "doesmycode.work" unblacklisted from domain "work"
 @@||doesmycode.work^
-! Sub-domain "dood.work" unblacklisted from domain "work"
-@@||dood.work^
 ! Sub-domain "elphago.work" unblacklisted from domain "work"
 @@||elphago.work^
 ! Sub-domain "frame.work" unblacklisted from domain "work"
