@@ -100,7 +100,7 @@
 .resolvers-cn.httpdns.aliyuncs.com
 .httpdns-api.aliyuncs.com
 .httpdns-sc.aliyuncs.com
-.ops-httpdns.aliyuncs.com
+.eu6-et2.ops-httpdns.aliyuncs.com
 .popunify-4.aliyuncs.com
 .ga-bp1x5hjt57jh3adltd1si.aliyunga0019.com
 .dns.alvosec.com
@@ -326,20 +326,6 @@
 .19a8b89bb6b2491ca5cccbeb0e84a4c4.pacloudflare.com
 .90c3f3bd03394bebaa20741314cef947.pacloudflare.com
 .dff029179c4246e385296ea8de0b8eb8.pacloudflare.com
-.doh.centraleu.pi-dns.com
-.dot.centraleu.pi-dns.com
-.doh.pi-dns.com
-.doh.eastas.pi-dns.com
-.dot.eastas.pi-dns.com
-.doh.eastau.pi-dns.com
-.dot.eastau.pi-dns.com
-.doh.eastus.pi-dns.com
-.dot.eastus.pi-dns.com
-.doh.northeu.pi-dns.com
-.dot.northeu.pi-dns.com
-.doh.westeu.pi-dns.com
-.doh.westus.pi-dns.com
-.dot.westus.pi-dns.com
 .helios.plan9-dns.com
 .kronos.plan9-dns.com
 .pluton.plan9-dns.com
@@ -927,7 +913,6 @@
 .adguard.ekhozie.dynu.net
 .flyloadguard.dynu.net
 .quangdo92.dynu.net
-.gustamadh.dynv6.net
 .dnscache.e-utp.net
 .dns.envs.net
 .doh.ersei.net

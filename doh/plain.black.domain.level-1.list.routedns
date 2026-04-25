@@ -1001,10 +1001,6 @@
 .mainframe.dewed.de
 .fdns1.dismail.de
 .fdns2.dismail.de
-.dns1.dns-ga.de
-.dns2.dns-ga.de
-.dns3.dns-ga.de
-.doh.dns-ga.de
 .adguard-koe.dns64.de
 .srv01.dns64.de
 .srv02.dns64.de
@@ -1684,7 +1680,6 @@
 .secure.anudeep.me
 .dns.axto.me
 .dns.b612.me
-.mydns.bielperes.me
 .bluemood.me
 .hk-adg.bluenight.me
 .doh.boje8.me
@@ -1935,7 +1930,6 @@
 .adguard.ekhozie.dynu.net
 .flyloadguard.dynu.net
 .quangdo92.dynu.net
-.gustamadh.dynv6.net
 .dnscache.e-utp.net
 .adguard.easez.net
 .dns.eddi.net
@@ -2958,6 +2952,7 @@
 .amopython.shop
 .hfgx.shop
 .dns.olimpya44.shop
+.paradise-human.shop
 .polisitogel.show
 .privacydns.go6lab.si
 .adguard.marto.si
@@ -3053,7 +3048,6 @@
 .1ee.top
 .adh.51st.top
 .adfreedns.top
-.bubblex2.top
 .catchen121299.top
 .alidns.cb1999.top
 .alidns2.cb1999.top
@@ -3368,7 +3362,6 @@
 .performance.gosami.xyz
 .jp.gridns.xyz
 .sg.gridns.xyz
-.dns.haoxuan.xyz
 .v2-1.huwenqiang.xyz
 .opennic.i2pd.xyz
 .opennic2.i2pd.xyz
@@ -3455,7 +3448,6 @@
 .digitale-gesellschaft.ch
 .dns.quickline.ch
 .metis.sheggi.ch
-.katherine-cloud-ip02.newcore.cl
 .listo.click
 .brono.cloud
 .bf961d83-f61a-4753-bfe3-7e039b62395e.pub.instances.scw.cloud
@@ -3479,7 +3471,7 @@
 .aliyun-adns.aliyun.com.vipgds.alibabadns.com
 .sh.wagbridge.aliyun.aliyun.com
 .aliyun-adns.aliyun.com
-.ops-httpdns.aliyuncs.com
+.eu6-et2.ops-httpdns.aliyuncs.com
 .popunify-4.aliyuncs.com
 .ga-bp1x5hjt57jh3adltd1si.aliyunga0019.com
 .eu-opush-heytapmobile-pubgw-1244993624.eu-west-3.elb.amazonaws.com
