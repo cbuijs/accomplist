@@ -1,6 +1,6 @@
 [Adblock Plus 1.1]
 ! Title: Accomplist "Tlds" AdBlock List (Top-N Version)
-! Version: 1777093035
+! Version: 1777176391
 ! Homepage: https://github.com/cbuijs/accomplist/tree/master/tlds
 !
 ! WhiteList Domains:
@@ -1149,6 +1149,8 @@
 @@||bunkr.red^
 ! Sub-domain "cdprojekt.red" unblacklisted from domain "red"
 @@||cdprojekt.red^
+! Sub-domain "platone.red" unblacklisted from domain "red"
+@@||platone.red^
 ! Sub-domain "sci-hub.red" unblacklisted from domain "red"
 @@||sci-hub.red^
 ! Sub-domain "xvideos.red" unblacklisted from domain "red"
