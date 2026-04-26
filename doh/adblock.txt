@@ -1,6 +1,6 @@
 [Adblock Plus 1.1]
 ! Title: Accomplist "Doh" AdBlock List (Top-N Version)
-! Version: 1777093579
+! Version: 1777176701
 ! Homepage: https://github.com/cbuijs/accomplist/tree/master/doh
 !
 ! WhiteList Domains:
@@ -364,7 +364,7 @@
 ||resolvers-cn.httpdns.aliyuncs.com^
 ||httpdns-api.aliyuncs.com^
 ||httpdns-sc.aliyuncs.com^
-||eu6-et2.ops-httpdns.aliyuncs.com^
+||ops-httpdns.aliyuncs.com^
 ||popunify-4.aliyuncs.com^
 ||ga-bp1x5hjt57jh3adltd1si.aliyunga0019.com^
 ||aliyunhttpdns.com^
@@ -3432,7 +3432,6 @@
 ||amopython.shop^
 ||hfgx.shop^
 ||dns.olimpya44.shop^
-||paradise-human.shop^
 ||polisitogel.show^
 ||privacydns.go6lab.si^
 ||adguard.marto.si^

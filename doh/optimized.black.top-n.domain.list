@@ -86,6 +86,8 @@ dns.adguard.com
 dns-family.adguard.com
 dns-unfiltered.adguard.com
 adguard-dns.com
+blitz.ahadns.com
+blitz-setup.ahadns.com
 dns.akbxr.com
 resolvers-cn.httpdns.aliyuncs.com.gds.alibabadns.com
 httpdns-api.aliyuncs.com.gds.alibabadns.com
@@ -100,7 +102,7 @@ dns.aliyun.com
 resolvers-cn.httpdns.aliyuncs.com
 httpdns-api.aliyuncs.com
 httpdns-sc.aliyuncs.com
-eu6-et2.ops-httpdns.aliyuncs.com
+ops-httpdns.aliyuncs.com
 popunify-4.aliyuncs.com
 ga-bp1x5hjt57jh3adltd1si.aliyunga0019.com
 dns.alvosec.com
@@ -1033,7 +1035,6 @@ dns12.quad9.net
 dns13.quad9.net
 dns9.quad9.net
 dnscrypt-cert.quad9.net
-resolver.r0cket.net
 agh.realwap.net
 dns.scarx.net
 dns.sindominio.net
