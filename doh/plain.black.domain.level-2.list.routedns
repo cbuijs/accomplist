@@ -23,7 +23,6 @@
 .polisitogel.beauty
 .ad.tzockt.beer
 .dns.schlagheck.berlin
-.dns.ovpn.bond
 .dns.7sec.com.br
 .adguard.gbrossi.com.br
 .doh.buzz
@@ -408,7 +407,6 @@
 .dns.blaumer.dev
 .dns.caliph.dev
 .dns.edison42.dev
-.dns.faze.dev
 .dns.hanahira.dev
 .dns.jinwoo.dev
 .pihole.aws.ketan.dev
@@ -933,10 +931,6 @@
 .doh.syshero.org
 .dns1.techeasy.org
 .de.teradns.org
-.ny.teradns.org
-.sg.teradns.org
-.tx.teradns.org
-.uk.teradns.org
 .dns.thebuckners.org
 .blocker.thethorsens.org
 .doh.tiarap.org
@@ -1077,7 +1071,6 @@
 .addns1.m-it.ro
 .zdn.ro
 .dns.quiet.rocks
-.ad.anym0re.ru
 .qual.cuprum.ru
 .adguard.dekonix.ru
 .vd.i81.ru
