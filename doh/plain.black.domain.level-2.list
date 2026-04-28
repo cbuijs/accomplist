@@ -23,10 +23,10 @@ doh.beauty
 polisitogel.beauty
 ad.tzockt.beer
 dns.schlagheck.berlin
+dns.ovpn.bond
 dns.7sec.com.br
 adguard.gbrossi.com.br
 doh.buzz
-doh.datahata.by
 dns.npe.bz
 canadianshield.cira.ca
 dns1.dnscrypt.ca
@@ -189,7 +189,6 @@ biying.flymlc.com
 dns.gamban.com
 gclouddns.com
 sdns22.gkonuralp.com
-dns.glorydns.com
 doh-primary-pool.goodbyegambling.com
 dns.google.com
 google-public-dns-a.google.com
@@ -220,7 +219,6 @@ ad.justincounts.com
 dns.justinnetworkingsolutions.com
 dns.kamilszczepanski.com
 dns.keviland.com
-dns.kugoapps.com
 iterator.lazada.com
 dns.lepilleur.com
 dns.lgprk.com
@@ -271,7 +269,6 @@ helios.plan9-dns.com
 kronos.plan9-dns.com
 pluton.plan9-dns.com
 hydra.plan9-ns1.com
-draco.plan9-ns2.com
 secure-dns.pleumkungz.com
 privacy.plumedns.com
 dns.porteii.com
@@ -407,6 +404,7 @@ bazooki-infra.dev
 dns.blaumer.dev
 dns.caliph.dev
 dns.edison42.dev
+dns.faze.dev
 dns.hanahira.dev
 dns.jinwoo.dev
 pihole.aws.ketan.dev
@@ -585,7 +583,6 @@ dns.njal.la
 doh.li
 tor.vasi.li
 dns.txq.life
-dns-free.link
 eth.link
 adguard.ihatemy.live
 lifeisa.live
@@ -931,6 +928,10 @@ doh.suche.org
 doh.syshero.org
 dns1.techeasy.org
 de.teradns.org
+ny.teradns.org
+sg.teradns.org
+tx.teradns.org
+uk.teradns.org
 dns.thebuckners.org
 blocker.thethorsens.org
 doh.tiarap.org
@@ -1233,7 +1234,6 @@ dns.vaioswolke.xyz
 securedns.vendorvista.xyz
 dns.vinnyp.xyz
 dns.vip-kingstore.xyz
-dns.xwdmw.xyz
 pihole.datamatter.co.za
 dns.oliviertv.co.za
 pooblet.co.za

@@ -127,7 +127,6 @@ europe-west.avastdns.com
 secure.avastdns.com
 sradg.eastus.cloudapp.azure.com
 sradg2.eastus.cloudapp.azure.com
-robin.northcentralus.cloudapp.azure.com
 ydmaz-docker.southeastasia.cloudapp.azure.com
 httpdns.baidu.com
 httpsdns.baidu.com
@@ -1215,6 +1214,12 @@ mypihole.hopto.org
 stroveer.hopto.org
 voyagerz.hopto.org
 hshh.org
+doh.dns1.lonet.org
+doh.phdns1.lonet.org
+doh.phdns2.lonet.org
+doh.phdns3.lonet.org
+doh.phdns4.lonet.org
+doh.phdns5.lonet.org
 area51.mywire.org
 dnsmm.mywire.org
 graf.mywire.org
@@ -1517,6 +1522,8 @@ adsl.viettel.vn
 dns.watch
 dns.brahma.world
 123000123.xyz
+opennic.i2pd.xyz
+opennic2.i2pd.xyz
 crusnik80.co.za
 adg.datamatter.co.za
 pihole.datamatter.co.za

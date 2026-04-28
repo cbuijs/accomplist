@@ -1,6 +1,6 @@
 [Adblock Plus 1.1]
 ! Title: Accomplist "Doh" AdBlock List (Top-N Version)
-! Version: 1777264641
+! Version: 1777351969
 ! Homepage: https://github.com/cbuijs/accomplist/tree/master/doh
 !
 ! WhiteList Domains:
@@ -407,7 +407,6 @@
 ||vdsn-nl-2.azatmutq.com^
 ||sradg.eastus.cloudapp.azure.com^
 ||sradg2.eastus.cloudapp.azure.com^
-||robin.northcentralus.cloudapp.azure.com^
 ||ydmaz-docker.southeastasia.cloudapp.azure.com^
 ||dns.b72.com^
 ||dns.bai0012.com^
@@ -964,8 +963,6 @@
 ||dns.scapetical.com^
 ||scayn.com^
 ||schimtar.com^
-||robin.schimtar.com^
-||robin-2.schimtar.com^
 ||scottdylewski.com^
 ||dns.sct-pro.com^
 ||adguard.sealyserver.com^
