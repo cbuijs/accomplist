@@ -27,6 +27,7 @@
 .dns.7sec.com.br
 .adguard.gbrossi.com.br
 .doh.buzz
+.doh.datahata.by
 .dns.npe.bz
 .canadianshield.cira.ca
 .dns1.dnscrypt.ca
@@ -53,7 +54,6 @@
 .doh.quickline.ch
 .dot.quickline.ch
 .dns.sheggi.ch
-.dns.simplylinux.ch
 .adguard.ruby.ci
 .dns.michelo.cl
 .dnsotls.lab.nic.cl
@@ -189,6 +189,7 @@
 .dns.gamban.com
 .gclouddns.com
 .sdns22.gkonuralp.com
+.dns.glorydns.com
 .doh-primary-pool.goodbyegambling.com
 .dns.google.com
 .google-public-dns-a.google.com
@@ -219,6 +220,7 @@
 .dns.justinnetworkingsolutions.com
 .dns.kamilszczepanski.com
 .dns.keviland.com
+.dns.kugoapps.com
 .iterator.lazada.com
 .dns.lepilleur.com
 .dns.lgprk.com
@@ -269,6 +271,7 @@
 .kronos.plan9-dns.com
 .pluton.plan9-dns.com
 .hydra.plan9-ns1.com
+.draco.plan9-ns2.com
 .secure-dns.pleumkungz.com
 .privacy.plumedns.com
 .dns.porteii.com
@@ -583,6 +586,7 @@
 .doh.li
 .tor.vasi.li
 .dns.txq.life
+.dns-free.link
 .eth.link
 .adguard.ihatemy.live
 .lifeisa.live
@@ -633,7 +637,6 @@
 .at.pzhg.me
 .vpsus3.pzhg.me
 .dns.reitmeier.me
-.dns.shimul.me
 .do.shimul.me
 .ibksturm.synology.me
 .ihctw.synology.me
@@ -1234,6 +1237,7 @@
 .securedns.vendorvista.xyz
 .dns.vinnyp.xyz
 .dns.vip-kingstore.xyz
+.dns.xwdmw.xyz
 .pihole.datamatter.co.za
 .dns.oliviertv.co.za
 .pooblet.co.za
