@@ -9876,6 +9876,9 @@
 .autoconfig.co.ua
 .autoconfig.pp.ua
 .autoconfig.as.sh.cn
+.autoconfig.vicp.fun
+.autoconfig.yicp.fun
+.autoconfig.zicp.fun
 .autoconfig.sheezy.games
 .autoconfig.myshopblocks.com
 .autoconfig.myshopify.com
@@ -20079,6 +20082,9 @@
 ._autodiscover.co.ua
 ._autodiscover.pp.ua
 ._autodiscover.as.sh.cn
+._autodiscover.vicp.fun
+._autodiscover.yicp.fun
+._autodiscover.zicp.fun
 ._autodiscover.sheezy.games
 ._autodiscover.myshopblocks.com
 ._autodiscover.myshopify.com
@@ -30282,6 +30288,9 @@
 .autodiscover.co.ua
 .autodiscover.pp.ua
 .autodiscover.as.sh.cn
+.autodiscover.vicp.fun
+.autodiscover.yicp.fun
+.autodiscover.zicp.fun
 .autodiscover.sheezy.games
 .autodiscover.myshopblocks.com
 .autodiscover.myshopify.com
@@ -40485,6 +40494,9 @@
 .b._dns-sd.co.ua
 .b._dns-sd.pp.ua
 .b._dns-sd.as.sh.cn
+.b._dns-sd.vicp.fun
+.b._dns-sd.yicp.fun
+.b._dns-sd.zicp.fun
 .b._dns-sd.sheezy.games
 .b._dns-sd.myshopblocks.com
 .b._dns-sd.myshopify.com
@@ -50688,6 +50700,9 @@
 .db._dns-sd.co.ua
 .db._dns-sd.pp.ua
 .db._dns-sd.as.sh.cn
+.db._dns-sd.vicp.fun
+.db._dns-sd.yicp.fun
+.db._dns-sd.zicp.fun
 .db._dns-sd.sheezy.games
 .db._dns-sd.myshopblocks.com
 .db._dns-sd.myshopify.com
@@ -60891,6 +60906,9 @@
 .isatap.co.ua
 .isatap.pp.ua
 .isatap.as.sh.cn
+.isatap.vicp.fun
+.isatap.yicp.fun
+.isatap.zicp.fun
 .isatap.sheezy.games
 .isatap.myshopblocks.com
 .isatap.myshopify.com
@@ -71094,6 +71112,9 @@
 .lb._dns-sd.co.ua
 .lb._dns-sd.pp.ua
 .lb._dns-sd.as.sh.cn
+.lb._dns-sd.vicp.fun
+.lb._dns-sd.yicp.fun
+.lb._dns-sd.zicp.fun
 .lb._dns-sd.sheezy.games
 .lb._dns-sd.myshopblocks.com
 .lb._dns-sd.myshopify.com
@@ -81297,6 +81318,9 @@
 .wpad.co.ua
 .wpad.pp.ua
 .wpad.as.sh.cn
+.wpad.vicp.fun
+.wpad.yicp.fun
+.wpad.zicp.fun
 .wpad.sheezy.games
 .wpad.myshopblocks.com
 .wpad.myshopify.com
@@ -91500,6 +91524,9 @@
 .wpad.tcp.co.ua
 .wpad.tcp.pp.ua
 .wpad.tcp.as.sh.cn
+.wpad.tcp.vicp.fun
+.wpad.tcp.yicp.fun
+.wpad.tcp.zicp.fun
 .wpad.tcp.sheezy.games
 .wpad.tcp.myshopblocks.com
 .wpad.tcp.myshopify.com
