@@ -1,6 +1,6 @@
 [Adblock Plus 1.1]
 ! Title: Accomplist "Tlds" AdBlock List (Top-N Version)
-! Version: 1782878384
+! Version: 1782965655
 ! Homepage: https://github.com/cbuijs/accomplist/tree/master/tlds
 !
 ! WhiteList Domains:
@@ -1723,12 +1723,16 @@
 @@||18comic.vip^
 ! Sub-domain "liberta.vip" unblacklisted from domain "vip"
 @@||liberta.vip^
+! Sub-domain "nabzclan.vip" unblacklisted from domain "vip"
+@@||nabzclan.vip^
 ! Sub-domain "oldskool.vip" unblacklisted from domain "vip"
 @@||oldskool.vip^
 ! Sub-domain "posh.vip" unblacklisted from domain "vip"
 @@||posh.vip^
 ! Sub-domain "ryde.vip" unblacklisted from domain "vip"
 @@||ryde.vip^
+! Sub-domain "sidelix.vip" unblacklisted from domain "vip"
+@@||sidelix.vip^
 ! Sub-domain "stream.vip" unblacklisted from domain "vip"
 @@||stream.vip^
 ! Sub-domain "trdiziizle.vip" unblacklisted from domain "vip"
@@ -1793,6 +1797,8 @@
 @@||gbf.wiki^
 ! Sub-domain "getindie.wiki" unblacklisted from domain "wiki"
 @@||getindie.wiki^
+! Sub-domain "gta.wiki" unblacklisted from domain "wiki"
+@@||gta.wiki^
 ! Sub-domain "hacktricks.wiki" unblacklisted from domain "wiki"
 @@||hacktricks.wiki^
 ! Sub-domain "hollowknight.wiki" unblacklisted from domain "wiki"
