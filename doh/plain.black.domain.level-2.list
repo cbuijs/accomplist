@@ -67,6 +67,7 @@ adguard.hartley.cloud
 adguard.londonwebnerd.cloud
 regiopolis.cloud
 dns.roedel.cloud
+dns.wibenson.cloud
 dns-1.wil.cloud
 dns-2.wil.cloud
 wyx.cloud
@@ -270,12 +271,16 @@ dot.eastas.pi-dns.com
 doh.eastau.pi-dns.com
 dot.eastau.pi-dns.com
 doh.eastus.pi-dns.com
+dot.eastus.pi-dns.com
 doh.northeu.pi-dns.com
 dot.northeu.pi-dns.com
 doh.westeu.pi-dns.com
+doh.westus.pi-dns.com
+dot.westus.pi-dns.com
 helios.plan9-dns.com
 kronos.plan9-dns.com
 pluton.plan9-dns.com
+draco.plan9-ns2.com
 secure-dns.pleumkungz.com
 privacy.plumedns.com
 dns.porteii.com
@@ -291,6 +296,7 @@ rethinkdns.com
 newd.rezyro.com
 o.rsaikat.com
 agh-yz.russel053.com
+drs.rustsword.com
 dns1.ryan-palmer.com
 safeservedns.com
 cloud.samutz.com
@@ -407,10 +413,12 @@ bazooki-infra.dev
 dns.blaumer.dev
 dns.caliph.dev
 dns.edison42.dev
+dns.faze.dev
 dns.hanahira.dev
 dns.jinwoo.dev
 pihole.aws.ketan.dev
 adg.khon.dev
+adblock.krctech.dev
 dns.molinero.dev
 dns.mrkaran.dev
 renardbleu.dev
@@ -469,8 +477,10 @@ dns.mestdag.fr
 blockerads.multimediaconcept.fr
 rayneau.fr
 dns.sellan.fr
+pates.services.sfr.fr.casepp.sfr.fr
 dns.spirio.fr
 adb-home.xaoimoon.fr
+adfiltro.fun
 dns.auapi.fun
 axaxa.fun
 ag.brianlee.fun
@@ -532,7 +542,6 @@ dns.api.staging.globuscs.info
 dns.api.test.globuscs.info
 kilabit.info
 testaghome.meshkov.info
-dns.olpploiopkuyhiopsfrt.info
 agh.printk.info
 dns.kxy.ink
 dns.tracker.ink
@@ -581,6 +590,7 @@ dns.njal.la
 doh.li
 tor.vasi.li
 dns.txq.life
+dns-free.link
 eth.link
 adguard.ihatemy.live
 lifeisa.live
@@ -591,7 +601,6 @@ greatideasforlife.lol
 johneldenring.lol
 lewsha.lol
 quic.lol
-dns.zui.lol
 doh.domreg.lt
 o1.lt
 dns.ourvau.lt
@@ -653,7 +662,6 @@ resolver3.absolight.net
 adl.adfilter.net
 per.adfilter.net
 syd.adfilter.net
-affcdn.net
 ahadns.net
 adguard.ajinga.net
 dnsnl.alekberg.net
@@ -807,7 +815,6 @@ dns.slinkyman.net
 dns.stevenz.net
 doh.sunoaki.net
 dns1.techniverse.net
-timedns.net
 nsc.torgues.net
 resolv1.trash.net
 resolv2.trash.net
@@ -854,6 +861,7 @@ adguard.abd.ong
 alleesph.online
 dns4eu.online
 inpssh.online
+externalmobiel.lekdijk.online
 dns.mathewakhil.online
 ns2.4netguides.org
 mailer.amlegion.org
@@ -1077,12 +1085,12 @@ polisitogel.show
 adguard.marto.si
 callies-online.site
 dns.l337.site
-dns.labnekotest.site
 tecdrive.site
 dns.levonet.sk
 dns.elemental.software
 dns.cloudtrust.solutions
 dns.b33.space
+adg.rueiliu.space
 dns.sy.st
 home-server.store
 dns.fizz.studio
@@ -1209,6 +1217,7 @@ dns.vaioswolke.xyz
 dns.vinnyp.xyz
 dns.vip-kingstore.xyz
 dns.vod11.xyz
+dns.xwdmw.xyz
 pihole.datamatter.co.za
 dns.oliviertv.co.za
 pooblet.co.za
