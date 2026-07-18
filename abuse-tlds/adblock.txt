@@ -1,6 +1,6 @@
 [Adblock Plus 1.1]
 ! Title: Accomplist "Tlds" AdBlock List (Top-N Version)
-! Version: 1784260347
+! Version: 1784346749
 ! Homepage: https://github.com/cbuijs/accomplist/tree/master/tlds
 !
 ! WhiteList Domains:
@@ -531,8 +531,6 @@
 @@||malware.expert^
 ! Sub-domain "ktr.fan" unblacklisted from domain "fan"
 @@||ktr.fan^
-! Sub-domain "lemmy.fan" unblacklisted from domain "fan"
-@@||lemmy.fan^
 ! Sub-domain "os.fan" unblacklisted from domain "fan"
 @@||os.fan^
 ! Sub-domain "haal.fashion" unblacklisted from domain "fashion"
@@ -1601,8 +1599,6 @@
 @@||encode.su^
 ! Sub-domain "jpg4.su" unblacklisted from domain "su"
 @@||jpg4.su^
-! Sub-domain "jpg6.su" unblacklisted from domain "su"
-@@||jpg6.su^
 ! Sub-domain "promportal.su" unblacklisted from domain "su"
 @@||promportal.su^
 ! Sub-domain "saint2.su" unblacklisted from domain "su"
@@ -1905,8 +1901,6 @@
 @@||nostr.wine^
 ! Sub-domain "doesmycode.work" unblacklisted from domain "work"
 @@||doesmycode.work^
-! Sub-domain "elphago.work" unblacklisted from domain "work"
-@@||elphago.work^
 ! Sub-domain "frame.work" unblacklisted from domain "work"
 @@||frame.work^
 ! Sub-domain "koding.work" unblacklisted from domain "work"
