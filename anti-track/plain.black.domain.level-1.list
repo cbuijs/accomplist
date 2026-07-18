@@ -19072,6 +19072,7 @@ tongji.devjs.cn
 dotserver.douyucdn.cn
 analytic.dreamofice.cn
 analytics-api.dvdfab.cn
+servo-report.dvdfab.cn
 piwik.scnu.edu.cn
 whatismyip.sjtu.edu.cn
 piwik.sysu.edu.cn
@@ -24244,7 +24245,6 @@ zen-marketing-assets.s3-us-west-2.amazonaws.com
 fg8dgt.com.s3-website-us-west-2.amazonaws.com
 kinesis.sa-east-1.amazonaws.com
 logs.sa-east-1.amazonaws.com
-sts.amazonaws.com
 vedia-pixel-nlb-363af1a67298a677.elb.us-east-1.amazonaws.com
 vpc-trk-10d1b1f8032805fc.elb.us-east-1.amazonaws.com
 1s7vmel6xi.execute-api.us-east-1.amazonaws.com
@@ -26044,6 +26044,7 @@ geo-location.appjetty.com
 condition.applause.com
 advertising.apple.com
 advp.apple.com
+analytics-events.apple.com
 api-adservices.apple.com
 appleseed.apple.com
 books-analytics-events.apple.com
@@ -26092,6 +26093,7 @@ lcdn-locator.apple.com
 littlebuddy.apple.com
 metrics.apple.com
 msc-dct-prod.msc.apple.com
+news-analytics-events.apple.com
 news-app-events.apple.com
 news-events.apple.com
 news-notification-events.apple.com
@@ -26101,6 +26103,7 @@ odin-signals.apple.com
 outsideapple.apple.com
 performance-partners.apple.com
 phonesubmissions.apple.com
+podcasts-analytics-events.apple.com
 drupalmetrics.ppg.apple.com
 prd-usw2-requestattribution-iad.apple.com
 privftp.apple.com
@@ -26112,6 +26115,7 @@ securemvt.apple.com
 smoot.apple.com
 stocks-analytics-events.apple.com
 supportmetrics.apple.com
+tv-analytics-events.apple.com
 weather-analytics-events.apple.com
 xp.apple.com
 xp-cdn.apple.com
@@ -102751,7 +102755,6 @@ marketing.wbbrokerage.com
 mail.wbcemails.com
 sanalytics.wbd.com
 analytics.wbgz.com
-wbinsights.com
 marketing.wbm.com
 axp.wboy.com
 blue.wboy.com
@@ -103355,7 +103358,6 @@ whatis.com
 whatismyip.com
 whatismyip-address.com
 whatismyip4.com
-whatismyipaddress.com
 whatismyiplookup.com
 whatismyippro.com
 whatismyipv6address.com
@@ -103441,6 +103443,7 @@ gtm.whiteslumber.com
 load.sgtm.whitesparrow.com
 analytics-api.whitestuff.com
 smetrics.whitewall.com
+marketing.whitewallsolutions.com
 whitewateranalytics.com
 rhino.whitewaterfish.com
 bgsgu.whitleyspeanut.com
@@ -128247,7 +128250,6 @@ stat.sphyvarinen.fi
 stat.spuu.fi
 srv.squaretrade.fi
 mat.sst.fi
-stat.fi
 bhqvmf.staypro.fi
 dc.stenaline.fi
 tr.stepfix.fi
@@ -142504,7 +142506,6 @@ analytics.inre.me
 tzur.intersport.me
 analytics.invitelogger.me
 stats.involve.me
-ip.me
 ip4.me
 ipcheck.me
 ipctx.me
@@ -145325,7 +145326,6 @@ uzkhd.centexautomation.net
 api.centrodaautomacao.net
 sgtm.centrovete.net
 tr.contact.cerel.net
-analytics.certifiedit.net
 umece.certifyme.net
 mahim.certifymeonline.net
 certona.net
@@ -150193,6 +150193,7 @@ ehtelemetrystaging-alias.servicebus.windows.net
 ffg-analyticsk3nvxfne4dp4s.servicebus.windows.net
 hme-live-loganalytics-namespace.servicebus.windows.net
 hme-uat-loganalytics-namespace.servicebus.windows.net
+kg-legacy-analytics.servicebus.windows.net
 licensingtelemetry-prod.servicebus.windows.net
 nexxtv-events.servicebus.windows.net
 ppm-licensingtelemetry.servicebus.windows.net
@@ -154960,6 +154961,7 @@ appnexus.org
 appnexuscloud.org
 tk.apprentis-auteuil.org
 appstreamingnetwork.org
+click.appwonders.org
 statistiques.april.org
 stats.aprime.org
 matomo.apv2.org
