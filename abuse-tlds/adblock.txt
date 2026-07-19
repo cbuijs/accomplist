@@ -1,6 +1,6 @@
 [Adblock Plus 1.1]
 ! Title: Accomplist "Tlds" AdBlock List (Top-N Version)
-! Version: 1784346749
+! Version: 1784433491
 ! Homepage: https://github.com/cbuijs/accomplist/tree/master/tlds
 !
 ! WhiteList Domains:
@@ -174,6 +174,8 @@
 @@||niim.blue^
 ! Sub-domain "spook.boo" unblacklisted from domain "boo"
 @@||spook.boo^
+! Sub-domain "mintlify.builders" unblacklisted from domain "builders"
+@@||mintlify.builders^
 ! Sub-domain "sideb.buzz" unblacklisted from domain "buzz"
 @@||sideb.buzz^
 ! Sub-domain "scalable.capital" unblacklisted from domain "capital"
@@ -1515,6 +1517,8 @@
 @@||dyn.sport^
 ! Sub-domain "adidashardware.store" unblacklisted from domain "store"
 @@||adidashardware.store^
+! Sub-domain "benz.store" unblacklisted from domain "store"
+@@||benz.store^
 ! Sub-domain "beyondagency.store" unblacklisted from domain "store"
 @@||beyondagency.store^
 ! Sub-domain "bigtimerush.store" unblacklisted from domain "store"
