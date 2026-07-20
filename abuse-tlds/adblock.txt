@@ -1,6 +1,6 @@
 [Adblock Plus 1.1]
 ! Title: Accomplist "Tlds" AdBlock List (Top-N Version)
-! Version: 1784433491
+! Version: 1784519050
 ! Homepage: https://github.com/cbuijs/accomplist/tree/master/tlds
 !
 ! WhiteList Domains:
@@ -525,6 +525,8 @@
 @@||infosec.exchange^
 ! Sub-domain "ioc.exchange" unblacklisted from domain "exchange"
 @@||ioc.exchange^
+! Sub-domain "item.exchange" unblacklisted from domain "exchange"
+@@||item.exchange^
 ! Sub-domain "bahn.expert" unblacklisted from domain "expert"
 @@||bahn.expert^
 ! Sub-domain "booking.expert" unblacklisted from domain "expert"
