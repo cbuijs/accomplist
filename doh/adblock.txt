@@ -1,6 +1,6 @@
 [Adblock Plus 1.1]
 ! Title: Accomplist "Doh" AdBlock List (Top-N Version)
-! Version: 1784433761
+! Version: 1784519301
 ! Homepage: https://github.com/cbuijs/accomplist/tree/master/doh
 !
 ! WhiteList Domains:
@@ -710,6 +710,7 @@
 ||kstdownload.com^
 ||hdns.ksyun.com^
 ||hdns.gslb.ksyuncdn.com^
+||dns.xiaoxinhui.cn.w.kunlunpi.com^
 ||mx1.laoxiao789.com^
 ||dns.lauraeguido.com^
 ||adguard.laurenlaufman.com^
@@ -1351,6 +1352,7 @@
 ||adguard.peterge.de^
 ||adguard.pggns.de^
 ||dns.pine-home.de^
+||pmo-home.de^
 ||adguard.ppfeufer.de^
 ||project-evoex.de^
 ||psociety.de^
@@ -2219,6 +2221,7 @@
 ||doh.cox.net^
 ||dot.cox.net^
 ||dohdot.coxlab.net^
+||dns.criena.net^
 ||dns.itsec.crolla.net^
 ||ae-agh1.dns.cryptroute.net^
 ||dns.crystalyx.net^
