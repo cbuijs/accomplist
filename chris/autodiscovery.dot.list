@@ -1264,7 +1264,6 @@
 .autoconfig.xn--trentin-sdtirol-7vb.it
 .autoconfig.trentin-sued-tirol.it
 .autoconfig.trentin-suedtirol.it
-.autoconfig.trentino.it
 .autoconfig.trentino-a-adige.it
 .autoconfig.trentino-aadige.it
 .autoconfig.trentino-alto-adige.it
@@ -1285,7 +1284,6 @@
 .autoconfig.trentinostirol.it
 .autoconfig.trentinosud-tirol.it
 .autoconfig.xn--trentinosd-tirol-rzb.it
-.autoconfig.trentinosudtirol.it
 .autoconfig.xn--trentinosdtirol-7vb.it
 .autoconfig.trentinosued-tirol.it
 .autoconfig.trentinosuedtirol.it
@@ -1301,7 +1299,6 @@
 .autoconfig.val-d-aosta.it
 .autoconfig.val-daosta.it
 .autoconfig.vald-aosta.it
-.autoconfig.valdaosta.it
 .autoconfig.valle-aosta.it
 .autoconfig.valle-d-aosta.it
 .autoconfig.valle-daosta.it
@@ -1337,7 +1334,6 @@
 .autoconfig.aoste.it
 .autoconfig.ap.it
 .autoconfig.aq.it
-.autoconfig.aquila.it
 .autoconfig.ar.it
 .autoconfig.arezzo.it
 .autoconfig.ascoli-piceno.it
@@ -1561,6 +1557,9 @@
 .autoconfig.sp.it
 .autoconfig.sr.it
 .autoconfig.ss.it
+.autoconfig.su.it
+.autoconfig.sud-sardegna.it
+.autoconfig.sudsardegna.it
 .autoconfig.xn--sdtirol-n2a.it
 .autoconfig.suedtirol.it
 .autoconfig.sv.it
@@ -1581,6 +1580,7 @@
 .autoconfig.traniandriabarletta.it
 .autoconfig.tranibarlettaandria.it
 .autoconfig.trapani.it
+.autoconfig.trentino.it
 .autoconfig.trento.it
 .autoconfig.treviso.it
 .autoconfig.trieste.it
@@ -1599,6 +1599,7 @@
 .autoconfig.venezia.it
 .autoconfig.venice.it
 .autoconfig.verbania.it
+.autoconfig.verbano-cusio-ossola.it
 .autoconfig.vercelli.it
 .autoconfig.verona.it
 .autoconfig.vi.it
@@ -7948,9 +7949,6 @@
 .autoconfig.cdn.bubble.io
 .autoconfig.bubbleapps.io
 .autoconfig.bwcloud-os-instance.de
-.autoconfig.uk0.bigv.io
-.autoconfig.dh.bytemark.co.uk
-.autoconfig.vm.bytemark.co.uk
 .autoconfig.cafjs.com
 .autoconfig.canva-apps.cn
 .autoconfig.my.canvasite.cn
@@ -8104,7 +8102,6 @@
 .autoconfig.static-access.net
 .autoconfig.craft.me
 .autoconfig.realm.cz
-.autoconfig.cryptonomic.net
 .autoconfig.cfolks.pl
 .autoconfig.cyon.link
 .autoconfig.cyon.site
@@ -9651,7 +9648,6 @@
 .autoconfig.mmv.kr
 .autoconfig.vki.kr
 .autoconfig.dev.project-study.com
-.autoconfig.protonet.io
 .autoconfig.platter-app.dev
 .autoconfig.e.id
 .autoconfig.chirurgiens-dentistes-en-france.fr
@@ -9740,7 +9736,6 @@
 .autoconfig.repl.run
 .autoconfig.resindevice.io
 .autoconfig.devices.resinstaging.io
-.autoconfig.hzc.io
 .autoconfig.adimo.co.uk
 .autoconfig.itcouldbewor.se
 .autoconfig.aus.basketball
@@ -9993,7 +9988,6 @@
 .autoconfig.indevs.in
 .autoconfig.musician.io
 .autoconfig.novecore.site
-.autoconfig.api.stdlib.com
 .autoconfig.statichost.page
 .autoconfig.feedback.ac
 .autoconfig.forms.ac
@@ -10008,7 +10002,6 @@
 .autoconfig.ipfs.storacha.link
 .autoconfig.ipfs.w3s.link
 .autoconfig.storebase.store
-.autoconfig.storj.farm
 .autoconfig.strapiapp.com
 .autoconfig.media.strapiapp.com
 .autoconfig.vps-host.net
@@ -11512,7 +11505,6 @@
 ._autodiscover.xn--trentin-sdtirol-7vb.it
 ._autodiscover.trentin-sued-tirol.it
 ._autodiscover.trentin-suedtirol.it
-._autodiscover.trentino.it
 ._autodiscover.trentino-a-adige.it
 ._autodiscover.trentino-aadige.it
 ._autodiscover.trentino-alto-adige.it
@@ -11533,7 +11525,6 @@
 ._autodiscover.trentinostirol.it
 ._autodiscover.trentinosud-tirol.it
 ._autodiscover.xn--trentinosd-tirol-rzb.it
-._autodiscover.trentinosudtirol.it
 ._autodiscover.xn--trentinosdtirol-7vb.it
 ._autodiscover.trentinosued-tirol.it
 ._autodiscover.trentinosuedtirol.it
@@ -11549,7 +11540,6 @@
 ._autodiscover.val-d-aosta.it
 ._autodiscover.val-daosta.it
 ._autodiscover.vald-aosta.it
-._autodiscover.valdaosta.it
 ._autodiscover.valle-aosta.it
 ._autodiscover.valle-d-aosta.it
 ._autodiscover.valle-daosta.it
@@ -11585,7 +11575,6 @@
 ._autodiscover.aoste.it
 ._autodiscover.ap.it
 ._autodiscover.aq.it
-._autodiscover.aquila.it
 ._autodiscover.ar.it
 ._autodiscover.arezzo.it
 ._autodiscover.ascoli-piceno.it
@@ -11809,6 +11798,9 @@
 ._autodiscover.sp.it
 ._autodiscover.sr.it
 ._autodiscover.ss.it
+._autodiscover.su.it
+._autodiscover.sud-sardegna.it
+._autodiscover.sudsardegna.it
 ._autodiscover.xn--sdtirol-n2a.it
 ._autodiscover.suedtirol.it
 ._autodiscover.sv.it
@@ -11829,6 +11821,7 @@
 ._autodiscover.traniandriabarletta.it
 ._autodiscover.tranibarlettaandria.it
 ._autodiscover.trapani.it
+._autodiscover.trentino.it
 ._autodiscover.trento.it
 ._autodiscover.treviso.it
 ._autodiscover.trieste.it
@@ -11847,6 +11840,7 @@
 ._autodiscover.venezia.it
 ._autodiscover.venice.it
 ._autodiscover.verbania.it
+._autodiscover.verbano-cusio-ossola.it
 ._autodiscover.vercelli.it
 ._autodiscover.verona.it
 ._autodiscover.vi.it
@@ -18196,9 +18190,6 @@
 ._autodiscover.cdn.bubble.io
 ._autodiscover.bubbleapps.io
 ._autodiscover.bwcloud-os-instance.de
-._autodiscover.uk0.bigv.io
-._autodiscover.dh.bytemark.co.uk
-._autodiscover.vm.bytemark.co.uk
 ._autodiscover.cafjs.com
 ._autodiscover.canva-apps.cn
 ._autodiscover.my.canvasite.cn
@@ -18352,7 +18343,6 @@
 ._autodiscover.static-access.net
 ._autodiscover.craft.me
 ._autodiscover.realm.cz
-._autodiscover.cryptonomic.net
 ._autodiscover.cfolks.pl
 ._autodiscover.cyon.link
 ._autodiscover.cyon.site
@@ -19899,7 +19889,6 @@
 ._autodiscover.mmv.kr
 ._autodiscover.vki.kr
 ._autodiscover.dev.project-study.com
-._autodiscover.protonet.io
 ._autodiscover.platter-app.dev
 ._autodiscover.e.id
 ._autodiscover.chirurgiens-dentistes-en-france.fr
@@ -19988,7 +19977,6 @@
 ._autodiscover.repl.run
 ._autodiscover.resindevice.io
 ._autodiscover.devices.resinstaging.io
-._autodiscover.hzc.io
 ._autodiscover.adimo.co.uk
 ._autodiscover.itcouldbewor.se
 ._autodiscover.aus.basketball
@@ -20241,7 +20229,6 @@
 ._autodiscover.indevs.in
 ._autodiscover.musician.io
 ._autodiscover.novecore.site
-._autodiscover.api.stdlib.com
 ._autodiscover.statichost.page
 ._autodiscover.feedback.ac
 ._autodiscover.forms.ac
@@ -20256,7 +20243,6 @@
 ._autodiscover.ipfs.storacha.link
 ._autodiscover.ipfs.w3s.link
 ._autodiscover.storebase.store
-._autodiscover.storj.farm
 ._autodiscover.strapiapp.com
 ._autodiscover.media.strapiapp.com
 ._autodiscover.vps-host.net
@@ -21760,7 +21746,6 @@
 .autodiscover.xn--trentin-sdtirol-7vb.it
 .autodiscover.trentin-sued-tirol.it
 .autodiscover.trentin-suedtirol.it
-.autodiscover.trentino.it
 .autodiscover.trentino-a-adige.it
 .autodiscover.trentino-aadige.it
 .autodiscover.trentino-alto-adige.it
@@ -21781,7 +21766,6 @@
 .autodiscover.trentinostirol.it
 .autodiscover.trentinosud-tirol.it
 .autodiscover.xn--trentinosd-tirol-rzb.it
-.autodiscover.trentinosudtirol.it
 .autodiscover.xn--trentinosdtirol-7vb.it
 .autodiscover.trentinosued-tirol.it
 .autodiscover.trentinosuedtirol.it
@@ -21797,7 +21781,6 @@
 .autodiscover.val-d-aosta.it
 .autodiscover.val-daosta.it
 .autodiscover.vald-aosta.it
-.autodiscover.valdaosta.it
 .autodiscover.valle-aosta.it
 .autodiscover.valle-d-aosta.it
 .autodiscover.valle-daosta.it
@@ -21833,7 +21816,6 @@
 .autodiscover.aoste.it
 .autodiscover.ap.it
 .autodiscover.aq.it
-.autodiscover.aquila.it
 .autodiscover.ar.it
 .autodiscover.arezzo.it
 .autodiscover.ascoli-piceno.it
@@ -22057,6 +22039,9 @@
 .autodiscover.sp.it
 .autodiscover.sr.it
 .autodiscover.ss.it
+.autodiscover.su.it
+.autodiscover.sud-sardegna.it
+.autodiscover.sudsardegna.it
 .autodiscover.xn--sdtirol-n2a.it
 .autodiscover.suedtirol.it
 .autodiscover.sv.it
@@ -22077,6 +22062,7 @@
 .autodiscover.traniandriabarletta.it
 .autodiscover.tranibarlettaandria.it
 .autodiscover.trapani.it
+.autodiscover.trentino.it
 .autodiscover.trento.it
 .autodiscover.treviso.it
 .autodiscover.trieste.it
@@ -22095,6 +22081,7 @@
 .autodiscover.venezia.it
 .autodiscover.venice.it
 .autodiscover.verbania.it
+.autodiscover.verbano-cusio-ossola.it
 .autodiscover.vercelli.it
 .autodiscover.verona.it
 .autodiscover.vi.it
@@ -28444,9 +28431,6 @@
 .autodiscover.cdn.bubble.io
 .autodiscover.bubbleapps.io
 .autodiscover.bwcloud-os-instance.de
-.autodiscover.uk0.bigv.io
-.autodiscover.dh.bytemark.co.uk
-.autodiscover.vm.bytemark.co.uk
 .autodiscover.cafjs.com
 .autodiscover.canva-apps.cn
 .autodiscover.my.canvasite.cn
@@ -28600,7 +28584,6 @@
 .autodiscover.static-access.net
 .autodiscover.craft.me
 .autodiscover.realm.cz
-.autodiscover.cryptonomic.net
 .autodiscover.cfolks.pl
 .autodiscover.cyon.link
 .autodiscover.cyon.site
@@ -30147,7 +30130,6 @@
 .autodiscover.mmv.kr
 .autodiscover.vki.kr
 .autodiscover.dev.project-study.com
-.autodiscover.protonet.io
 .autodiscover.platter-app.dev
 .autodiscover.e.id
 .autodiscover.chirurgiens-dentistes-en-france.fr
@@ -30236,7 +30218,6 @@
 .autodiscover.repl.run
 .autodiscover.resindevice.io
 .autodiscover.devices.resinstaging.io
-.autodiscover.hzc.io
 .autodiscover.adimo.co.uk
 .autodiscover.itcouldbewor.se
 .autodiscover.aus.basketball
@@ -30489,7 +30470,6 @@
 .autodiscover.indevs.in
 .autodiscover.musician.io
 .autodiscover.novecore.site
-.autodiscover.api.stdlib.com
 .autodiscover.statichost.page
 .autodiscover.feedback.ac
 .autodiscover.forms.ac
@@ -30504,7 +30484,6 @@
 .autodiscover.ipfs.storacha.link
 .autodiscover.ipfs.w3s.link
 .autodiscover.storebase.store
-.autodiscover.storj.farm
 .autodiscover.strapiapp.com
 .autodiscover.media.strapiapp.com
 .autodiscover.vps-host.net
@@ -32008,7 +31987,6 @@
 .b._dns-sd.xn--trentin-sdtirol-7vb.it
 .b._dns-sd.trentin-sued-tirol.it
 .b._dns-sd.trentin-suedtirol.it
-.b._dns-sd.trentino.it
 .b._dns-sd.trentino-a-adige.it
 .b._dns-sd.trentino-aadige.it
 .b._dns-sd.trentino-alto-adige.it
@@ -32029,7 +32007,6 @@
 .b._dns-sd.trentinostirol.it
 .b._dns-sd.trentinosud-tirol.it
 .b._dns-sd.xn--trentinosd-tirol-rzb.it
-.b._dns-sd.trentinosudtirol.it
 .b._dns-sd.xn--trentinosdtirol-7vb.it
 .b._dns-sd.trentinosued-tirol.it
 .b._dns-sd.trentinosuedtirol.it
@@ -32045,7 +32022,6 @@
 .b._dns-sd.val-d-aosta.it
 .b._dns-sd.val-daosta.it
 .b._dns-sd.vald-aosta.it
-.b._dns-sd.valdaosta.it
 .b._dns-sd.valle-aosta.it
 .b._dns-sd.valle-d-aosta.it
 .b._dns-sd.valle-daosta.it
@@ -32081,7 +32057,6 @@
 .b._dns-sd.aoste.it
 .b._dns-sd.ap.it
 .b._dns-sd.aq.it
-.b._dns-sd.aquila.it
 .b._dns-sd.ar.it
 .b._dns-sd.arezzo.it
 .b._dns-sd.ascoli-piceno.it
@@ -32305,6 +32280,9 @@
 .b._dns-sd.sp.it
 .b._dns-sd.sr.it
 .b._dns-sd.ss.it
+.b._dns-sd.su.it
+.b._dns-sd.sud-sardegna.it
+.b._dns-sd.sudsardegna.it
 .b._dns-sd.xn--sdtirol-n2a.it
 .b._dns-sd.suedtirol.it
 .b._dns-sd.sv.it
@@ -32325,6 +32303,7 @@
 .b._dns-sd.traniandriabarletta.it
 .b._dns-sd.tranibarlettaandria.it
 .b._dns-sd.trapani.it
+.b._dns-sd.trentino.it
 .b._dns-sd.trento.it
 .b._dns-sd.treviso.it
 .b._dns-sd.trieste.it
@@ -32343,6 +32322,7 @@
 .b._dns-sd.venezia.it
 .b._dns-sd.venice.it
 .b._dns-sd.verbania.it
+.b._dns-sd.verbano-cusio-ossola.it
 .b._dns-sd.vercelli.it
 .b._dns-sd.verona.it
 .b._dns-sd.vi.it
@@ -38692,9 +38672,6 @@
 .b._dns-sd.cdn.bubble.io
 .b._dns-sd.bubbleapps.io
 .b._dns-sd.bwcloud-os-instance.de
-.b._dns-sd.uk0.bigv.io
-.b._dns-sd.dh.bytemark.co.uk
-.b._dns-sd.vm.bytemark.co.uk
 .b._dns-sd.cafjs.com
 .b._dns-sd.canva-apps.cn
 .b._dns-sd.my.canvasite.cn
@@ -38848,7 +38825,6 @@
 .b._dns-sd.static-access.net
 .b._dns-sd.craft.me
 .b._dns-sd.realm.cz
-.b._dns-sd.cryptonomic.net
 .b._dns-sd.cfolks.pl
 .b._dns-sd.cyon.link
 .b._dns-sd.cyon.site
@@ -40395,7 +40371,6 @@
 .b._dns-sd.mmv.kr
 .b._dns-sd.vki.kr
 .b._dns-sd.dev.project-study.com
-.b._dns-sd.protonet.io
 .b._dns-sd.platter-app.dev
 .b._dns-sd.e.id
 .b._dns-sd.chirurgiens-dentistes-en-france.fr
@@ -40484,7 +40459,6 @@
 .b._dns-sd.repl.run
 .b._dns-sd.resindevice.io
 .b._dns-sd.devices.resinstaging.io
-.b._dns-sd.hzc.io
 .b._dns-sd.adimo.co.uk
 .b._dns-sd.itcouldbewor.se
 .b._dns-sd.aus.basketball
@@ -40737,7 +40711,6 @@
 .b._dns-sd.indevs.in
 .b._dns-sd.musician.io
 .b._dns-sd.novecore.site
-.b._dns-sd.api.stdlib.com
 .b._dns-sd.statichost.page
 .b._dns-sd.feedback.ac
 .b._dns-sd.forms.ac
@@ -40752,7 +40725,6 @@
 .b._dns-sd.ipfs.storacha.link
 .b._dns-sd.ipfs.w3s.link
 .b._dns-sd.storebase.store
-.b._dns-sd.storj.farm
 .b._dns-sd.strapiapp.com
 .b._dns-sd.media.strapiapp.com
 .b._dns-sd.vps-host.net
@@ -42256,7 +42228,6 @@
 .db._dns-sd.xn--trentin-sdtirol-7vb.it
 .db._dns-sd.trentin-sued-tirol.it
 .db._dns-sd.trentin-suedtirol.it
-.db._dns-sd.trentino.it
 .db._dns-sd.trentino-a-adige.it
 .db._dns-sd.trentino-aadige.it
 .db._dns-sd.trentino-alto-adige.it
@@ -42277,7 +42248,6 @@
 .db._dns-sd.trentinostirol.it
 .db._dns-sd.trentinosud-tirol.it
 .db._dns-sd.xn--trentinosd-tirol-rzb.it
-.db._dns-sd.trentinosudtirol.it
 .db._dns-sd.xn--trentinosdtirol-7vb.it
 .db._dns-sd.trentinosued-tirol.it
 .db._dns-sd.trentinosuedtirol.it
@@ -42293,7 +42263,6 @@
 .db._dns-sd.val-d-aosta.it
 .db._dns-sd.val-daosta.it
 .db._dns-sd.vald-aosta.it
-.db._dns-sd.valdaosta.it
 .db._dns-sd.valle-aosta.it
 .db._dns-sd.valle-d-aosta.it
 .db._dns-sd.valle-daosta.it
@@ -42329,7 +42298,6 @@
 .db._dns-sd.aoste.it
 .db._dns-sd.ap.it
 .db._dns-sd.aq.it
-.db._dns-sd.aquila.it
 .db._dns-sd.ar.it
 .db._dns-sd.arezzo.it
 .db._dns-sd.ascoli-piceno.it
@@ -42553,6 +42521,9 @@
 .db._dns-sd.sp.it
 .db._dns-sd.sr.it
 .db._dns-sd.ss.it
+.db._dns-sd.su.it
+.db._dns-sd.sud-sardegna.it
+.db._dns-sd.sudsardegna.it
 .db._dns-sd.xn--sdtirol-n2a.it
 .db._dns-sd.suedtirol.it
 .db._dns-sd.sv.it
@@ -42573,6 +42544,7 @@
 .db._dns-sd.traniandriabarletta.it
 .db._dns-sd.tranibarlettaandria.it
 .db._dns-sd.trapani.it
+.db._dns-sd.trentino.it
 .db._dns-sd.trento.it
 .db._dns-sd.treviso.it
 .db._dns-sd.trieste.it
@@ -42591,6 +42563,7 @@
 .db._dns-sd.venezia.it
 .db._dns-sd.venice.it
 .db._dns-sd.verbania.it
+.db._dns-sd.verbano-cusio-ossola.it
 .db._dns-sd.vercelli.it
 .db._dns-sd.verona.it
 .db._dns-sd.vi.it
@@ -48940,9 +48913,6 @@
 .db._dns-sd.cdn.bubble.io
 .db._dns-sd.bubbleapps.io
 .db._dns-sd.bwcloud-os-instance.de
-.db._dns-sd.uk0.bigv.io
-.db._dns-sd.dh.bytemark.co.uk
-.db._dns-sd.vm.bytemark.co.uk
 .db._dns-sd.cafjs.com
 .db._dns-sd.canva-apps.cn
 .db._dns-sd.my.canvasite.cn
@@ -49096,7 +49066,6 @@
 .db._dns-sd.static-access.net
 .db._dns-sd.craft.me
 .db._dns-sd.realm.cz
-.db._dns-sd.cryptonomic.net
 .db._dns-sd.cfolks.pl
 .db._dns-sd.cyon.link
 .db._dns-sd.cyon.site
@@ -50643,7 +50612,6 @@
 .db._dns-sd.mmv.kr
 .db._dns-sd.vki.kr
 .db._dns-sd.dev.project-study.com
-.db._dns-sd.protonet.io
 .db._dns-sd.platter-app.dev
 .db._dns-sd.e.id
 .db._dns-sd.chirurgiens-dentistes-en-france.fr
@@ -50732,7 +50700,6 @@
 .db._dns-sd.repl.run
 .db._dns-sd.resindevice.io
 .db._dns-sd.devices.resinstaging.io
-.db._dns-sd.hzc.io
 .db._dns-sd.adimo.co.uk
 .db._dns-sd.itcouldbewor.se
 .db._dns-sd.aus.basketball
@@ -50985,7 +50952,6 @@
 .db._dns-sd.indevs.in
 .db._dns-sd.musician.io
 .db._dns-sd.novecore.site
-.db._dns-sd.api.stdlib.com
 .db._dns-sd.statichost.page
 .db._dns-sd.feedback.ac
 .db._dns-sd.forms.ac
@@ -51000,7 +50966,6 @@
 .db._dns-sd.ipfs.storacha.link
 .db._dns-sd.ipfs.w3s.link
 .db._dns-sd.storebase.store
-.db._dns-sd.storj.farm
 .db._dns-sd.strapiapp.com
 .db._dns-sd.media.strapiapp.com
 .db._dns-sd.vps-host.net
@@ -52504,7 +52469,6 @@
 .isatap.xn--trentin-sdtirol-7vb.it
 .isatap.trentin-sued-tirol.it
 .isatap.trentin-suedtirol.it
-.isatap.trentino.it
 .isatap.trentino-a-adige.it
 .isatap.trentino-aadige.it
 .isatap.trentino-alto-adige.it
@@ -52525,7 +52489,6 @@
 .isatap.trentinostirol.it
 .isatap.trentinosud-tirol.it
 .isatap.xn--trentinosd-tirol-rzb.it
-.isatap.trentinosudtirol.it
 .isatap.xn--trentinosdtirol-7vb.it
 .isatap.trentinosued-tirol.it
 .isatap.trentinosuedtirol.it
@@ -52541,7 +52504,6 @@
 .isatap.val-d-aosta.it
 .isatap.val-daosta.it
 .isatap.vald-aosta.it
-.isatap.valdaosta.it
 .isatap.valle-aosta.it
 .isatap.valle-d-aosta.it
 .isatap.valle-daosta.it
@@ -52577,7 +52539,6 @@
 .isatap.aoste.it
 .isatap.ap.it
 .isatap.aq.it
-.isatap.aquila.it
 .isatap.ar.it
 .isatap.arezzo.it
 .isatap.ascoli-piceno.it
@@ -52801,6 +52762,9 @@
 .isatap.sp.it
 .isatap.sr.it
 .isatap.ss.it
+.isatap.su.it
+.isatap.sud-sardegna.it
+.isatap.sudsardegna.it
 .isatap.xn--sdtirol-n2a.it
 .isatap.suedtirol.it
 .isatap.sv.it
@@ -52821,6 +52785,7 @@
 .isatap.traniandriabarletta.it
 .isatap.tranibarlettaandria.it
 .isatap.trapani.it
+.isatap.trentino.it
 .isatap.trento.it
 .isatap.treviso.it
 .isatap.trieste.it
@@ -52839,6 +52804,7 @@
 .isatap.venezia.it
 .isatap.venice.it
 .isatap.verbania.it
+.isatap.verbano-cusio-ossola.it
 .isatap.vercelli.it
 .isatap.verona.it
 .isatap.vi.it
@@ -59188,9 +59154,6 @@
 .isatap.cdn.bubble.io
 .isatap.bubbleapps.io
 .isatap.bwcloud-os-instance.de
-.isatap.uk0.bigv.io
-.isatap.dh.bytemark.co.uk
-.isatap.vm.bytemark.co.uk
 .isatap.cafjs.com
 .isatap.canva-apps.cn
 .isatap.my.canvasite.cn
@@ -59344,7 +59307,6 @@
 .isatap.static-access.net
 .isatap.craft.me
 .isatap.realm.cz
-.isatap.cryptonomic.net
 .isatap.cfolks.pl
 .isatap.cyon.link
 .isatap.cyon.site
@@ -60891,7 +60853,6 @@
 .isatap.mmv.kr
 .isatap.vki.kr
 .isatap.dev.project-study.com
-.isatap.protonet.io
 .isatap.platter-app.dev
 .isatap.e.id
 .isatap.chirurgiens-dentistes-en-france.fr
@@ -60980,7 +60941,6 @@
 .isatap.repl.run
 .isatap.resindevice.io
 .isatap.devices.resinstaging.io
-.isatap.hzc.io
 .isatap.adimo.co.uk
 .isatap.itcouldbewor.se
 .isatap.aus.basketball
@@ -61233,7 +61193,6 @@
 .isatap.indevs.in
 .isatap.musician.io
 .isatap.novecore.site
-.isatap.api.stdlib.com
 .isatap.statichost.page
 .isatap.feedback.ac
 .isatap.forms.ac
@@ -61248,7 +61207,6 @@
 .isatap.ipfs.storacha.link
 .isatap.ipfs.w3s.link
 .isatap.storebase.store
-.isatap.storj.farm
 .isatap.strapiapp.com
 .isatap.media.strapiapp.com
 .isatap.vps-host.net
@@ -62752,7 +62710,6 @@
 .lb._dns-sd.xn--trentin-sdtirol-7vb.it
 .lb._dns-sd.trentin-sued-tirol.it
 .lb._dns-sd.trentin-suedtirol.it
-.lb._dns-sd.trentino.it
 .lb._dns-sd.trentino-a-adige.it
 .lb._dns-sd.trentino-aadige.it
 .lb._dns-sd.trentino-alto-adige.it
@@ -62773,7 +62730,6 @@
 .lb._dns-sd.trentinostirol.it
 .lb._dns-sd.trentinosud-tirol.it
 .lb._dns-sd.xn--trentinosd-tirol-rzb.it
-.lb._dns-sd.trentinosudtirol.it
 .lb._dns-sd.xn--trentinosdtirol-7vb.it
 .lb._dns-sd.trentinosued-tirol.it
 .lb._dns-sd.trentinosuedtirol.it
@@ -62789,7 +62745,6 @@
 .lb._dns-sd.val-d-aosta.it
 .lb._dns-sd.val-daosta.it
 .lb._dns-sd.vald-aosta.it
-.lb._dns-sd.valdaosta.it
 .lb._dns-sd.valle-aosta.it
 .lb._dns-sd.valle-d-aosta.it
 .lb._dns-sd.valle-daosta.it
@@ -62825,7 +62780,6 @@
 .lb._dns-sd.aoste.it
 .lb._dns-sd.ap.it
 .lb._dns-sd.aq.it
-.lb._dns-sd.aquila.it
 .lb._dns-sd.ar.it
 .lb._dns-sd.arezzo.it
 .lb._dns-sd.ascoli-piceno.it
@@ -63049,6 +63003,9 @@
 .lb._dns-sd.sp.it
 .lb._dns-sd.sr.it
 .lb._dns-sd.ss.it
+.lb._dns-sd.su.it
+.lb._dns-sd.sud-sardegna.it
+.lb._dns-sd.sudsardegna.it
 .lb._dns-sd.xn--sdtirol-n2a.it
 .lb._dns-sd.suedtirol.it
 .lb._dns-sd.sv.it
@@ -63069,6 +63026,7 @@
 .lb._dns-sd.traniandriabarletta.it
 .lb._dns-sd.tranibarlettaandria.it
 .lb._dns-sd.trapani.it
+.lb._dns-sd.trentino.it
 .lb._dns-sd.trento.it
 .lb._dns-sd.treviso.it
 .lb._dns-sd.trieste.it
@@ -63087,6 +63045,7 @@
 .lb._dns-sd.venezia.it
 .lb._dns-sd.venice.it
 .lb._dns-sd.verbania.it
+.lb._dns-sd.verbano-cusio-ossola.it
 .lb._dns-sd.vercelli.it
 .lb._dns-sd.verona.it
 .lb._dns-sd.vi.it
@@ -69436,9 +69395,6 @@
 .lb._dns-sd.cdn.bubble.io
 .lb._dns-sd.bubbleapps.io
 .lb._dns-sd.bwcloud-os-instance.de
-.lb._dns-sd.uk0.bigv.io
-.lb._dns-sd.dh.bytemark.co.uk
-.lb._dns-sd.vm.bytemark.co.uk
 .lb._dns-sd.cafjs.com
 .lb._dns-sd.canva-apps.cn
 .lb._dns-sd.my.canvasite.cn
@@ -69592,7 +69548,6 @@
 .lb._dns-sd.static-access.net
 .lb._dns-sd.craft.me
 .lb._dns-sd.realm.cz
-.lb._dns-sd.cryptonomic.net
 .lb._dns-sd.cfolks.pl
 .lb._dns-sd.cyon.link
 .lb._dns-sd.cyon.site
@@ -71139,7 +71094,6 @@
 .lb._dns-sd.mmv.kr
 .lb._dns-sd.vki.kr
 .lb._dns-sd.dev.project-study.com
-.lb._dns-sd.protonet.io
 .lb._dns-sd.platter-app.dev
 .lb._dns-sd.e.id
 .lb._dns-sd.chirurgiens-dentistes-en-france.fr
@@ -71228,7 +71182,6 @@
 .lb._dns-sd.repl.run
 .lb._dns-sd.resindevice.io
 .lb._dns-sd.devices.resinstaging.io
-.lb._dns-sd.hzc.io
 .lb._dns-sd.adimo.co.uk
 .lb._dns-sd.itcouldbewor.se
 .lb._dns-sd.aus.basketball
@@ -71481,7 +71434,6 @@
 .lb._dns-sd.indevs.in
 .lb._dns-sd.musician.io
 .lb._dns-sd.novecore.site
-.lb._dns-sd.api.stdlib.com
 .lb._dns-sd.statichost.page
 .lb._dns-sd.feedback.ac
 .lb._dns-sd.forms.ac
@@ -71496,7 +71448,6 @@
 .lb._dns-sd.ipfs.storacha.link
 .lb._dns-sd.ipfs.w3s.link
 .lb._dns-sd.storebase.store
-.lb._dns-sd.storj.farm
 .lb._dns-sd.strapiapp.com
 .lb._dns-sd.media.strapiapp.com
 .lb._dns-sd.vps-host.net
@@ -73000,7 +72951,6 @@
 .wpad.xn--trentin-sdtirol-7vb.it
 .wpad.trentin-sued-tirol.it
 .wpad.trentin-suedtirol.it
-.wpad.trentino.it
 .wpad.trentino-a-adige.it
 .wpad.trentino-aadige.it
 .wpad.trentino-alto-adige.it
@@ -73021,7 +72971,6 @@
 .wpad.trentinostirol.it
 .wpad.trentinosud-tirol.it
 .wpad.xn--trentinosd-tirol-rzb.it
-.wpad.trentinosudtirol.it
 .wpad.xn--trentinosdtirol-7vb.it
 .wpad.trentinosued-tirol.it
 .wpad.trentinosuedtirol.it
@@ -73037,7 +72986,6 @@
 .wpad.val-d-aosta.it
 .wpad.val-daosta.it
 .wpad.vald-aosta.it
-.wpad.valdaosta.it
 .wpad.valle-aosta.it
 .wpad.valle-d-aosta.it
 .wpad.valle-daosta.it
@@ -73073,7 +73021,6 @@
 .wpad.aoste.it
 .wpad.ap.it
 .wpad.aq.it
-.wpad.aquila.it
 .wpad.ar.it
 .wpad.arezzo.it
 .wpad.ascoli-piceno.it
@@ -73297,6 +73244,9 @@
 .wpad.sp.it
 .wpad.sr.it
 .wpad.ss.it
+.wpad.su.it
+.wpad.sud-sardegna.it
+.wpad.sudsardegna.it
 .wpad.xn--sdtirol-n2a.it
 .wpad.suedtirol.it
 .wpad.sv.it
@@ -73317,6 +73267,7 @@
 .wpad.traniandriabarletta.it
 .wpad.tranibarlettaandria.it
 .wpad.trapani.it
+.wpad.trentino.it
 .wpad.trento.it
 .wpad.treviso.it
 .wpad.trieste.it
@@ -73335,6 +73286,7 @@
 .wpad.venezia.it
 .wpad.venice.it
 .wpad.verbania.it
+.wpad.verbano-cusio-ossola.it
 .wpad.vercelli.it
 .wpad.verona.it
 .wpad.vi.it
@@ -79684,9 +79636,6 @@
 .wpad.cdn.bubble.io
 .wpad.bubbleapps.io
 .wpad.bwcloud-os-instance.de
-.wpad.uk0.bigv.io
-.wpad.dh.bytemark.co.uk
-.wpad.vm.bytemark.co.uk
 .wpad.cafjs.com
 .wpad.canva-apps.cn
 .wpad.my.canvasite.cn
@@ -79840,7 +79789,6 @@
 .wpad.static-access.net
 .wpad.craft.me
 .wpad.realm.cz
-.wpad.cryptonomic.net
 .wpad.cfolks.pl
 .wpad.cyon.link
 .wpad.cyon.site
@@ -81387,7 +81335,6 @@
 .wpad.mmv.kr
 .wpad.vki.kr
 .wpad.dev.project-study.com
-.wpad.protonet.io
 .wpad.platter-app.dev
 .wpad.e.id
 .wpad.chirurgiens-dentistes-en-france.fr
@@ -81476,7 +81423,6 @@
 .wpad.repl.run
 .wpad.resindevice.io
 .wpad.devices.resinstaging.io
-.wpad.hzc.io
 .wpad.adimo.co.uk
 .wpad.itcouldbewor.se
 .wpad.aus.basketball
@@ -81729,7 +81675,6 @@
 .wpad.indevs.in
 .wpad.musician.io
 .wpad.novecore.site
-.wpad.api.stdlib.com
 .wpad.statichost.page
 .wpad.feedback.ac
 .wpad.forms.ac
@@ -81744,7 +81689,6 @@
 .wpad.ipfs.storacha.link
 .wpad.ipfs.w3s.link
 .wpad.storebase.store
-.wpad.storj.farm
 .wpad.strapiapp.com
 .wpad.media.strapiapp.com
 .wpad.vps-host.net
@@ -83248,7 +83192,6 @@
 .wpad.tcp.xn--trentin-sdtirol-7vb.it
 .wpad.tcp.trentin-sued-tirol.it
 .wpad.tcp.trentin-suedtirol.it
-.wpad.tcp.trentino.it
 .wpad.tcp.trentino-a-adige.it
 .wpad.tcp.trentino-aadige.it
 .wpad.tcp.trentino-alto-adige.it
@@ -83269,7 +83212,6 @@
 .wpad.tcp.trentinostirol.it
 .wpad.tcp.trentinosud-tirol.it
 .wpad.tcp.xn--trentinosd-tirol-rzb.it
-.wpad.tcp.trentinosudtirol.it
 .wpad.tcp.xn--trentinosdtirol-7vb.it
 .wpad.tcp.trentinosued-tirol.it
 .wpad.tcp.trentinosuedtirol.it
@@ -83285,7 +83227,6 @@
 .wpad.tcp.val-d-aosta.it
 .wpad.tcp.val-daosta.it
 .wpad.tcp.vald-aosta.it
-.wpad.tcp.valdaosta.it
 .wpad.tcp.valle-aosta.it
 .wpad.tcp.valle-d-aosta.it
 .wpad.tcp.valle-daosta.it
@@ -83321,7 +83262,6 @@
 .wpad.tcp.aoste.it
 .wpad.tcp.ap.it
 .wpad.tcp.aq.it
-.wpad.tcp.aquila.it
 .wpad.tcp.ar.it
 .wpad.tcp.arezzo.it
 .wpad.tcp.ascoli-piceno.it
@@ -83545,6 +83485,9 @@
 .wpad.tcp.sp.it
 .wpad.tcp.sr.it
 .wpad.tcp.ss.it
+.wpad.tcp.su.it
+.wpad.tcp.sud-sardegna.it
+.wpad.tcp.sudsardegna.it
 .wpad.tcp.xn--sdtirol-n2a.it
 .wpad.tcp.suedtirol.it
 .wpad.tcp.sv.it
@@ -83565,6 +83508,7 @@
 .wpad.tcp.traniandriabarletta.it
 .wpad.tcp.tranibarlettaandria.it
 .wpad.tcp.trapani.it
+.wpad.tcp.trentino.it
 .wpad.tcp.trento.it
 .wpad.tcp.treviso.it
 .wpad.tcp.trieste.it
@@ -83583,6 +83527,7 @@
 .wpad.tcp.venezia.it
 .wpad.tcp.venice.it
 .wpad.tcp.verbania.it
+.wpad.tcp.verbano-cusio-ossola.it
 .wpad.tcp.vercelli.it
 .wpad.tcp.verona.it
 .wpad.tcp.vi.it
@@ -89932,9 +89877,6 @@
 .wpad.tcp.cdn.bubble.io
 .wpad.tcp.bubbleapps.io
 .wpad.tcp.bwcloud-os-instance.de
-.wpad.tcp.uk0.bigv.io
-.wpad.tcp.dh.bytemark.co.uk
-.wpad.tcp.vm.bytemark.co.uk
 .wpad.tcp.cafjs.com
 .wpad.tcp.canva-apps.cn
 .wpad.tcp.my.canvasite.cn
@@ -90088,7 +90030,6 @@
 .wpad.tcp.static-access.net
 .wpad.tcp.craft.me
 .wpad.tcp.realm.cz
-.wpad.tcp.cryptonomic.net
 .wpad.tcp.cfolks.pl
 .wpad.tcp.cyon.link
 .wpad.tcp.cyon.site
@@ -91635,7 +91576,6 @@
 .wpad.tcp.mmv.kr
 .wpad.tcp.vki.kr
 .wpad.tcp.dev.project-study.com
-.wpad.tcp.protonet.io
 .wpad.tcp.platter-app.dev
 .wpad.tcp.e.id
 .wpad.tcp.chirurgiens-dentistes-en-france.fr
@@ -91724,7 +91664,6 @@
 .wpad.tcp.repl.run
 .wpad.tcp.resindevice.io
 .wpad.tcp.devices.resinstaging.io
-.wpad.tcp.hzc.io
 .wpad.tcp.adimo.co.uk
 .wpad.tcp.itcouldbewor.se
 .wpad.tcp.aus.basketball
@@ -91977,7 +91916,6 @@
 .wpad.tcp.indevs.in
 .wpad.tcp.musician.io
 .wpad.tcp.novecore.site
-.wpad.tcp.api.stdlib.com
 .wpad.tcp.statichost.page
 .wpad.tcp.feedback.ac
 .wpad.tcp.forms.ac
@@ -91992,7 +91930,6 @@
 .wpad.tcp.ipfs.storacha.link
 .wpad.tcp.ipfs.w3s.link
 .wpad.tcp.storebase.store
-.wpad.tcp.storj.farm
 .wpad.tcp.strapiapp.com
 .wpad.tcp.media.strapiapp.com
 .wpad.tcp.vps-host.net
