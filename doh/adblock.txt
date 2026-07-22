@@ -1,6 +1,6 @@
 [Adblock Plus 1.1]
 ! Title: Accomplist "Doh" AdBlock List (Top-N Version)
-! Version: 1784605319
+! Version: 1784693201
 ! Homepage: https://github.com/cbuijs/accomplist/tree/master/doh
 !
 ! WhiteList Domains:
@@ -1048,6 +1048,7 @@
 ||dns.xusqui.com^
 ||dns.yameenassotally.com^
 ||agh-hetzner.yasirafique.com^
+||sg.yepdns.com^
 ||adguard.youler.com^
 ||docker.youler.com^
 ||yovbak.com^
@@ -1335,7 +1336,6 @@
 ||esel.stusta.mhn.de^
 ||muli.stusta.mhn.de^
 ||mijoregner.de^
-||ds925.mijoregner.de^
 ||mikatos.de^
 ||dns.mnet-online.de^
 ||morbitzer.de^
@@ -2164,6 +2164,7 @@
 ||dnses.alekberg.net^
 ||dnsnl.alekberg.net^
 ||dnsse.alekberg.net^
+||odoh-target-se.alekberg.net^
 ||diskstation.alexpollard.net^
 ||management.alexpollard.net^
 ||doh.amonsul.net^
@@ -2222,6 +2223,7 @@
 ||doh.cox.net^
 ||dot.cox.net^
 ||dohdot.coxlab.net^
+||dns.criena.net^
 ||dns.itsec.crolla.net^
 ||ae-agh1.dns.cryptroute.net^
 ||dns.crystalyx.net^
@@ -2398,6 +2400,7 @@
 ||doh.mullvad.net^
 ||dnspod-vip5.beian.mydnspod.net^
 ||echoe1yidzu4ioo5.myfritz.net^
+||maqp54vwfcikvh1i.myfritz.net^
 ||sp1wpdybsw1twq1d.myfritz.net^
 ||hee08mkxk9s.sn.mynetname.net^
 ||hf009ems6n7.sn.mynetname.net^
