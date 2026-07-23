@@ -8607,7 +8607,6 @@
 .autoconfig.on.expo.app
 .autoconfig.staging.expo.app
 .autoconfig.on.staging.expo.app
-.autoconfig.onfabrica.com
 .autoconfig.fspages.org
 .autoconfig.ru.net
 .autoconfig.adygeya.ru
@@ -18848,7 +18847,6 @@
 ._autodiscover.on.expo.app
 ._autodiscover.staging.expo.app
 ._autodiscover.on.staging.expo.app
-._autodiscover.onfabrica.com
 ._autodiscover.fspages.org
 ._autodiscover.ru.net
 ._autodiscover.adygeya.ru
@@ -29089,7 +29087,6 @@
 .autodiscover.on.expo.app
 .autodiscover.staging.expo.app
 .autodiscover.on.staging.expo.app
-.autodiscover.onfabrica.com
 .autodiscover.fspages.org
 .autodiscover.ru.net
 .autodiscover.adygeya.ru
@@ -39330,7 +39327,6 @@
 .b._dns-sd.on.expo.app
 .b._dns-sd.staging.expo.app
 .b._dns-sd.on.staging.expo.app
-.b._dns-sd.onfabrica.com
 .b._dns-sd.fspages.org
 .b._dns-sd.ru.net
 .b._dns-sd.adygeya.ru
@@ -49571,7 +49567,6 @@
 .db._dns-sd.on.expo.app
 .db._dns-sd.staging.expo.app
 .db._dns-sd.on.staging.expo.app
-.db._dns-sd.onfabrica.com
 .db._dns-sd.fspages.org
 .db._dns-sd.ru.net
 .db._dns-sd.adygeya.ru
@@ -59812,7 +59807,6 @@
 .isatap.on.expo.app
 .isatap.staging.expo.app
 .isatap.on.staging.expo.app
-.isatap.onfabrica.com
 .isatap.fspages.org
 .isatap.ru.net
 .isatap.adygeya.ru
@@ -70053,7 +70047,6 @@
 .lb._dns-sd.on.expo.app
 .lb._dns-sd.staging.expo.app
 .lb._dns-sd.on.staging.expo.app
-.lb._dns-sd.onfabrica.com
 .lb._dns-sd.fspages.org
 .lb._dns-sd.ru.net
 .lb._dns-sd.adygeya.ru
@@ -80294,7 +80287,6 @@
 .wpad.on.expo.app
 .wpad.staging.expo.app
 .wpad.on.staging.expo.app
-.wpad.onfabrica.com
 .wpad.fspages.org
 .wpad.ru.net
 .wpad.adygeya.ru
@@ -90535,7 +90527,6 @@
 .wpad.tcp.on.expo.app
 .wpad.tcp.staging.expo.app
 .wpad.tcp.on.staging.expo.app
-.wpad.tcp.onfabrica.com
 .wpad.tcp.fspages.org
 .wpad.tcp.ru.net
 .wpad.tcp.adygeya.ru
