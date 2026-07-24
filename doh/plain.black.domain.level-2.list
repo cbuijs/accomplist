@@ -60,7 +60,6 @@ dnsotls.lab.nic.cl
 justhost.bedro.cloud
 dns.brembeck.cloud
 dns.clanto.cloud
-doh.cnetwork.cloud
 gateway.fomichev.cloud
 adguard.hartley.cloud
 adguard.londonwebnerd.cloud
@@ -188,6 +187,7 @@ doh.flashstart.com
 dns.flwagners.com
 biying.flymlc.com
 dns.gamban.com
+gclouddns.com
 sdns22.gkonuralp.com
 dns.glorydns.com
 doh-primary-pool.goodbyegambling.com
@@ -295,7 +295,6 @@ rethinkdns.com
 newd.rezyro.com
 o.rsaikat.com
 agh-yz.russel053.com
-drs.rustsword.com
 dns1.ryan-palmer.com
 safeservedns.com
 cloud.samutz.com
@@ -321,7 +320,6 @@ dns.technostriker.com
 rx.techomespace.com
 cloud.tezoi.com
 adb.timnichollsphotography.com
-tk31z.com
 d.toairs.com
 typaza.com
 dns.umbrella.com
@@ -480,6 +478,7 @@ dns.sellan.fr
 pates.services.sfr.fr.casepp.sfr.fr
 dns.spirio.fr
 adb-home.xaoimoon.fr
+adfiltro.fun
 dns.auapi.fun
 axaxa.fun
 ag.brianlee.fun
@@ -542,7 +541,6 @@ dns.api.test.globuscs.info
 doh.kekew.info
 kilabit.info
 testaghome.meshkov.info
-dns.olpploiopkuyhiopsfrt.info
 agh.printk.info
 vpn.technicule.info
 dns.kxy.ink
@@ -598,11 +596,11 @@ adguard.ihatemy.live
 lifeisa.live
 solaxy.live
 v2.xx3210766.live
-d.bod.lol
 greatideasforlife.lol
 johneldenring.lol
 lewsha.lol
 quic.lol
+dns.zui.lol
 doh.domreg.lt
 o1.lt
 dns.ourvau.lt
@@ -625,9 +623,11 @@ bluemood.me
 doh.cornes.me
 dns.dekedin.me
 dnslow.me
+dns.futuredns.me
 adg.geili.me
 gztech.me
 hitian.me
+dns.huas.me
 jkdns.me
 dns.karadag.me
 dns.lihj.me
@@ -664,10 +664,11 @@ resolver3.absolight.net
 adl.adfilter.net
 per.adfilter.net
 syd.adfilter.net
-affcdn.net
 ahadns.net
 adguard.ajinga.net
+dnses.alekberg.net
 dnsnl.alekberg.net
+odoh-target.alekberg.net
 doh.appliedprivacy.net
 dot1.appliedprivacy.net
 dns.ashleyjackson.net
@@ -860,6 +861,7 @@ dns.hakim.one
 dns.karl.one
 one.one.one.one
 adguard.abd.ong
+alleesph.online
 dns4eu.online
 inpssh.online
 externalmobiel.lekdijk.online
@@ -1044,6 +1046,7 @@ doh.pub
 dot.pub
 doh.totoro.pub
 dns.freyja.pw
+dns.lightmaster.pw
 ttag.dns.nomu.pw
 las-vegas.privacy-dns.pw
 luxembourg.privacy-dns.pw
@@ -1086,6 +1089,7 @@ polisitogel.show
 adguard.marto.si
 callies-online.site
 dns.l337.site
+dns.labnekotest.site
 tecdrive.site
 vtcuong.site
 dns.levonet.sk
@@ -1205,6 +1209,7 @@ lukscasino-542-tr.xyz
 lukscasino-929-tr.xyz
 maqgie.xyz
 dns.mh4ckt3mh4ckt1c4s.xyz
+mikezhang.xyz
 pepetio.xyz
 pm1239-bd.xyz
 pm7051-br.xyz
