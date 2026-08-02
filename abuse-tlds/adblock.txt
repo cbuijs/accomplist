@@ -1,6 +1,6 @@
 [Adblock Plus 1.1]
 ! Title: Accomplist "Tlds" AdBlock List (Top-N Version)
-! Version: 1785558689
+! Version: 1785646355
 ! Homepage: https://github.com/cbuijs/accomplist/tree/master/tlds
 !
 ! WhiteList Domains:
@@ -662,8 +662,6 @@
 @@||goodtravel.guide^
 ! Sub-domain "hacks.guide" unblacklisted from domain "guide"
 @@||hacks.guide^
-! Sub-domain "homebrew.guide" unblacklisted from domain "guide"
-@@||homebrew.guide^
 ! Sub-domain "opensource.guide" unblacklisted from domain "guide"
 @@||opensource.guide^
 ! Sub-domain "ripped.guide" unblacklisted from domain "guide"
