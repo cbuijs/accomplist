@@ -65,7 +65,6 @@ dnsotls.lab.nic.cl
 justhost.bedro.cloud
 dns.brembeck.cloud
 dns.clanto.cloud
-doh.cnetwork.cloud
 gateway.fomichev.cloud
 adguard.hartley.cloud
 adguard.londonwebnerd.cloud
@@ -75,6 +74,7 @@ dns.wibenson.cloud
 dns-1.wil.cloud
 dns-2.wil.cloud
 wyx.cloud
+dns.comeonjames.club
 adguard.ef67daisuki.club
 ps1.modr.club
 dns.soldier.terumi.club
@@ -320,12 +320,10 @@ rethinkdns.com
 newd.rezyro.com
 o.rsaikat.com
 agh-yz.russel053.com
-drs.rustsword.com
 dns1.ryan-palmer.com
 safeservedns.com
 cloud.samutz.com
 dns.sarilouis.com
-ns1.sc-lezhi.com
 dns.scapetical.com
 dns.sec511.com
 privatnas.servebeer.com
@@ -356,6 +354,7 @@ typaza.com
 dns.umbrella.com
 doh.umbrella.com
 doh.valscosmos.com
+wantaquddin.com
 ns2.wuyouss.com
 ns3.wuyouss.com
 xbcpb668.com
@@ -706,15 +705,16 @@ resolver3.absolight.net
 adl.adfilter.net
 per.adfilter.net
 syd.adfilter.net
+affcdn.net
 ahadns.net
 adguard.ajinga.net
 dns.alekberg.net
 dns2.alekberg.net
 dnses.alekberg.net
 dnsnl.alekberg.net
+dnsnl-noads.alekberg.net
 dnsse.alekberg.net
-odoh-target-noads-se.alekberg.net
-odoh-target-se.alekberg.net
+odoh-target.alekberg.net
 doh.applied-privacy.net
 dot1.applied-privacy.net
 doh.appliedprivacy.net
@@ -801,6 +801,7 @@ adguard1.leadmon.net
 dns.liberador.net
 africadns1.liquidtelecom.net
 africadns2.liquidtelecom.net
+dns.marbledfennec.net
 securenet.mhsystems.net
 zrh1-ns01.monzoon.net
 doh.mullvad.net
@@ -918,6 +919,7 @@ dns.hakim.one
 dns.karl.one
 one.one.one.one
 adguard.abd.ong
+alleesph.online
 dns4eu.online
 inpssh.online
 externalmobiel.lekdijk.online
@@ -1111,6 +1113,7 @@ doh.pub
 dot.pub
 doh.totoro.pub
 dns.freyja.pw
+dns.lightmaster.pw
 ttag.dns.nomu.pw
 las-vegas.privacy-dns.pw
 luxembourg.privacy-dns.pw
@@ -1129,7 +1132,6 @@ zdn.ro
 dns.quiet.rocks
 comss.ru
 qual.cuprum.ru
-adguard.dekonix.ru
 vd.i81.ru
 dns.iamninja.ru
 muxyuji.ru
@@ -1324,14 +1326,11 @@ metis.sheggi.ch
 listo.click
 brono.cloud
 qrtz.club
-de001-lbc0.wec.dbankedge.cn
 antidns.s.tuna.tsinghua.edu.cn
 hk.mbrjun.cn
 doh-dns-apple-com.v.aaplimg.com
 popunify-4.aliyuncs.com.gds.alibabadns.com
 aliyun-adns.aliyun.com.vipgds.alibabadns.com
-aliyun-adns.aliyun.com
-popunify-4.aliyuncs.com
 ga-bp1x5hjt57jh3adltd1si.aliyunga0019.com
 eu-opush-heytapmobile-pubgw-1244993624.eu-west-3.elb.amazonaws.com
 dns-integration-alb-618104398.us-east-1.elb.amazonaws.com
@@ -1341,7 +1340,6 @@ dns-sandbox-alb-275183166.us-east-1.elb.amazonaws.com
 dns-staging-alb-849259019.us-east-1.elb.amazonaws.com
 dns-test-alb-2081756747.us-east-1.elb.amazonaws.com
 srv-revprox-01.atakorah.com
-ydmaz-docker.southeastasia.cloudapp.azure.com
 secondary-backup.bebasid.com
 cahlen.com
 cloudflare-dns.com
@@ -1351,12 +1349,9 @@ doh.totoro.pub.eo.dnse5.com
 dns.dnswarden.com
 geo.hafnova.com
 ww1.hellozhao.com
-multi-az-httpdns.inkuai.com
 lariviere.lepilleur.com
 inf-wan.vip.meituan.com
 sexybody.myqnapcloud.com
-httpdnsv4.ntes53.netease.com
-nim-lbs-oversea-tmp.ntes53.netease.com
 dns.eu-frankfurt-1.oci.oraclecloud.com
 splat-api.eu-frankfurt-1.oci.oraclecloud.com
 dns.uk-london-1.oci.oraclecloud.com
@@ -1375,7 +1370,6 @@ dnsvps.porteii.com
 practicallyunhackable.com
 iterator.lazada.com.queniubl.com
 dns-server-geo.sz-dns.com
-sdkconfig.igtm.tlivesdk.com
 doh2.gslb2.xfinity.com
 us.novali.date
 home.bitteeinbyte.de
@@ -1493,7 +1487,6 @@ svc2.diarbagus.id
 marasov.id
 dyn.velyn.my.id
 dns.ningkelle.id
-ornea.kix.co.il
 static.captnemo.in
 integration.dnsteam.globuscs.info
 preview.dnsteam.globuscs.info
@@ -1537,9 +1530,7 @@ anycast.ffmuc.net
 servidor01.itwebhost.net
 adguard1.njy.jsanagustin.net
 ares.limetric.net
-dns.marbledfennec.net
 dns.mullvad.net
-hee08mkxk9s.sn.mynetname.net
 hjp0axcec1d.sn.mynetname.net
 gloom.nexus
 forum.ginovs.nl
@@ -1573,7 +1564,6 @@ nl-ams2.doh.sb
 sg-sin2.doh.sb
 haka.se
 rin.sh
-kjlk5.sunryu.site
 cloud.vinokurov.tk
 kimiblock.top
 gayanalysing.co.uk

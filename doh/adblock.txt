@@ -1,6 +1,6 @@
 [Adblock Plus 1.1]
 ! Title: Accomplist "Doh" AdBlock List (Top-N Version)
-! Version: 1785646701
+! Version: 1785729855
 ! Homepage: https://github.com/cbuijs/accomplist/tree/master/doh
 !
 ! WhiteList Domains:
@@ -88,7 +88,6 @@
 ||dns.brembeck.cloud^
 ||brono.cloud^
 ||dns.clanto.cloud^
-||doh.cnetwork.cloud^
 ||gateway.fomichev.cloud^
 ||adguard.hartley.cloud^
 ||adguard.londonwebnerd.cloud^
@@ -98,6 +97,7 @@
 ||dns-1.wil.cloud^
 ||dns-2.wil.cloud^
 ||wyx.cloud^
+||dns.comeonjames.club^
 ||adguard.ef67daisuki.club^
 ||ps1.modr.club^
 ||qrtz.club^
@@ -109,7 +109,6 @@
 ||dns.baishiyuan.cn^
 ||dns.beardic.cn^
 ||dns.weixin.qq.com.cn^
-||de001-lbc0.wec.dbankedge.cn^
 ||dns.tuna.tsinghua.edu.cn^
 ||antidns.s.tuna.tsinghua.edu.cn^
 ||dns.foximao.cn^
@@ -149,9 +148,7 @@
 ||popunify-4.aliyuncs.com.gds.alibabadns.com^
 ||aliyun-adns.aliyun.com.vipgds.alibabadns.com^
 ||dns.alidns.com^
-||aliyun-adns.aliyun.com^
 ||httpdns-sc.aliyuncs.com^
-||popunify-4.aliyuncs.com^
 ||ga-bp1x5hjt57jh3adltd1si.aliyunga0019.com^
 ||dns.alvosec.com^
 ||eu-opush-heytapmobile-pubgw-1244993624.eu-west-3.elb.amazonaws.com^
@@ -173,7 +170,6 @@
 ||dns.asysec.com^
 ||adguardhome.atakorah.com^
 ||srv-revprox-01.atakorah.com^
-||ydmaz-docker.southeastasia.cloudapp.azure.com^
 ||b-ii.com^
 ||dns.b72.com^
 ||fr-dns1.bancuh.com^
@@ -283,7 +279,6 @@
 ||dns.imaicool.com^
 ||noads.imbuffering.com^
 ||dns.inforlogia.com^
-||multi-az-httpdns.inkuai.com^
 ||dns1.irumatech.com^
 ||dns.is0mino.com^
 ||dns.islandnet.com^
@@ -311,8 +306,6 @@
 ||ns.mtsoln.com^
 ||sexybody.myqnapcloud.com^
 ||dns.mzjtechnology.com^
-||httpdnsv4.ntes53.netease.com^
-||nim-lbs-oversea-tmp.ntes53.netease.com^
 ||dns.nguyendn.com^
 ||d.niaox.com^
 ||dns-cybersec.nordthreatprotection.com^
@@ -394,12 +387,10 @@
 ||newd.rezyro.com^
 ||o.rsaikat.com^
 ||agh-yz.russel053.com^
-||drs.rustsword.com^
 ||dns1.ryan-palmer.com^
 ||safeservedns.com^
 ||cloud.samutz.com^
 ||dns.sarilouis.com^
-||ns1.sc-lezhi.com^
 ||dns.scapetical.com^
 ||dns.sec511.com^
 ||privatnas.servebeer.com^
@@ -426,12 +417,12 @@
 ||cloud.tezoi.com^
 ||adb.timnichollsphotography.com^
 ||tk31z.com^
-||sdkconfig.igtm.tlivesdk.com^
 ||d.toairs.com^
 ||typaza.com^
 ||dns.umbrella.com^
 ||doh.umbrella.com^
 ||doh.valscosmos.com^
+||wantaquddin.com^
 ||ns2.wuyouss.com^
 ||ns3.wuyouss.com^
 ||xbcpb668.com^
@@ -750,7 +741,6 @@
 ||dns.engineer.web.id^
 ||doh.this.web.id^
 ||doh.zephyrus.id^
-||ornea.kix.co.il^
 ||doh.angry.im^
 ||doh.killtw.im^
 ||1a.ns.ozer.im^
@@ -918,6 +908,7 @@
 ||adl.adfilter.net^
 ||per.adfilter.net^
 ||syd.adfilter.net^
+||affcdn.net^
 ||ahadns.net^
 ||elsa.airns.net^
 ||id.sdn.airns.net^
@@ -927,9 +918,9 @@
 ||dns2.alekberg.net^
 ||dnses.alekberg.net^
 ||dnsnl.alekberg.net^
+||dnsnl-noads.alekberg.net^
 ||dnsse.alekberg.net^
-||odoh-target-noads-se.alekberg.net^
-||odoh-target-se.alekberg.net^
+||odoh-target.alekberg.net^
 ||mask-api.fe2.apple-dns.net^
 ||mask.apple-dns.net^
 ||doh.applied-privacy.net^
@@ -1043,7 +1034,6 @@
 ||dns.mullvad.net^
 ||doh.mullvad.net^
 ||echoe1yidzu4ioo5.myfritz.net^
-||hee08mkxk9s.sn.mynetname.net^
 ||hjp0axcec1d.sn.mynetname.net^
 ||doh-ca.naftalie.net^
 ||ae-fuj-w-p-1.nashkan.net^
@@ -1166,6 +1156,7 @@
 ||dns.karl.one^
 ||one.one.one.one^
 ||adguard.abd.ong^
+||alleesph.online^
 ||dns4eu.online^
 ||inpssh.online^
 ||externalmobiel.lekdijk.online^
@@ -1373,6 +1364,7 @@
 ||dot.pub^
 ||doh.totoro.pub^
 ||dns.freyja.pw^
+||dns.lightmaster.pw^
 ||ttag.dns.nomu.pw^
 ||las-vegas.privacy-dns.pw^
 ||luxembourg.privacy-dns.pw^
@@ -1391,7 +1383,6 @@
 ||dns.quiet.rocks^
 ||comss.ru^
 ||qual.cuprum.ru^
-||adguard.dekonix.ru^
 ||vpn.geshido.ru^
 ||vd.i81.ru^
 ||dns.iamninja.ru^
@@ -1427,7 +1418,6 @@
 ||adguard.marto.si^
 ||callies-online.site^
 ||dns.l337.site^
-||kjlk5.sunryu.site^
 ||tecdrive.site^
 ||vtcuong.site^
 ||dns.levonet.sk^

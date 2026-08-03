@@ -12,6 +12,8 @@
 .doh.buzz
 .doh.datahata.by
 .canadianshield.cira.ca
+.dns1.dnscrypt.ca
+.dns2.dnscrypt.ca
 .chuncheon.dnsovertor.cc
 .japan.dnsovertor.cc
 .seoul.dnsovertor.cc
@@ -38,7 +40,6 @@
 .dot.360.cn
 .dns.beardic.cn
 .dns.weixin.qq.com.cn
-.de001-lbc0.wec.dbankedge.cn
 .dns.tuna.tsinghua.edu.cn
 .antidns.s.tuna.tsinghua.edu.cn
 .dns.rubyfish.cn
@@ -63,9 +64,7 @@
 .popunify-4.aliyuncs.com.gds.alibabadns.com
 .aliyun-adns.aliyun.com.vipgds.alibabadns.com
 .dns.alidns.com
-.aliyun-adns.aliyun.com
 .httpdns-sc.aliyuncs.com
-.popunify-4.aliyuncs.com
 .ga-bp1x5hjt57jh3adltd1si.aliyunga0019.com
 .eu-opush-heytapmobile-pubgw-1244993624.eu-west-3.elb.amazonaws.com
 .dns-integration-alb-618104398.us-east-1.elb.amazonaws.com
@@ -80,7 +79,6 @@
 .dot.asecdns.com
 .dns.asterimoon.com
 .dandelionsprout.asuscomm.com
-.ydmaz-docker.southeastasia.cloudapp.azure.com
 .i.233py.com.a.bdydns.com
 .antivirus.bebasid.com
 .dns.bebasid.com
@@ -140,7 +138,6 @@
 .mask-api.icloud.com
 .mask-h2.icloud.com
 .dns.inforlogia.com
-.multi-az-httpdns.inkuai.com
 .dns.islandnet.com
 .opencdn.jomodns.com
 .dns.kamilszczepanski.com
@@ -155,8 +152,6 @@
 .ns.mtsoln.com
 .sexybody.myqnapcloud.com
 .dns.mzjtechnology.com
-.httpdnsv4.ntes53.netease.com
-.nim-lbs-oversea-tmp.ntes53.netease.com
 .dns1.nordvpn.com
 .dns2.nordvpn.com
 .dns.opendns.com
@@ -205,7 +200,6 @@
 .dns.surfshark.com
 .dns.surfsharkdns.com
 .doh.sz-dns.com
-.sdkconfig.igtm.tlivesdk.com
 .dns.umbrella.com
 .doh.umbrella.com
 .doh.xfinity.com
@@ -471,9 +465,9 @@
 .dns2.alekberg.net
 .dnses.alekberg.net
 .dnsnl.alekberg.net
+.dnsnl-noads.alekberg.net
 .dnsse.alekberg.net
-.odoh-target-noads-se.alekberg.net
-.odoh-target-se.alekberg.net
+.odoh-target.alekberg.net
 .mask-api.fe2.apple-dns.net
 .mask.apple-dns.net
 .doh.applied-privacy.net
@@ -545,7 +539,6 @@
 .dns.mullvad.net
 .doh.mullvad.net
 .echoe1yidzu4ioo5.myfritz.net
-.hee08mkxk9s.sn.mynetname.net
 .hjp0axcec1d.sn.mynetname.net
 .ae-fuj-w-p-1.nashkan.net
 .ae-fuj-w-p-2.nashkan.net
