@@ -1,6 +1,6 @@
 [Adblock Plus 1.1]
 ! Title: Accomplist "Tlds" AdBlock List (Top-N Version)
-! Version: 1785816001
+! Version: 1785903348
 ! Homepage: https://github.com/cbuijs/accomplist/tree/master/tlds
 !
 ! WhiteList Domains:
@@ -186,6 +186,8 @@
 @@||keys.casa^
 ! Sub-domain "nabu.casa" unblacklisted from domain "casa"
 @@||nabu.casa^
+! Sub-domain "cake.cash" unblacklisted from domain "cash"
+@@||cake.cash^
 ! Sub-domain "doe.cash" unblacklisted from domain "cash"
 @@||doe.cash^
 ! Sub-domain "redtiger.cash" unblacklisted from domain "cash"
@@ -816,6 +818,8 @@
 @@||fmhy.lol^
 ! Sub-domain "guns.lol" unblacklisted from domain "lol"
 @@||guns.lol^
+! Sub-domain "hubcloud.lol" unblacklisted from domain "lol"
+@@||hubcloud.lol^
 ! Sub-domain "io.lol" unblacklisted from domain "lol"
 @@||io.lol^
 ! Sub-domain "kizuki.lol" unblacklisted from domain "lol"
@@ -1369,6 +1373,8 @@
 @@||winefactory.shop^
 ! Sub-domain "xn--dnemark-5wa.shop" unblacklisted from domain "shop"
 @@||xn--dnemark-5wa.shop^
+! Sub-domain "zonwering.shop" unblacklisted from domain "shop"
+@@||zonwering.shop^
 ! Sub-domain "camz.show" unblacklisted from domain "show"
 @@||camz.show^
 ! Sub-domain "j.show" unblacklisted from domain "show"
