@@ -1,6 +1,6 @@
 [Adblock Plus 1.1]
 ! Title: Accomplist "Doh" AdBlock List (Top-N Version)
-! Version: 1785816286
+! Version: 1785903638
 ! Homepage: https://github.com/cbuijs/accomplist/tree/master/doh
 !
 ! WhiteList Domains:
@@ -33,7 +33,6 @@
 ||cube.neubsi.at^
 ||dns.neubsi.at^
 ||dns.sv-zauner.at^
-||dns.cloud88.com.au^
 ||dns.netraptor.com.au^
 ||dns.belnet.be^
 ||doh.beauty^
@@ -250,7 +249,6 @@
 ||dns.flwagners.com^
 ||biying.flymlc.com^
 ||dns.gamban.com^
-||gclouddns.com^
 ||sdns22.gkonuralp.com^
 ||dns.glorydns.com^
 ||doh-primary-pool.goodbyegambling.com^
@@ -417,6 +415,7 @@
 ||dns.umbrella.com^
 ||doh.umbrella.com^
 ||doh.valscosmos.com^
+||wantaquddin.com^
 ||ns2.wuyouss.com^
 ||ns3.wuyouss.com^
 ||xbcpb668.com^
@@ -424,6 +423,7 @@
 ||dot.xfinity.com^
 ||doh.gslb2.xfinity.com^
 ||doh2.gslb2.xfinity.com^
+||xorbiadns.com^
 ||dns.yameenassotally.com^
 ||sg.yepdns.com^
 ||yovbak.com^
@@ -446,7 +446,6 @@
 ||adguard.bonis.de^
 ||gw-dk.brueggus.de^
 ||gw-nl02.brueggus.de^
-||vps03.brueggus.de^
 ||vps119.brueggus.de^
 ||vps214.brueggus.de^
 ||vps217.brueggus.de^
@@ -480,7 +479,6 @@
 ||vps337.brueggus.de^
 ||vps341.brueggus.de^
 ||vps345.brueggus.de^
-||vps349.brueggus.de^
 ||vps350.brueggus.de^
 ||vps351.brueggus.de^
 ||vps353.brueggus.de^
@@ -497,11 +495,6 @@
 ||vps379.brueggus.de^
 ||vps382.brueggus.de^
 ||vps384.brueggus.de^
-||vps387.brueggus.de^
-||vps388.brueggus.de^
-||vps389.brueggus.de^
-||vps391.brueggus.de^
-||vps392.brueggus.de^
 ||vps393.brueggus.de^
 ||vps394.brueggus.de^
 ||vps395.brueggus.de^
@@ -529,7 +522,6 @@
 ||vps485.brueggus.de^
 ||vps488.brueggus.de^
 ||vps493.brueggus.de^
-||vps66.brueggus.de^
 ||chaos-system.de^
 ||dns.csaonline.de^
 ||dns.datenquark.de^
@@ -857,9 +849,11 @@
 ||ocph05.cornes.me^
 ||dns.dekedin.me^
 ||dnslow.me^
+||dns.futuredns.me^
 ||adg.geili.me^
 ||gztech.me^
 ||hitian.me^
+||dns.huas.me^
 ||jkdns.me^
 ||dns.karadag.me^
 ||dns.lihj.me^
@@ -902,7 +896,6 @@
 ||adl.adfilter.net^
 ||per.adfilter.net^
 ||syd.adfilter.net^
-||affcdn.net^
 ||ahadns.net^
 ||elsa.airns.net^
 ||id.sdn.airns.net^
@@ -913,6 +906,8 @@
 ||dnses.alekberg.net^
 ||dnsnl.alekberg.net^
 ||dnsse.alekberg.net^
+||odoh-target.alekberg.net^
+||odoh-target-se.alekberg.net^
 ||mask-api.fe2.apple-dns.net^
 ||mask.apple-dns.net^
 ||doh.applied-privacy.net^
@@ -1267,8 +1262,6 @@
 ||ams02.dnscry.pt^
 ||atl01.dnscry.pt^
 ||bne01.dnscry.pt^
-||bog01.dnscry.pt^
-||bru01.dnscry.pt^
 ||bts01.dnscry.pt^
 ||coe01.dnscry.pt^
 ||cph01.dnscry.pt^
@@ -1278,7 +1271,6 @@
 ||dtw01.dnscry.pt^
 ||dub01.dnscry.pt^
 ||dus01.dnscry.pt^
-||evn01.dnscry.pt^
 ||eyg01.dnscry.pt^
 ||fnt01.dnscry.pt^
 ||fra01.dnscry.pt^
@@ -1299,7 +1291,6 @@
 ||las01.dnscry.pt^
 ||lax01.dnscry.pt^
 ||lax02.dnscry.pt^
-||lim02.dnscry.pt^
 ||lis01.dnscry.pt^
 ||llk01.dnscry.pt^
 ||lon01.dnscry.pt^
@@ -1307,7 +1298,6 @@
 ||man01.dnscry.pt^
 ||mia01.dnscry.pt^
 ||mil01.dnscry.pt^
-||mru01.dnscry.pt^
 ||muc01.dnscry.pt^
 ||naw01.dnscry.pt^
 ||nue01.dnscry.pt^
@@ -1316,10 +1306,8 @@
 ||ord01.dnscry.pt^
 ||par01.dnscry.pt^
 ||pdx01.dnscry.pt^
-||phl01.dnscry.pt^
 ||phx01.dnscry.pt^
 ||rdd01.dnscry.pt^
-||rdu01.dnscry.pt^
 ||sea01.dnscry.pt^
 ||sgn01.dnscry.pt^
 ||sin02.dnscry.pt^
@@ -1331,7 +1319,6 @@
 ||syd02.dnscry.pt^
 ||tbs01.dnscry.pt^
 ||tll01.dnscry.pt^
-||tlv01.dnscry.pt^
 ||tpa01.dnscry.pt^
 ||tpe01.dnscry.pt^
 ||trf01.dnscry.pt^
@@ -1415,6 +1402,7 @@
 ||dns.cloudtrust.solutions^
 ||dns.b33.space^
 ||adguard.neon0404.space^
+||adg.rueiliu.space^
 ||dns.sy.st^
 ||home-server.store^
 ||dns.fizz.studio^
