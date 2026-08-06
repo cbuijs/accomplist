@@ -87,6 +87,7 @@ dns.brembeck.cloud
 brono.cloud
 dns.brono.cloud
 dns.clanto.cloud
+dns-secondary.cloudnx.cloud
 gateway.fomichev.cloud
 adguard.hartley.cloud
 adguard.londonwebnerd.cloud
@@ -96,6 +97,7 @@ dns.wibenson.cloud
 dns-1.wil.cloud
 dns-2.wil.cloud
 wyx.cloud
+dns.comeonjames.club
 adguard.ef67daisuki.club
 ps1.modr.club
 qrtz.club
@@ -452,6 +454,7 @@ dns.technostriker.com
 rx.techomespace.com
 cloud.tezoi.com
 adb.timnichollsphotography.com
+tk31z.com
 d.toairs.com
 typaza.com
 dns.umbrella.com
@@ -465,7 +468,6 @@ doh.xfinity.com
 dot.xfinity.com
 doh.gslb2.xfinity.com
 doh2.gslb2.xfinity.com
-xorbiadns.com
 dns.yameenassotally.com
 sg.yepdns.com
 yovbak.com
@@ -577,7 +579,6 @@ hard.dnsforge.de
 dns.dnshome.de
 dns.dremaxx.de
 dukun.de
-dns.dyn1.de
 opennic1.eth-services.de
 farshidhakimy.de
 dns.farshidhakimy.de
@@ -890,6 +891,7 @@ greatideasforlife.lol
 johneldenring.lol
 lewsha.lol
 quic.lol
+dns.zui.lol
 doh.domreg.lt
 o1.lt
 dns.ourvau.lt
@@ -919,7 +921,6 @@ dns.futuredns.me
 adg.geili.me
 gztech.me
 hitian.me
-dns.huas.me
 jkdns.me
 dns.karadag.me
 dns.lihj.me
@@ -964,6 +965,7 @@ resolver3.absolight.net
 adl.adfilter.net
 per.adfilter.net
 syd.adfilter.net
+affcdn.net
 ahadns.net
 doh.au.ahadns.net
 dot.au.ahadns.net
@@ -994,7 +996,7 @@ dns2.alekberg.net
 dnses.alekberg.net
 dnsnl.alekberg.net
 dnsse.alekberg.net
-odoh-target.alekberg.net
+dnsse-noads.alekberg.net
 odoh-target-se.alekberg.net
 mask-api.fe2.apple-dns.net
 mask.apple-dns.net
@@ -1554,7 +1556,6 @@ dns.elemental.software
 dns.cloudtrust.solutions
 dns.b33.space
 adguard.neon0404.space
-adg.rueiliu.space
 dns.sy.st
 home-server.store
 dns.fizz.studio
