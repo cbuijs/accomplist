@@ -189,6 +189,7 @@ privatnas.servebeer.com
 adguard.shoupperuser.com
 doh-01.spectrum.com
 doh-02.spectrum.com
+q3i6k7j3.stackpathcdn.com
 dns.stirringphoto.com
 sunnygyl.com
 dns.surfshark.com
@@ -341,7 +342,6 @@ unfiltered.joindns4.eu
 dns.skrep.eu
 dns.christerwaren.fi
 lelux.fi
-ns.nwps.fi
 doh.42l.fr
 dns.aquilenet.fr
 ns0.fdn.fr
@@ -454,7 +454,8 @@ dns2.alekberg.net
 dnses.alekberg.net
 dnsnl.alekberg.net
 dnsse.alekberg.net
-dnsse-noads.alekberg.net
+odoh-target-noads.alekberg.net
+odoh-target-noads-se.alekberg.net
 odoh-target-se.alekberg.net
 mask-api.fe2.apple-dns.net
 mask.apple-dns.net

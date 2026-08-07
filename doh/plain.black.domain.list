@@ -97,7 +97,6 @@ dns.wibenson.cloud
 dns-1.wil.cloud
 dns-2.wil.cloud
 wyx.cloud
-dns.comeonjames.club
 adguard.ef67daisuki.club
 ps1.modr.club
 qrtz.club
@@ -136,7 +135,6 @@ dns.7vpn.com
 adb.aadityakushwaha.com
 doh.dns.apple.com.v.aaplimg.com
 doh-dns-apple-com.v.aaplimg.com
-dns.aaytorr.com
 adblockersite.com
 dns.adguard.com
 dns-family.adguard.com
@@ -286,6 +284,7 @@ doh.flashstart.com
 dns.flwagners.com
 biying.flymlc.com
 dns.gamban.com
+gclouddns.com
 sdns22.gkonuralp.com
 dns.glorydns.com
 doh-primary-pool.goodbyegambling.com
@@ -441,6 +440,7 @@ dnsovertls3.sinodun.com
 skydragoness.com
 doh-01.spectrum.com
 doh-02.spectrum.com
+q3i6k7j3.stackpathcdn.com
 dns.stirringphoto.com
 sunnygyl.com
 dns.surfshark.com
@@ -454,13 +454,11 @@ dns.technostriker.com
 rx.techomespace.com
 cloud.tezoi.com
 adb.timnichollsphotography.com
-tk31z.com
 d.toairs.com
 typaza.com
 dns.umbrella.com
 doh.umbrella.com
 doh.valscosmos.com
-wantaquddin.com
 ns2.wuyouss.com
 ns3.wuyouss.com
 xbcpb668.com
@@ -579,6 +577,7 @@ hard.dnsforge.de
 dns.dnshome.de
 dns.dremaxx.de
 dukun.de
+dns.dyn1.de
 opennic1.eth-services.de
 farshidhakimy.de
 dns.farshidhakimy.de
@@ -791,6 +790,7 @@ doh.this.web.id
 doh.zephyrus.id
 doh.angry.im
 doh.killtw.im
+dsm.killtw.im
 1a.ns.ozer.im
 dns.bitgeek.in
 dns.bofh.in
@@ -917,7 +917,6 @@ doh.cornes.me
 ocph05.cornes.me
 dns.dekedin.me
 dnslow.me
-dns.futuredns.me
 adg.geili.me
 gztech.me
 hitian.me
@@ -936,7 +935,6 @@ dns.reitmeier.me
 do.shimul.me
 ibksturm.synology.me
 ihctw.synology.me
-doh.thio.me
 dns.warma.me
 att.aaaab3n.moe
 caddy.aaaab3n.moe
@@ -965,7 +963,6 @@ resolver3.absolight.net
 adl.adfilter.net
 per.adfilter.net
 syd.adfilter.net
-affcdn.net
 ahadns.net
 doh.au.ahadns.net
 dot.au.ahadns.net
@@ -996,7 +993,8 @@ dns2.alekberg.net
 dnses.alekberg.net
 dnsnl.alekberg.net
 dnsse.alekberg.net
-dnsse-noads.alekberg.net
+odoh-target-noads.alekberg.net
+odoh-target-noads-se.alekberg.net
 odoh-target-se.alekberg.net
 mask-api.fe2.apple-dns.net
 mask.apple-dns.net
@@ -1243,7 +1241,6 @@ doh.sidnlabs.nl
 dns.sstomp.nl
 timmes.nl
 nat64.tuxis.nl
-adguard.wirimij.nl
 dns.anon.no
 doh.serverhost.no
 adg.tshost.no
@@ -1570,7 +1567,6 @@ dns.daarrk.tech
 qqmcfw.tech
 dns.startupstack.tech
 tuskythehusky.tech
-dns.zfsystem.tech
 dns.kawa.tf
 jp1.f7b6h9.tk
 doh.post-factum.tk
