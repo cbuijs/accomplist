@@ -1,6 +1,6 @@
 [Adblock Plus 1.1]
 ! Title: Accomplist "Tlds" AdBlock List (Top-N Version)
-! Version: 1785989475
+! Version: 1786077268
 ! Homepage: https://github.com/cbuijs/accomplist/tree/master/tlds
 !
 ! WhiteList Domains:
@@ -1451,8 +1451,6 @@
 @@||cslogs.space^
 ! Sub-domain "dragonscave.space" unblacklisted from domain "space"
 @@||dragonscave.space^
-! Sub-domain "drgns.space" unblacklisted from domain "space"
-@@||drgns.space^
 ! Sub-domain "embed-player.space" unblacklisted from domain "space"
 @@||embed-player.space^
 ! Sub-domain "filesafe.space" unblacklisted from domain "space"
