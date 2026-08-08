@@ -1,6 +1,6 @@
 [Adblock Plus 1.1]
 ! Title: Accomplist "Tlds" AdBlock List (Top-N Version)
-! Version: 1786077268
+! Version: 1786163380
 ! Homepage: https://github.com/cbuijs/accomplist/tree/master/tlds
 !
 ! WhiteList Domains:
@@ -3330,6 +3330,7 @@
 ||*.yxdomain^
 ||*.yxrrset^
 ||*.z^
+||*.zara^
 ||*.zero^
 ||*.zervdns^
 ||*.zghjccbob3n0^
