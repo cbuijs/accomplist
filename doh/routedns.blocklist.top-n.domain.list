@@ -381,6 +381,7 @@
 .doh.captnemo.in
 .static.captnemo.in
 .dns.kapite.in
+.dns.nic.in
 .doh.technochat.in
 .integration.dnsteam.globuscs.info
 .preview.dnsteam.globuscs.info
@@ -454,9 +455,8 @@
 .dnses.alekberg.net
 .dnsnl.alekberg.net
 .dnsse.alekberg.net
+.dnsse-noads.alekberg.net
 .odoh-target-noads.alekberg.net
-.odoh-target-noads-se.alekberg.net
-.odoh-target-se.alekberg.net
 .mask-api.fe2.apple-dns.net
 .mask.apple-dns.net
 .doh.applied-privacy.net
@@ -473,7 +473,6 @@
 .nvi-dns.bitdefender.net
 .ore-dns.bitdefender.net
 .tky-dns.bitdefender.net
-.delta.caspervk.net
 .dns.caspervk.net
 .ibuki.cgnat.net
 .dns.233py.com.cdn.cloudflare.net
