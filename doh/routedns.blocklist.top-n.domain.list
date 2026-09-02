@@ -59,6 +59,8 @@
 .dns-family.adguard.com
 .dns-unfiltered.adguard.com
 .adguard-dns.com
+.blitz.ahadns.com
+.blitz-setup.ahadns.com
 .dns.akbxr.com
 .dns.alidns.com
 .httpdns-sc.aliyuncs.com
@@ -467,13 +469,7 @@
 .dns2.alekberg.net
 .dnses.alekberg.net
 .dnsnl.alekberg.net
-.dnsnl-noads.alekberg.net
 .dnsse.alekberg.net
-.dnsse-noads.alekberg.net
-.odoh-target.alekberg.net
-.odoh-target-noads.alekberg.net
-.odoh-target-noads-se.alekberg.net
-.odoh-target-se.alekberg.net
 .mask-api.fe2.apple-dns.net
 .mask.apple-dns.net
 .doh.applied-privacy.net
@@ -806,8 +802,6 @@
 .dns.watch
 .dns.brahma.world
 .123000123.xyz
-.opennic.i2pd.xyz
-.opennic2.i2pd.xyz
 .pihole.datamatter.co.za
 .dns.oliviertv.co.za
 .pooblet.co.za
