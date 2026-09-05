@@ -1,0 +1,4 @@
+Bogon4	black	https://www.team-cymru.org/Services/Bogons/fullbogons-ipv4.txt	/opt/accomplist/work/bogon4.list	7200	@IP
+Bogon6	black	https://www.team-cymru.org/Services/Bogons/fullbogons-ipv6.txt	/opt/accomplist/work/bogon6.list	7200	@IP
+CIDR-Report-Bogon4	black	https://www.cidr-report.org/bogons/freespace-prefix.txt	/opt/accomplist/work/cidr-report-bogon4.list	7200	@IP
+CIDR-Report-Bogon6	black	https://www.cidr-report.org/bogons/freespace-prefix6.txt	/opt/accomplist/work/cidr-report-bogon6.list	7200	@IP

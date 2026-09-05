@@ -1,0 +1,18 @@
+Include	black!	/opt/accomplist/games.include!	/opt/accomplist/work/include.list	7200	@DOMAIN	@IP
+UT1-Games	black!	/opt/ut1/games/domains!	/opt/accomplist/work/ut1-games.list	7200	@DOMAIN	@IP
+UT1-Gambling	black!	/opt/ut1/gambling/domains!	/opt/accomplist/work/ut-gambling.list	7200	@DOMAIN	@IP
+Hagezi	black!	/opt/hagezi/Gambling/domains!	/opt/accomplist/work/hagezi.list	7200	@DOMAIN	@IP
+
+Roblox	black!	/opt/accomplist/chris/entities/roblox.dom.list!	/opt/accomplist/work/roblox-ip.list	7200	@DOMAIN	@IP
+Roblox-IP	black!	/opt/accomplist/chris/entities/roblox.cidr.list!	/opt/accomplist/work/roblox-ip.list	7200	@IP
+SnapChat	black!	/opt/accomplist/chris/entities/snapshat.dom.list!	/opt/accomplist/work/snapchat.list	7200	@DOMAIN	@IP
+SnapChat-IP	black!	/opt/accomplist/chris/entities/snapshat.cidr.list!	/opt/accomplist/work/snapchat.list	7200	@IP
+Blizzard	black!	/opt/accomplist/chris/entities/blizzard.dom.list!	/opt/accomplist/work/blizzard.list	7200	@DOMAIN	@IP
+RIOT	black!	/opt/accomplist/chris/entities/riotgames.dom.list!	/opt/accomplist/work/riot.list	7200	@DOMAIN	@IP
+RIOT-IP	black!	/opt/accomplist/chris/entities/riotgames.cidr.list!	/opt/accomplist/work/riot-ip.list	7200	@IP
+Unity	black!	/opt/accomplist/chris/entities/unity.dom.list!	/opt/accomplist/work/unity.list	7200	@DOMAIN	@IP
+
+McHost	black!	https://static.mchost.fun/public/online-games.txt!	/opt/accomplist/work/mchost.list	7200	@HOST0	@IP
+Jannik	black!	https://raw.githubusercontent.com/Jannik44/pihole-browser-games-blocklist/main/online-games.txt!	/opt/accomplist/work/jannik.list	7200	@HOST0	@IP
+BLP-Gambling	black!	https://raw.githubusercontent.com/blocklistproject/Lists/refs/heads/master/gambling.txt!	/opt/accomplist/work/blp-gambling.list	7200	@HOST0	@IP
+Sinfonietta	black!	https://raw.githubusercontent.com/Sinfonietta/hostfiles/refs/heads/master/gambling-hosts!	/opt/accomplist/work/sinfonietta.list	7200	@HOST0	@IP

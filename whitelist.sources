@@ -1,0 +1,26 @@
+Include	white	/opt/accomplist/whitelist.include!	/opt/accomplist/work/whitelist.list	7200	@DOMAIN	@IP
+
+Chris-Whitelist	white	/opt/accomplist/chris/white!	/opt/accomplist/work/chris-whitelist.list	7200	@DOMAIN	@IP
+Chris-Connect	white	/opt/accomplist/chris/connectivity-check.list!	/opt/accomplist/work/connect.list	7200	@DOMAIN	@IP
+Adguard-Android-White	white	https://raw.githubusercontent.com/AdguardTeam/HttpsExclusions/master/exclusions/android.txt	/opt/accomplist/work/adguard-android-white.list	7200	@DOMAIN	@IP
+Adguard-Banks-White	white	https://raw.githubusercontent.com/AdguardTeam/HttpsExclusions/master/exclusions/banks.txt	/opt/accomplist/work/adguard-banks-white.list	7200	@DOMAIN	@IP
+Adguard-Issues-White	white	https://raw.githubusercontent.com/AdguardTeam/HttpsExclusions/master/exclusions/issues.txt	/opt/accomplist/work/adguard-issues-white.list	7200	@DOMAIN	@IP
+Adguard-Mac-White	white	https://raw.githubusercontent.com/AdguardTeam/HttpsExclusions/master/exclusions/mac.txt	/opt/accomplist/work/adguard-mac-white.list	7200	@DOMAIN	@IP
+Adguard-Sensitive-White	white	https://raw.githubusercontent.com/AdguardTeam/HttpsExclusions/master/exclusions/sensitive.txt	/opt/accomplist/work/adguard-sensitive-white.list	7200	@DOMAIN	@IP
+#NextDNS-Affiliate	white	https://raw.githubusercontent.com/nextdns/metadata/master/others/affiliate-domains	/opt/accomplist/work/nextdns-affiliate.list	7200	@DOMAIN	@IP
+#ShadowWhisperer	white	https://raw.githubusercontent.com/ShadowWisperer/BlockLists/master/Whitelists/Whitelist	/opt/accomplist/work/shadowwhisperer.list	7200	@DOMAIN	@IP
+Chad	white	https://raw.githubusercontent.com/chadmayfield/my-pihole-blocklists/master/white.list	/opt/accomplist/work/chad.list	7200	@DOMAIN	@IP
+#Notracking-Whitelist	white	https://raw.githubusercontent.com/notracking/hosts-blocklists-scripts/master/hostnames.whitelist.txt	/opt/accomplist/notracking.list	7200	@DOMAIN	@IP
+AnuDeep	white	https://raw.githubusercontent.com/anudeepND/whitelist/master/domains/whitelist.txt	/opt/accomplist/work/anudeep.list	7200	@DOMAIN	@IP
+Pi-DNS	white	https://raw.githubusercontent.com/NoExitTV/pi-dns/master/domains/whitelist.txt	/opt/accomplist/work/pi-dns.list	7200	@DOMAIN	@IP
+AdGuard-Dutch-White	white	https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/DutchFilter/sections/whitelist.txt	/opt/accomplist/work/adguard-dutch-white.list	7200	@ADBLOCK-WHITE	@ADBLOCK-EXCLUDE
+AdGuard-English-White	white	https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/EnglishFilter/sections/whitelist.txt	/opt/accomplist/work/adguard-english-white.list	7200	@ADBLOCK-WHITE	@ADBLOCK-EXCLUDE
+AdGuard-French-White	white	https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/FrenchFilter/sections/whitelist.txt	/opt/accomplist/work/adguard-french-white.list	7200	@ADBLOCK-WHITE	@ADBLOCK-EXCLUDE
+AdGuard-Mobile-White	white	https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/MobileFilter/sections/whitelist.txt	/opt/accomplist/work/adguard-mobile-white.list	7200	@ADBLOCK-WHITE	@ADBLOCK-EXCLUDE
+#OISD	white	/opt/accomplist/chris/oisd-exclude.list!	/opt/accomplist/work/oisdwl.list	7200	@DOMAIN	@IP
+MMoti	white	https://raw.githubusercontent.com/mmotti/pihole-regex/master/whitelist.list	/opt/accomplist/work/mmotti/mmoti-white.list	7200	@DOMAIN	@IP
+
+UT1-Finance	white	/opt/ut1/financial/domains!	/opt/accomplist/work/ut1-finance.list	7200	@DOMAIN	@IP
+
+ND-Typo-Exclusions	white	https://raw.githubusercontent.com/nextdns/metadata/master/security/typosquatting/exclusions	/opt/accomplist/work/nd-typo-exclusions	7200	@DOMAIN	@IP
+ND-DDNS-Exclusions	white	https://raw.githubusercontent.com/nextdns/metadata/master/security/ddns/exclusions	/opt/accomplist/work/nd-ddns-exclusions.list	7200	@DOMAIN	@IP

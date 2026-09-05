@@ -1,0 +1,16 @@
+Typo-Exclusions	white	https://raw.githubusercontent.com/nextdns/metadata/master/security/typosquatting/exclusions	/opt/accomplist/work/typo-exclusions	7200	@DOMAIN	@IP
+DDNS-Exclusions	white	https://raw.githubusercontent.com/nextdns/metadata/master/security/ddns/exclusions	/opt/accomplist/work/ddns-exclusions.list	7200	@DOMAIN	@IP
+#NextDNS-Cloak	black	https://raw.githubusercontent.com/nextdns/cname-cloaking-blocklist/master/domains	/opt/accomplist/work/nextdns-cloak.list	7200	@DOMAIN	@IP
+NextDNS-BT	black	https://raw.githubusercontent.com/nextdns/bittorrent-blocklist/master/domains	/opt/accomplist/work/nextdns-bt.list	7200	@DOMAIN	@IP
+NextDNS-Parked	black	https://raw.githubusercontent.com/nextdns/metadata/master/security/parked-domains-cname	/opt/accomplist/work/nextdns-parked.list	7200	@DOMAIN	@IP
+NextDNS-DoX	black	https://raw.githubusercontent.com/nextdns/metadata/master/parentalcontrol/bypass-methods	/opt/accomplist/work/nextdns-dox.list	7200	@DOMAIN	@IP
+DHT-Bootstrap	black	https://raw.githubusercontent.com/nextdns/piracy-blocklists/master/dht-bootstrap-nodes	/opt/accomplist/work/dht-bootstrap.list	7200	@DOMAIN	@IP
+FileHosting	black	https://raw.githubusercontent.com/nextdns/piracy-blocklists/master/file-hosting	/opt/accomplist/work/file-hosting.lisy	7200	@DOMAIN	@IP
+Proxies	black	https://raw.githubusercontent.com/nextdns/piracy-blocklists/master/proxies	/opt/accomplist/work/proxies.list	7200	@DOMAIN	@IP
+Audio	black	https://raw.githubusercontent.com/nextdns/piracy-blocklists/master/streaming-audio	/opt/accomplist/work/audio.list	7200	@DOMAIN	@IP
+Video	black	https://raw.githubusercontent.com/nextdns/piracy-blocklists/master/streaming-video	/opt/accomplist/work/video.list	7200	@DOMAIN	@IP
+Torrent-Clients	black	https://raw.githubusercontent.com/nextdns/piracy-blocklists/master/torrent-clients	/opt/accomplist/work/torrent-clients.list	7200	@DOMAIN	@IP
+Torrent-Trackers	black	https://raw.githubusercontent.com/nextdns/piracy-blocklists/master/torrent-trackers	/opt/accomplist/work/torrent-trackers.list	7200	@DOMAIN	@IP
+Torrent-Websites	black	https://raw.githubusercontent.com/nextdns/piracy-blocklists/master/torrent-websites	/opt/accomplist/work/torrent-websites.list	7200	@DOMAIN	@IP
+UseNet	black	https://raw.githubusercontent.com/nextdns/piracy-blocklists/master/usenet	/opt/accomplist/work/usenet.list	7200	@DOMAIN	@IP
+Warez	black	https://raw.githubusercontent.com/nextdns/piracy-blocklists/master/warez	/opt/accomplist/work/warez.list	7200	@DOMAIN	@IP
