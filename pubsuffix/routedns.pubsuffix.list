@@ -1,0 +1,951 @@
+# TLDs/SLDs Generated from:
+#     https://publicsuffix.org/list/public_suffix_list.dat (IANA Only)
+#     https://data.iana.org/TLD/tlds-alpha-by-domain.txt
+#     https://en.wikipedia.org/wiki/Second-level_domain
+#
+# Syntax: Domain without starting dot: Domain Only
+#         Domain with starting dot: Domain and SubDomains
+#
+# Version: 1788563675
+
+# AC : http://nic.ac/rules.htm
+ac
+.com.ac
+.edu.ac
+.gov.ac
+.mil.ac
+.net.ac
+.nic.ac
+.org.ac
+
+# AD : https://www.iana.org/domains/root/db/ad.html
+.ad
+
+# AE : https://www.iana.org/domains/root/db/ae.html
+ae
+.ac.ae
+.co.ae
+.gov.ae
+.mil.ae
+.net.ae
+.nic.ae
+.org.ae
+.sch.ae
+
+# AERO : https://information.aero/registration/policies/dmp
+.aero
+
+# AF : https://www.nic.af/domain-price
+af
+.com.af
+.edu.af
+.gov.af
+.net.af
+.nic.af
+.org.af
+
+# AG : http://www.nic.ag/prices.htm
+.ag
+
+# AI : http://nic.com.ai/
+.ai
+
+# AL : http://www.ert.gov.al/ert_alb/faq_det.html?Id=31
+al
+.com.al
+.edu.al
+.gov.al
+.mil.al
+.net.al
+.org.al
+
+# AM : https://www.amnic.net/policy/en/Policy_EN.pdf
+.am
+
+# AO : https://www.iana.org/domains/root/db/ao.html
+ao
+.co.ao
+.dns.ao
+.ed.ao
+.edu.ao
+.gov.ao
+.gv.ao
+.it.ao
+.og.ao
+.org.ao
+.pb.ao
+
+# AQ : https://www.iana.org/domains/root/db/aq.html
+.aq
+
+# AR : https://nic.ar/es/nic-argentina/normativa
+ar
+.bet.ar
+.com.ar
+.coop.ar
+.edu.ar
+.gob.ar
+.gov.ar
+.int.ar
+.mil.ar
+.musica.ar
+.mutual.ar
+.net.ar
+.nic.ar
+.org.ar
+.seg.ar
+.senasa.ar
+.tur.ar
+
+# ARPA : https://www.iana.org/domains/root/db/arpa.html
+# !!! FORCED ARPA !!!
+arpa
+.e164.arpa
+.home.arpa
+.in-addr.arpa
+.ip6.arpa
+.iris.arpa
+.uri.arpa
+.urn.arpa
+
+# AS : https://www.iana.org/domains/root/db/as.html
+as
+.gov.as
+
+# ASIA : https://www.iana.org/domains/root/db/asia.html
+.asia
+
+# AT : https://www.iana.org/domains/root/db/at.html
+.at
+
+# AU : https://www.iana.org/domains/root/db/au.html
+# !!! FORCED AU !!!
+au
+.act.au
+.asn.au
+.com.au
+.conf.au
+.edu.au
+.gov.au
+.gw.au
+.id.au
+.net.au
+.nsw.au
+.nt.au
+.org.au
+.otc.au
+.oz.au
+.qld.au
+.sa.au
+.tas.au
+.telememo.au
+.vic.au
+.wa.au
+
+# AW : https://www.iana.org/domains/root/db/aw.html
+.aw
+
+# AX : https://www.iana.org/domains/root/db/ax.html
+.ax
+
+# AZ : https://www.iana.org/domains/root/db/az.html
+az
+.biz.az
+.co.az
+.com.az
+.edu.az
+.gov.az
+.info.az
+.int.az
+.mil.az
+.name.az
+.net.az
+.org.az
+.pp.az
+.pro.az
+.whois.az
+
+# BA : https://www.iana.org/domains/root/db/ba.html
+ba
+.com.ba
+.edu.ba
+.gov.ba
+.mil.ba
+.net.ba
+.org.ba
+
+# BB : https://www.iana.org/domains/root/db/bb.html
+bb
+.biz.bb
+.co.bb
+.com.bb
+.edu.bb
+.gov.bb
+.info.bb
+.net.bb
+.org.bb
+.store.bb
+.tv.bb
+
+# BD : https://www.iana.org/domains/root/db/bd.html
+bd
+.ac.bd
+.ai.bd
+.co.bd
+.com.bd
+.edu.bd
+.gov.bd
+.id.bd
+.info.bd
+.it.bd
+.mil.bd
+.net.bd
+.org.bd
+.sch.bd
+.tv.bd
+
+# BE : https://www.iana.org/domains/root/db/be.html
+.be
+
+# BF : https://www.iana.org/domains/root/db/bf.html
+bf
+.gov.bf
+
+# BG : https://www.iana.org/domains/root/db/bg.html
+.bg
+
+# BH : https://www.iana.org/domains/root/db/bh.html
+bh
+.com.bh
+.edu.bh
+.gov.bh
+.net.bh
+.org.bh
+
+# BI : https://www.iana.org/domains/root/db/bi.html
+.bi
+
+# BIZ : https://www.iana.org/domains/root/db/biz.html
+.biz
+
+# BJ : https://nic.bj/bj-suffixes.txt
+.bj
+
+# BM : https://www.bermudanic.bm/domain-registration/index.php
+bm
+.bermudanic.bm
+.com.bm
+.edu.bm
+.gov.bm
+.net.bm
+.org.bm
+
+# BN : http://www.bnnic.bn/faqs
+bn
+.bnnic.bn
+.co.bn
+.com.bn
+.edu.bn
+.gov.bn
+.net.bn
+.org.bn
+
+# BO : https://nic.bo
+.bo
+
+# BR : http://registro.br/dominio/categoria.html
+br
+.9guacu.br
+.abc.br
+.adm.br
+.adv.br
+.agr.br
+.aju.br
+.am.br
+.anani.br
+.aparecida.br
+.api.br
+.app.br
+.arq.br
+.art.br
+.ato.br
+.barueri.br
+.b.br
+.belem.br
+.bet.br
+.bhz.br
+.bib.br
+.bio.br
+.blog.br
+.bmd.br
+.boavista.br
+.bsb.br
+.campinagrande.br
+.campinas.br
+.caxias.br
+.cim.br
+.cng.br
+.cnt.br
+.com.br
+.contagem.br
+.coop.br
+.coz.br
+.cri.br
+.cuiaba.br
+.curitiba.br
+.def.br
+.des.br
+.det.br
+.dev.br
+.ecn.br
+.eco.br
+.edu.br
+.emp.br
+.enf.br
+.eng.br
+.esp.br
+.etc.br
+.eti.br
+.far.br
+.feira.br
+.flog.br
+.floripa.br
+.fm.br
+.fnd.br
+.fortal.br
+.fot.br
+.foz.br
+.fst.br
+.g12.br
+.geo.br
+.ggf.br
+.goiania.br
+.gov.br
+.gru.br
+.ia.br
+.imb.br
+.ind.br
+.inf.br
+.jab.br
+.jampa.br
+.jdf.br
+.joinville.br
+.jor.br
+.jus.br
+.leg.br
+.leilao.br
+.lel.br
+.log.br
+.londrina.br
+.macapa.br
+.maceio.br
+.manaus.br
+.maringa.br
+.mat.br
+.med.br
+.mil.br
+.morena.br
+.mp.br
+.mus.br
+.natal.br
+.net.br
+.niteroi.br
+.nom.br
+.not.br
+.ntr.br
+.odo.br
+.ong.br
+.org.br
+.osasco.br
+.palmas.br
+.poa.br
+.ppg.br
+.pro.br
+.psc.br
+.psi.br
+.pvh.br
+.qsl.br
+.radio.br
+.rec.br
+.recife.br
+.registro.br
+.rep.br
+.ribeirao.br
+.rio.br
+.riobranco.br
+.riopreto.br
+.salvador.br
+.sampa.br
+.santamaria.br
+.santoandre.br
+.saobernardo.br
+.saogonca.br
+.seg.br
+.sjc.br
+.slg.br
+.slz.br
+.social.br
+.sorocaba.br
+.srv.br
+.taxi.br
+.tc.br
+.tec.br
+.teo.br
+.the.br
+.tmp.br
+.trd.br
+.tur.br
+.tv.br
+.udi.br
+.vet.br
+.vix.br
+.vlog.br
+.wiki.br
+.xyz.br
+.zlg.br
+
+# BS : http://www.nic.bs/rules.html
+bs
+.com.bs
+.edu.bs
+.gov.bs
+.net.bs
+.nic.bs
+.org.bs
+
+# BT : https://www.iana.org/domains/root/db/bt.html
+bt
+.com.bt
+.edu.bt
+.gov.bt
+.net.bt
+.org.bt
+
+# BV : No registrations at this time.
+.bv
+
+# BW : https://www.iana.org/domains/root/db/bw.html
+bw
+.ac.bw
+.co.bw
+.gov.bw
+.net.bw
+.org.bw
+
+# BY : https://www.iana.org/domains/root/db/by.html
+by
+.com.by
+.gov.by
+.hoster.by
+.mil.by
+.of.by
+.tld.by
+
+# BZ : https://www.iana.org/domains/root/db/bz.html
+bz
+.belizenic.bz
+.co.bz
+.com.bz
+.edu.bz
+.gov.bz
+.net.bz
+.org.bz
+
+# CA : https://www.iana.org/domains/root/db/ca.html
+.ca
+
+# CAT : https://www.iana.org/domains/root/db/cat.html
+.cat
+
+# CC : https://www.iana.org/domains/root/db/cc.html
+.cc
+
+# CD : https://www.iana.org/domains/root/db/cd.html
+cd
+.gov.cd
+
+# CF : https://www.iana.org/domains/root/db/cf.html
+.cf
+
+# CG : https://www.iana.org/domains/root/db/cg.html
+.cg
+
+# CH : https://www.iana.org/domains/root/db/ch.html
+.ch
+
+# CI : https://www.iana.org/domains/root/db/ci.html
+.ci
+
+# CK : https://www.iana.org/domains/root/db/ck.html
+# !!! FORCED-TLD .CK
+.ck
+
+# CL : https://www.nic.cl
+cl
+.co.cl
+.gob.cl
+.gov.cl
+.mil.cl
+
+# CM : https://www.iana.org/domains/root/db/cm.html plus bug 981927
+cm
+.co.cm
+.com.cm
+.gov.cm
+.net.cm
+
+# CN : https://www.iana.org/domains/root/db/cn.html
+# !!! FORCED CN !!!
+cn
+.ac.cn
+.ah.cn
+.bj.cn
+.cnnic.cn
+.com.cn
+.cq.cn
+.edu.cn
+.fj.cn
+.gd.cn
+.gov.cn
+.gs.cn
+.gx.cn
+.gz.cn
+.ha.cn
+.hb.cn
+.he.cn
+.hi.cn
+.hk.cn
+.hl.cn
+.hn.cn
+.jl.cn
+.js.cn
+.jx.cn
+.ln.cn
+.mil.cn
+.mo.cn
+.net.cn
+.nm.cn
+.nx.cn
+.org.cn
+.qh.cn
+.sc.cn
+.sd.cn
+.sh.cn
+.sn.cn
+.sx.cn
+.tj.cn
+.tw.cn
+.xj.cn
+.xn--55qx5d.cn # IDN: .公司.cn
+.xn--io0a7i.cn # IDN: .网络.cn
+.xn--od0alg.cn # IDN: .網絡.cn
+.xz.cn
+.yn.cn
+.zj.cn
+
+# CO : https://www.iana.org/domains/root/db/co.html
+co
+.com.co
+.edu.co
+.gov.co
+.mil.co
+.net.co
+.nom.co
+.org.co
+
+# COM : https://www.iana.org/domains/root/db/com.html
+# !!! FORCED-TLD .COM
+.com
+
+# COOP : https://www.iana.org/domains/root/db/coop.html
+.coop
+
+# CR : https://nic.cr/capitulo-1-registro-de-un-nombre-de-dominio/
+.cr
+
+# CU : https://www.iana.org/domains/root/db/cu.html
+.cu
+
+# CV : https://www.iana.org/domains/root/db/cv.html
+.cv
+
+# CW : https://www.uoc.cw/cw-registry
+.cw
+
+# CX : https://www.iana.org/domains/root/db/cx.html
+cx
+.gov.cx
+
+# CY : http://www.nic.cy/
+cy
+.ac.cy
+.biz.cy
+.com.cy
+.ekloges.cy
+.gov.cy
+.ltd.cy
+.mil.cy
+.net.cy
+.nic.cy
+.org.cy
+.press.cy
+.pro.cy
+.tm.cy
+
+# CZ : https://www.iana.org/domains/root/db/cz.html
+cz
+.e4you.cz
+.gov.cz
+.i-registry.cz
+.metacentrum.cz
+
+# DE : https://www.iana.org/domains/root/db/de.html
+.de
+
+# DJ : https://www.iana.org/domains/root/db/dj.html
+.dj
+
+# DK : https://www.iana.org/domains/root/db/dk.html
+.dk
+
+# DM : https://www.iana.org/domains/root/db/dm.html
+dm
+.co.dm
+.com.dm
+.edu.dm
+.gov.dm
+.net.dm
+.nic.dm
+.org.dm
+
+# DO : https://www.iana.org/domains/root/db/do.html
+do
+.art.do
+.com.do
+.craft.do
+.edu.do
+.gob.do
+.gov.do
+.mil.do
+.net.do
+.org.do
+.sld.do
+.web.do
+
+# DZ : http://www.nic.dz/images/pdf_nic/charte.pdf
+dz
+.art.dz
+.asso.dz
+.com.dz
+.edu.dz
+.gov.dz
+.net.dz
+.nic.dz
+.org.dz
+.pol.dz
+.soc.dz
+.tm.dz
+
+# EC : https://www.nic.ec/
+ec
+.abg.ec
+.adm.ec
+.agron.ec
+.arqt.ec
+.art.ec
+.bar.ec
+.chef.ec
+.com.ec
+.cont.ec
+.cpa.ec
+.cue.ec
+.dent.ec
+.dgn.ec
+.disco.ec
+.doc.ec
+.edu.ec
+.eng.ec
+.esm.ec
+.fin.ec
+.fot.ec
+.gal.ec
+.gob.ec
+.gov.ec
+.gye.ec
+.ibr.ec
+.info.ec
+.k12.ec
+.lat.ec
+.loj.ec
+.med.ec
+.mil.ec
+.mktg.ec
+.mon.ec
+.net.ec
+.nic.ec
+.ntr.ec
+.odont.ec
+.org.ec
+.pro.ec
+.prof.ec
+.psic.ec
+.psiq.ec
+.pub.ec
+.rio.ec
+.rrpp.ec
+.sal.ec
+.tech.ec
+.tul.ec
+.tur.ec
+.uio.ec
+.vet.ec
+.xxx.ec
+
+# EDU : https://www.iana.org/domains/root/db/edu.html
+# !!! FORCED-TLD .EDU
+.edu
+
+# EE : https://www.internet.ee/domains/general-domains-and-procedure-for-registration-of-sub-domains-under-general-domains
+ee
+.aip.ee
+.com.ee
+.edu.ee
+.fie.ee
+.gov.ee
+.internet.ee
+.lib.ee
+.med.ee
+.org.ee
+.pri.ee
+.riik.ee
+
+# EG : https://www.iana.org/domains/root/db/eg.html
+eg
+.ac.eg
+.com.eg
+.domain.eg
+.dotmasr.eg
+.edu.eg
+.eun.eg
+.gov.eg
+.info.eg
+.me.eg
+.mil.eg
+.name.eg
+.net.eg
+.org.eg
+.sci.eg
+.sport.eg
+.tv.eg
+
+# ER : https://www.iana.org/domains/root/db/er.html
+# !!! FORCED-TLD .ER
+.er
+
+# ES : https://www.dominios.es/en
+.es
+
+# ET : https://www.iana.org/domains/root/db/et.html
+et
+.biz.et
+.com.et
+.edu.et
+.gov.et
+.info.et
+.name.et
+.net.et
+.org.et
+
+# EU : https://www.iana.org/domains/root/db/eu.html
+.eu
+
+# FI : https://www.iana.org/domains/root/db/fi.html
+.fi
+
+# FJ : https://www.iana.org/domains/root/db/fj.html
+fj
+.ac.fj
+.biz.fj
+.com.fj
+.edu.fj
+.gov.fj
+.id.fj
+.info.fj
+.mil.fj
+.name.fj
+.net.fj
+.org.fj
+.pro.fj
+
+# FK : https://www.iana.org/domains/root/db/fk.html
+# !!! FORCED-TLD .FK
+.fk
+
+# FM : https://www.iana.org/domains/root/db/fm.html
+.fm
+
+# FO : https://www.iana.org/domains/root/db/fo.html
+.fo
+
+# FR : https://www.afnic.fr/ https://www.afnic.fr/wp-media/uploads/2022/12/afnic-naming-policy-2023-01-01.pdf
+.fr
+
+# GA : https://www.iana.org/domains/root/db/ga.html
+.ga
+
+# GB : This registry is effectively dormant
+.gb
+
+# GD : https://www.iana.org/domains/root/db/gd.html
+gd
+.edu.gd
+.gov.gd
+
+# GE : https://nic.ge/en/administrator/the-ge-domain-regulations
+ge
+.com.ge
+.cyb.ge
+.edu.ge
+.gov.ge
+.llc.ge
+.net.ge
+.nic.ge
+.online.ge
+.org.ge
+.pvt.ge
+.school.ge
+.tnx.ge
+
+# GF : https://www.iana.org/domains/root/db/gf.html
+.gf
+
+# GG : https://www.channelisles.net/register-1/register-direct
+.gg
+
+# GH : https://www.iana.org/domains/root/db/gh.html
+gh
+.biz.gh
+.com.gh
+.edu.gh
+.gov.gh
+.mil.gh
+.net.gh
+.nic.gh
+.org.gh
+
+# GI : http://www.nic.gi/rules.html
+gi
+.com.gi
+.edu.gi
+.gov.gi
+.ltd.gi
+.mod.gi
+.nic.gi
+.org.gi
+
+# GL : https://www.iana.org/domains/root/db/gl.html
+.gl
+
+# GM : http://www.nic.gm/htmlpages%5Cgm-policy.htm
+.gm
+
+# GN : http://psg.com/dns/gn/gn.txt
+gn
+.ac.gn
+.com.gn
+.edu.gn
+.gov.gn
+.net.gn
+.org.gn
+
+# GOV : https://www.iana.org/domains/root/db/gov.html
+# !!! FORCED-TLD .GOV
+.gov
+
+# GP : http://www.nic.gp/index.php?lang=en
+.gp
+
+# GQ : https://www.iana.org/domains/root/db/gq.html
+.gq
+
+# GR : https://www.iana.org/domains/root/db/gr.html
+gr
+.com.gr
+.edu.gr
+.gov.gr
+.net.gr
+.org.gr
+
+# GS : https://www.iana.org/domains/root/db/gs.html
+.gs
+
+# GT : https://www.gt/sitio/registration_policy.php?lang=en
+.gt
+
+# GU : http://gadao.gov.gu/register.html
+gu
+.com.gu
+.edu.gu
+.gov.gu
+.guam.gu
+.info.gu
+.net.gu
+.org.gu
+.web.gu
+
+# GW : https://www.iana.org/domains/root/db/gw.html https://nic.gw/regras/
+.gw
+
+# GY : https://www.iana.org/domains/root/db/gy.html
+gy
+.co.gy
+.com.gy
+.edu.gy
+.gov.gy
+.net.gy
+.org.gy
+.registry.gy
+
+# HK : https://www.hkirc.hk
+# !!! FORCED HK !!!
+hk
+.com.hk
+.edu.hk
+.gov.hk
+.hkirc.hk
+.idv.hk
+.net.hk
+.org.hk
+.xn--55qx5d.hk # IDN: .公司.hk
+.xn--ciqpn.hk # IDN: .个人.hk
+.xn--gmq050i.hk # IDN: .箇人.hk
+.xn--gmqw5a.hk # IDN: .個人.hk
+.xn--io0a7i.hk # IDN: .网络.hk
+.xn--lcvr32d.hk # IDN: .敎育.hk
+.xn--mk0axi.hk # IDN: .组織.hk
+.xn--mxtq1m.hk # IDN: .政府.hk
+.xn--od0alg.hk # IDN: .網絡.hk
+.xn--od0aq3b.hk # IDN: .网絡.hk
+.xn--tn0ag.hk # IDN: .组织.hk
+.xn--uc0atv.hk # IDN: .組織.hk
+.xn--uc0ay4a.hk # IDN: .組织.hk
+.xn--wcvs22d.hk # IDN: .教育.hk
+.xn--zf0avx.hk # IDN: .網络.hk
+
+# HM : https://www.iana.org/domains/root/db/hm.html
+.hm
+
+# HN : https://www.iana.org/domains/root/db/hn.html
+.hn
+
+# HR : http://www.dns.hr/documents/pdf/HRTLD-regulations.pdf
+.hr
+
+# HT : http://www.nic.ht/info/charte.cfm
+.ht
+
+# HU : https://www.iana.org/domains/root/db/hu.html
+.hu
+
+# ID : https://www.iana.org/domains/root/db/id.html
+.id
