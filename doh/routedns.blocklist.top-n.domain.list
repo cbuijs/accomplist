@@ -27,6 +27,7 @@
 .dns.quickline.ch
 .doh.quickline.ch
 .dot.quickline.ch
+.dns.simplylinux.ch
 .switch.ch
 .dnsotls.lab.nic.cl
 .justhost.bedro.cloud
@@ -432,7 +433,6 @@
 .adguard.ihatemy.live
 .ab.mc.ihatemy.live
 .anycast.mc.ihatemy.live
-.balancer.mc.ihatemy.live
 .eu-central.mc.ihatemy.live
 .doh.domreg.lt
 .crd.circl.lu
@@ -666,6 +666,7 @@
 .unicast.uncensoreddns.org
 .dns.w3ctag.org
 .wikimedia-dns.org
+.toolbox.cloud.zknt.org
 .doh.zknt.org
 .dns.mateo.ovh
 .dns.panszelescik.pl
