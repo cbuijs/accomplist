@@ -1,0 +1,96 @@
+; BIND RPZ blacklist
+$TTL 3600
+@ SOA dummy-1788583306-ns hostmaster 1788583306 12h 15m 3w 3h
+@ NS dummy-1788583306-ns
+dummy-1788583306-ns A 0.0.0.0
+dummy-1788583306-ns AAAA ::
+;
+; --- TLDS ---
+;
+; --- DOMAINS ---
+zsp1.ah.be CNAME .
+*.zsp1.ah.be CNAME .
+a.medialaancdn.be CNAME .
+*.a.medialaancdn.be CNAME .
+advertising-cdn.dpgmedia.cloud CNAME .
+*.advertising-cdn.dpgmedia.cloud CNAME .
+advertising-module.api.dpgmedia.cloud CNAME .
+*.advertising-module.api.dpgmedia.cloud CNAME .
+nextdaymedia-ads.s3.amazonaws.com CNAME .
+*.nextdaymedia-ads.s3.amazonaws.com CNAME .
+partner.bol.com CNAME .
+*.partner.bol.com CNAME .
+partnerprogramma.bol.com CNAME .
+*.partnerprogramma.bol.com CNAME .
+optoutadvertising.com CNAME .
+*.optoutadvertising.com CNAME .
+bannersimages.s-bol.com CNAME .
+*.bannersimages.s-bol.com CNAME .
+sponsorkliks.com CNAME .
+*.sponsorkliks.com CNAME .
+trickyrock.com CNAME .
+*.trickyrock.com CNAME .
+nojazz.eu CNAME .
+*.nojazz.eu CNAME .
+ads.nextday.media CNAME .
+*.ads.nextday.media CNAME .
+adconfigproxy.azurewebsites.net CNAME .
+*.adconfigproxy.azurewebsites.net CNAME .
+kjdsfjisdfjr23.azurewebsites.net CNAME .
+*.kjdsfjisdfjr23.azurewebsites.net CNAME .
+wertuipsertj34.azurewebsites.net CNAME .
+*.wertuipsertj34.azurewebsites.net CNAME .
+x9t7g4m2qk2.azurewebsites.net CNAME .
+*.x9t7g4m2qk2.azurewebsites.net CNAME .
+sp.dpgmedia.net CNAME .
+*.sp.dpgmedia.net CNAME .
+dt51.net CNAME .
+*.dt51.net CNAME .
+dt71.net CNAME .
+*.dt71.net CNAME .
+nonstoppartner.net CNAME .
+*.nonstoppartner.net CNAME .
+static-dscn.net CNAME .
+*.static-dscn.net CNAME .
+adswag.nl CNAME .
+*.adswag.nl CNAME .
+zsp1.ah.nl CNAME .
+*.zsp1.ah.nl CNAME .
+content2.besteproduct.nl CNAME .
+*.content2.besteproduct.nl CNAME .
+ds1.nl CNAME .
+*.ds1.nl CNAME .
+tools.islive.nl CNAME .
+*.tools.islive.nl CNAME .
+content2.kieskeurig.nl CNAME .
+*.content2.kieskeurig.nl CNAME .
+content2.nrc.nl CNAME .
+*.content2.nrc.nl CNAME .
+preroll.omroepvenlo.nl CNAME .
+*.preroll.omroepvenlo.nl CNAME .
+content1.pcmweb.nl CNAME .
+*.content1.pcmweb.nl CNAME .
+pexi.nl CNAME .
+*.pexi.nl CNAME .
+content1.pu.nl CNAME .
+*.content1.pu.nl CNAME .
+content2.pu.nl CNAME .
+*.content2.pu.nl CNAME .
+adcdn.ster.nl CNAME .
+*.adcdn.ster.nl CNAME .
+content1.zoom.nl CNAME .
+*.content1.zoom.nl CNAME .
+content2.zoom.nl CNAME .
+*.content2.zoom.nl CNAME .
+https-filtering-check.adtidy.org CNAME .
+*.https-filtering-check.adtidy.org CNAME .
+go2.go2cloud.org CNAME .
+*.go2.go2cloud.org CNAME .
+viadata.store CNAME .
+*.viadata.store CNAME .
+;
+; --- IPv4 ---
+;
+; --- IPv6 ---
+;
+; --- EOF ---

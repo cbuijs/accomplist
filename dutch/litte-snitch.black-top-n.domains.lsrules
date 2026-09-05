@@ -1,0 +1,5 @@
+{
+	"name" : "Accomplist Dutch black-top-n-list",
+	"description" : "Accomplist *Dutch-top-n* blacklist (1788583306). See: https://github.com/cbuijs/accomplist",
+	"denied-remote-domains" : ["zsp1.ah.nl", "sponsorkliks.com", "a.medialaancdn.be", "adconfigproxy.azurewebsites.net", "content2.kieskeurig.nl", "go2.go2cloud.org", "advertising-module.api.dpgmedia.cloud", "ds1.nl", "static-dscn.net", "content1.pu.nl", "sp.dpgmedia.net", "content1.zoom.nl", "tools.islive.nl", "pexi.nl", "viadata.store", "optoutadvertising.com", "zsp1.ah.be", "bannersimages.s-bol.com", "content2.nrc.nl", "preroll.omroepvenlo.nl", "dt51.net", "partner.bol.com", "https-filtering-check.adtidy.org", "nojazz.eu", "advertising-cdn.dpgmedia.cloud", "content1.pcmweb.nl", "trickyrock.com", "wertuipsertj34.azurewebsites.net", "content2.pu.nl", "nonstoppartner.net", "x9t7g4m2qk2.azurewebsites.net", "nextdaymedia-ads.s3.amazonaws.com", "kjdsfjisdfjr23.azurewebsites.net", "adswag.nl", "dt71.net", "partnerprogramma.bol.com", "content2.zoom.nl", "content2.besteproduct.nl", "ads.nextday.media", "adcdn.ster.nl", "dummy"]
+}

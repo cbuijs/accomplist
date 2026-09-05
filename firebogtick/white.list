@@ -1,0 +1,24 @@
+############################################
+### ACCOMPLIST GENERATED WHITELIST       ###
+### Version: 1788587000                  ###
+### Chris Buijs                          ###
+### https://github.com/cbuijs/accomplist ###
+############################################
+
+### SAFELIST DOMAINS ###
+### SAFEUNWHITELIST DOMAINS ###
+### WHITELIST REGEXES ###
+### WHITELIST DOMAINS ###
+phishing.army	Source
+urlhaus.abuse.ch	Source
+raw.githubusercontent.com	Source
+gitlab.com	Source
+hostfiles.frogeye.fr	Source
+v.firebog.net	Source
+adaway.org	Source
+pgl.yoyo.org	Source
+lists.cyberhost.uk	Source
+### WHITELIST ASN ###
+### WHITELIST IPv4 ###
+### WHITELIST IPv6 ###
+### WHITELIST EOF ###

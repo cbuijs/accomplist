@@ -1,0 +1,48 @@
+; BIND RPZ whitelist
+$TTL 3600
+@ SOA dummy-1788582711-ns hostmaster 1788582711 12h 15m 3w 3h
+@ NS dummy-1788582711-ns
+dummy-1788582711-ns A 0.0.0.0
+dummy-1788582711-ns AAAA ::
+;
+; --- TLDS ---
+;
+; --- DOMAINS ---
+wwwimage-tve.cbsstatic.com CNAME .
+*.wwwimage-tve.cbsstatic.com CNAME .
+autocomplete.clearbit.com CNAME .
+*.autocomplete.clearbit.com CNAME .
+raw.githubusercontent.com CNAME .
+*.raw.githubusercontent.com CNAME .
+identity.mparticle.com CNAME .
+*.identity.mparticle.com CNAME .
+chart-embed.service.newrelic.com CNAME .
+*.chart-embed.service.newrelic.com CNAME .
+ondemand.sas.com CNAME .
+*.ondemand.sas.com CNAME .
+faculty.uml.edu CNAME .
+*.faculty.uml.edu CNAME .
+cbsi.map.fastly.net CNAME .
+*.cbsi.map.fastly.net CNAME .
+inflight.pacwisp.net CNAME .
+*.inflight.pacwisp.net CNAME .
+secure.fanboy.co.nz CNAME .
+*.secure.fanboy.co.nz CNAME .
+easylist-downloads.adblockplus.org CNAME .
+*.easylist-downloads.adblockplus.org CNAME .
+discretemath.org CNAME .
+*.discretemath.org CNAME .
+optout.networkadvertising.org CNAME .
+*.optout.networkadvertising.org CNAME .
+content.ingbank.pl CNAME .
+*.content.ingbank.pl CNAME .
+easylist.to CNAME .
+*.easylist.to CNAME .
+stats.britishbaseball.org.uk CNAME .
+*.stats.britishbaseball.org.uk CNAME .
+;
+; --- IPv4 ---
+;
+; --- IPv6 ---
+;
+; --- EOF ---

@@ -1,0 +1,5 @@
+{
+	"name" : "Accomplist Tlds black-top-n-list",
+	"description" : "Accomplist *Tlds-top-n* blacklist (1788582973). See: https://github.com/cbuijs/accomplist",
+	"denied-remote-domains" : ["us.org", "qzz.io", "xx.kg", "dpdns.org", "example.org", "example.net", "us.com", "example.com", "co.com", "za.com", "us.kg", "sa.com", "dummy"]
+}
