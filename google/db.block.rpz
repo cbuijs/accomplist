@@ -1,0 +1,8 @@
+; BIND RPZ Zone
+$TTL 3600
+@ SOA ns hostmaster 1788563660 12h 15m 3w 3h
+;
+; HOSTS
+;
+; DOMAINS
+; EOF
