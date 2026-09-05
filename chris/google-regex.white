@@ -1,0 +1,6 @@
+/^(imap|pop|smtp)\.g(oogle[-]*)*mail\.com(\.)*$/
+/^(.*\.)*clients[0-9]*\.google\.com(\.)*$/
+/^(.*\.)*gvt[0-9]\.com(.)*$/
+/^(.*\.)*googleusercontent\.com(\.)*$/
+/^(.*\.)*[is].ytimg.com(\.)*$/
+/^.*-pa.clients[0-9]*.google\.com(\.)*$/

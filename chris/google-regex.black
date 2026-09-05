@@ -1,0 +1,9 @@
+### Google
+/^admob\./
+/^(.*\.)*google[-]*(analytic|syndication|(ad[a-z0-9]*|tag)[-]*service)[sz]*\./
+/^(.*\.)*(www[-]*)*google[-]*(analyti[ck]+[sz]*|(ad|tag)[sz]*[-]*manager)\./
+/^(.*\.)*double[-]*cli([ck]+[sz]*|[ck]+[sz-]*by[-]*google)[0-9]*\./
+/^(.*\.)*(google|partner|(secure)*pub)[-]*ad[sz]*([-]*api[s]*)*\./
+/^(.*\.)*(adservice|cse|id|pagead([0-9]+)*)\.google\..*$/
+/^(.*\.)*(ad|adservice|adword|analytic|gg|googleadapi|google[-]*analytics|gstaticadssl|id|marketing([-]*platform)*|page[-]*ad|page[-]*ad[-]*googlehosted|partner[-]*ad|tag[-]*manager|video[-]*stat|www[-]*google[-]*analytic|www[-]*googletagmanager)[0-9s]*\.google\.([a-z]{2,3}\.)*[a-z]{2,3}(\.)*$/
+/^(.*\.)*firebase.*\.google.*$/
