@@ -63,7 +63,6 @@
 .dns.quickline.ch
 .doh.quickline.ch
 .dot.quickline.ch
-.dns.simplylinux.ch
 .switch.ch
 .adguard.ruby.ci
 .dns.michelo.cl
@@ -811,6 +810,7 @@
 .adguard.ihatemy.live
 .ab.mc.ihatemy.live
 .anycast.mc.ihatemy.live
+.balancer.mc.ihatemy.live
 .eu-central.mc.ihatemy.live
 .lifeisa.live
 .solaxy.live
