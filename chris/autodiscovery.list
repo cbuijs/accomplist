@@ -8159,6 +8159,7 @@ autoconfig.icp0.io
 autoconfig.raw.icp0.io
 autoconfig.icp1.io
 autoconfig.raw.icp1.io
+autoconfig.opencloud.me
 autoconfig.icp.net
 autoconfig.caffeine.site
 autoconfig.caffeine.xyz
@@ -9820,8 +9821,8 @@ autoconfig.nz.basketball
 autoconfig.subsc-pay.com
 autoconfig.subsc-pay.net
 autoconfig.git-pages.rit.edu
-autoconfig.builtwithrocket.new
 autoconfig.rocketpreview.app
+autoconfig.builtwithrocket.new
 autoconfig.rocky.page
 autoconfig.rub.de
 autoconfig.ruhr-uni-bochum.de
@@ -18480,6 +18481,7 @@ _autodiscover.icp0.io
 _autodiscover.raw.icp0.io
 _autodiscover.icp1.io
 _autodiscover.raw.icp1.io
+_autodiscover.opencloud.me
 _autodiscover.icp.net
 _autodiscover.caffeine.site
 _autodiscover.caffeine.xyz
@@ -20141,8 +20143,8 @@ _autodiscover.nz.basketball
 _autodiscover.subsc-pay.com
 _autodiscover.subsc-pay.net
 _autodiscover.git-pages.rit.edu
-_autodiscover.builtwithrocket.new
 _autodiscover.rocketpreview.app
+_autodiscover.builtwithrocket.new
 _autodiscover.rocky.page
 _autodiscover.rub.de
 _autodiscover.ruhr-uni-bochum.de
@@ -28801,6 +28803,7 @@ autodiscover.icp0.io
 autodiscover.raw.icp0.io
 autodiscover.icp1.io
 autodiscover.raw.icp1.io
+autodiscover.opencloud.me
 autodiscover.icp.net
 autodiscover.caffeine.site
 autodiscover.caffeine.xyz
@@ -30462,8 +30465,8 @@ autodiscover.nz.basketball
 autodiscover.subsc-pay.com
 autodiscover.subsc-pay.net
 autodiscover.git-pages.rit.edu
-autodiscover.builtwithrocket.new
 autodiscover.rocketpreview.app
+autodiscover.builtwithrocket.new
 autodiscover.rocky.page
 autodiscover.rub.de
 autodiscover.ruhr-uni-bochum.de
@@ -39122,6 +39125,7 @@ b._dns-sd.icp0.io
 b._dns-sd.raw.icp0.io
 b._dns-sd.icp1.io
 b._dns-sd.raw.icp1.io
+b._dns-sd.opencloud.me
 b._dns-sd.icp.net
 b._dns-sd.caffeine.site
 b._dns-sd.caffeine.xyz
@@ -40783,8 +40787,8 @@ b._dns-sd.nz.basketball
 b._dns-sd.subsc-pay.com
 b._dns-sd.subsc-pay.net
 b._dns-sd.git-pages.rit.edu
-b._dns-sd.builtwithrocket.new
 b._dns-sd.rocketpreview.app
+b._dns-sd.builtwithrocket.new
 b._dns-sd.rocky.page
 b._dns-sd.rub.de
 b._dns-sd.ruhr-uni-bochum.de
@@ -49443,6 +49447,7 @@ db._dns-sd.icp0.io
 db._dns-sd.raw.icp0.io
 db._dns-sd.icp1.io
 db._dns-sd.raw.icp1.io
+db._dns-sd.opencloud.me
 db._dns-sd.icp.net
 db._dns-sd.caffeine.site
 db._dns-sd.caffeine.xyz
@@ -51104,8 +51109,8 @@ db._dns-sd.nz.basketball
 db._dns-sd.subsc-pay.com
 db._dns-sd.subsc-pay.net
 db._dns-sd.git-pages.rit.edu
-db._dns-sd.builtwithrocket.new
 db._dns-sd.rocketpreview.app
+db._dns-sd.builtwithrocket.new
 db._dns-sd.rocky.page
 db._dns-sd.rub.de
 db._dns-sd.ruhr-uni-bochum.de
@@ -59764,6 +59769,7 @@ isatap.icp0.io
 isatap.raw.icp0.io
 isatap.icp1.io
 isatap.raw.icp1.io
+isatap.opencloud.me
 isatap.icp.net
 isatap.caffeine.site
 isatap.caffeine.xyz
@@ -61425,8 +61431,8 @@ isatap.nz.basketball
 isatap.subsc-pay.com
 isatap.subsc-pay.net
 isatap.git-pages.rit.edu
-isatap.builtwithrocket.new
 isatap.rocketpreview.app
+isatap.builtwithrocket.new
 isatap.rocky.page
 isatap.rub.de
 isatap.ruhr-uni-bochum.de
@@ -70085,6 +70091,7 @@ lb._dns-sd.icp0.io
 lb._dns-sd.raw.icp0.io
 lb._dns-sd.icp1.io
 lb._dns-sd.raw.icp1.io
+lb._dns-sd.opencloud.me
 lb._dns-sd.icp.net
 lb._dns-sd.caffeine.site
 lb._dns-sd.caffeine.xyz
@@ -71746,8 +71753,8 @@ lb._dns-sd.nz.basketball
 lb._dns-sd.subsc-pay.com
 lb._dns-sd.subsc-pay.net
 lb._dns-sd.git-pages.rit.edu
-lb._dns-sd.builtwithrocket.new
 lb._dns-sd.rocketpreview.app
+lb._dns-sd.builtwithrocket.new
 lb._dns-sd.rocky.page
 lb._dns-sd.rub.de
 lb._dns-sd.ruhr-uni-bochum.de
@@ -80406,6 +80413,7 @@ wpad.icp0.io
 wpad.raw.icp0.io
 wpad.icp1.io
 wpad.raw.icp1.io
+wpad.opencloud.me
 wpad.icp.net
 wpad.caffeine.site
 wpad.caffeine.xyz
@@ -82067,8 +82075,8 @@ wpad.nz.basketball
 wpad.subsc-pay.com
 wpad.subsc-pay.net
 wpad.git-pages.rit.edu
-wpad.builtwithrocket.new
 wpad.rocketpreview.app
+wpad.builtwithrocket.new
 wpad.rocky.page
 wpad.rub.de
 wpad.ruhr-uni-bochum.de
@@ -90727,6 +90735,7 @@ wpad.tcp.icp0.io
 wpad.tcp.raw.icp0.io
 wpad.tcp.icp1.io
 wpad.tcp.raw.icp1.io
+wpad.tcp.opencloud.me
 wpad.tcp.icp.net
 wpad.tcp.caffeine.site
 wpad.tcp.caffeine.xyz
@@ -92388,8 +92397,8 @@ wpad.tcp.nz.basketball
 wpad.tcp.subsc-pay.com
 wpad.tcp.subsc-pay.net
 wpad.tcp.git-pages.rit.edu
-wpad.tcp.builtwithrocket.new
 wpad.tcp.rocketpreview.app
+wpad.tcp.builtwithrocket.new
 wpad.tcp.rocky.page
 wpad.tcp.rub.de
 wpad.tcp.ruhr-uni-bochum.de
