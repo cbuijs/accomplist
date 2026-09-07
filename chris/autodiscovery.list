@@ -368,6 +368,7 @@ autoconfig.deporte.bo
 autoconfig.ecologia.bo
 autoconfig.economia.bo
 autoconfig.empresa.bo
+autoconfig.ia.bo
 autoconfig.indigena.bo
 autoconfig.industria.bo
 autoconfig.info.bo
@@ -4871,9 +4872,11 @@ autoconfig.net.pn
 autoconfig.org.pn
 autoconfig.post
 autoconfig.pr
+autoconfig.ac.pr
 autoconfig.biz.pr
 autoconfig.com.pr
 autoconfig.edu.pr
+autoconfig.est.pr
 autoconfig.gov.pr
 autoconfig.info.pr
 autoconfig.isla.pr
@@ -4881,8 +4884,6 @@ autoconfig.name.pr
 autoconfig.net.pr
 autoconfig.org.pr
 autoconfig.pro.pr
-autoconfig.ac.pr
-autoconfig.est.pr
 autoconfig.prof.pr
 autoconfig.pro
 autoconfig.aaa.pro
@@ -10690,6 +10691,7 @@ _autodiscover.deporte.bo
 _autodiscover.ecologia.bo
 _autodiscover.economia.bo
 _autodiscover.empresa.bo
+_autodiscover.ia.bo
 _autodiscover.indigena.bo
 _autodiscover.industria.bo
 _autodiscover.info.bo
@@ -15193,9 +15195,11 @@ _autodiscover.net.pn
 _autodiscover.org.pn
 _autodiscover.post
 _autodiscover.pr
+_autodiscover.ac.pr
 _autodiscover.biz.pr
 _autodiscover.com.pr
 _autodiscover.edu.pr
+_autodiscover.est.pr
 _autodiscover.gov.pr
 _autodiscover.info.pr
 _autodiscover.isla.pr
@@ -15203,8 +15207,6 @@ _autodiscover.name.pr
 _autodiscover.net.pr
 _autodiscover.org.pr
 _autodiscover.pro.pr
-_autodiscover.ac.pr
-_autodiscover.est.pr
 _autodiscover.prof.pr
 _autodiscover.pro
 _autodiscover.aaa.pro
@@ -21012,6 +21014,7 @@ autodiscover.deporte.bo
 autodiscover.ecologia.bo
 autodiscover.economia.bo
 autodiscover.empresa.bo
+autodiscover.ia.bo
 autodiscover.indigena.bo
 autodiscover.industria.bo
 autodiscover.info.bo
@@ -25515,9 +25518,11 @@ autodiscover.net.pn
 autodiscover.org.pn
 autodiscover.post
 autodiscover.pr
+autodiscover.ac.pr
 autodiscover.biz.pr
 autodiscover.com.pr
 autodiscover.edu.pr
+autodiscover.est.pr
 autodiscover.gov.pr
 autodiscover.info.pr
 autodiscover.isla.pr
@@ -25525,8 +25530,6 @@ autodiscover.name.pr
 autodiscover.net.pr
 autodiscover.org.pr
 autodiscover.pro.pr
-autodiscover.ac.pr
-autodiscover.est.pr
 autodiscover.prof.pr
 autodiscover.pro
 autodiscover.aaa.pro
@@ -31334,6 +31337,7 @@ b._dns-sd.deporte.bo
 b._dns-sd.ecologia.bo
 b._dns-sd.economia.bo
 b._dns-sd.empresa.bo
+b._dns-sd.ia.bo
 b._dns-sd.indigena.bo
 b._dns-sd.industria.bo
 b._dns-sd.info.bo
@@ -35837,9 +35841,11 @@ b._dns-sd.net.pn
 b._dns-sd.org.pn
 b._dns-sd.post
 b._dns-sd.pr
+b._dns-sd.ac.pr
 b._dns-sd.biz.pr
 b._dns-sd.com.pr
 b._dns-sd.edu.pr
+b._dns-sd.est.pr
 b._dns-sd.gov.pr
 b._dns-sd.info.pr
 b._dns-sd.isla.pr
@@ -35847,8 +35853,6 @@ b._dns-sd.name.pr
 b._dns-sd.net.pr
 b._dns-sd.org.pr
 b._dns-sd.pro.pr
-b._dns-sd.ac.pr
-b._dns-sd.est.pr
 b._dns-sd.prof.pr
 b._dns-sd.pro
 b._dns-sd.aaa.pro
@@ -41656,6 +41660,7 @@ db._dns-sd.deporte.bo
 db._dns-sd.ecologia.bo
 db._dns-sd.economia.bo
 db._dns-sd.empresa.bo
+db._dns-sd.ia.bo
 db._dns-sd.indigena.bo
 db._dns-sd.industria.bo
 db._dns-sd.info.bo
@@ -46159,9 +46164,11 @@ db._dns-sd.net.pn
 db._dns-sd.org.pn
 db._dns-sd.post
 db._dns-sd.pr
+db._dns-sd.ac.pr
 db._dns-sd.biz.pr
 db._dns-sd.com.pr
 db._dns-sd.edu.pr
+db._dns-sd.est.pr
 db._dns-sd.gov.pr
 db._dns-sd.info.pr
 db._dns-sd.isla.pr
@@ -46169,8 +46176,6 @@ db._dns-sd.name.pr
 db._dns-sd.net.pr
 db._dns-sd.org.pr
 db._dns-sd.pro.pr
-db._dns-sd.ac.pr
-db._dns-sd.est.pr
 db._dns-sd.prof.pr
 db._dns-sd.pro
 db._dns-sd.aaa.pro
@@ -51978,6 +51983,7 @@ isatap.deporte.bo
 isatap.ecologia.bo
 isatap.economia.bo
 isatap.empresa.bo
+isatap.ia.bo
 isatap.indigena.bo
 isatap.industria.bo
 isatap.info.bo
@@ -56481,9 +56487,11 @@ isatap.net.pn
 isatap.org.pn
 isatap.post
 isatap.pr
+isatap.ac.pr
 isatap.biz.pr
 isatap.com.pr
 isatap.edu.pr
+isatap.est.pr
 isatap.gov.pr
 isatap.info.pr
 isatap.isla.pr
@@ -56491,8 +56499,6 @@ isatap.name.pr
 isatap.net.pr
 isatap.org.pr
 isatap.pro.pr
-isatap.ac.pr
-isatap.est.pr
 isatap.prof.pr
 isatap.pro
 isatap.aaa.pro
@@ -62300,6 +62306,7 @@ lb._dns-sd.deporte.bo
 lb._dns-sd.ecologia.bo
 lb._dns-sd.economia.bo
 lb._dns-sd.empresa.bo
+lb._dns-sd.ia.bo
 lb._dns-sd.indigena.bo
 lb._dns-sd.industria.bo
 lb._dns-sd.info.bo
@@ -66803,9 +66810,11 @@ lb._dns-sd.net.pn
 lb._dns-sd.org.pn
 lb._dns-sd.post
 lb._dns-sd.pr
+lb._dns-sd.ac.pr
 lb._dns-sd.biz.pr
 lb._dns-sd.com.pr
 lb._dns-sd.edu.pr
+lb._dns-sd.est.pr
 lb._dns-sd.gov.pr
 lb._dns-sd.info.pr
 lb._dns-sd.isla.pr
@@ -66813,8 +66822,6 @@ lb._dns-sd.name.pr
 lb._dns-sd.net.pr
 lb._dns-sd.org.pr
 lb._dns-sd.pro.pr
-lb._dns-sd.ac.pr
-lb._dns-sd.est.pr
 lb._dns-sd.prof.pr
 lb._dns-sd.pro
 lb._dns-sd.aaa.pro
@@ -72622,6 +72629,7 @@ wpad.deporte.bo
 wpad.ecologia.bo
 wpad.economia.bo
 wpad.empresa.bo
+wpad.ia.bo
 wpad.indigena.bo
 wpad.industria.bo
 wpad.info.bo
@@ -77125,9 +77133,11 @@ wpad.net.pn
 wpad.org.pn
 wpad.post
 wpad.pr
+wpad.ac.pr
 wpad.biz.pr
 wpad.com.pr
 wpad.edu.pr
+wpad.est.pr
 wpad.gov.pr
 wpad.info.pr
 wpad.isla.pr
@@ -77135,8 +77145,6 @@ wpad.name.pr
 wpad.net.pr
 wpad.org.pr
 wpad.pro.pr
-wpad.ac.pr
-wpad.est.pr
 wpad.prof.pr
 wpad.pro
 wpad.aaa.pro
@@ -82944,6 +82952,7 @@ wpad.tcp.deporte.bo
 wpad.tcp.ecologia.bo
 wpad.tcp.economia.bo
 wpad.tcp.empresa.bo
+wpad.tcp.ia.bo
 wpad.tcp.indigena.bo
 wpad.tcp.industria.bo
 wpad.tcp.info.bo
@@ -87447,9 +87456,11 @@ wpad.tcp.net.pn
 wpad.tcp.org.pn
 wpad.tcp.post
 wpad.tcp.pr
+wpad.tcp.ac.pr
 wpad.tcp.biz.pr
 wpad.tcp.com.pr
 wpad.tcp.edu.pr
+wpad.tcp.est.pr
 wpad.tcp.gov.pr
 wpad.tcp.info.pr
 wpad.tcp.isla.pr
@@ -87457,8 +87468,6 @@ wpad.tcp.name.pr
 wpad.tcp.net.pr
 wpad.tcp.org.pr
 wpad.tcp.pro.pr
-wpad.tcp.ac.pr
-wpad.tcp.est.pr
 wpad.tcp.prof.pr
 wpad.tcp.pro
 wpad.tcp.aaa.pro
