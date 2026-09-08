@@ -3,6 +3,7 @@
 .tiar.app
 .dns.redhosting.com.ar
 .dnsdoh.art
+.dns.wang.art
 .rfree1.blue-shield.at
 .rfree2.blue-shield.at
 .dns.kescher.at
@@ -27,6 +28,7 @@
 .dns.quickline.ch
 .doh.quickline.ch
 .dot.quickline.ch
+.dns.simplylinux.ch
 .switch.ch
 .dnsotls.lab.nic.cl
 .justhost.bedro.cloud
@@ -783,6 +785,7 @@
 .dns.levonet.sk
 .crypto.sx
 .dns.startupstack.tech
+.dns.koala.us.to
 .doh.viatech.com.tw
 .adguard.shuting.idv.tw
 .dns.twnic.tw
@@ -804,6 +807,8 @@
 .dns.watch
 .dns.brahma.world
 .123000123.xyz
+.opennic.i2pd.xyz
+.opennic2.i2pd.xyz
 .pihole.datamatter.co.za
 .dns.oliviertv.co.za
 .pooblet.co.za
