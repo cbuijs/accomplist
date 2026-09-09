@@ -8926,6 +8926,8 @@ autoconfig.cloud.goog
 autoconfig.translate.goog
 autoconfig.usercontent.goog
 autoconfig.cloudfunctions.net
+autoconfig.cloud.run
+autoconfig.ai.studio
 autoconfig.goupile.fr
 autoconfig.pymnt.uk
 autoconfig.gov.nl
@@ -19249,6 +19251,8 @@ _autodiscover.cloud.goog
 _autodiscover.translate.goog
 _autodiscover.usercontent.goog
 _autodiscover.cloudfunctions.net
+_autodiscover.cloud.run
+_autodiscover.ai.studio
 _autodiscover.goupile.fr
 _autodiscover.pymnt.uk
 _autodiscover.gov.nl
@@ -29572,6 +29576,8 @@ autodiscover.cloud.goog
 autodiscover.translate.goog
 autodiscover.usercontent.goog
 autodiscover.cloudfunctions.net
+autodiscover.cloud.run
+autodiscover.ai.studio
 autodiscover.goupile.fr
 autodiscover.pymnt.uk
 autodiscover.gov.nl
@@ -39895,6 +39901,8 @@ b._dns-sd.cloud.goog
 b._dns-sd.translate.goog
 b._dns-sd.usercontent.goog
 b._dns-sd.cloudfunctions.net
+b._dns-sd.cloud.run
+b._dns-sd.ai.studio
 b._dns-sd.goupile.fr
 b._dns-sd.pymnt.uk
 b._dns-sd.gov.nl
@@ -50218,6 +50226,8 @@ db._dns-sd.cloud.goog
 db._dns-sd.translate.goog
 db._dns-sd.usercontent.goog
 db._dns-sd.cloudfunctions.net
+db._dns-sd.cloud.run
+db._dns-sd.ai.studio
 db._dns-sd.goupile.fr
 db._dns-sd.pymnt.uk
 db._dns-sd.gov.nl
@@ -60541,6 +60551,8 @@ isatap.cloud.goog
 isatap.translate.goog
 isatap.usercontent.goog
 isatap.cloudfunctions.net
+isatap.cloud.run
+isatap.ai.studio
 isatap.goupile.fr
 isatap.pymnt.uk
 isatap.gov.nl
@@ -70864,6 +70876,8 @@ lb._dns-sd.cloud.goog
 lb._dns-sd.translate.goog
 lb._dns-sd.usercontent.goog
 lb._dns-sd.cloudfunctions.net
+lb._dns-sd.cloud.run
+lb._dns-sd.ai.studio
 lb._dns-sd.goupile.fr
 lb._dns-sd.pymnt.uk
 lb._dns-sd.gov.nl
@@ -81187,6 +81201,8 @@ wpad.cloud.goog
 wpad.translate.goog
 wpad.usercontent.goog
 wpad.cloudfunctions.net
+wpad.cloud.run
+wpad.ai.studio
 wpad.goupile.fr
 wpad.pymnt.uk
 wpad.gov.nl
@@ -91510,6 +91526,8 @@ wpad.tcp.cloud.goog
 wpad.tcp.translate.goog
 wpad.tcp.usercontent.goog
 wpad.tcp.cloudfunctions.net
+wpad.tcp.cloud.run
+wpad.tcp.ai.studio
 wpad.tcp.goupile.fr
 wpad.tcp.pymnt.uk
 wpad.tcp.gov.nl
