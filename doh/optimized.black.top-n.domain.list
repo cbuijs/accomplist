@@ -436,7 +436,6 @@ eth.link
 adguard.ihatemy.live
 ab.mc.ihatemy.live
 anycast.mc.ihatemy.live
-balancer.mc.ihatemy.live
 eu-central.mc.ihatemy.live
 doh.domreg.lt
 crd.circl.lu
@@ -507,6 +506,8 @@ jit.ddns.net
 adguard.depieri.net
 ddns.depieri.net
 ddns-casa.depieri.net
+adguard.lege.despagne.net
+mimile.despagne.net
 dns.digitalsize.net
 tls-dns-u.odvr.dns-oarc.net
 dns4me.net
@@ -807,8 +808,6 @@ adguard.quydang.name.vn
 dns.watch
 dns.brahma.world
 123000123.xyz
-opennic.i2pd.xyz
-opennic2.i2pd.xyz
 pihole.datamatter.co.za
 dns.oliviertv.co.za
 pooblet.co.za
