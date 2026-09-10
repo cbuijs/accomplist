@@ -1,6 +1,6 @@
 [Adblock Plus 1.1]
 ! Title: Accomplist "Tlds" AdBlock List (Top-N Version)
-! Version: 1788927091
+! Version: 1789013093
 ! Homepage: https://github.com/cbuijs/accomplist/tree/master/tlds
 !
 ! WhiteList Domains:
@@ -1088,6 +1088,8 @@
 @@||shueisha.online^
 ! Sub-domain "vmwesa.online" unblacklisted from domain "online"
 @@||vmwesa.online^
+! Sub-domain "volla.online" unblacklisted from domain "online"
+@@||volla.online^
 ! Sub-domain "zander.online" unblacklisted from domain "online"
 @@||zander.online^
 ! Sub-domain "term.ooo" unblacklisted from domain "ooo"
@@ -2498,7 +2500,6 @@
 ||*.hotels^
 ||*.house^
 ||*.how^
-||*.hr^
 ||*.htm^
 ||*.html^
 ||*.htmls^
