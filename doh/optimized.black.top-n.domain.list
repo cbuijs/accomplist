@@ -436,7 +436,6 @@ eth.link
 adguard.ihatemy.live
 ab.mc.ihatemy.live
 anycast.mc.ihatemy.live
-eu-central.mc.ihatemy.live
 doh.domreg.lt
 crd.circl.lu
 dns.circl.lu
@@ -454,6 +453,7 @@ ihctw.synology.me
 att.aaaab3n.moe
 caddy.aaaab3n.moe
 doh.aaaab3n.moe
+nc.aaaab3n.moe
 dns.kosan.moe
 dns.noridev.moe
 res-acst1.absolight.net
@@ -512,7 +512,6 @@ dns.digitalsize.net
 tls-dns-u.odvr.dns-oarc.net
 dns4me.net
 dns.dnsoverhttps.net
-gustamadh.dynv6.net
 dnscache.e-utp.net
 dns.envs.net
 doh.ersei.net
@@ -545,7 +544,6 @@ zrh1-ns01.monzoon.net
 dns.mullvad.net
 doh.mullvad.net
 echoe1yidzu4ioo5.myfritz.net
-hjp0axcec1d.sn.mynetname.net
 ae-fuj-w-p-1.nashkan.net
 ae-fuj-w-p-2.nashkan.net
 ae-fuj-w-p-3.nashkan.net

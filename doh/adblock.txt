@@ -1,6 +1,6 @@
 [Adblock Plus 1.1]
 ! Title: Accomplist "Doh" AdBlock List (Top-N Version)
-! Version: 1789013392
+! Version: 1789099125
 ! Homepage: https://github.com/cbuijs/accomplist/tree/master/doh
 !
 ! WhiteList Domains:
@@ -21,7 +21,6 @@
 ||dnsdoh.art^
 ||dns.wang.art^
 ||dns.sarak.as^
-||tlz.asia^
 ||penta.aeins.at^
 ||rfree1.blue-shield.at^
 ||rfree2.blue-shield.at^
@@ -553,7 +552,6 @@
 ||hahnjo.de^
 ||dns.hanmey.de^
 ||dns.imchristian.de^
-||dns.immanuelschaffer.de^
 ||dns1.in-berlin.de^
 ||dns2.in-berlin.de^
 ||jabber-germany.de^
@@ -823,7 +821,6 @@
 ||adguard.ihatemy.live^
 ||ab.mc.ihatemy.live^
 ||anycast.mc.ihatemy.live^
-||eu-central.mc.ihatemy.live^
 ||lifeisa.live^
 ||solaxy.live^
 ||v2.xx3210766.live^
@@ -880,6 +877,7 @@
 ||att.aaaab3n.moe^
 ||caddy.aaaab3n.moe^
 ||doh.aaaab3n.moe^
+||nc.aaaab3n.moe^
 ||doh.asagiri.moe^
 ||christian.moe^
 ||dns.d4d.moe^
@@ -969,7 +967,6 @@
 ||tx224-9449-bj-v0.0.dxng.net^
 ||cn1.dxng.net^
 ||cn1-v1.dxng.net^
-||gustamadh.dynv6.net^
 ||dnscache.e-utp.net^
 ||adguard.easez.net^
 ||dns.eddi.net^
@@ -1023,7 +1020,6 @@
 ||dns.mullvad.net^
 ||doh.mullvad.net^
 ||echoe1yidzu4ioo5.myfritz.net^
-||hjp0axcec1d.sn.mynetname.net^
 ||doh-ca.naftalie.net^
 ||ae-fuj-w-p-1.nashkan.net^
 ||ae-fuj-w-p-2.nashkan.net^
@@ -1361,7 +1357,6 @@
 ||dns.iamninja.ru^
 ||muxyuji.ru^
 ||dns.nas-server.ru^
-||adguard.oms-ctr.ru^
 ||dns.petqa.ru^
 ||lb-gl-ru.petqa.ru^
 ||dns.ronc.ru^
@@ -1471,7 +1466,6 @@
 ||dns.watch^
 ||polisitogel.webcam^
 ||rockwell.website^
-||yuvelirtut.website^
 ||zakaria.website^
 ||urology.wiki^
 ||adg.yybyy.wiki^
