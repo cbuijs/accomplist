@@ -1,6 +1,6 @@
 [Adblock Plus 1.1]
 ! Title: Accomplist "Tlds" AdBlock List (Top-N Version)
-! Version: 1789098837
+! Version: 1789187440
 ! Homepage: https://github.com/cbuijs/accomplist/tree/master/tlds
 !
 ! WhiteList Domains:
@@ -1365,6 +1365,8 @@
 @@||swedish-supplements.shop^
 ! Sub-domain "terminal.shop" unblacklisted from domain "shop"
 @@||terminal.shop^
+! Sub-domain "thechurch.shop" unblacklisted from domain "shop"
+@@||thechurch.shop^
 ! Sub-domain "urlbluemedia.shop" unblacklisted from domain "shop"
 @@||urlbluemedia.shop^
 ! Sub-domain "vector3d.shop" unblacklisted from domain "shop"
