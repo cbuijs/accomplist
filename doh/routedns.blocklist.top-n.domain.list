@@ -436,6 +436,8 @@
 .adguard.ihatemy.live
 .ab.mc.ihatemy.live
 .anycast.mc.ihatemy.live
+.balancer.mc.ihatemy.live
+.eu-central.mc.ihatemy.live
 .doh.domreg.lt
 .crd.circl.lu
 .dns.circl.lu
@@ -512,6 +514,7 @@
 .tls-dns-u.odvr.dns-oarc.net
 .dns4me.net
 .dns.dnsoverhttps.net
+.gustamadh.dynv6.net
 .dnscache.e-utp.net
 .dns.envs.net
 .doh.ersei.net

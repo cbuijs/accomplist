@@ -8,6 +8,7 @@
 .dnsdoh.art
 .dns.wang.art
 .dns.sarak.as
+.tlz.asia
 .rfree1.blue-shield.at
 .rfree2.blue-shield.at
 .ns1.dnsprivacy.at
@@ -72,7 +73,6 @@
 .dns-1.wil.cloud
 .dns-2.wil.cloud
 .wyx.cloud
-.dns.comeonjames.club
 .adguard.ef67daisuki.club
 .ps1.modr.club
 .dns.soldier.terumi.club
@@ -199,7 +199,6 @@
 .doh.us.dnswarden.com
 .dnswebvsn.com
 .family.dns.doubleangels.com
-.easyhandshake.com
 .dns.edgeburnmedia.com
 .edgy-dns.com
 .dns.efficientdocuments.com
@@ -402,6 +401,7 @@
 .dns.grqu.de
 .dns.hanmey.de
 .dns.imchristian.de
+.dns.immanuelschaffer.de
 .dns1.in-berlin.de
 .dns2.in-berlin.de
 .jabber-germany.de
@@ -753,6 +753,7 @@
 .dns4me.net
 .dns.dnsoverhttps.net
 .takhtakh.domyah.net
+.gustamadh.dynv6.net
 .dnscache.e-utp.net
 .adguard.easez.net
 .dns.eddi.net
@@ -1462,6 +1463,8 @@
 .pi.daniil.it
 .ab.mc.ihatemy.live
 .anycast.mc.ihatemy.live
+.balancer.mc.ihatemy.live
+.eu-central.mc.ihatemy.live
 .crd.circl.lu
 .ocph05.cornes.me
 .myip.pyry.me
