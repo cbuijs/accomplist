@@ -1,0 +1,2 @@
+# DNS/DOH/DOT etc
+/^d(ns|o[ht])[0-9]*\..*$/
