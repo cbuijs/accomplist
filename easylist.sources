@@ -1,0 +1,21 @@
+Include	black!	/opt/accomplist/easylist.include!	/opt/accomplist/work/include.list	7200	@DOMAIN	@IP
+
+EasyList	black	https://easylist.to/easylist/easylist.txt	/opt/accomplist/work/easylist.list	7200	@ADBLOCK-BLACK,ADBLOCK-ELEMENT	@ADBLOCK-EXCLUDE
+EasyList-White	white	/opt/accomplist/easylist/work/easylist.list.download	/opt/accomplist/work/easylist-white.list	7200	@ADBLOCK-WHITE	@ADBLOCK-EXCLUDE
+
+EasyPrivacy	black	https://easylist.to/easylist/easyprivacy.txt	/opt/accomplist/work/easyprivacy.list	7200	@ADBLOCK-BLACK,ADBLOCK-ELEMENT	@ADBLOCK-EXCLUDE
+EasyPrivacy-White	white	/opt/accomplist/easylist/work/easyprivacy.list.download	/opt/accomplist/work/easyprivacy-white.list	7200	@ADBLOCK-WHITE	@ADBLOCK-EXCLUDE
+
+EasyList-Dutch	black	https://easylist-downloads.adblockplus.org/easylistdutch.txt	/opt/accomplist/work/easylist-dutch.list	7200	@ADBLOCK-BLACK,ADBLOCK-ELEMENT	@ADBLOCK-EXCLUDE
+EasyList-Dutch-White	white	/opt/accomplist/easylist/work/easylist-dutch.list.download	/opt/accomplist/work/easylist-dutch-white.list	7200	@ADBLOCK-WHITE	@ADBLOCK-EXCLUDE
+
+EasyList-French	black	https://easylist-downloads.adblockplus.org/liste_fr.txt	/opt/accomplist/work/easylist-french.list	7200	@ADBLOCK-BLACK,ADBLOCK-ELEMENT	@ADBLOCK-EXCLUDE
+EasyList-French-White	white	/opt/accomplist/easylist/work/easylist-french.list.download	/opt/accomplist/work/easylist-french-white.list	7200	@ADBLOCK-WHITE	@ADBLOCK-EXCLUDE
+
+EasyList-Cookie	black	https://secure.fanboy.co.nz/fanboy-cookiemonster.txt	/opt/accomplist/work/easylist-cookie.list	7200	@ADBLOCK-BLACK,ADBLOCK-ELEMENT	@ADBLOCK-EXCLUDE
+EasyList-Cookie-White	white	/opt/accomplist/easylist/work/easylist-cookie.list.download	/opt/accomplist/work/easylist-cookie-white.list	7200	@ADBLOCK-WHITE	@ADBLOCK-EXCLUDE
+
+EasyLisy-Adult-Ads	black	https://raw.githubusercontent.com/easylist/easylist/master/easylist_adult/adult_adservers.txt	/opt/accomplist/work/easylist-adult-ads.list	7200	@ADBLOCK-BLACK,ADBLOCK-ELEMENT	@ADBLOCK-EXCLUDE
+EasyLisy-Adult-Popup	black	https://raw.githubusercontent.com/easylist/easylist/master/easylist_adult/adult_adservers_popup.txt	/opt/accomplist/work/easylist-adult-popup.list	7200	@ADBLOCK-BLACK,ADBLOCK-ELEMENT	@ADBLOCK-EXCLUDE
+EasyLisy-Adult-White	white	https://raw.githubusercontent.com/easylist/easylist/master/easylist_adult/adult_allowlist.txt	/opt/accomplist/work/easylist-adult-white.list	7200	@ADBLOCK-WHITE	@ADBLOCK-EXCLUDE
+
