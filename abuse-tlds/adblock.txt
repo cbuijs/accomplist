@@ -1,6 +1,6 @@
 [Adblock Plus 1.1]
 ! Title: Accomplist "Tlds" AdBlock List (Top-N Version)
-! Version: 1789356285
+! Version: 1789443723
 ! Homepage: https://github.com/cbuijs/accomplist/tree/master/tlds
 !
 ! WhiteList Domains:
@@ -156,6 +156,8 @@
 @@||slussen.biz^
 ! Sub-domain "surveycake.biz" unblacklisted from domain "biz"
 @@||surveycake.biz^
+! Sub-domain "swatchgroup.biz" unblacklisted from domain "biz"
+@@||swatchgroup.biz^
 ! Sub-domain "turbify.biz" unblacklisted from domain "biz"
 @@||turbify.biz^
 ! Sub-domain "volvocars.biz" unblacklisted from domain "biz"
