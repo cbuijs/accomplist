@@ -1,6 +1,6 @@
 [Adblock Plus 1.1]
 ! Title: Accomplist "Tlds" AdBlock List (Top-N Version)
-! Version: 1789616692
+! Version: 1789704069
 ! Homepage: https://github.com/cbuijs/accomplist/tree/master/tlds
 !
 ! WhiteList Domains:
@@ -1014,6 +1014,8 @@
 @@||slide.new^
 @@||google.com.ng^
 @@||coupa.ng^
+! Sub-domain "cape.ninja" unblacklisted from domain "ninja"
+@@||cape.ninja^
 ! Sub-domain "clash.ninja" unblacklisted from domain "ninja"
 @@||clash.ninja^
 ! Sub-domain "flashscore.ninja" unblacklisted from domain "ninja"
