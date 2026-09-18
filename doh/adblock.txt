@@ -1,6 +1,6 @@
 [Adblock Plus 1.1]
 ! Title: Accomplist "Doh" AdBlock List (Top-N Version)
-! Version: 1789616997
+! Version: 1789704371
 ! Homepage: https://github.com/cbuijs/accomplist/tree/master/doh
 !
 ! WhiteList Domains:
@@ -129,7 +129,6 @@
 ||adb.aadityakushwaha.com^
 ||doh.dns.apple.com.v.aaplimg.com^
 ||doh-dns-apple-com.v.aaplimg.com^
-||dns.aaytorr.com^
 ||adblockersite.com^
 ||dns.adguard.com^
 ||dns-family.adguard.com^
@@ -220,13 +219,11 @@
 ||doh.flashstart.com^
 ||dns.flwagners.com^
 ||dns.gamban.com^
-||sdns22.gkonuralp.com^
 ||dns.glorydns.com^
 ||doh-primary-pool.goodbyegambling.com^
 ||dns.google.com^
 ||google-public-dns-a.google.com^
 ||google-public-dns-b.google.com^
-||dns.guardmydns.com^
 ||geo.hafnova.com^
 ||secure.hafnova.com^
 ||adguard.haneulo.com^
@@ -559,8 +556,6 @@
 ||bazooki-infra.dev^
 ||dns.blaumer.dev^
 ||dns.caliph.dev^
-||bp.ccas.dev^
-||service.ccas.dev^
 ||nereus.codesalat.dev^
 ||daw.dev^
 ||dns.edison42.dev^
@@ -859,6 +854,7 @@
 ||dot1.applied-privacy.net^
 ||doh.appliedprivacy.net^
 ||dot1.appliedprivacy.net^
+||nb-proxy.host.arcadeus.net^
 ||doh.armadillodns.net^
 ||resolver.as203038.net^
 ||dns.ashleyjackson.net^
@@ -1334,7 +1330,6 @@
 ||qqmcfw.tech^
 ||dns.startupstack.tech^
 ||tuskythehusky.tech^
-||dns.zfsystem.tech^
 ||dns.kawa.tf^
 ||dns.koala.us.to^
 ||adfreedns.top^

@@ -117,7 +117,6 @@ dns.7vpn.com
 adb.aadityakushwaha.com
 doh.dns.apple.com.v.aaplimg.com
 doh-dns-apple-com.v.aaplimg.com
-dns.aaytorr.com
 adblockersite.com
 dns.adguard.com
 dns-family.adguard.com
@@ -208,13 +207,11 @@ dns.efficientdocuments.com
 doh.flashstart.com
 dns.flwagners.com
 dns.gamban.com
-sdns22.gkonuralp.com
 dns.glorydns.com
 doh-primary-pool.goodbyegambling.com
 dns.google.com
 google-public-dns-a.google.com
 google-public-dns-b.google.com
-dns.guardmydns.com
 geo.hafnova.com
 secure.hafnova.com
 adguard.haneulo.com
@@ -547,8 +544,6 @@ dns.applewebkit.dev
 bazooki-infra.dev
 dns.blaumer.dev
 dns.caliph.dev
-bp.ccas.dev
-service.ccas.dev
 nereus.codesalat.dev
 daw.dev
 dns.edison42.dev
@@ -847,6 +842,7 @@ doh.applied-privacy.net
 dot1.applied-privacy.net
 doh.appliedprivacy.net
 dot1.appliedprivacy.net
+nb-proxy.host.arcadeus.net
 doh.armadillodns.net
 resolver.as203038.net
 dns.ashleyjackson.net
@@ -1322,7 +1318,6 @@ dns.daarrk.tech
 qqmcfw.tech
 dns.startupstack.tech
 tuskythehusky.tech
-dns.zfsystem.tech
 dns.kawa.tf
 dns.koala.us.to
 adfreedns.top
