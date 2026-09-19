@@ -8959,6 +8959,7 @@
 .autoconfig.hercules-dev.com
 .autoconfig.here.now
 .autoconfig.herokuapp.com
+.autoconfig.compute.herokuapp.com
 .autoconfig.heyflow.page
 .autoconfig.heyflow.site
 .autoconfig.ravendb.cloud
@@ -9745,8 +9746,6 @@
 .autoconfig.qcx.io
 .autoconfig.sys.qcx.io
 .autoconfig.myqnapcloud.cn
-.autoconfig.alpha-myqnapcloud.com
-.autoconfig.dev-myqnapcloud.com
 .autoconfig.mycloudnas.com
 .autoconfig.mynascloud.com
 .autoconfig.myqnapcloud.com
@@ -19284,6 +19283,7 @@
 ._autodiscover.hercules-dev.com
 ._autodiscover.here.now
 ._autodiscover.herokuapp.com
+._autodiscover.compute.herokuapp.com
 ._autodiscover.heyflow.page
 ._autodiscover.heyflow.site
 ._autodiscover.ravendb.cloud
@@ -20070,8 +20070,6 @@
 ._autodiscover.qcx.io
 ._autodiscover.sys.qcx.io
 ._autodiscover.myqnapcloud.cn
-._autodiscover.alpha-myqnapcloud.com
-._autodiscover.dev-myqnapcloud.com
 ._autodiscover.mycloudnas.com
 ._autodiscover.mynascloud.com
 ._autodiscover.myqnapcloud.com
@@ -29609,6 +29607,7 @@
 .autodiscover.hercules-dev.com
 .autodiscover.here.now
 .autodiscover.herokuapp.com
+.autodiscover.compute.herokuapp.com
 .autodiscover.heyflow.page
 .autodiscover.heyflow.site
 .autodiscover.ravendb.cloud
@@ -30395,8 +30394,6 @@
 .autodiscover.qcx.io
 .autodiscover.sys.qcx.io
 .autodiscover.myqnapcloud.cn
-.autodiscover.alpha-myqnapcloud.com
-.autodiscover.dev-myqnapcloud.com
 .autodiscover.mycloudnas.com
 .autodiscover.mynascloud.com
 .autodiscover.myqnapcloud.com
@@ -39934,6 +39931,7 @@
 .b._dns-sd.hercules-dev.com
 .b._dns-sd.here.now
 .b._dns-sd.herokuapp.com
+.b._dns-sd.compute.herokuapp.com
 .b._dns-sd.heyflow.page
 .b._dns-sd.heyflow.site
 .b._dns-sd.ravendb.cloud
@@ -40720,8 +40718,6 @@
 .b._dns-sd.qcx.io
 .b._dns-sd.sys.qcx.io
 .b._dns-sd.myqnapcloud.cn
-.b._dns-sd.alpha-myqnapcloud.com
-.b._dns-sd.dev-myqnapcloud.com
 .b._dns-sd.mycloudnas.com
 .b._dns-sd.mynascloud.com
 .b._dns-sd.myqnapcloud.com
@@ -50259,6 +50255,7 @@
 .db._dns-sd.hercules-dev.com
 .db._dns-sd.here.now
 .db._dns-sd.herokuapp.com
+.db._dns-sd.compute.herokuapp.com
 .db._dns-sd.heyflow.page
 .db._dns-sd.heyflow.site
 .db._dns-sd.ravendb.cloud
@@ -51045,8 +51042,6 @@
 .db._dns-sd.qcx.io
 .db._dns-sd.sys.qcx.io
 .db._dns-sd.myqnapcloud.cn
-.db._dns-sd.alpha-myqnapcloud.com
-.db._dns-sd.dev-myqnapcloud.com
 .db._dns-sd.mycloudnas.com
 .db._dns-sd.mynascloud.com
 .db._dns-sd.myqnapcloud.com
@@ -60584,6 +60579,7 @@
 .isatap.hercules-dev.com
 .isatap.here.now
 .isatap.herokuapp.com
+.isatap.compute.herokuapp.com
 .isatap.heyflow.page
 .isatap.heyflow.site
 .isatap.ravendb.cloud
@@ -61370,8 +61366,6 @@
 .isatap.qcx.io
 .isatap.sys.qcx.io
 .isatap.myqnapcloud.cn
-.isatap.alpha-myqnapcloud.com
-.isatap.dev-myqnapcloud.com
 .isatap.mycloudnas.com
 .isatap.mynascloud.com
 .isatap.myqnapcloud.com
@@ -70909,6 +70903,7 @@
 .lb._dns-sd.hercules-dev.com
 .lb._dns-sd.here.now
 .lb._dns-sd.herokuapp.com
+.lb._dns-sd.compute.herokuapp.com
 .lb._dns-sd.heyflow.page
 .lb._dns-sd.heyflow.site
 .lb._dns-sd.ravendb.cloud
@@ -71695,8 +71690,6 @@
 .lb._dns-sd.qcx.io
 .lb._dns-sd.sys.qcx.io
 .lb._dns-sd.myqnapcloud.cn
-.lb._dns-sd.alpha-myqnapcloud.com
-.lb._dns-sd.dev-myqnapcloud.com
 .lb._dns-sd.mycloudnas.com
 .lb._dns-sd.mynascloud.com
 .lb._dns-sd.myqnapcloud.com
@@ -81234,6 +81227,7 @@
 .wpad.hercules-dev.com
 .wpad.here.now
 .wpad.herokuapp.com
+.wpad.compute.herokuapp.com
 .wpad.heyflow.page
 .wpad.heyflow.site
 .wpad.ravendb.cloud
@@ -82020,8 +82014,6 @@
 .wpad.qcx.io
 .wpad.sys.qcx.io
 .wpad.myqnapcloud.cn
-.wpad.alpha-myqnapcloud.com
-.wpad.dev-myqnapcloud.com
 .wpad.mycloudnas.com
 .wpad.mynascloud.com
 .wpad.myqnapcloud.com
@@ -91559,6 +91551,7 @@
 .wpad.tcp.hercules-dev.com
 .wpad.tcp.here.now
 .wpad.tcp.herokuapp.com
+.wpad.tcp.compute.herokuapp.com
 .wpad.tcp.heyflow.page
 .wpad.tcp.heyflow.site
 .wpad.tcp.ravendb.cloud
@@ -92345,8 +92338,6 @@
 .wpad.tcp.qcx.io
 .wpad.tcp.sys.qcx.io
 .wpad.tcp.myqnapcloud.cn
-.wpad.tcp.alpha-myqnapcloud.com
-.wpad.tcp.dev-myqnapcloud.com
 .wpad.tcp.mycloudnas.com
 .wpad.tcp.mynascloud.com
 .wpad.tcp.myqnapcloud.com
