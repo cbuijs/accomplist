@@ -1,0 +1,5 @@
+### Medical/Doctor/Drugs/etc ###
+/^(.*[\.\-])*(cannabis|cialis|levitra|marijuana|(avan|silden|tadal|varden)afil|spedra|spliff|stendra|viagra|xanax).*$/
+/^.*(cannabis|cialis|levitra|marijuana|(avan|silden|tadal|varden)afil|spliff|spedra|stendra|viagra|xanax)[\.\-].*$/
+/^(.*[\.\-])*(doctor|medi(c|cal|cine)|pharmacy)[sz]*.*$/
+/^.*(doctor|medi(c|cal|cine)|pharmacy)[sz]*[\.\-].*$/
