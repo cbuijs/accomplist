@@ -23,7 +23,6 @@ us1.dns.lavate.ch
 dns.quickline.ch
 doh.quickline.ch
 dot.quickline.ch
-dns.simplylinux.ch
 switch.ch
 dnsotls.lab.nic.cl
 justhost.bedro.cloud
@@ -353,6 +352,8 @@ dns.tracker.ink
 fly.io
 dns.guard.io
 doh.kidzonet.io
+de.dns.privex.io
+nl.dns.privex.io
 doh.safesurfer.io
 doh.seby.io
 doh-2.seby.io
@@ -428,6 +429,7 @@ adguard.lege.despagne.net
 mimile.despagne.net
 dns.digitalsize.net
 dns4me.net
+gustamadh.dynv6.net
 dnscache.e-utp.net
 dns.envs.net
 doh.ersei.net
@@ -561,8 +563,6 @@ jp.tiarap.org
 anycast.uncensoreddns.org
 unicast.uncensoreddns.org
 wikimedia-dns.org
-toolbox.cloud.zknt.org
-doh.zknt.org
 dns.panszelescik.pl
 n2.panszelescik.pl
 dns.dynx.pro
