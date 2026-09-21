@@ -127,6 +127,7 @@
 0x0.sk
 0x00.sk
 0x00ff.sk
+0x0a.sk
 0x0f.sk
 0x1.sk
 0xff.sk
@@ -766,7 +767,6 @@
 1f.sk
 1faktura.sk
 1fbctrencin.sk
-1fctatran.sk
 1forall.sk
 1foru.sk
 1g-d1.sk
@@ -1121,7 +1121,6 @@
 24-safe.sk
 24-sedem.sk
 24-sport.sk
-24.sk
 241295.sk
 24501.sk
 24692.sk
@@ -2312,6 +2311,7 @@
 3idea.sk
 3ideaplus.sk
 3ie.sk
+3in1host.sk
 3interier.sk
 3iplus.sk
 3it.sk
@@ -3196,12 +3196,12 @@
 4zbor.sk
 4zdravie.sk
 4zivly.sk
+4zmysly.sk
 4zs.sk
 4zsbj.sk
 4zsdt.sk
 4zsmi.sk
 5-plus-a.sk
-5-rokov-zaruka-motor.sk
 50-crowns.sk
 50.sk
 500-korun.sk
@@ -4222,7 +4222,6 @@ a10equipment.sk
 a11.sk
 a11media.sk
 a12.sk
-a129.sk
 a13concept.sk
 a15.sk
 a1a.sk
@@ -6194,6 +6193,7 @@ achp.sk
 achplevice.sk
 achplv.sk
 acht.sk
+achtamatika.sk
 achteck.sk
 achtek.sk
 achyles.sk
@@ -8227,6 +8227,7 @@ adrop.sk
 adros.sk
 adrose.sk
 adrosko.sk
+adrplus.sk
 adrporadca.sk
 adrport.sk
 adrschool.sk
@@ -9437,7 +9438,6 @@ aeyvens.sk
 aez.sk
 aezoku.sk
 aezpneuservis.sk
-af-automotive.sk
 af-bratislava.sk
 af-cap.sk
 af-car.sk
@@ -10307,6 +10307,7 @@ agnesajanokova.sk
 agneska.sk
 agnesoptik.sk
 agnet.sk
+agnetransport.sk
 agni.sk
 agnijoga.sk
 agnis.sk
@@ -11622,6 +11623,8 @@ aianalytik.sk
 aianalyza.sk
 aianalyzy.sk
 aiaplikacie.sk
+aiapp.sk
+aiapplications.sk
 aiarchitekt.sk
 aiart.sk
 aias.sk
@@ -12237,6 +12240,7 @@ aiporadenstvo.sk
 aiporadna.sk
 aiport.sk
 aiportal.sk
+aiportsupport.sk
 aipower.sk
 aippc.sk
 aipraca.sk
@@ -13684,10 +13688,8 @@ akcia.sk
 akciadnes.sk
 akcialyzi.sk
 akciaopen.sk
-akciapoint.sk
 akciaslovensko.sk
 akcibox.sk
-akcibulka.sk
 akcicmanec.sk
 akcie-bosch.sk
 akcie-cashback.sk
@@ -16854,7 +16856,6 @@ alinity.sk
 alinka.sk
 alinkadizajn.sk
 alinko.sk
-alinkozmetika.sk
 alinox.sk
 alintech.sk
 alinu.sk
@@ -16940,7 +16941,6 @@ alixpartners.sk
 alixpress.sk
 aliza.sk
 alize.sk
-alizecistiaren.sk
 alizefashionhouse.sk
 alja.sk
 aljaska.sk
@@ -20009,6 +20009,7 @@ americkybandog.sk
 americkybezsrstyterier.sk
 americkybiznis.sk
 americkydolar.sk
+americkyfutbal.sk
 americkyinterier.sk
 americkynabytok.sk
 americkysen.sk
@@ -20457,7 +20458,6 @@ amos21.sk
 amosa.sk
 amosagentura.sk
 amosdesign.sk
-amosfest.sk
 amosk.sk
 amoska.sk
 amoski.sk
@@ -20690,6 +20690,7 @@ amtservis.sk
 amtsk.sk
 amtt.sk
 amu.sk
+amugy.sk
 amuk.sk
 amulet-kosice.sk
 amulet.sk
@@ -21274,7 +21275,6 @@ andrejjanisik.sk
 andrejjurdik.sk
 andrejka.sk
 andrejkiska.sk
-andrejklucka.sk
 andrejko.sk
 andrejko2010.sk
 andrejkorec.sk
@@ -21313,6 +21313,7 @@ andrejrodak.sk
 andrejseban.sk
 andrejsimysli.sk
 andrejsitkar.sk
+andrejskolek.sk
 andrejsmolak.sk
 andrejsobota.sk
 andrejsrna.sk
@@ -21951,7 +21952,6 @@ aninature.sk
 aninka.sk
 anion.sk
 anionshop.sk
-anios.sk
 anipet.sk
 aniplanet.sk
 anir.sk
@@ -24563,7 +24563,6 @@ appkomat.sk
 appkovo.sk
 appkvetna.sk
 appky.sk
-applancesolutions.sk
 applastic.sk
 applause.sk
 apple-diely.sk
@@ -24675,6 +24674,7 @@ apprune.sk
 apps.sk
 appsec.sk
 appsense.sk
+appsforai.sk
 appshop.sk
 appshub.sk
 appsisto.sk
@@ -28823,6 +28823,7 @@ asiandelivery.sk
 asianexpress.sk
 asianfood.sk
 asianfoods.sk
+asianfoodweb.sk
 asianmassage.sk
 asianrestaurant.sk
 asianshop.sk
@@ -29496,7 +29497,6 @@ asteragroup.sk
 asteraled.sk
 asteras.sk
 astercon.sk
-asterdex.sk
 astergroup.sk
 asteri.sk
 asteria-maps.sk
@@ -30060,7 +30060,6 @@ atelier008.sk
 atelier1.sk
 atelier11.sk
 atelier1116.sk
-atelier129.sk
 atelier17.sk
 atelier2.sk
 atelier2011.sk
@@ -30558,6 +30557,7 @@ atlas-for-women.sk
 atlas-hornin.sk
 atlas-liecivych-rastlin.sk
 atlas-piv.sk
+atlas-pro.sk
 atlas-rastlin.sk
 atlas-slovensko.sk
 atlas-vk.sk
@@ -31669,7 +31669,6 @@ aulumu.sk
 aulus.sk
 aum.sk
 auma.sk
-aumaerk.sk
 aumanti.sk
 aumara.sk
 aumas.sk
@@ -31759,6 +31758,7 @@ auradecor.sk
 auradei.sk
 aurades.sk
 auradevelopment.sk
+auradoll.sk
 auradom.sk
 aurae.sk
 auraenergy.sk
@@ -31766,6 +31766,7 @@ auraessence.sk
 auraevent.sk
 auraevents.sk
 auraexpo.sk
+aurafarming.sk
 aurafloor.sk
 aurafoto.sk
 auragarage.sk
@@ -31884,7 +31885,6 @@ aurena.sk
 aurenne.sk
 aureo.sk
 aureola.sk
-aureolail.sk
 aureon.sk
 aureric.sk
 aures-holdings.sk
@@ -33628,7 +33628,6 @@ autokasper.sk
 autokassa.sk
 autokat.sk
 autokatalog.sk
-autokatalyzator.sk
 autokatalyzatory-vykup.sk
 autokavos.sk
 autokcr.sk
@@ -34542,7 +34541,6 @@ autoprepis.sk
 autoprepisonline.sk
 autoprepisy.sk
 autopreprava.sk
-autoprepravafurman.sk
 autoprepravnik.sk
 autopresov.sk
 autoprestavby.sk
@@ -34959,6 +34957,7 @@ autoservisrs.sk
 autoservisrsm.sk
 autoservisruben.sk
 autoservisruzinov.sk
+autoservisruzomberok.sk
 autoservissala.sk
 autoservissandor.sk
 autoservissenec.sk
@@ -36870,7 +36869,6 @@ awiso.sk
 awisoft.sk
 awistavebniny.sk
 awital.sk
-awk.sk
 awkprievidza.sk
 awl.sk
 awla.sk
@@ -38101,6 +38099,7 @@ babatkam.sk
 babatko.sk
 babatkoeshop.sk
 babatkovo.sk
+babatkovola.sk
 babatt.sk
 babautodoprava.sk
 babavanga.sk
@@ -38504,7 +38503,6 @@ babyosteofyzio.sk
 babypalace.sk
 babypatent.sk
 babyped.sk
-babypedia.sk
 babyplace.sk
 babyplast.sk
 babyplavanie.sk
@@ -39041,6 +39039,7 @@ bagniaristore.sk
 bagno.sk
 bagnossima-realizzo.sk
 bagnossima.sk
+bago.sk
 bagobago.sk
 bagoclassical.sk
 bagosport.sk
@@ -39849,6 +39848,7 @@ balluch.sk
 balluff.sk
 ballymoregroup.sk
 balma.sk
+balmain.sk
 balmainbeaute.sk
 balmainbeauty.sk
 balmainhair.sk
@@ -43734,7 +43734,6 @@ beachpartydubai.sk
 beachrelax.sk
 beachsoccer.sk
 beachsoccerslovakia.sk
-beachsprint.sk
 beachstyle.sk
 beachtime.sk
 beachvolley.sk
@@ -43891,7 +43890,6 @@ beatles.sk
 beatlesrevival.sk
 beatlesrevivalcesko.sk
 beatlesrevivalslovensko.sk
-beatlessband.sk
 beatme.sk
 beatmeacademy.sk
 beatmedia.sk
@@ -45084,6 +45082,7 @@ belanadcirochou.sk
 belanec.sk
 belanes.sk
 belangelo.sk
+belanservis.sk
 belanska.sk
 belanskavinaren.sk
 belanskekupele.sk
@@ -47324,6 +47323,7 @@ bet365casino.sk
 bet365partners.sk
 bet365s.sk
 bet7.sk
+beta-basketbal.sk
 beta-car.sk
 beta-glukan.sk
 beta-k.sk
@@ -49817,6 +49817,7 @@ bighobby.sk
 bighome.sk
 bighorn.sk
 bighornranch.sk
+bighost.sk
 bighuggym.sk
 bigi.sk
 bigideas.sk
@@ -51349,7 +51350,6 @@ biopult.sk
 biopurus.sk
 bioq.sk
 bioquant.sk
-bioquell.sk
 bior.sk
 bioracio.sk
 bioraciodia.sk
@@ -52399,6 +52399,7 @@ biznisportrety.sk
 biznispozicka.sk
 biznispravnik.sk
 biznispravo.sk
+biznispreintrovertov.sk
 biznisprejedneho.sk
 biznispreradost.sk
 biznispro.sk
@@ -53460,7 +53461,6 @@ blockbird.sk
 blockbistro.sk
 blockbuilder.sk
 blockchain.sk
-blockchainlabs.sk
 blockchains.sk
 blockchainslovakia.sk
 blockchainsolutions.sk
@@ -54931,6 +54931,7 @@ bodymania.sk
 bodymas.sk
 bodymasszilina.sk
 bodymax.sk
+bodyme.sk
 bodymed.sk
 bodymedcestovka.sk
 bodymetric.sk
@@ -55465,7 +55466,6 @@ bolesti-chrbtice.sk
 bolesti.sk
 bolestihrdla.sk
 bolestikolena.sk
-bolestivesyndromy.sk
 bolestivhrdle.sk
 bolestivkrku.sk
 bolestklbov.sk
@@ -55965,7 +55965,6 @@ bonneecole.sk
 bonnekamp.sk
 bonnemaman.sk
 bonnes.sk
-bonnet.sk
 bonnetka.sk
 bonnevie.sk
 bonneville.sk
@@ -56943,6 +56942,7 @@ bosiak.sk
 bosianskakozeluzna.sk
 bosig.sk
 bosikarmelitani.sk
+bosino.sk
 boska.sk
 boskanails.sk
 bosko.sk
@@ -62499,7 +62499,6 @@ butik-opel.sk
 butik-peugeot.sk
 butik.sk
 butik4u.sk
-butikante.sk
 butikcitroen.sk
 butiki.sk
 butikovo.sk
@@ -62630,6 +62629,7 @@ bv-kabeltechnik.sk
 bv-sas.sk
 bv-transport.sk
 bva.sk
+bvair.sk
 bvasro.sk
 bvatelier.sk
 bvaudio.sk
@@ -63532,7 +63532,6 @@ bytylazovna.sk
 bytylehnice.sk
 bytylevan.sk
 bytylevice.sk
-bytylichnerova.sk
 bytylikerka.sk
 bytylipova.sk
 bytyliptov.sk
@@ -63593,6 +63592,7 @@ bytyopal.sk
 bytyopoj.sk
 bytyorion.sk
 bytyovciarsko.sk
+bytyp6.sk
 bytypanonska.sk
 bytypanske.sk
 bytypartizanske.sk
@@ -63669,6 +63669,7 @@ bytytehelnepole.sk
 bytyterchova.sk
 bytyteriana.sk
 bytyteslova.sk
+bytytomcany.sk
 bytytopolcany.sk
 bytytrieda.sk
 bytytrikota.sk
@@ -64395,6 +64396,7 @@ cafecafe-cremeriamilano.sk
 cafecafe.sk
 cafecelio.sk
 cafeco.sk
+cafeconespanol.sk
 cafedecolumbia.sk
 cafedelamante.sk
 cafedelice.sk
@@ -66857,6 +66859,7 @@ carovnyden.sk
 carovnydomcek.sk
 carovnydomov.sk
 carovnydvor.sk
+carovnyhovor.sk
 carovnykotlik.sk
 carovnyles.sk
 carovnyobchod.sk
@@ -67113,7 +67116,6 @@ carsservice.sk
 carsstop.sk
 carstar.sk
 carstarbosch.sk
-carstech.sk
 carsten.sk
 carstickers.sk
 carstop.sk
@@ -67306,6 +67308,7 @@ casalito.sk
 casallia.sk
 casalliazilina.sk
 casals.sk
+casalucialamata.sk
 casaluker.sk
 casaluxa.sk
 casam.sk
@@ -67349,6 +67352,7 @@ casavit.sk
 casavita.sk
 casavo.sk
 casb.sk
+casbezi.sk
 casc.sk
 casca.sk
 cascada.sk
@@ -67431,8 +67435,6 @@ cashbag.sk
 cashbot.sk
 cashbox.sk
 cashcarry.sk
-cashcollect.sk
-cashcollection.sk
 cashcollectors.sk
 cashcow.sk
 cashfinity.sk
@@ -69310,6 +69312,7 @@ celiakshop.sk
 celiastred.sk
 celiatica.sk
 celiatici.sk
+celiatik.sk
 celiatika.sk
 celiatikom.sk
 celibeli.sk
@@ -69831,7 +69834,6 @@ centralwork.sk
 centraly.sk
 centralzone.sk
 centramed.sk
-centravi.sk
 centrazabavy.sk
 centreesthetique.sk
 centreforbioethics.sk
@@ -70741,7 +70743,6 @@ cerstve-ryby.sk
 cerstve-utrzeno.sk
 cerstve-vajcia.sk
 cerstve.sk
-cerstveadomace.sk
 cerstvebylinky.sk
 cerstvecestoviny.sk
 cerstvehlavicky.sk
@@ -71593,6 +71594,7 @@ cetete.sk
 cetetherm.sk
 cetewi.sk
 cethermal.sk
+cetia.sk
 cetilar.sk
 cetin.sk
 cetip.sk
@@ -71984,7 +71986,6 @@ chalets-turiec.sk
 chalets.sk
 chaletsbelianky.sk
 chaletsceder.sk
-chaletsciernybalog.sk
 chaletsdedinky.sk
 chaletsdonovaly.sk
 chaletsenec.sk
@@ -72904,7 +72905,6 @@ chataleonard.sk
 chatalesana.sk
 chatalesna.sk
 chatalesnicka.sk
-chatalienkaoscadnica.sk
 chatalieskovec.sk
 chatalilly.sk
 chatalimba.sk
@@ -73110,7 +73110,6 @@ chatapribylinka.sk
 chatapridedovke.sk
 chatapridunaji.sk
 chataprihorarniliptov.sk
-chataprijaskynibystra.sk
 chataprijazere.sk
 chataprijazierku.sk
 chataprikastieli.sk
@@ -73392,6 +73391,7 @@ chatgptshopping.sk
 chatgptsk.sk
 chatgptslovensko.sk
 chatice.sk
+chaticka.sk
 chatickavrchy.sk
 chatie.sk
 chatify.sk
@@ -75453,7 +75453,6 @@ chromovanie.sk
 chromspec.sk
 chromy.sk
 chronedo.sk
-chronic.sk
 chronica.sk
 chronicare.sk
 chronickarana.sk
@@ -75605,7 +75604,6 @@ chudo.sk
 chudoba.sk
 chudobavzamestnani.sk
 chudobniadeti-ukrajina.sk
-chudobnystudent.sk
 chudokrvnost.sk
 chudopet.sk
 chudovsky.sk
@@ -76041,7 +76039,6 @@ ciderbiofarm.sk
 cidevelopment.sk
 cidex.sk
 cidla.sk
-cidlines.sk
 cidreams.sk
 cidstudio.sk
 cie-cislo.sk
@@ -76255,7 +76252,6 @@ cik.sk
 cikautxo.sk
 cikcak.sk
 cike.sk
-cikicaki.sk
 cikirikii.sk
 cikislav.sk
 cikistreetball.sk
@@ -76290,6 +76286,7 @@ cilko.sk
 ciller.sk
 cilli.sk
 cillik.sk
+cilling.sk
 cillit.sk
 cillitbang.sk
 cillli.sk
@@ -76418,7 +76415,6 @@ cineservice.sk
 cineshine.sk
 cinestar.sk
 cinetech.sk
-cinetica.sk
 cinetim.sk
 cinetype.sk
 cineverse.sk
@@ -77499,7 +77495,6 @@ city-card.sk
 city-days.sk
 city-gate.sk
 city-hotel.sk
-city-hotels.sk
 city-kosice.sk
 city-locker.sk
 city-net.sk
@@ -78338,7 +78333,6 @@ cleanforce.sk
 cleangang.sk
 cleangarden.sk
 cleangeartech.sk
-cleango.sk
 cleangroup.sk
 cleanhaus.sk
 cleanhome.sk
@@ -78612,6 +78606,7 @@ click2play.sk
 click4sky.sk
 click4survey.sk
 click4u.sk
+clickandchill.sk
 clickandclil.sk
 clickandfit.sk
 clickandgo.sk
@@ -78842,6 +78837,7 @@ clip-in.sk
 clip-vlasy-lacne.sk
 clip-vlasy.sk
 clip.sk
+clipart.sk
 clipfish.sk
 cliphairshop.sk
 clipin.sk
@@ -79588,7 +79584,6 @@ coar.sk
 coardms.sk
 coari.sk
 coast1919.sk
-coastalrowing.sk
 coatech.sk
 coated.sk
 coating.sk
@@ -80424,7 +80419,6 @@ collectiveproduction.sk
 collector.sk
 collectora.sk
 collectorpick.sk
-collectors.sk
 collectorsgala.sk
 collectour.sk
 collectsun.sk
@@ -82752,6 +82746,7 @@ core3.sk
 core369.sk
 core4.sk
 corea.sk
+coreactive.sk
 coreai.sk
 coreba.sk
 corebalance.sk
@@ -83205,6 +83200,7 @@ cosmoprof.sk
 cosmos-active.sk
 cosmos.sk
 cosmosactive.sk
+cosmosbratislava.sk
 cosmosdiscovery.sk
 cosmosflowers.sk
 cosmoslac.sk
@@ -84541,7 +84537,6 @@ crimarket.sk
 crime.sk
 crimetime.sk
 criminal-baits.sk
-criminaldefense.sk
 criminaltattoo.sk
 criminon.sk
 crimjust.sk
@@ -85413,7 +85408,6 @@ cslm.sk
 cslseqirus.sk
 cslvifor.sk
 cslviforpharma.sk
-csm-agency.sk
 csm-stav.sk
 csm-tech.sk
 csm.sk
@@ -88439,7 +88433,6 @@ daligence.sk
 dalijana.sk
 dalijatrade.sk
 dalileo.sk
-dalimon.sk
 dalinegrooming.sk
 dalinora.sk
 dalio.sk
@@ -89086,6 +89079,7 @@ danielknapek.sk
 danielkojnok.sk
 danielkopunec.sk
 danielkosa.sk
+danielkostial.sk
 danielkovac.sk
 danielkravec.sk
 danielkrempasky.sk
@@ -89486,6 +89480,7 @@ danubeliving.sk
 danubelng.sk
 danubelt.sk
 danubenehnutelnosti.sk
+danubeoffice.sk
 danubeoptic.sk
 danubepark.sk
 danubepay.sk
@@ -91462,7 +91457,6 @@ dckbra.sk
 dckk.sk
 dckomjatice.sk
 dckosice.sk
-dckovanie.sk
 dckvietok.sk
 dclean.sk
 dclimbova.sk
@@ -92052,6 +92046,7 @@ decimalpoint.sk
 deciona.sk
 decisio.sk
 decision.sk
+decisionguild.sk
 deciso.sk
 decitabineandcedazuridine.sk
 deciwall.sk
@@ -92155,7 +92150,6 @@ decorboutique.sk
 decorco.sk
 decordesign.sk
 decore.sk
-decorea.sk
 decorela.sk
 decorella.sk
 decoresino.sk
@@ -92953,6 +92947,7 @@ dekort.sk
 dekortextil.sk
 dekortrade.sk
 dekortrend.sk
+dekoruj.sk
 dekorujte.sk
 dekorujto.sk
 dekorum.sk
@@ -93701,7 +93696,6 @@ demolacneprace.sk
 demolacnestroje.sk
 demolation.sk
 demolationtrans.sk
-demolay.sk
 demolex.sk
 demolicie.sk
 demolition.sk
@@ -96002,7 +95996,6 @@ detskysperk.sk
 detskyspevokol.sk
 detskysporiaciucet.sk
 detskysport.sk
-detskystrojcek.sk
 detskysuperpohar.sk
 detskysvet.sk
 detskysvetalex.sk
@@ -96553,6 +96546,7 @@ deye-energy.sk
 deye-inverter.sk
 deye-slovakia.sk
 deye-slovensko.sk
+deye-store.sk
 deye.sk
 deyeinverter.sk
 deyemonitor.sk
@@ -96717,6 +96711,7 @@ dfwood.sk
 dfwork.sk
 dfx.sk
 dfyneoutlet.sk
+dfynesk.sk
 dg-energy.sk
 dg-line.sk
 dg-shop.sk
@@ -96739,7 +96734,6 @@ dgeneraly.sk
 dgengineeringas.sk
 dgfitness.sk
 dgg.sk
-dginstal.sk
 dgit.sk
 dgksystem.sk
 dglegal.sk
@@ -97215,7 +97209,6 @@ diamantrestaurant.sk
 diamantslovakia.sk
 diamantsoda.sk
 diamantvajnory.sk
-diamanty-malovanie.sk
 diamanty.sk
 diamantylg.sk
 diamantymalovanie.sk
@@ -98043,6 +98036,7 @@ digipromo.sk
 digips.sk
 digipulse.sk
 digiq.sk
+digiradio.sk
 digirain.sk
 digireal.sk
 digireality.sk
@@ -98250,7 +98244,6 @@ digitalizujme.sk
 digitalka-afm.sk
 digitalka.sk
 digitalkey.sk
-digitalko.sk
 digitalkreativ.sk
 digitalkurz.sk
 digitalky.sk
@@ -99773,6 +99766,7 @@ divadlozkufravon.sk
 divadlozosuflika.sk
 divadlozpasaze.sk
 divadlozrakac.sk
+divago.sk
 divai.sk
 divainparfums.sk
 divak.sk
@@ -100252,7 +100246,6 @@ djjenky.sk
 djjosh.sk
 djjurajdvoran.sk
 djk.sk
-djka-nasvadbu.sk
 djka.sk
 djkali.sk
 djkarlito.sk
@@ -100342,7 +100335,6 @@ djorava.sk
 djordjevic.sk
 djoslavysvadby.sk
 djournal.sk
-djp.sk
 djpa3k.sk
 djpali.sk
 djpalirevai.sk
@@ -102704,6 +102696,7 @@ dohodari.sk
 dohodimpracu.sk
 dohodinky.sk
 dohodinyalebozdarma.sk
+dohodio.sk
 dohodkontakt.sk
 dohodneme.sk
 dohodnemesa.sk
@@ -102848,6 +102841,7 @@ dokno.sk
 doko.sk
 dokobit.sk
 dokofilm.sk
+dokola.sk
 dokolien.sk
 dokolumbie.sk
 dokonala-svadba.sk
@@ -104392,6 +104386,7 @@ domorewithgoogle.sk
 domorodec.sk
 domory.sk
 domos-technika.sk
+domos.sk
 domosafe.sk
 domoshop.sk
 domosi.sk
@@ -104941,7 +104936,6 @@ donaska-pizze-bratislava.sk
 donaska-poprad.sk
 donaska.sk
 donaska28.sk
-donaskaalkoholu.sk
 donaskabb.sk
 donaskabratislava.sk
 donaskabystrica.sk
@@ -106585,7 +106579,6 @@ dovoz-z-ciny.sk
 dovoz-z-vietnamu.sk
 dovoz.sk
 dovoz365.sk
-dovozalkoholu.sk
 dovozaut.sk
 dovozauta.sk
 dovozautanakluc.sk
@@ -109136,15 +109129,12 @@ dromo.sk
 dromon.sk
 dromtex.sk
 dron-doktor.sk
-dron-e-shop.sk
-dron-eshop.sk
 dron-inspekcia.sk
 dron-inspekcie.sk
 dron-magazin.sk
 dron-postrek.sk
 dron-postreky.sk
 dron-servis.sk
-dron-shop.sk
 dron-story.sk
 dron-termo.sk
 dron.sk
@@ -109157,7 +109147,6 @@ dronbox.sk
 droncentrum.sk
 drone-home.sk
 drone-projects.sk
-drone-shop.sk
 drone-zone.sk
 drone.sk
 droneandmore.sk
@@ -110523,6 +110512,7 @@ dudafruit.sk
 dudak.sk
 dudao.sk
 dudas.sk
+dudasko.sk
 dudasova.sk
 dudasport.sk
 dude-spin-casino.sk
@@ -111968,7 +111958,6 @@ dxa.sk
 dxb.sk
 dxc-tech.sk
 dxc.sk
-dxcorp.sk
 dxctechnology.sk
 dxhrdf.sk
 dxl.sk
@@ -112701,7 +112690,6 @@ e-kiosk.sk
 e-klient.sk
 e-klima.sk
 e-klimatizacia.sk
-e-klub.sk
 e-klucky.sk
 e-kniha.sk
 e-knihajazd.sk
@@ -113523,6 +113511,7 @@ eastconsult.sk
 eastcubator.sk
 easte.sk
 easteasy.sk
+eastereggy.sk
 eastern-star.sk
 eastern.sk
 easterncapital.sk
@@ -113626,6 +113615,7 @@ easyaccounting.sk
 easyactivestudio.sk
 easyagent.sk
 easyai.sk
+easyaiapps.sk
 easyair.sk
 easyald.sk
 easyapp.sk
@@ -114022,7 +114012,6 @@ ebardejov.sk
 ebaro.sk
 ebarter.sk
 ebase.sk
-ebasee-sk.sk
 ebasee.sk
 ebasket.sk
 ebassador.sk
@@ -114532,6 +114521,7 @@ echomed.sk
 echomedia.sk
 echon.sk
 echonoviny.sk
+echoo.sk
 echoofoman.sk
 echopoint.sk
 echopr.sk
@@ -115000,6 +114990,7 @@ econea.sk
 econec.sk
 econest.sk
 econet.sk
+econex.sk
 econext.sk
 econfam.sk
 econfloor.sk
@@ -115086,7 +115077,6 @@ ecopapierovarukavica.sk
 ecopapierovataska.sk
 ecoparcel.sk
 ecopark.sk
-ecoparnecistenie.sk
 ecopartybox.sk
 ecopellet.sk
 ecopeople.sk
@@ -115232,6 +115222,7 @@ ecothermmont.sk
 ecothings.sk
 ecotino.sk
 ecotip.sk
+ecotisk.sk
 ecoton-shop.sk
 ecoton.sk
 ecotoner.sk
@@ -116156,6 +116147,7 @@ eduke.sk
 edukey.sk
 eduki.sk
 edukido.sk
+edukids.sk
 edukidz.sk
 edukinder.sk
 edukit.sk
@@ -116934,7 +116926,6 @@ eglegal.sk
 eglo.sk
 eglobe.sk
 egloo-eu.sk
-egloo.sk
 egloomerino.sk
 egm.sk
 egmconsult.sk
@@ -117236,6 +117227,7 @@ eiger.sk
 eight.sk
 eightclub.sk
 eighteeth.sk
+eightfoldinvesting.sk
 eightfoldinvestments.sk
 eightgroovecrew.sk
 eightsync.sk
@@ -119003,6 +118995,7 @@ elbra.sk
 elbragyn.sk
 elbros.sk
 elbrus.sk
+elbruto.sk
 elbud.sk
 elbus.sk
 elby.sk
@@ -122289,6 +122282,7 @@ emagazine.sk
 emage.sk
 emagination.sk
 emagine-consulting.sk
+emagine.sk
 emagistra.sk
 emagnesium.sk
 emagnezium.sk
@@ -126190,7 +126184,6 @@ epuskohlad.sk
 epv.sk
 epvo.sk
 epw.sk
-epx.sk
 epxgroup.sk
 epy.sk
 epyck.sk
@@ -126929,6 +126922,7 @@ erlis.sk
 erlus.sk
 erm.sk
 erma.sk
+ermaan.sk
 ermafa.sk
 ermafarecycling.sk
 ermafarecyclinggroup.sk
@@ -127287,6 +127281,7 @@ erwin.sk
 erwos.sk
 erxme.sk
 eryba.sk
+erybar.sk
 erybaza.sk
 erybazilina.sk
 erydiasmoda.sk
@@ -132179,7 +132174,6 @@ exashop.sk
 exasro.sk
 exatagroup.sk
 exatech.sk
-exatlon.sk
 exautsolutions.sk
 exb.sk
 exbet.sk
@@ -132280,6 +132274,7 @@ exciderm.sk
 excimer-bratislava.sk
 excimer-kosice.sk
 excimer-presov.sk
+excimer.sk
 excimerbratislava.sk
 excimerkosice.sk
 excimerpresov.sk
@@ -132368,11 +132363,8 @@ executor.sk
 exedra.sk
 exeed.sk
 exefloorball.sk
-exeflorbal.sk
 exefurniture.sk
 exegoalie.sk
-exehockey.sk
-exehokej.sk
 exejeans.sk
 exejeansshop.sk
 exekezmarok.sk
@@ -132708,7 +132700,6 @@ exotms.sk
 exotrade.sk
 exovo.sk
 exoweb.sk
-exowebhosting.sk
 exp-imp.sk
 exp.sk
 expa-nails.sk
@@ -133311,6 +133302,7 @@ externeit.sk
 externemzdy.sk
 externenacenenie.sk
 externeobstaravanie.sk
+externerozpoctovanie.sk
 externerozpocty.sk
 externet.sk
 externeuctovnictvo.sk
@@ -134858,7 +134850,6 @@ falcon-rail.sk
 falcon-real.sk
 falcon-tec.sk
 falcon-tech.sk
-falcon-termovizia.sk
 falcon.sk
 falcon1crossfit.sk
 falconbike.sk
@@ -134885,7 +134876,6 @@ falconline.sk
 falconlink.sk
 falconmasters.sk
 falconmedical.sk
-falconoutdoor.sk
 falconpodlaha.sk
 falconrace.sk
 falconrail.sk
@@ -134904,7 +134894,6 @@ falconsport.sk
 falconsvalley.sk
 falcont.sk
 falcontech.sk
-falcontermovizia.sk
 falconvan.sk
 falconwaterfree.sk
 falcoo.sk
@@ -136787,6 +136776,7 @@ fatless.sk
 fatlouis.sk
 fatman.sk
 fatmoose.sk
+fatmusic.sk
 fatpirate-casino.sk
 fatpirate-sk.sk
 fatpirate.sk
@@ -138843,7 +138833,6 @@ fibkalkulacka.sk
 fibo.sk
 fibokarting.sk
 fibokartingshop.sk
-fiboo.sk
 fibor.sk
 fibra.sk
 fibran.sk
@@ -140391,7 +140380,6 @@ finexpertgroup.sk
 finexpertsk.sk
 finexpres.sk
 finexreal.sk
-finexs.sk
 finext.sk
 finexta.sk
 finexus.sk
@@ -140804,7 +140792,6 @@ finvesta.sk
 finvestalfa.sk
 finvestor.sk
 finvia.sk
-finvilla.sk
 finvin.sk
 finvio.sk
 finvision.sk
@@ -141009,7 +140996,6 @@ firemnaai.sk
 firemnaakademia.sk
 firemnaakcia.sk
 firemnaaplikacia.sk
-firemnachladnicka.sk
 firemnadochadzka.sk
 firemnadomena.sk
 firemnafilantropia.sk
@@ -141728,6 +141714,7 @@ fiswell.sk
 fisys.sk
 fit-bosany.sk
 fit-boy.sk
+fit-budicek.sk
 fit-center.sk
 fit-club.sk
 fit-day.sk
@@ -142428,6 +142415,7 @@ fixbooking.sk
 fixbyt.sk
 fixcar.sk
 fixcentrum.sk
+fixclean.sk
 fixdata.sk
 fixdistribution.sk
 fixed.sk
@@ -142848,6 +142836,7 @@ flashbay.sk
 flashbee.sk
 flashbet.sk
 flashbox.sk
+flashcards.sk
 flashdesk.sk
 flashdetail.sk
 flashdev.sk
@@ -147618,6 +147607,7 @@ franchising.sk
 franchisinginfo.sk
 franchisuj.sk
 franci.sk
+franciacorta.sk
 francik.sk
 francis.sk
 francisandfriends.sk
@@ -148466,7 +148456,6 @@ frezy.sk
 frezyderm.sk
 frflosi.sk
 frg.sk
-frgale.sk
 frgi.sk
 frglass.sk
 frgo.sk
@@ -151870,6 +151859,7 @@ gamastudio.sk
 gamat.sk
 gamatky.sk
 gamatravel.sk
+gamavision.sk
 gamax.sk
 gamaxstav.sk
 gamaxwinch.sk
@@ -153253,7 +153243,6 @@ gastropalazzo.sk
 gastroparcus.sk
 gastropark.sk
 gastropartnerslovakia.sk
-gastroparty.sk
 gastropas.sk
 gastropex.sk
 gastropk.sk
@@ -153632,6 +153621,7 @@ gazdovskydvordemanova.sk
 gazdovskydvordemanovka.sk
 gazdovskydvorkrivan.sk
 gazdovskydvorkysta.sk
+gazdovskydvorlackova.sk
 gazdovskydvorpizzeria.sk
 gazdovskydvorpodhajska.sk
 gazdovskydvorvinohrady.sk
@@ -154052,7 +154042,6 @@ geekly.sk
 geekmap.sk
 geekmom.sk
 geekoviny.sk
-geeks.sk
 geekshop.sk
 geeksquad.sk
 geeksstudio.sk
@@ -155069,6 +155058,7 @@ geogroup.sk
 geoguessr.sk
 geohadanky.sk
 geohaj.sk
+geohry.sk
 geohub.sk
 geoid.sk
 geoig.sk
@@ -155689,8 +155679,6 @@ gescom.sk
 gescrap.sk
 gese.sk
 gesecav.sk
-gesellschaft.sk
-gesellschaften.sk
 geset.sk
 gesgroup.sk
 gesi.sk
@@ -157401,7 +157389,6 @@ globreality.sk
 globrent.sk
 globsec.sk
 globsolgroup.sk
-globsport.sk
 globstav.sk
 globstavsro.sk
 globsystem.sk
@@ -163282,7 +163269,6 @@ gurmito.sk
 gurmyto.sk
 gurnik.sk
 gurnikpavel.sk
-guron.sk
 guropea.sk
 gurov.sk
 gurova.sk
@@ -165923,7 +165909,6 @@ happydrivebratislava.sk
 happydrivemalacky.sk
 happydrivers.sk
 happyduck.sk
-happyedukids.sk
 happyeggs.sk
 happyend.sk
 happyendskateshop.sk
@@ -167124,6 +167109,7 @@ haz-mat.sk
 hazai.sk
 hazardnehry.sk
 hazardsozdravim.sk
+hazardypd.sk
 hazbest.sk
 haze.sk
 hazel.sk
@@ -169501,7 +169487,6 @@ hewlettpackardenterprise.sk
 hex-cz.sk
 hex-game.sk
 hex.sk
-hex24.sk
 hexa.sk
 hexa10.sk
 hexabee.sk
@@ -170136,7 +170121,6 @@ hilixauto.sk
 hilka.sk
 hilkapoint.sk
 hilkasolutions.sk
-hilkovic.sk
 hill-audio.sk
 hill.sk
 hillaris.sk
@@ -170839,7 +170823,6 @@ hladamdedicstvo.sk
 hladamdielnu.sk
 hladamdj.sk
 hladamdodavatela.sk
-hladamdominu.sk
 hladamdomov.sk
 hladame-teba.sk
 hladame.sk
@@ -171524,6 +171507,7 @@ hniezdopodhajska.sk
 hniezdoprivode.sk
 hniezdovehojdacky.sk
 hniezdovraji.sk
+hnila.sk
 hnilcik.sk
 hnileckadolina.sk
 hnileckastreka.sk
@@ -172300,6 +172284,7 @@ hokejfan.sk
 hokejfans.sk
 hokejfloryk.sk
 hokejista.sk
+hokejisti.sk
 hokejistky.sk
 hokejka-pub.sk
 hokejka.sk
@@ -177014,6 +176999,7 @@ huba.sk
 hubacek.sk
 hubacek3d.sk
 hubacoworking.sk
+hubai.sk
 hubar.sk
 hubarcenie.sk
 hubari.sk
@@ -177061,6 +177047,7 @@ hubertsutaz.sk
 hubertus.sk
 hubertusno.sk
 hubexo.sk
+hubforai.sk
 hubhigh.sk
 hubhub.sk
 hubi.sk
@@ -178877,7 +178864,6 @@ hypnokouc.sk
 hypnoporod.sk
 hypnoporodalexandragulic.sk
 hypnoporodslovakia.sk
-hypnos.sk
 hypnoterapeut.sk
 hypnoterapia-priamo-k-veci.sk
 hypnoterapia.sk
@@ -180635,6 +180621,7 @@ idelux.sk
 idelyn.sk
 idem.sk
 idembusom.sk
+idemcestou.sk
 idemdalej.sk
 idemdole.sk
 idemdomov.sk
@@ -184053,7 +184040,6 @@ infinity-telecom.sk
 infinity-tn.sk
 infinity-travel.sk
 infinity-ventures.sk
-infinity-ways.sk
 infinity.sk
 infinityacademy.sk
 infinityapartments.sk
@@ -184113,7 +184099,6 @@ infinityteam.sk
 infinitytech.sk
 infinitytelecom.sk
 infinitytrust.sk
-infinityways.sk
 infinium.sk
 infinix.sk
 infino.sk
@@ -184493,7 +184478,6 @@ informujeme.sk
 informujsa.sk
 inforo.sk
 inforoznava.sk
-inforpackaging.sk
 infortant.sk
 inforum.sk
 inforuzbachy.sk
@@ -184501,7 +184485,6 @@ inforuzomberok.sk
 infos.sk
 infos2026.sk
 infosb.sk
-infoscreen.sk
 infosec.sk
 infosecur.sk
 infosecurity.sk
@@ -185245,6 +185228,7 @@ innoaesthetics.sk
 innobuild.sk
 innocent.sk
 innocentdrinks.sk
+innocentsmart.sk
 innocentstore.sk
 innocn.sk
 innocom.sk
@@ -186069,7 +186053,6 @@ instal-home.sk
 instal-sp.sk
 instal.sk
 instalabbytina.sk
-instalacentrum.sk
 instalacia.sk
 instalaciapro.sk
 instalacie-elektro.sk
@@ -187578,6 +187561,7 @@ intimaclinic.sk
 intimatestories.sk
 intimax.sk
 intimbloom.sk
+intimbox.sk
 intimclean.sk
 intimcluboaza.sk
 intimcomfort.sk
@@ -188170,7 +188154,6 @@ investujajty.sk
 investujbezpecne.sk
 investujdnes.sk
 investujdobytov.sk
-investujdonehnutelnosti.sk
 investujdopudy.sk
 investujdorealit.sk
 investujdoseba.sk
@@ -188245,7 +188228,6 @@ invipo.sk
 invira.sk
 invirex.sk
 invisage.sk
-invisalign-poprad.sk
 invisalign-professional.sk
 invisalign.sk
 invisaligncentre.sk
@@ -188450,7 +188432,6 @@ inzerujeme.sk
 inzerujemsi.sk
 inzerujme.sk
 inzerujnawebe.sk
-inzerujte.sk
 inzerujzdarma.sk
 inzi.sk
 inzigo.sk
@@ -189040,7 +189021,6 @@ iprof.sk
 iprofesia.sk
 iprofi.sk
 iprofil.sk
-iprofily.sk
 iproject.sk
 iprojekt.sk
 iprom.sk
@@ -190880,7 +190860,6 @@ iteonpublic.sk
 iteplo.sk
 iteq.sk
 iter.sk
-itera.sk
 iterapia.sk
 iterate.sk
 itercrescendi.sk
@@ -192378,6 +192357,7 @@ izolacie-artterm.sk
 izolacie-isothermtech.sk
 izolacie-knauf.sk
 izolacie-kollar.sk
+izolacie-mlp.sk
 izolacie-obchod.sk
 izolacie-pavlus.sk
 izolacie-potrubia.sk
@@ -194938,7 +194918,6 @@ jasnaadrenalin.sk
 jasnaapartman.sk
 jasnaapartmany.sk
 jasnacentral.sk
-jasnacentrum.sk
 jasnachalet.sk
 jasnaescape.sk
 jasnahotel.sk
@@ -196473,6 +196452,7 @@ jesuamesiacha.sk
 jesuctovnictvo.sk
 jesugc.sk
 jesuit.sk
+jesuma.sk
 jesus.sk
 jesushouse.sk
 jesusismydealer.sk
@@ -198258,6 +198238,9 @@ jonagold.sk
 jonak.sk
 jonang.sk
 jonaq.sk
+jonard-tools.sk
+jonard.sk
+jonardtools.sk
 jonas-nielsen.sk
 jonas.sk
 jonasgru.sk
@@ -198993,6 +198976,7 @@ jsautocare.sk
 jsautodoprava.sk
 jsautoservis.sk
 jsaux.sk
+jsb.sk
 jsbau.sk
 jsbernolakovo.sk
 jsbproject.sk
@@ -200249,7 +200233,6 @@ jurisconsulti.sk
 jurisdoctor.sk
 jurisel.sk
 jurisinvest.sk
-jurisnz.sk
 jurist.sk
 jurista.sk
 juristes.sk
@@ -204601,7 +204584,6 @@ karpatskebrandy.sk
 karpatskededicstvo.sk
 karpatskeforum.sk
 karpatskegazdinky.sk
-karpatskehorke.sk
 karpatskehorske.sk
 karpatskelabky.sk
 karpatskeluky.sk
@@ -206372,7 +206354,6 @@ kcentrum.sk
 kcero.sk
 kceroinvest.sk
 kcesnak.sk
-kcex.sk
 kcf.sk
 kcgalanta.sk
 kcgroup.sk
@@ -207532,7 +207513,6 @@ ketaminovaklinika.sk
 ketas.sk
 ketchup.sk
 keteb.sk
-ketercompany.sk
 ketling.sk
 ketnoffukf.sk
 keto-diet.sk
@@ -208336,6 +208316,7 @@ kin-ball.sk
 kin-ex.sk
 kin.sk
 kina.sk
+kinak.sk
 kinalu.sk
 kinanitra.sk
 kinarps.sk
@@ -209692,6 +209673,7 @@ klienti.sk
 klientibezreklamy.sk
 klientisvadobnysalonmm.sk
 kliento.sk
+klientok.sk
 klientomat.sk
 klientonline.sk
 klientpaczka.sk
@@ -210587,6 +210569,7 @@ klinkery.sk
 klinko.sk
 klinkosro.sk
 klinmam.sk
+klinman.sk
 klinnadbodrogom.sk
 klinngac.sk
 klinogrow.sk
@@ -211541,7 +211524,6 @@ knihkart.sk
 knihkupci.sk
 knihkupec.sk
 knihkupectva.sk
-knihkupectvo-online.sk
 knihkupectvo.sk
 knihkupectvoanjelik.sk
 knihkupectvojonatan.sk
@@ -215693,6 +215675,7 @@ korytnica1853.sk
 korytnicka.sk
 korz.sk
 korzar.sk
+korzaro.sk
 korzet.sk
 korzety.sk
 korzika.sk
@@ -220665,6 +220648,7 @@ kstl.sk
 kstliptov.sk
 kstmichalovce.sk
 kstnizna.sk
+kstolu.sk
 kstools.sk
 kstor.sk
 kstore.sk
@@ -221074,6 +221058,7 @@ kubov.sk
 kubova.sk
 kubovcak.sk
 kubovci.sk
+kubovic.sk
 kubovics.sk
 kuboviny.sk
 kubox.sk
@@ -221854,7 +221839,6 @@ kuori.sk
 kuosmail.sk
 kup-auto.sk
 kup-followers.sk
-kup-jazdenku.sk
 kup-knihu.sk
 kup-kytici.sk
 kup-lieky.sk
@@ -222189,7 +222173,6 @@ kupito.sk
 kupitpeptidy.sk
 kupitpestrec.sk
 kupitsledovatelov.sk
-kupjazdenku.sk
 kupka.sk
 kupkaadvokat.sk
 kupkaktus.sk
@@ -222644,7 +222627,6 @@ kurzkreslia.sk
 kurzkrizovejintervencie.sk
 kurzkryptomien.sk
 kurzlektor.sk
-kurzlogiky.sk
 kurzlyzovania.sk
 kurzmaderoterapie.sk
 kurzmeditacie.sk
@@ -222893,6 +222875,7 @@ kustarovi.sk
 kustex.sk
 kustimo.sk
 kusto.sk
+kustolu.sk
 kustomcity.sk
 kustomiks.sk
 kustoms.sk
@@ -223115,7 +223098,6 @@ kvalitachuti.sk
 kvalitagw.sk
 kvalitaprezdravie.sk
 kvalitarian.sk
-kvalitasocialnychsluzieb.sk
 kvalitatour.sk
 kvalitatours.sk
 kvalitavody.sk
@@ -223783,7 +223765,6 @@ kvetysteffi.sk
 kvetystupava.sk
 kvetysunflower.sk
 kvetysurany.sk
-kvetysylvia.sk
 kvetytajana.sk
 kvetytatry.sk
 kvetyterka.sk
@@ -224256,7 +224237,6 @@ kyrigarage.sk
 kyrinovic.sk
 kyrnet.sk
 kyroltc.sk
-kyrya.sk
 kys.sk
 kysak-brezie.sk
 kysak.sk
@@ -225052,6 +225032,7 @@ lacne-peciatky.sk
 lacne-pergoly.sk
 lacne-plastove-bazeny.sk
 lacne-poistenie.sk
+lacne-postele.sk
 lacne-pozemky.sk
 lacne-pzp.sk
 lacne-rolety.sk
@@ -228264,7 +228245,6 @@ layjet.sk
 layka.sk
 laykoreniny.sk
 layla.sk
-laylalounge.sk
 layllo.sk
 laylo.sk
 layout.sk
@@ -228635,7 +228615,6 @@ leadbridgeobchod.sk
 leadbridgerast.sk
 leadbridgesales.sk
 leadbusters.sk
-leadconvoy.sk
 leadcore.sk
 leadcraft.sk
 leade.sk
@@ -231201,7 +231180,6 @@ lepeniereklamy.sk
 lepenkanastrechu.sk
 lepenky.sk
 lepet.sk
-lepetit.sk
 lepetitatelier.sk
 lepetitchef.sk
 lepetitmarseillais.sk
@@ -231374,7 +231352,6 @@ lepsilm.sk
 lepsimakler.sk
 lepsimikulas.sk
 lepsinakup.sk
-lepsiotec.sk
 lepsipausal.sk
 lepsipoprad.sk
 lepsiprace.sk
@@ -232151,6 +232128,7 @@ letosprazdrojom.sk
 letoss.sk
 letostebou.sk
 letovamerike.sk
+letovanec.sk
 letovezaberyzdronu.sk
 letovia.sk
 letoviska.sk
@@ -234039,7 +234017,6 @@ lightroomkurzy.sk
 lights.sk
 lightsbytena.sk
 lightside.sk
-lightskin.sk
 lightson.sk
 lightspectrum.sk
 lightspot.sk
@@ -234523,6 +234500,7 @@ limoncello.sk
 limone.sk
 limoni.sk
 limonlase.sk
+limonlingi.sk
 limonlingo.sk
 limoo.sk
 limoreal.sk
@@ -234607,6 +234585,7 @@ lindalinhardt.sk
 lindana.sk
 lindareality.sk
 lindarezesova.sk
+lindaris.sk
 lindart.sk
 lindaskalicka.sk
 lindatancarova.sk
@@ -236723,7 +236702,6 @@ loboo.sk
 lobotka.sk
 lobotkovci.sk
 lobster.sk
-lobsterink.sk
 lobuss.sk
 loc-slovakia.sk
 loca-studio.sk
@@ -237102,6 +237080,7 @@ logistickaakademia.sk
 logistickahala.sk
 logisticke-sluzby.sk
 logistickehaly.sk
+logistickemyslenie.sk
 logistickeparky.sk
 logistickesluzby.sk
 logistickyaudit.sk
@@ -237121,6 +237100,7 @@ logistika-doprava.sk
 logistika-preprava.sk
 logistika.sk
 logistikadnes.sk
+logistikaprevsetkych.sk
 logistikaslovakia.sk
 logistikpark.sk
 logistrade.sk
@@ -238156,7 +238136,6 @@ loto-vysledky.sk
 loto.sk
 loto24.sk
 loto5z35.sk
-lotos.sk
 lotosan-kupelne.sk
 lotosan.sk
 lotosbabyspa.sk
@@ -238864,6 +238843,7 @@ lpvitality.sk
 lpz.sk
 lq.sk
 lqadv.sk
+lqdnav.sk
 lr-health.sk
 lr-krasa.sk
 lr-prilezitost.sk
@@ -239189,7 +239169,6 @@ lubicabalazova.sk
 lubicabibenova.sk
 lubicafarkasova.sk
 lubicahorvathova.sk
-lubicajedina.sk
 lubicakarvasova.sk
 lubicakrajnakova.sk
 lubicaluptakova.sk
@@ -240494,6 +240473,7 @@ lulesa.sk
 lulesna.sk
 luletto.sk
 lulichef.sk
+lulies.sk
 lulinka.sk
 lulka.sk
 lull.sk
@@ -241635,7 +241615,6 @@ luxurysofa.sk
 luxurystone.sk
 luxurysun.sk
 luxurytour.sk
-luxurytransfer.sk
 luxurytransport.sk
 luxurytravel.sk
 luxuryvilla.sk
@@ -242459,7 +242438,6 @@ m-trade.sk
 m-travel.sk
 m-unit.sk
 m-variant.sk
-m-vet.sk
 m-via.sk
 m-vlogistik.sk
 m-volf.sk
@@ -243024,6 +243002,7 @@ mackozubnaklinika.sk
 mackulin.sk
 macky.sk
 mackybreznosos.sk
+mackydubravky.sk
 mackykosice.sk
 mackypresov.sk
 mackysos.sk
@@ -243393,7 +243372,6 @@ madhouse.sk
 madhurya.sk
 madi.sk
 madic.sk
-madiell.sk
 madigar.sk
 madimo.sk
 madinat.sk
@@ -244199,7 +244177,6 @@ magnumdogfood.sk
 magnumgroup.sk
 magnumhome.sk
 magnumicecreamcompany.sk
-magnumlogistics.sk
 magnumreal.sk
 magnumsutaz.sk
 magnus-bet.sk
@@ -244885,6 +244862,7 @@ majsternavsetko.sk
 majsternazavolanie.sk
 majstero.sk
 majsterobchod.sk
+majsterodnuly.sk
 majsterodvedla.sk
 majsteroman.sk
 majsteron.sk
@@ -246103,7 +246081,6 @@ malyprincmax.sk
 malyraj.sk
 malyrajresidence.sk
 malyrebel.sk
-malyrim.sk
 malyruskov.sk
 malys-nabytok.sk
 malysaris.sk
@@ -246942,7 +246919,6 @@ manifestpro.sk
 manifestsro.sk
 manifestuj.sk
 maniga.sk
-maniglo.sk
 manik-eli.sk
 manik.sk
 manikerka.sk
@@ -247104,7 +247080,6 @@ manpowerprofessionaljobs.sk
 manray.sk
 manrikzone.sk
 mansar.sk
-manscaped.sk
 mansell.sk
 mansfeld.sk
 mansfield.sk
@@ -247755,6 +247730,7 @@ marcobenz.sk
 marcobeveragesystems.sk
 marcobotti.sk
 marcocar.sk
+marcocatterina.sk
 marcocomputer.sk
 marcodecor.sk
 marcodiamanti.sk
@@ -247876,6 +247852,7 @@ marekcacko.sk
 marekchalabala.sk
 marekcibula.sk
 marekcimbala.sk
+marekcimbolak.sk
 marekcmarko.sk
 marekcurilla.sk
 marekcvengros.sk
@@ -248197,6 +248174,7 @@ mariaherkova.sk
 mariahudakova.sk
 mariaillova.sk
 mariajambrichova.sk
+mariajaslovska.sk
 mariajesusrivero.sk
 mariajurcova.sk
 mariakalinakova.sk
@@ -248864,6 +248842,7 @@ marketlokator.sk
 marketly.sk
 marketo.sk
 marketorg.sk
+marketpilot.sk
 marketplace.sk
 marketplacementors.sk
 marketplacer.sk
@@ -249575,6 +249554,7 @@ martinapitakova.sk
 martinapobis.sk
 martinapocilova.sk
 martinaradvakova.sk
+martinarden.sk
 martinarimska.sk
 martinaschindlerova.sk
 martinasedlbauer.sk
@@ -250147,7 +250127,6 @@ martomdvere.sk
 martomhair.sk
 martomsalon.sk
 marton-partner.sk
-marton.sk
 martonak.sk
 martone.sk
 martonlabels.sk
@@ -251258,6 +251237,7 @@ masticlife.sk
 mastiff.sk
 mastigramplus.sk
 mastik.sk
+mastinonapoletano.sk
 mastinska.sk
 mastix.sk
 mastko.sk
@@ -253306,7 +253286,6 @@ mazuma.sk
 mazumis.sk
 mazur.sk
 mazura.sk
-mazurak.sk
 mazurova.sk
 mazurovci.sk
 mazurvino.sk
@@ -256047,7 +256026,6 @@ medunka.sk
 medup.sk
 medura.sk
 medusa.sk
-medusablog.sk
 medusacard.sk
 medusacatering.sk
 medusads9.sk
@@ -256651,6 +256629,7 @@ mejle.sk
 mejlovka.sk
 mejoma.sk
 mejorset.sk
+mek.sk
 mekac.sk
 mekaci.sk
 mekacrushers.sk
@@ -257014,7 +256993,6 @@ memoplus.sk
 memora.sk
 memorables.sk
 memorandum.sk
-memoraprint.sk
 memorare.sk
 memores.sk
 memori.sk
@@ -257612,7 +257590,6 @@ mercedestn.sk
 mercedestrophy.sk
 mercedesvrakovisko.sk
 mercedeszilina.sk
-mercedeszraz.sk
 mercedeszv.sk
 mercekcafe.sk
 mercel.sk
@@ -257944,6 +257921,7 @@ merry.sk
 merrybelle.sk
 merrychef.sk
 merrychefslovakia.sk
+merrychristmas.sk
 merryflorist.sk
 merrys.sk
 merryskin.sk
@@ -258119,6 +258097,7 @@ messo.sk
 messtechnik.sk
 messy.sk
 messybrassy.sk
+mest.sk
 mesta-obce.sk
 mesta.sk
 mestaaobce.sk
@@ -259635,7 +259614,6 @@ mhunt.sk
 mhv.sk
 mhvet.sk
 mhvoltpro.sk
-mhvstudio.sk
 mhwd.sk
 mhwelding.sk
 mhy.sk
@@ -262170,11 +262148,13 @@ mimio.sk
 mimipedi.sk
 mimipek.sk
 mimipredeti.sk
+mimiqra.sk
 mimirreality.sk
 mimis.sk
 mimisbakery.sk
 mimishop.sk
 mimisiku.sk
+mimisrdce.sk
 mimistar.sk
 mimka.sk
 mimmo.sk
@@ -263350,7 +263330,6 @@ miracledigital.sk
 miraclenoodle.sk
 miraclereal.sk
 miracles.sk
-miraclesbeauty.sk
 miracleseasons.sk
 miraclesro.sk
 miracletox.sk
@@ -266352,7 +266331,6 @@ mobilfony.sk
 mobilforum.sk
 mobilfoto.sk
 mobilfox.sk
-mobilfun.sk
 mobilgsm.sk
 mobilheim.sk
 mobilhry.sk
@@ -267723,7 +267701,6 @@ mois-guru.sk
 moiss.sk
 moissanite.sk
 moissdiamanty.sk
-moissy.sk
 moisty.sk
 moitin.sk
 moiu.sk
@@ -269000,6 +268977,7 @@ mojispoluziaci.sk
 mojistrechari.sk
 mojitechnici.sk
 mojito.sk
+mojitolemon.sk
 mojjukebox.sk
 mojjust.sk
 mojka.sk
@@ -269023,7 +269001,6 @@ mojkevin.sk
 mojkezmarok.sk
 mojkiosk.sk
 mojklb.sk
-mojklub.sk
 mojko.sk
 mojkoberec.sk
 mojkocik.sk
@@ -272974,6 +272951,7 @@ mozai.sk
 mozaicsystem.sk
 mozaik.sk
 mozaika-extra.sk
+mozaika-osobnosti.sk
 mozaika-rent.sk
 mozaika.sk
 mozaikabenefitov.sk
@@ -273305,7 +273283,6 @@ mpn.sk
 mpnet.sk
 mpo-eyewear.sk
 mpo-matrace.sk
-mpo.sk
 mpoconsulting.sk
 mpodlahy.sk
 mpoeyewear.sk
@@ -276424,7 +276401,6 @@ music4u.sk
 musica-aeterna.sk
 musica.sk
 musicaaeterna.sk
-musicaalcuore.sk
 musicabratislava.sk
 musicacademy.sk
 musicacafe.sk
@@ -276645,6 +276621,7 @@ muve.sk
 muvecreative.sk
 muvengo.sk
 muvent.sk
+muveri.sk
 muvi-stahovanie.sk
 muvi.sk
 muvin.sk
@@ -276904,7 +276881,6 @@ mvcrow.sk
 mvcstavby.sk
 mvd.sk
 mvda.sk
-mvdent.sk
 mvderma.sk
 mvdistribution.sk
 mvdizajn.sk
@@ -277018,7 +276994,6 @@ mvt.sk
 mvtauto.sk
 mvtechnik.sk
 mvtools.sk
-mvtour.sk
 mvtrans.sk
 mvtransport.sk
 mvtslovakia.sk
@@ -277894,7 +277869,6 @@ mymusic.sk
 mymusli.sk
 mymuzi.sk
 mymy.sk
-mymymy.sk
 mymyn.sk
 mynac.sk
 mynameisicon.sk
@@ -278014,7 +277988,6 @@ myplants.sk
 mypled.sk
 myplusim.sk
 myplusone.sk
-mypo.sk
 mypodcastujeme.sk
 mypodseurope.sk
 mypoistenie.sk
@@ -278216,7 +278189,6 @@ myslitelnaonline.sk
 myslitenaseba.sk
 myslivky.sk
 myslivost.sk
-mysloherna.sk
 myslomagovia.sk
 myslovakia.sk
 myslovensko.sk
@@ -278963,7 +278935,6 @@ nabrehu.sk
 nabrezie.sk
 nabreziepoprad.sk
 nabrezietrencin.sk
-nabrigadu.sk
 nabro.sk
 nabrusene.sk
 nabs.sk
@@ -279350,6 +279321,7 @@ nacelyzivot.sk
 nacen.sk
 nacenenie.sk
 nacenenienehnutelnosti.sk
+nacenenieprojektu.sk
 naceni.sk
 nacenime.sk
 nacenit.sk
@@ -279996,6 +279968,7 @@ nahazoznamka.sk
 naheupratovanie.sk
 nahevina.sk
 nahla.sk
+nahlad.sk
 nahladwebu.sk
 nahlas.sk
 nahlasit.sk
@@ -280393,6 +280366,7 @@ najdifotografa.sk
 najdihodinky.sk
 najdijedlo.sk
 najdijob.sk
+najdijogu.sk
 najdikancelarie.sk
 najdikominara.sk
 najdilego.sk
@@ -280574,7 +280548,6 @@ najkoralky.sk
 najkosacky.sk
 najkose.sk
 najkosenie.sk
-najkotliky.sk
 najkozmetika.sk
 najkraj.sk
 najkrajsia-piesen.sk
@@ -281480,12 +281453,12 @@ nakarlovku.sk
 nakas.sk
 nakashu.sk
 nakave.sk
+nakavu.sk
 nakaza.sk
 nakazdomzalezi.sk
 nakd.sk
 nake.sk
 naked.sk
-nakedbananas.sk
 nakedritual.sk
 nakedrituals.sk
 nakedwines.sk
@@ -281542,7 +281515,6 @@ nakladnepneumatiky.sk
 nakladneprotektory.sk
 nakladnetaxi-cadca.sk
 nakladnetaxi.sk
-nakladnevozidla.sk
 nakladnevytahy.sk
 nakladnibazar.sk
 nakladnisane.sk
@@ -283136,7 +283108,6 @@ nasehory.sk
 nasehorysk.sk
 nasehospoda-karloveska.sk
 nasehracky.sk
-nasehumenne.sk
 naseinfo.sk
 nasejadro.sk
 nasejedlo.sk
@@ -284256,7 +284227,6 @@ nauctesaviac.sk
 naucteviac.sk
 nauctuj.sk
 naudi.sk
-naufip.sk
 naukahrou.sk
 naukastem.sk
 naula.sk
@@ -284440,7 +284410,6 @@ navitel.sk
 navium.sk
 naviwarriors.sk
 navixo.sk
-navkom.sk
 navlacil.sk
 navlas.sk
 navlasil.sk
@@ -285147,7 +285116,6 @@ necestou.sk
 nechaj.sk
 nechajmiestesvietit.sk
 nechajsnv.sk
-nechajtak.sk
 nechajte-to-na-nas.sk
 nechajtenashratsa.sk
 nechalapartners.sk
@@ -286558,6 +286526,7 @@ nepriestrelnevesty.sk
 nepritomnost.sk
 nepritomnosti.sk
 neprojdou.sk
+nepslov.sk
 nepszamlalas.sk
 neptera.sk
 nepto.sk
@@ -287798,7 +287767,6 @@ neviditelnestrojceky.sk
 neviditelnetricko.sk
 neviditelni.sk
 neviditelnikandidati.sk
-neviditelny-strojcek.sk
 neviditelnyclovek.sk
 neviditelnymarketing.sk
 neviditelnyobrubnik.sk
@@ -288897,7 +288865,6 @@ nibi.sk
 nibia.sk
 nibirus.sk
 nibizz.sk
-nibo.sk
 niborea.sk
 nic.sk
 nica.sk
@@ -290300,7 +290267,6 @@ nklc.sk
 nklegal.sk
 nklg.sk
 nklima.sk
-nklv.sk
 nkm.sk
 nkmanagement.sk
 nkmarketing.sk
@@ -290395,7 +290361,6 @@ nmag.sk
 nmagazin.sk
 nmc.sk
 nmcar.sk
-nmcars.sk
 nmco.sk
 nmcode.sk
 nmd.sk
@@ -290728,6 +290693,7 @@ nocnevlny.sk
 nocnik.sk
 nocnikov.sk
 nocnistolky.sk
+nocnyatelier.sk
 nocnybehkalsou.sk
 nocnyexpres.sk
 nocnykurier.sk
@@ -291026,6 +290992,7 @@ nolte.sk
 nolu.sk
 nolvia.sk
 nolvix.sk
+noma.sk
 nomaad.sk
 nomababy.sk
 nomad.sk
@@ -291222,7 +291189,6 @@ noone.sk
 noonio.sk
 noonstudio.sk
 noopli.sk
-noor.sk
 noorberry.sk
 noord.sk
 noordia.sk
@@ -291713,6 +291679,7 @@ norvaobjects.sk
 norvas.sk
 norvea.sk
 norvell.sk
+norvena.sk
 norvi.sk
 norvinga.sk
 norvipets.sk
@@ -292091,7 +292058,6 @@ notepad.sk
 notephone.sk
 notes-online.sk
 notes.sk
-notesart.sk
 notesonline.sk
 notesproduction.sk
 notestix.sk
@@ -293096,6 +293062,7 @@ novostavby-bratislava.sk
 novostavby-pezinok.sk
 novostavby-presov.sk
 novostavby-trencin.sk
+novostavby-zilina.sk
 novostavby.sk
 novostavbybratislava.sk
 novostavbybytov.sk
@@ -293109,6 +293076,7 @@ novostavbypresov.sk
 novostavbysk.sk
 novostavbytopolcany.sk
 novostavbyzh.sk
+novostavbyzilina.sk
 novostavbz.sk
 novosti.sk
 novot.sk
@@ -294598,7 +294566,6 @@ nvrswimming.sk
 nvs.sk
 nvsdesign.sk
 nvsstroy.sk
-nvstudio.sk
 nvsystem.sk
 nvt.sk
 nvtch.sk
@@ -296469,7 +296436,6 @@ objavpedas.sk
 objavpolsko.sk
 objavregion.sk
 objavsa.sk
-objavsiluai.sk
 objavsk.sk
 objavslovensko.sk
 objavspanielsko.sk
@@ -296656,7 +296622,6 @@ oblacikovo.sk
 oblak.sk
 oblaky.sk
 oblastnavystava.sk
-oblastneskutocnosti.sk
 oblastnyfutbal.sk
 oblati.sk
 oblatka.sk
@@ -298058,7 +298023,6 @@ odchyt-domen.sk
 odchyt-holubov.sk
 odchyt-zvierat.sk
 odchyt.sk
-odchytavac.sk
 odchytdomen.sk
 odchytholubov.sk
 odchytpsov.sk
@@ -299297,6 +299261,7 @@ offlinestudio.sk
 offlinesvet.sk
 offlinetabor.sk
 offlinezona.sk
+offload.sk
 offloadlab.sk
 offly.sk
 offmade.sk
@@ -299938,6 +299903,7 @@ okiboats.sk
 okidoki.sk
 okienko.sk
 okienkovo.sk
+okika.sk
 okimkosoft.sk
 okimlabs.sk
 okin.sk
@@ -301594,6 +301560,7 @@ omnipyra.sk
 omniq.sk
 omnireal.sk
 omnirecovery.sk
+omnirise.sk
 omniryse.sk
 omnis.sk
 omnisacademy.sk
@@ -303119,7 +303086,6 @@ onstaff.sk
 onstage.sk
 onstar.sk
 onstart.sk
-onstore.sk
 onswik.sk
 onta.sk
 ontap.sk
@@ -305950,7 +305916,6 @@ orqfs.sk
 orquesta.sk
 orquestagroup.sk
 orquestapartners.sk
-orre.sk
 ors.sk
 orsa.sk
 orsaf.sk
@@ -306664,7 +306629,6 @@ osobnosti.sk
 osobnostibardejova.sk
 osobnostiit.sk
 osobnostiksk.sk
-osobnostipodbradlom.sk
 osobnostivedy.sk
 osobnostivzlate.sk
 osobnostny-rozvoj.sk
@@ -306757,6 +306721,7 @@ oss-snv.sk
 oss.sk
 ossa.sk
 ossan.sk
+ossec.sk
 ossem.sk
 osseo.sk
 osseointegracia.sk
@@ -307281,7 +307246,6 @@ otuzilci.sk
 otuzilcitrencin.sk
 otuzko.sk
 otuzovaciakada.sk
-otuzovanie.sk
 otuzuj.sk
 otuzujsa.sk
 otuzujstanou.sk
@@ -307460,6 +307424,7 @@ outbid.sk
 outbox.sk
 outboxers.sk
 outbreak.sk
+outbuzz.sk
 outcome.sk
 outcomes-research.sk
 outcomesresearch.sk
@@ -307533,6 +307498,7 @@ outdoorvyzva.sk
 outdoorweb.sk
 outdoorwork.sk
 outdoorxl.sk
+outdoorzone.sk
 outdpro.sk
 outes.sk
 outesenergy.sk
@@ -307550,14 +307516,12 @@ outhunt.sk
 outils.sk
 outin.sk
 outinnano.sk
-outip.sk
 outis.sk
 outit.sk
 outland.sk
 outlander-phev.sk
 outlander.sk
 outlanderphev.sk
-outlandshop.sk
 outlaw.sk
 outlawsmc.sk
 outled.sk
@@ -308108,6 +308072,7 @@ owiano.sk
 owicreative.sk
 owidigital.sk
 owipex.sk
+owje.sk
 owl.sk
 owlbright.sk
 owlcompany.sk
@@ -310608,7 +310573,6 @@ pandemiavycerpanosti.sk
 pandentist.sk
 pandepa.sk
 pandi.sk
-pandici.sk
 pandido-casino.sk
 pandido.sk
 pandidocasino.sk
@@ -310728,6 +310692,7 @@ pangalactic.sk
 pangamin.sk
 pangan.sk
 pangastan.sk
+pangea-reality.sk
 pangea.sk
 pangen.sk
 pangeo.sk
@@ -311022,6 +310987,7 @@ pantene-sutaz.sk
 pantene.sk
 pantenol.sk
 panteoncare.sk
+panteora.sk
 panteper.sk
 pantepla.sk
 panter-max.sk
@@ -311317,7 +311283,6 @@ papieroveobalky.sk
 papierovepalety.sk
 papierovepeniaze.sk
 papieroverukavice.sk
-papierovesudy.sk
 papierovetasky-vrecka.sk
 papierovetasky.sk
 papierovetaskyeko.sk
@@ -312091,6 +312056,7 @@ parketyplachy.sk
 parketyshop.sk
 parketysk.sk
 parketyskladom.sk
+parketytatry.sk
 parketytrnava.sk
 parketyvrable.sk
 parketyznitry.sk
@@ -312343,7 +312309,6 @@ parndorf.sk
 parndorfoutlet.sk
 parne-cistice.sk
 parne-kotly.sk
-parnecistenie.sk
 parnecistice.sk
 parnekotly.sk
 parnesauny.sk
@@ -312596,9 +312561,7 @@ partnersincrime.sk
 partnersinsurance.sk
 partnersinvestment.sk
 partnersinvestments.sk
-partnerska-pozicka.sk
 partnerskamediacia.sk
-partnerskapozicka.sk
 partnerskava.sk
 partnerskeporadenstvo.sk
 partnerskeprogramy.sk
@@ -313495,7 +313458,6 @@ patrikfoto.sk
 patrikgazo.sk
 patrikgroma.sk
 patrikgubis.sk
-patrikhabo.sk
 patrikhepal.sk
 patrikherman.sk
 patrikhorvath.sk
@@ -315564,6 +315526,7 @@ pedopsychiatria.sk
 pedore.sk
 pedosphereresearch.sk
 pedox.sk
+pedra.sk
 pedrali.sk
 pedrazzoli.sk
 pedrea.sk
@@ -316210,7 +316173,6 @@ pelimart.sk
 pelimo.sk
 pelipal.sk
 pelipecka.sk
-pelipecki.sk
 pelipecky.sk
 peliplus.sk
 peliproducts.sk
@@ -316817,7 +316779,6 @@ penzion-peklina.sk
 penzion-peri.sk
 penzion-podhradom.sk
 penzion-poloniny.sk
-penzion-polovnicek.sk
 penzion-pulse.sk
 penzion-raslavican.sk
 penzion-rohac.sk
@@ -317591,7 +317552,6 @@ peo.sk
 peok.sk
 peolasyn.sk
 peomi.sk
-peon.sk
 peonka.sk
 peonydizajn.sk
 peopable.sk
@@ -317605,7 +317565,6 @@ peoplecafe.sk
 peoplecar.sk
 peoplecore.sk
 peoplecounting.sk
-peopleelec.sk
 peopleexperience.sk
 peoplefirstalliance.sk
 peopleflow.sk
@@ -320698,7 +320657,6 @@ phys.sk
 physcatch.sk
 physia.sk
 physics.sk
-physio-clinic.sk
 physio-massage.sk
 physio-medical.sk
 physio-p.sk
@@ -321229,7 +321187,6 @@ pihvizdik.sk
 pii.sk
 piibz.sk
 piitaa.sk
-pijacivina.sk
 pijak.sk
 pijatherm.sk
 pijatika.sk
@@ -321595,7 +321552,6 @@ pilovypas.sk
 pilow.sk
 piloxing.sk
 pilsberg.sk
-pilsen.sk
 pilsi.sk
 pilska.sk
 pilskaop.sk
@@ -322071,6 +322027,7 @@ pisanieprac.sk
 pisar.sk
 pisarcik.sk
 pisarik.sk
+piscari.sk
 pisch.sk
 pisco.sk
 pise.sk
@@ -322368,6 +322325,7 @@ pivnicatrstene.sk
 pivnicaupradeda.sk
 pivnice.sk
 pivnicebenadik.sk
+pivnicek.sk
 pivnicesantos.sk
 pivniceukozla.sk
 pivnicezplastu.sk
@@ -323070,7 +323028,6 @@ pizzaolive.sk
 pizzaonline.sk
 pizzaonyx.sk
 pizzaopizza.sk
-pizzaorava.sk
 pizzapablo.sk
 pizzapalace.sk
 pizzapalermo.sk
@@ -324681,6 +324638,7 @@ play-amo.sk
 play-baze.sk
 play-casoola.sk
 play-fun.sk
+play-game.sk
 play-ground.sk
 play-house.sk
 play-jonny.sk
@@ -325679,7 +325637,6 @@ plusinterier.sk
 plusiq.sk
 plusjeden.sk
 plusjedenden.sk
-plusjob.sk
 pluska-tv.sk
 pluska.sk
 pluskaint.sk
@@ -326111,6 +326068,7 @@ pna.sk
 pnacek.sk
 pnc.sk
 pnca.sk
+pncars.sk
 pnd.sk
 pndbikes.sk
 pndev.sk
@@ -326693,7 +326651,6 @@ pocasie-bytca.sk
 pocasie-dnes.sk
 pocasie-vo-svete.sk
 pocasie.sk
-pocasie24.sk
 pocasiearadar.sk
 pocasiebrezno.sk
 pocasielevoca.sk
@@ -326944,7 +326901,6 @@ pod-s-nami.sk
 pod-satami.sk
 pod-stav.sk
 pod-vrskami.sk
-pod-zamkom.sk
 pod.sk
 pod7kilo.sk
 poda.sk
@@ -327546,6 +327502,7 @@ podnikaniemagazin.sk
 podnikanienaslovensku.sk
 podnikaniepolopate.sk
 podnikanieportal.sk
+podnikaniepreintrovertov.sk
 podnikaniepreradost.sk
 podnikaniesk.sk
 podnikaniespajazeny.sk
@@ -328300,7 +328257,6 @@ pohodovefirmy.sk
 pohodoveobchodovanie.sk
 pohodovetravenie.sk
 pohodoveucto.sk
-pohodoveuctovnictvo.sk
 pohodovka.sk
 pohodovo.sk
 pohodovydom.sk
@@ -329769,10 +329725,8 @@ politickaspina.sk
 politickastranaspravodlivost.sk
 politicke-poradenstvo.sk
 politicke.sk
-politickekampane.sk
 politickemimovladky.sk
 politickestrany.sk
-politicketrendy.sk
 politickevolby.sk
 politickyavatar.sk
 politickymarketing.sk
@@ -329939,6 +329893,7 @@ poloninskymed.sk
 poloniny.sk
 poloninybisontrail.sk
 poloninytrail.sk
+polonix.sk
 polonska.sk
 polonsky.sk
 polonus.sk
@@ -330489,9 +330444,6 @@ pomocpredusu.sk
 pomocpregastro.sk
 pomocprehospic.sk
 pomocprelea.sk
-pomocpremartina.sk
-pomocpremartka.sk
-pomocprematka.sk
 pomocpreolivera.sk
 pomocpreskoly.sk
 pomocpreteba.sk
@@ -331471,7 +331423,6 @@ porovnajtesi.sk
 porovnajto.sk
 porovnajtrh.sk
 porovnajzajazdy.sk
-porovnam.sk
 porovname.sk
 porovnanie-ceny.sk
 porovnanie-cisticiek.sk
@@ -332911,7 +332862,6 @@ potvrdenie-veku-stavby.sk
 potvrdenie.sk
 potvrdenieonavsteveskoly.sk
 potvrdenievzdelania.sk
-potvrducast.sk
 pou.sk
 pouchdaddy.sk
 pouches24.sk
@@ -333290,6 +333240,7 @@ powermat.sk
 powermatzvaracky.sk
 powerme.sk
 powermedia.sk
+powermetal.sk
 powermetre.sk
 powermind.sk
 powermindhub.sk
@@ -334013,6 +333964,7 @@ pozicovnatepovacovzv.sk
 pozicovnatomterra.sk
 pozicovnatrebisov.sk
 pozicovnatrencin.sk
+pozicovnatrnava.sk
 pozicovnatuchyna.sk
 pozicovnaveci.sk
 pozicovnavk.sk
@@ -334875,7 +334827,6 @@ pracobot.sk
 pracodevy.sk
 pracos.sk
 pracovat.sk
-pracovatmenej.sk
 pracovisko.sk
 pracovitysmolko.sk
 pracovka.sk
@@ -336122,7 +336073,6 @@ predajbagrov.sk
 predajbazenov.sk
 predajbetonumartin.sk
 predajbezrealitky.sk
-predajbezstresu.sk
 predajbicyklov.sk
 predajbran.sk
 predajbudov.sk
@@ -336930,6 +336880,7 @@ prekrasnezuby.sk
 prekrasny.sk
 prekrasnydar.sk
 prekrasu.sk
+prekreslenievykresov.sk
 prekreslovanievykresov.sk
 prekrevetky.sk
 prekrocsvojtien.sk
@@ -338152,6 +338103,7 @@ presovreal.sk
 presovregion.sk
 presovregioncard.sk
 presovreklama.sk
+presovrun.sk
 presovrunning.sk
 presovsity.sk
 presovskacaja.sk
@@ -338187,6 +338139,7 @@ presovsky-vecernik.sk
 presovskybanskyspolok.sk
 presovskydixieland.sk
 presovskykraj.sk
+presovskypivovar.sk
 presovskystandard.sk
 presovstk.sk
 presovswans.sk
@@ -339461,6 +339414,7 @@ prievidzsko.sk
 prievidzskyobcasnik.sk
 prievoz.sk
 prievozska.sk
+prievozska6.sk
 prievozskapivaren.sk
 prievozskyspolok.sk
 priezkumstavieb.sk
@@ -342046,7 +342000,6 @@ profesionalnevysavace.sk
 profesionalni-maliari.sk
 profesionalni-salon.sk
 profesionalnisalon.sk
-profesionalny-fotograf.sk
 profesionalny-koucing.sk
 profesionalny-lektor-nemciny.sk
 profesionalny-redukcie-vahy.sk
@@ -343021,7 +342974,6 @@ profitech.sk
 profitechfood.sk
 profitechnik.sk
 profitechnika.sk
-profitechnologies.sk
 profitechsk.sk
 profitechsolar.sk
 profitect.sk
@@ -344481,7 +344433,6 @@ promotron.sk
 promotruck.sk
 promotv.sk
 promove.sk
-promoveo.sk
 promovia.sk
 promovideo.sk
 promovie.sk
@@ -344526,6 +344477,7 @@ promuzika.sk
 promy24.sk
 promys.sk
 pronaht.sk
+pronail.sk
 pronails.sk
 pronailsmastery.sk
 pronajem-nabytku.sk
@@ -344611,7 +344563,6 @@ propagand.sk
 propaganda.sk
 propaganda360.sk
 propagandaclub.sk
-propagandahouse.sk
 propagandanews.sk
 propagandapolis.sk
 propagandapost.sk
@@ -346973,7 +346924,6 @@ psyllogel.sk
 psynazivot.sk
 psyon.sk
 psyops.sk
-psyped.sk
 psysos.sk
 psytrance.sk
 psyulice.sk
@@ -349019,7 +348969,6 @@ qpg.sk
 qpharma.sk
 qpi.sk
 qplay.sk
-qpm.sk
 qpn.sk
 qpoint.sk
 qpool24.sk
@@ -349649,6 +349598,7 @@ quidvis.sk
 quies7.sk
 quiet.sk
 quietpc.sk
+quietsanctuary.sk
 quietslovakia.sk
 quiettime.sk
 quik-silver.sk
@@ -350635,7 +350585,6 @@ radixon.sk
 radixprotector.sk
 radixsk.sk
 radixslovakia.sk
-radixstudio.sk
 radka.sk
 radkababicova.sk
 radkabakajsova.sk
@@ -350753,7 +350702,6 @@ radoslavahorvathova.sk
 radoslavbielek.sk
 radoslavcabuk.sk
 radoslavdurac.sk
-radoslavgavac.sk
 radoslavhajnos.sk
 radoslavherda.sk
 radoslavhruska.sk
@@ -351668,7 +351616,6 @@ ramaco.sk
 ramadop.sk
 ramador.sk
 ramagency.sk
-ramago.sk
 ramagu.sk
 ramah-group.sk
 ramahkozmetika.sk
@@ -353264,7 +353211,6 @@ rduch.sk
 rdv-textil.sk
 rdv.sk
 rdvelkaraca.sk
-rdvisuals.sk
 rdvk.sk
 rdvpribyline.sk
 rdvrbova.sk
@@ -354962,7 +354908,6 @@ recepty-napady-inspiracie.sk
 recepty-online.sk
 recepty-pankreatitida.sk
 recepty.sk
-recepty24.sk
 receptybezlepku.sk
 receptybezmlieka.sk
 receptydoma.sk
@@ -357796,6 +357741,7 @@ rem-technik.sk
 rem.sk
 rema-drevo.sk
 rema-germany.sk
+rema-group.sk
 rema.sk
 rema1000.sk
 remaart.sk
@@ -359840,6 +359786,7 @@ restauraciacarpediem.sk
 restauraciacentrum.sk
 restauraciacicva.sk
 restauraciaclassica.sk
+restauraciacolnica.sk
 restauraciadagigi.sk
 restauraciadaniela.sk
 restauraciadanubius.sk
@@ -362089,6 +362036,7 @@ riadenieprojektov.sk
 riadenierizik.sk
 riadenieskladov.sk
 riadenieskladu.sk
+riadenietokov.sk
 riadenievykonu.sk
 riadenievyroby.sk
 riadeniezasob.sk
@@ -366273,7 +366221,6 @@ rotarylm.sk
 rotarynitra.sk
 rotarystone.sk
 rotaryzaint.sk
-rotaryzilina.sk
 rotas.sk
 rotate.sk
 rotatech.sk
@@ -366492,6 +366439,7 @@ rovez.sk
 rovi.sk
 rovick.sk
 rovid.sk
+rovident.sk
 rovin.sk
 rovina.sk
 rovinj.sk
@@ -367135,6 +367083,7 @@ rozpocetbezstresu.sk
 rozpocetkprojektu.sk
 rozpocetnaautopilote.sk
 rozpocetnacas.sk
+rozpocetprevas.sk
 rozpocetsr.sk
 rozpocetzavas.sk
 rozpoctar-tzb.sk
@@ -367146,6 +367095,7 @@ rozpoctarporuke.sk
 rozpoctarstavieb.sk
 rozpoctomat.sk
 rozpoctovanie.sk
+rozpoctovapomoc.sk
 rozpoctovarada.sk
 rozpoctoveuctovnictvo.sk
 rozpoctovka.sk
@@ -369102,7 +369052,6 @@ rvmagnetic.sk
 rvmagnetics.sk
 rvmagsensor.sk
 rvmagsensors.sk
-rvmbau.sk
 rvmsensor.sk
 rvmsensors.sk
 rvmsystems.sk
@@ -369370,6 +369319,7 @@ rybkarim.sk
 rybkoland.sk
 rybkovo.sk
 rybkuj.sk
+rybky.sk
 rybnehospodarstvo.sk
 rybnicek.sk
 rybnicka.sk
@@ -370483,8 +370433,6 @@ saei.sk
 saek.sk
 saelektro.sk
 saell.sk
-saellie.sk
-saellvertu.sk
 saem.sk
 saema.sk
 saemo.sk
@@ -371187,6 +371135,7 @@ salan.sk
 salanci.sk
 salando.sk
 salania.sk
+salanoia.sk
 salans.sk
 salaonline.sk
 salaperk.sk
@@ -371323,6 +371272,7 @@ salesforcedeveloper.sk
 salesforceguru.sk
 salesfunnel.sk
 salesguru.sk
+saleshire.sk
 saleshouse.sk
 salesianer.sk
 salesiq.sk
@@ -374910,6 +374860,7 @@ schematizmus.sk
 schemnitz.sk
 schemnitzgroup.sk
 schemnitzholding.sk
+schemnitzmince.sk
 schems.sk
 schenckprocess.sk
 schengen-robotics.sk
@@ -379695,7 +379646,6 @@ sexness.sk
 sexnitra.sk
 sexnovinky.sk
 sexo.sk
-sexologicalbodywork.sk
 sexology.sk
 sexom.sk
 sexonline.sk
@@ -380832,7 +380782,6 @@ shoes.sk
 shoescribe.sk
 shoesindustries.sk
 shoesmall.sk
-shoets.sk
 shoexpress.sk
 shofer.sk
 shogi-sk.sk
@@ -380853,7 +380802,6 @@ shooax.sk
 shooflick.sk
 shoon.sk
 shooos.sk
-shoop.sk
 shoopie.sk
 shoopshop.sk
 shoore.sk
@@ -381130,7 +381078,6 @@ shoppino.sk
 shoppo.sk
 shoppolar.sk
 shopppe.sk
-shopprezdravie.sk
 shoppy.sk
 shopradio.sk
 shoprenter.sk
@@ -381290,7 +381237,6 @@ showlivechat.sk
 showmakers.sk
 showman.sk
 showmax.sk
-showme.sk
 showmedia.sk
 showmeslovakia.sk
 showoff.sk
@@ -382591,7 +382537,6 @@ silnezeny.sk
 silnirodicia.sk
 silnoprud.sk
 silnyajposichte.sk
-silnykandidat.sk
 silnyklimazakon.sk
 silnykolagen.sk
 silnymagnet.sk
@@ -382643,7 +382588,6 @@ siluet.sk
 siluetastudio.sk
 siluetbratislava.sk
 siluete.sk
-siluetka.sk
 silueto.sk
 siluetstudio.sk
 siluette.sk
@@ -383802,6 +383746,7 @@ sipky-harrows.sk
 sipky-obchod.sk
 sipky-terce.sk
 sipky.sk
+sipkybardejov.sk
 sipkybiliard.sk
 sipkyharrows.sk
 sipkylevice.sk
@@ -390372,7 +390317,6 @@ slovenskekoliby.sk
 slovenskekorene.sk
 slovenskekoruny.sk
 slovenskekozene.sk
-slovenskekraje.sk
 slovenskekralovstvo.sk
 slovenskekrive.sk
 slovenskekrmiva.sk
@@ -393253,7 +393197,6 @@ smsc.sk
 smscabajcapor.sk
 smscasino.sk
 smschalupka.sk
-smscredit.sk
 smscredits.sk
 smsdefence.sk
 smsdetskysvet.sk
@@ -393814,7 +393757,6 @@ snowsports.sk
 snowstar.sk
 snowstav.sk
 snowstormtheartist.sk
-snowsun.sk
 snowthority.sk
 snowtimes.sk
 snowtrex.sk
@@ -393826,6 +393768,7 @@ snp.sk
 snpch.sk
 snpcka.sk
 snpd.sk
+snpe-journal.sk
 snpenergy.sk
 snpreal.sk
 snpsurany.sk
@@ -396229,7 +396172,6 @@ songme.sk
 songmenow.sk
 songmics.sk
 songmicshome.sk
-songoku.sk
 songoro.sk
 songoroo.sk
 songrequest.sk
@@ -396401,7 +396343,6 @@ sophia.sk
 sophiacigerova.sk
 sophiadecor.sk
 sophiahrivnakova.sk
-sophiaitaly.sk
 sophiamelody.sk
 sophiaperla.sk
 sophias.sk
@@ -397598,7 +397539,6 @@ spankoveapnoe.sk
 spankovecentrum.sk
 spankovelazne.sk
 spankoveporadenstvo.sk
-spankoverozpravky.sk
 spankovestudio.sk
 spankovo.sk
 spankovyinstitut.sk
@@ -397635,7 +397575,6 @@ spar.sk
 sparadise.sk
 sparadla.sk
 sparashop.sk
-sparco-lubricants.sk
 sparco.sk
 sparcoteamwork.sk
 sparelaxbratislava.sk
@@ -398225,7 +398164,6 @@ spekulanti.sk
 spekulantinevolat.sk
 spekuluj.sk
 spel.sk
-spelektromont.sk
 speleo-spisskabela.sk
 speleo.sk
 speleobratislava.sk
@@ -399095,7 +399033,6 @@ spisskytravertin.sk
 spissls.sk
 spistech.sk
 spistimber.sk
-spistour.sk
 spisvrt.sk
 spisy.sk
 spit.sk
@@ -399946,6 +399883,7 @@ sport-academies.sk
 sport-academy.sk
 sport-active.sk
 sport-arena.sk
+sport-bars.sk
 sport-bazar.sk
 sport-bike.sk
 sport-bus.sk
@@ -400058,6 +399996,7 @@ sportbaby.sk
 sportbar.sk
 sportbararena.sk
 sportbarmokrance.sk
+sportbars.sk
 sportbazar.sk
 sportbeet.sk
 sportbekr.sk
@@ -401512,7 +401451,6 @@ spse4d.sk
 spseconomic.sk
 spsehalova.sk
 spseke.sk
-spselh.sk
 spsenz.sk
 spsepn.sk
 spsepo.sk
@@ -402772,7 +402710,6 @@ staffaugmentation.sk
 staffen.sk
 staffer365.sk
 staffhouse.sk
-staffhub.sk
 staffia.sk
 staffino.sk
 staffio.sk
@@ -404676,6 +404613,7 @@ stavbadomuvbratislave.sk
 stavbadomuvrakusku.sk
 stavbadozor.sk
 stavbaeu.sk
+stavbahrou.sk
 stavbahub.sk
 stavbainak.sk
 stavbainfo.sk
@@ -405597,7 +405535,6 @@ stavmontsk.sk
 stavmontspis.sk
 stavmontsro.sk
 stavmontzeliezovce.sk
-stavmost.sk
 stavmot.sk
 stavmox.sk
 stavnato.sk
@@ -406172,10 +406109,9 @@ stefanpolak.sk
 stefanpudis.sk
 stefanpupak.sk
 stefanrak.sk
-stefanrepka.sk
-stefanrepkagorals.sk
 stefanschwartz.sk
 stefanshof.sk
+stefansivak.sk
 stefanskahuta.sk
 stefanskrucany.sk
 stefansmolko.sk
@@ -408580,6 +408516,7 @@ stranakrajina.sk
 stranany.sk
 stranapravda.sk
 stranapsa.sk
+stranarespekt.sk
 stranasedliackyrozum.sk
 stranaslovexit.sk
 stranasmer.sk
@@ -408782,6 +408719,7 @@ strawberry.sk
 strawberrycenter.sk
 strawberrycity.sk
 strawberrycityday.sk
+strawberrycityrun.sk
 strawberryday.sk
 strawberrydeer.sk
 strawberryfest.sk
@@ -409027,6 +408965,7 @@ strechy-vazniky.sk
 strechy-zachar.sk
 strechy.sk
 strechy92.sk
+strechyadrevodomy.sk
 strechyajpek.sk
 strechyaltanky.sk
 strechyasalovanie.sk
@@ -411210,6 +411149,7 @@ stvorkolkyshop.sk
 stvorkolkysk.sk
 stvorkolkyslovensko.sk
 stvorkolkyzemplin.sk
+stvorky.sk
 stvorlistky.sk
 stvorlistok-komoca.sk
 stvorlistok.sk
@@ -411800,7 +411740,6 @@ sudosign.sk
 sudova.sk
 sudovasauna.sk
 sudovesauny.sk
-sudovevina.sk
 sudovevino.sk
 sudruh.sk
 sudrzne.sk
@@ -413864,7 +413803,6 @@ sushiraj.sk
 sushisamo.sk
 sushishop.sk
 sushiskola.sk
-sushitatry.sk
 sushitime.sk
 sushitorta.sk
 sushitorty.sk
@@ -414041,6 +413979,7 @@ sutazomat.sk
 sutazorlen.sk
 sutazorlenbenzina.sk
 sutazpepsi.sk
+sutazpmc.sk
 sutazpredeti.sk
 sutazprevodu.sk
 sutazpreziakov.sk
@@ -414348,6 +414287,7 @@ svaddba.sk
 svadebka.sk
 svadeko.sk
 svadekorental.sk
+svadobcania.sk
 svadobka.sk
 svadobkaeg.sk
 svadobkaharmen.sk
@@ -414895,6 +414835,7 @@ svenssongroup.sk
 sventek.sk
 sventrans.sk
 sveo.sk
+sverdlov.sk
 svereneckefondy.sk
 sverepec.sk
 sverigel.sk
@@ -414908,7 +414849,6 @@ svet-autodielov.sk
 svet-autosedaciek.sk
 svet-ayurvedy.sk
 svet-batohov.sk
-svet-byvania.sk
 svet-cukrarov.sk
 svet-deti.sk
 svet-drezov.sk
@@ -416017,7 +415957,6 @@ svlcompany.sk
 svls.sk
 svlskongres.sk
 svlspace.sk
-svlsro.sk
 svlujza.sk
 svlukas.sk
 svm-mont.sk
@@ -417478,6 +417417,7 @@ systemsb.sk
 systemservis.sk
 systemsgroup.sk
 systemsolutions.sk
+systemspravnehoriadenia.sk
 systemsteel.sk
 systemsxsolutions.sk
 systemthinking.sk
@@ -417515,6 +417455,7 @@ syu.sk
 syva.sk
 syx.sk
 syxfitnes.sk
+syxfitness24.sk
 syyr.sk
 syyyla.sk
 syz.sk
@@ -417618,6 +417559,7 @@ szeer.sk
 szekely.sk
 szekelyovci.sk
 szekop.sk
+szelepcsenyi.sk
 szelle.sk
 szelvedojavitas.sk
 szemcsi.sk
@@ -420024,7 +419966,6 @@ tasavolt.sk
 taschen.sk
 tasco-europe.sk
 tasectan.sk
-taser.sk
 taservis.sk
 tasha.sk
 tashask.sk
@@ -420893,7 +420834,6 @@ tattoo-supply.sk
 tattoo.sk
 tattoo4fun.sk
 tattooacademy.sk
-tattooatelier.sk
 tattooba.sk
 tattoobysanto.sk
 tattoobysophi.sk
@@ -423364,7 +423304,6 @@ telefon.sk
 telefonaut.sk
 telefonia.sk
 telefonica-o2.sk
-telefonica.sk
 telefonickapodpora.sk
 telefonkontakt.sk
 telefonna-ustredna.sk
@@ -425120,7 +425059,6 @@ termobeton.sk
 termobielizen.sk
 termobox.sk
 termoboxy.sk
-termobrik.sk
 termobrix.sk
 termobyt.sk
 termobytr.sk
@@ -427005,7 +426943,6 @@ thepackstock.sk
 thepangaia.sk
 theparanoid.sk
 theparents.sk
-thepartners.sk
 thepartyyouwillnotremember.sk
 thepastels.sk
 thepatriot.sk
@@ -427749,7 +427686,6 @@ tiande-kralovstvi.sk
 tiande-obchod.sk
 tiande-slovakia.sk
 tiande.sk
-tiandebeauty.sk
 tiandeberoun.sk
 tiandebratislava.sk
 tiandebutik.sk
@@ -433429,7 +433365,6 @@ toto-nabytok.sk
 toto.sk
 toto12.sk
 totoauto.sk
-totobude.sk
 totobudetvojweb.sk
 totocasino.sk
 totocem.sk
@@ -433881,6 +433816,7 @@ tphoteldruzba.sk
 tpi.sk
 tpindex.sk
 tpk.sk
+tpl-group.sk
 tpl.sk
 tplast.sk
 tplink-shop.sk
@@ -434795,7 +434731,6 @@ transtech.sk
 transtechburza.sk
 transteq.sk
 transtrade.sk
-transtradesk.sk
 transtuff.sk
 transunit.sk
 transvat.sk
@@ -434852,6 +434787,7 @@ trask.sk
 trasko.sk
 trasksolutions.sk
 traso.sk
+trasora.sk
 trasovanie.sk
 trast.sk
 trasy.sk
@@ -438515,7 +438451,6 @@ turany.sk
 turanyiova.sk
 turanykadernictvo.sk
 turanynadondavou.sk
-turashorskymvodcom.sk
 turasvodcom.sk
 turatello.sk
 turay.sk
@@ -438564,6 +438499,7 @@ turbofaktury.sk
 turbofan.sk
 turbofi.sk
 turbofish.sk
+turbohub.sk
 turbokamery.sk
 turbokompresory.sk
 turbokont.sk
@@ -438873,7 +438809,6 @@ tururu.sk
 turvod.sk
 turvon.sk
 turvslovakiu.sk
-turwood.sk
 tury.sk
 turysdetmi.sk
 turza.sk
@@ -438960,7 +438895,6 @@ tutto.sk
 tuttocapsule.sk
 tuttoluxo.sk
 tutty.sk
-tutucake.sk
 tutuli-mutuli.sk
 tutumi.sk
 tutumutu.sk
@@ -439964,7 +439898,6 @@ twegal.sk
 twelve.sk
 twelvecats.sk
 twelvemedia.sk
-twenties.sk
 twenty.sk
 twenty3.sk
 twentycrm.sk
@@ -442070,7 +442003,6 @@ uctuj.sk
 uctujdane.sk
 uctuje.sk
 uctujem.sk
-uctujeme.sk
 uctujeme123.sk
 uctujemedigital.sk
 uctujemeneziskovky.sk
@@ -443263,7 +443195,6 @@ umenieonline.sk
 umeniepenazi.sk
 umeniepodnikat.sk
 umeniepohybu.sk
-umeniepomaha.sk
 umeniepredeti.sk
 umenieprekazdeho.sk
 umenierobitenergetiku.sk
@@ -444838,7 +444769,6 @@ upchorizon.sk
 upchorizonfail.sk
 upchorizonsucks.sk
 upci.sk
-upcity.sk
 upcke.sk
 upcla.sk
 upcleaning.sk
@@ -445386,7 +445316,6 @@ uptownkosice.sk
 uptownoffices.sk
 uptownresidence.sk
 uptoyou.sk
-upupa.sk
 uputnika.sk
 upv.sk
 upversity.sk
@@ -445525,6 +445454,7 @@ urbanconsulting.sk
 urbancore.sk
 urbancraft.sk
 urbancultivator.sk
+urbandanceschool.sk
 urbandecay.sk
 urbandecaz.sk
 urbandesign.sk
@@ -447630,7 +447560,6 @@ vakc.sk
 vakcina-pre-zeny.sk
 vakcina-proti-rakovine.sk
 vakcina.sk
-vakcinacia.sk
 vakcinaprezeny.sk
 vakcinaprotihpv.sk
 vakciny-gsk.sk
@@ -449248,6 +449177,7 @@ vasevino.sk
 vasevlasky.sk
 vasevykurovanie.sk
 vasewebioo.sk
+vasexternyrozpoctar.sk
 vasezahrady.sk
 vasezaluzie.sk
 vasezdravie.sk
@@ -449409,6 +449339,7 @@ vasrobot.sk
 vasrodinnylekarnik.sk
 vasrodinnyzubar.sk
 vasrodokmen.sk
+vasrozpoctar.sk
 vass-socks.sk
 vass.sk
 vassai.sk
@@ -453279,6 +453210,7 @@ vev.sk
 veva.sk
 vevag.sk
 vevaku.sk
+vevamoments.sk
 veve.sk
 vevecreativestudio.sk
 vevedesign.sk
@@ -456743,7 +456675,6 @@ vip-ekonlex.sk
 vip-email.sk
 vip-klima.sk
 vip-mami.sk
-vip-nabytok.sk
 vip-odtah.sk
 vip-pobyty.sk
 vip-pradlo.sk
@@ -456893,7 +456824,6 @@ vipmarek.sk
 vipmedia.sk
 vipmm.sk
 vipmp.sk
-vipnabytok.sk
 vipnails.sk
 vipnaramek.sk
 vipnaramky.sk
@@ -457373,7 +457303,6 @@ virtualtour.sk
 virtualtrade.sk
 virtualtravel.sk
 virtualv.sk
-virtualvisit.sk
 virtualzone.sk
 virtualzoo.sk
 virtuama.sk
@@ -461387,7 +461316,6 @@ vot.sk
 votabo.sk
 vote.sk
 votep.sk
-votingapp.sk
 votivne.sk
 votivnesviecky.sk
 votivnesvietniky.sk
@@ -461816,6 +461744,7 @@ vranovske.sk
 vranovsko.sk
 vranovsky.sk
 vranovskysprievodca.sk
+vranovvpohybe.sk
 vranow.sk
 vrarena.sk
 vrasky.sk
@@ -462184,7 +462113,6 @@ vrtne-prace.sk
 vrtneprace.sk
 vrtneprojekty.sk
 vrto.sk
-vrtochvost.sk
 vrtractors.sk
 vrtrade.sk
 vrtstudne.sk
@@ -463919,7 +463847,6 @@ vyhrajhit.sk
 vyhrajiphone.sk
 vyhrajkaribik.sk
 vyhrajletenku.sk
-vyhrajloteriu.sk
 vyhrajmobil.sk
 vyhrajnadefakturou.sk
 vyhrajpoukaz.sk
@@ -464521,7 +464448,6 @@ vymahaniepohladavok.sk
 vymahaniepoistneho.sk
 vymahaniepzp.sk
 vymakajsa.sk
-vymalovane.sk
 vymalovano.sk
 vymaluj.sk
 vymalujem.sk
@@ -465627,7 +465553,6 @@ vytahyzemplin.sk
 vytalia.sk
 vytapenichlazeni.sk
 vytapetujem.sk
-vytapo.sk
 vytarly.sk
 vytazenie.sk
 vytazovak.sk
@@ -465889,6 +465814,7 @@ vyzivasdaskou.sk
 vyzivavlasov.sk
 vyzivavpohybe.sk
 vyzivenazena.sk
+vyziveno.sk
 vyzivka.sk
 vyzivne.sk
 vyzivneadeti.sk
@@ -467013,7 +466939,6 @@ watchio.sk
 watchking.sk
 watchky.sk
 watchlist.sk
-watchmakers.sk
 watchmania.sk
 watchmovie.sk
 watchoutlet.sk
@@ -468317,6 +468242,7 @@ webportaly.sk
 webpositive.sk
 webpotraviny.sk
 webpozicka.sk
+webpraca.sk
 webprebiznis.sk
 webpredaj.sk
 webprefirmu.sk
@@ -469027,6 +468953,7 @@ welcome.sk
 welcome2.sk
 welcomebaby.sk
 welcomehome.sk
+welcomeinaihub.sk
 welcomepack.sk
 welcomesummer.sk
 welcometofleetcomplete.sk
@@ -471141,7 +471068,6 @@ winzone.sk
 winzonegames.sk
 wio.sk
 wiolets.sk
-wioli.sk
 wip-autovrakovisko.sk
 wip.sk
 wipa.sk
@@ -472978,6 +472904,7 @@ wuwu.sk
 wuwuprint.sk
 wv.sk
 wva.sk
+wvg.sk
 wvo.sk
 wvsignage.sk
 ww.sk
@@ -475930,7 +475857,6 @@ zabi.sk
 zabiacesta.sk
 zabiatko.sk
 zabiatkoshop.sk
-zabibobra.sk
 zabicka.sk
 zabiedovo.sk
 zabijacka.sk
@@ -476231,7 +476157,6 @@ zadlzenost.sk
 zadlzeny.sk
 zadlzili-slovensko.sk
 zadlzili.sk
-zadlzilislovensko.sk
 zadna.sk
 zadnanaprava.sk
 zadobro.sk
@@ -477534,6 +477459,7 @@ zalubenastiavnica.sk
 zalubene.sk
 zalubenedarceky.sk
 zalubeni.sk
+zalubitelna.sk
 zalubova.sk
 zalubovnu.sk
 zalud.sk
@@ -478610,6 +478536,7 @@ zastera.sk
 zastery.sk
 zasterylacno.sk
 zastodolie.sk
+zastol.sk
 zastolom.sk
 zastranie.sk
 zastrcka.sk
@@ -479751,6 +479678,7 @@ zdenkobatrlabc.sk
 zdenkocambal.sk
 zdenkocambalholic.sk
 zdenkocambalsns.sk
+zdenkoglavo.sk
 zdenkohmira.sk
 zdenkolehotsky.sk
 zdenkoliptak.sk
@@ -479982,7 +479910,6 @@ zdrave-snivanie.sk
 zdrave-stolicky.sk
 zdrave-stravovanie.sk
 zdrave-telo.sk
-zdrave-torty.sk
 zdrave-varenie.sk
 zdrave-vlasy.sk
 zdrave-zubky.sk
@@ -480323,6 +480250,7 @@ zdravio.sk
 zdraviok.sk
 zdravipapkaci.sk
 zdravissimo.sk
+zdravita.sk
 zdravitask.sk
 zdraviunaproti.sk
 zdravizadarmo.sk
@@ -481508,7 +481436,6 @@ zeltop.sk
 zelux.sk
 zelvacrafting.sk
 zelvet.sk
-zelvivo.sk
 zelvo.sk
 zem.sk
 zemajewels.sk
@@ -482368,8 +482295,6 @@ zet-mont.sk
 zet.sk
 zeta-trading.sk
 zeta.sk
-zetacode.sk
-zetadesign.sk
 zetaf.sk
 zetagroup.sk
 zetak.sk
@@ -482605,6 +482530,7 @@ zhmao.sk
 zhmotnito.sk
 zhn.sk
 zhnet.sk
+zhoda.sk
 zhodbielizne.sk
 zhodnocovanieodpadu.sk
 zhodnocujeme.sk
@@ -482625,6 +482551,7 @@ zhorazdrona.sk
 zhorelmidom.sk
 zhotovitelia.sk
 zhovnabicproduction.sk
+zhovnazliepany.sk
 zhpediater.sk
 zhr.sk
 zhrbsipsa.sk
@@ -483784,7 +483711,6 @@ zixel.sk
 zixer.sk
 zixo.sk
 zixon.sk
-ziyoku.sk
 ziza.sk
 zizafestival.sk
 zizagroup.sk
@@ -484756,7 +484682,6 @@ zlvomat.sk
 zlw.sk
 zly.sk
 zlyarchitekt.sk
-zlyclovek.sk
 zlymarketing.sk
 zlynapad.sk
 zlynda.sk
@@ -485797,7 +485722,6 @@ zoofera.sk
 zoofood.sk
 zoogen.sk
 zoohit.sk
-zoohoo.sk
 zoohotel.sk
 zoohouse.sk
 zooinzeraty.sk
@@ -487921,6 +487845,7 @@ zubarbl.sk
 zubarbratislava.sk
 zubardemjan.sk
 zubardnv.sk
+zubarecka.sk
 zubaren.sk
 zubarfiamcik.sk
 zubarhe.sk
@@ -488114,7 +488039,6 @@ zubnilekari.sk
 zubny-chirurg.sk
 zubny-implantat.sk
 zubny-lekar.sk
-zubny-strojcek-poprad.sk
 zubny-strojcek.sk
 zubny-technik.sk
 zubny.sk
@@ -488560,7 +488484,6 @@ zustrstena.sk
 zusturany.sk
 zusturciansketeplice.sk
 zusturzovka.sk
-zustv.sk
 zustvrdosin.sk
 zusvalaliky.sk
 zusvalaska.sk
@@ -489389,6 +489312,7 @@ zwirnoffice.sk
 zwirnofficevisitor.sk
 zwizu.sk
 zwl.sk
+zwmey.sk
 zwocreative.sk
 zwolencan.sk
 zwood.sk
