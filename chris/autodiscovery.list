@@ -10106,6 +10106,7 @@ autoconfig.realtime.supabase.co
 autoconfig.storage.supabase.co
 autoconfig.supabase.in
 autoconfig.supabase.net
+autoconfig.surge.sh
 autoconfig.syncloud.it
 autoconfig.dscloud.biz
 autoconfig.direct.quickconnect.cn
@@ -20431,6 +20432,7 @@ _autodiscover.realtime.supabase.co
 _autodiscover.storage.supabase.co
 _autodiscover.supabase.in
 _autodiscover.supabase.net
+_autodiscover.surge.sh
 _autodiscover.syncloud.it
 _autodiscover.dscloud.biz
 _autodiscover.direct.quickconnect.cn
@@ -30756,6 +30758,7 @@ autodiscover.realtime.supabase.co
 autodiscover.storage.supabase.co
 autodiscover.supabase.in
 autodiscover.supabase.net
+autodiscover.surge.sh
 autodiscover.syncloud.it
 autodiscover.dscloud.biz
 autodiscover.direct.quickconnect.cn
@@ -41081,6 +41084,7 @@ b._dns-sd.realtime.supabase.co
 b._dns-sd.storage.supabase.co
 b._dns-sd.supabase.in
 b._dns-sd.supabase.net
+b._dns-sd.surge.sh
 b._dns-sd.syncloud.it
 b._dns-sd.dscloud.biz
 b._dns-sd.direct.quickconnect.cn
@@ -51406,6 +51410,7 @@ db._dns-sd.realtime.supabase.co
 db._dns-sd.storage.supabase.co
 db._dns-sd.supabase.in
 db._dns-sd.supabase.net
+db._dns-sd.surge.sh
 db._dns-sd.syncloud.it
 db._dns-sd.dscloud.biz
 db._dns-sd.direct.quickconnect.cn
@@ -61731,6 +61736,7 @@ isatap.realtime.supabase.co
 isatap.storage.supabase.co
 isatap.supabase.in
 isatap.supabase.net
+isatap.surge.sh
 isatap.syncloud.it
 isatap.dscloud.biz
 isatap.direct.quickconnect.cn
@@ -72056,6 +72062,7 @@ lb._dns-sd.realtime.supabase.co
 lb._dns-sd.storage.supabase.co
 lb._dns-sd.supabase.in
 lb._dns-sd.supabase.net
+lb._dns-sd.surge.sh
 lb._dns-sd.syncloud.it
 lb._dns-sd.dscloud.biz
 lb._dns-sd.direct.quickconnect.cn
@@ -82381,6 +82388,7 @@ wpad.realtime.supabase.co
 wpad.storage.supabase.co
 wpad.supabase.in
 wpad.supabase.net
+wpad.surge.sh
 wpad.syncloud.it
 wpad.dscloud.biz
 wpad.direct.quickconnect.cn
@@ -92706,6 +92714,7 @@ wpad.tcp.realtime.supabase.co
 wpad.tcp.storage.supabase.co
 wpad.tcp.supabase.in
 wpad.tcp.supabase.net
+wpad.tcp.surge.sh
 wpad.tcp.syncloud.it
 wpad.tcp.dscloud.biz
 wpad.tcp.direct.quickconnect.cn
