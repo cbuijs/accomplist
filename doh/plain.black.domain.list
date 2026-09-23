@@ -12,7 +12,6 @@ dns.redhosting.com.ar
 dnsdoh.art
 dns.wang.art
 dns.sarak.as
-tlz.asia
 penta.aeins.at
 rfree1.blue-shield.at
 rfree2.blue-shield.at
@@ -236,7 +235,6 @@ fr1.dnswarden.com
 sg1.dnswarden.com
 doh.us.dnswarden.com
 dnswebvsn.com
-domainexpired.domain-expired.com
 family.dns.doubleangels.com
 dns.edgeburnmedia.com
 edgy-dns.com
@@ -250,7 +248,6 @@ doh-primary-pool.goodbyegambling.com
 dns.google.com
 google-public-dns-a.google.com
 google-public-dns-b.google.com
-dns.guardmydns.com
 geo.hafnova.com
 secure.hafnova.com
 adguard.haneulo.com
@@ -822,7 +819,7 @@ dns-free.link
 eth.link
 adguard.ihatemy.live
 ab.mc.ihatemy.live
-balancer.mc.ihatemy.live
+anycast.mc.ihatemy.live
 eu-central.mc.ihatemy.live
 lifeisa.live
 solaxy.live
@@ -1479,7 +1476,6 @@ najiakeji.top
 revelio.top
 xholgm.top
 agh.xinfeng16m.top
-zburger.top
 doh.funtopia.tv
 emby.rasp.tv
 dns.yatima.tv

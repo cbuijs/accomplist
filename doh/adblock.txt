@@ -1,6 +1,6 @@
 [Adblock Plus 1.1]
 ! Title: Accomplist "Doh" AdBlock List (Top-N Version)
-! Version: 1790048688
+! Version: 1790135453
 ! Homepage: https://github.com/cbuijs/accomplist/tree/master/doh
 !
 ! WhiteList Domains:
@@ -21,7 +21,6 @@
 ||dnsdoh.art^
 ||dns.wang.art^
 ||dns.sarak.as^
-||tlz.asia^
 ||penta.aeins.at^
 ||rfree1.blue-shield.at^
 ||rfree2.blue-shield.at^
@@ -211,7 +210,6 @@
 ||sg1.dnswarden.com^
 ||doh.us.dnswarden.com^
 ||dnswebvsn.com^
-||domainexpired.domain-expired.com^
 ||family.dns.doubleangels.com^
 ||dns.edgeburnmedia.com^
 ||edgy-dns.com^
@@ -225,7 +223,6 @@
 ||dns.google.com^
 ||google-public-dns-a.google.com^
 ||google-public-dns-b.google.com^
-||dns.guardmydns.com^
 ||geo.hafnova.com^
 ||secure.hafnova.com^
 ||adguard.haneulo.com^
@@ -768,7 +765,7 @@
 ||eth.link^
 ||adguard.ihatemy.live^
 ||ab.mc.ihatemy.live^
-||balancer.mc.ihatemy.live^
+||anycast.mc.ihatemy.live^
 ||eu-central.mc.ihatemy.live^
 ||lifeisa.live^
 ||solaxy.live^
@@ -1353,7 +1350,6 @@
 ||revelio.top^
 ||xholgm.top^
 ||agh.xinfeng16m.top^
-||zburger.top^
 ||doh.funtopia.tv^
 ||emby.rasp.tv^
 ||dns.yatima.tv^

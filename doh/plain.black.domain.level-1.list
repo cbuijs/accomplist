@@ -8,7 +8,6 @@ dns.redhosting.com.ar
 dnsdoh.art
 dns.wang.art
 dns.sarak.as
-tlz.asia
 rfree1.blue-shield.at
 rfree2.blue-shield.at
 dns.fancyorg.at
@@ -183,7 +182,6 @@ doh-primary-pool.goodbyegambling.com
 dns.google.com
 google-public-dns-a.google.com
 google-public-dns-b.google.com
-dns.guardmydns.com
 secure.hafnova.com
 adguard.haneulo.com
 resolver-eu.haringstad.com
@@ -1099,7 +1097,6 @@ najiakeji.top
 revelio.top
 xholgm.top
 agh.xinfeng16m.top
-zburger.top
 doh.funtopia.tv
 emby.rasp.tv
 dns.yatima.tv
@@ -1228,7 +1225,6 @@ dns-53.com
 3gcywmluf3zy.233py.com.eo.dnse5.com
 doh.totoro.pub.eo.dnse5.com
 dns.dnswarden.com
-domainexpired.domain-expired.com
 geo.hafnova.com
 ww1.hellozhao.com
 lariviere.lepilleur.com
@@ -1372,7 +1368,7 @@ abstergo.it
 home.daniil.it
 pi.daniil.it
 ab.mc.ihatemy.live
-balancer.mc.ihatemy.live
+anycast.mc.ihatemy.live
 eu-central.mc.ihatemy.live
 crd.circl.lu
 ocph05.cornes.me
