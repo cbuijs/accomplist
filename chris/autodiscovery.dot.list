@@ -8081,8 +8081,10 @@
 .autoconfig.co.no
 .autoconfig.devinapps.com
 .autoconfig.webhosting.be
+.autoconfig.site.webhosting.be
 .autoconfig.prvw.eu
 .autoconfig.hosting-cluster.nl
+.autoconfig.site.hosting-cluster.nl
 .autoconfig.ctfcloud.net
 .autoconfig.convex.app
 .autoconfig.convex.cloud
@@ -9074,6 +9076,7 @@
 .autoconfig.home64.de
 .autoconfig.ipv64.de
 .autoconfig.ipv64.net
+.autoconfig.iqhs.pl
 .autoconfig.ir.md
 .autoconfig.is-a-good.dev
 .autoconfig.iservschule.de
@@ -18411,8 +18414,10 @@
 ._autodiscover.co.no
 ._autodiscover.devinapps.com
 ._autodiscover.webhosting.be
+._autodiscover.site.webhosting.be
 ._autodiscover.prvw.eu
 ._autodiscover.hosting-cluster.nl
+._autodiscover.site.hosting-cluster.nl
 ._autodiscover.ctfcloud.net
 ._autodiscover.convex.app
 ._autodiscover.convex.cloud
@@ -19404,6 +19409,7 @@
 ._autodiscover.home64.de
 ._autodiscover.ipv64.de
 ._autodiscover.ipv64.net
+._autodiscover.iqhs.pl
 ._autodiscover.ir.md
 ._autodiscover.is-a-good.dev
 ._autodiscover.iservschule.de
@@ -28741,8 +28747,10 @@
 .autodiscover.co.no
 .autodiscover.devinapps.com
 .autodiscover.webhosting.be
+.autodiscover.site.webhosting.be
 .autodiscover.prvw.eu
 .autodiscover.hosting-cluster.nl
+.autodiscover.site.hosting-cluster.nl
 .autodiscover.ctfcloud.net
 .autodiscover.convex.app
 .autodiscover.convex.cloud
@@ -29734,6 +29742,7 @@
 .autodiscover.home64.de
 .autodiscover.ipv64.de
 .autodiscover.ipv64.net
+.autodiscover.iqhs.pl
 .autodiscover.ir.md
 .autodiscover.is-a-good.dev
 .autodiscover.iservschule.de
@@ -39071,8 +39080,10 @@
 .b._dns-sd.co.no
 .b._dns-sd.devinapps.com
 .b._dns-sd.webhosting.be
+.b._dns-sd.site.webhosting.be
 .b._dns-sd.prvw.eu
 .b._dns-sd.hosting-cluster.nl
+.b._dns-sd.site.hosting-cluster.nl
 .b._dns-sd.ctfcloud.net
 .b._dns-sd.convex.app
 .b._dns-sd.convex.cloud
@@ -40064,6 +40075,7 @@
 .b._dns-sd.home64.de
 .b._dns-sd.ipv64.de
 .b._dns-sd.ipv64.net
+.b._dns-sd.iqhs.pl
 .b._dns-sd.ir.md
 .b._dns-sd.is-a-good.dev
 .b._dns-sd.iservschule.de
@@ -49401,8 +49413,10 @@
 .db._dns-sd.co.no
 .db._dns-sd.devinapps.com
 .db._dns-sd.webhosting.be
+.db._dns-sd.site.webhosting.be
 .db._dns-sd.prvw.eu
 .db._dns-sd.hosting-cluster.nl
+.db._dns-sd.site.hosting-cluster.nl
 .db._dns-sd.ctfcloud.net
 .db._dns-sd.convex.app
 .db._dns-sd.convex.cloud
@@ -50394,6 +50408,7 @@
 .db._dns-sd.home64.de
 .db._dns-sd.ipv64.de
 .db._dns-sd.ipv64.net
+.db._dns-sd.iqhs.pl
 .db._dns-sd.ir.md
 .db._dns-sd.is-a-good.dev
 .db._dns-sd.iservschule.de
@@ -59731,8 +59746,10 @@
 .isatap.co.no
 .isatap.devinapps.com
 .isatap.webhosting.be
+.isatap.site.webhosting.be
 .isatap.prvw.eu
 .isatap.hosting-cluster.nl
+.isatap.site.hosting-cluster.nl
 .isatap.ctfcloud.net
 .isatap.convex.app
 .isatap.convex.cloud
@@ -60724,6 +60741,7 @@
 .isatap.home64.de
 .isatap.ipv64.de
 .isatap.ipv64.net
+.isatap.iqhs.pl
 .isatap.ir.md
 .isatap.is-a-good.dev
 .isatap.iservschule.de
@@ -70061,8 +70079,10 @@
 .lb._dns-sd.co.no
 .lb._dns-sd.devinapps.com
 .lb._dns-sd.webhosting.be
+.lb._dns-sd.site.webhosting.be
 .lb._dns-sd.prvw.eu
 .lb._dns-sd.hosting-cluster.nl
+.lb._dns-sd.site.hosting-cluster.nl
 .lb._dns-sd.ctfcloud.net
 .lb._dns-sd.convex.app
 .lb._dns-sd.convex.cloud
@@ -71054,6 +71074,7 @@
 .lb._dns-sd.home64.de
 .lb._dns-sd.ipv64.de
 .lb._dns-sd.ipv64.net
+.lb._dns-sd.iqhs.pl
 .lb._dns-sd.ir.md
 .lb._dns-sd.is-a-good.dev
 .lb._dns-sd.iservschule.de
@@ -80391,8 +80412,10 @@
 .wpad.co.no
 .wpad.devinapps.com
 .wpad.webhosting.be
+.wpad.site.webhosting.be
 .wpad.prvw.eu
 .wpad.hosting-cluster.nl
+.wpad.site.hosting-cluster.nl
 .wpad.ctfcloud.net
 .wpad.convex.app
 .wpad.convex.cloud
@@ -81384,6 +81407,7 @@
 .wpad.home64.de
 .wpad.ipv64.de
 .wpad.ipv64.net
+.wpad.iqhs.pl
 .wpad.ir.md
 .wpad.is-a-good.dev
 .wpad.iservschule.de
@@ -90721,8 +90745,10 @@
 .wpad.tcp.co.no
 .wpad.tcp.devinapps.com
 .wpad.tcp.webhosting.be
+.wpad.tcp.site.webhosting.be
 .wpad.tcp.prvw.eu
 .wpad.tcp.hosting-cluster.nl
+.wpad.tcp.site.hosting-cluster.nl
 .wpad.tcp.ctfcloud.net
 .wpad.tcp.convex.app
 .wpad.tcp.convex.cloud
@@ -91714,6 +91740,7 @@
 .wpad.tcp.home64.de
 .wpad.tcp.ipv64.de
 .wpad.tcp.ipv64.net
+.wpad.tcp.iqhs.pl
 .wpad.tcp.ir.md
 .wpad.tcp.is-a-good.dev
 .wpad.tcp.iservschule.de
