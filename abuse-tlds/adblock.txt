@@ -1,6 +1,6 @@
 [Adblock Plus 1.1]
 ! Title: Accomplist "Tlds" AdBlock List (Top-N Version)
-! Version: 1790308207
+! Version: 1790395109
 ! Homepage: https://github.com/cbuijs/accomplist/tree/master/tlds
 !
 ! WhiteList Domains:
@@ -1797,6 +1797,8 @@
 @@||arizona.vote^
 ! Sub-domain "esc.vote" unblacklisted from domain "vote"
 @@||esc.vote^
+! Sub-domain "opn.vote" unblacklisted from domain "vote"
+@@||opn.vote^
 ! Sub-domain "acro.website" unblacklisted from domain "website"
 @@||acro.website^
 ! Sub-domain "bestmotherfucking.website" unblacklisted from domain "website"
