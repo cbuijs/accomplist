@@ -1,6 +1,6 @@
 [Adblock Plus 1.1]
 ! Title: Accomplist "Doh" AdBlock List (Top-N Version)
-! Version: 1790308486
+! Version: 1790395389
 ! Homepage: https://github.com/cbuijs/accomplist/tree/master/doh
 !
 ! WhiteList Domains:
@@ -814,6 +814,7 @@
 ||vpsus3.pzhg.me^
 ||dns.reitmeier.me^
 ||do.shimul.me^
+||adguard.sparshbajaj.me^
 ||ibksturm.synology.me^
 ||ihctw.synology.me^
 ||dns.warma.me^
@@ -954,6 +955,7 @@
 ||dns.mullvad.net^
 ||doh.mullvad.net^
 ||echoe1yidzu4ioo5.myfritz.net^
+||adcd0a6dcdb7.sn.mynetname.net^
 ||doh-ca.naftalie.net^
 ||ae-fuj-w-p-1.nashkan.net^
 ||ae-fuj-w-p-2.nashkan.net^
@@ -1165,7 +1167,7 @@
 ||fezgate.ovh^
 ||jackyes.ovh^
 ||dns.mateo.ovh^
-||szpadel.ovh^
+||dns.szpadel.ovh^
 ||dns.hotta.page^
 ||dns.panszelescik.pl^
 ||n2.panszelescik.pl^
