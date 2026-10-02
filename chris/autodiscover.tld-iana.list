@@ -5578,15 +5578,6 @@ db._dns-sd.juegos
 lb._dns-sd.juegos
 wpad.juegos
 wpad.tcp.juegos
-autoconfig.juniper
-autodiscover.juniper
-_autodiscover._tcp.juniper
-isatap.juniper
-b._dns-sd.juniper
-db._dns-sd.juniper
-lb._dns-sd.juniper
-wpad.juniper
-wpad.tcp.juniper
 autoconfig.kaufen
 autodiscover.kaufen
 _autodiscover._tcp.kaufen
