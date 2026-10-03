@@ -1,0 +1,7 @@
+Sophos-Malicious	black	https://raw.githubusercontent.com/sophoslabs/covid-iocs/master/malicious_domains.txt	/opt/accomplist/work/sophos-malicious.list	7200	@DOMAIN	@IP
+Sophos-Malware	black	https://raw.githubusercontent.com/sophoslabs/covid-iocs/master/malware_domains.txt	/opt/accomplist/work/sophos-malware.list	7200	@DOMAIN	@IP
+FruxLabs	black	https://rescure.fruxlabs.com/covid.txt	/opt/accomplist/work/fruxlabs.list	7200	@DOMAIN	@IP
+Sentinel	black	https://managedsentinel.com/downloads/covid19_domains.txt	/opt/accomplist/work/sentinel.list	7200	@DOMAIN	@IP
+CyberThreatCoalition	black	https://blocklist.cyberthreatcoalition.org/vetted/domain.txt	/opt/accomplist/work/cyberthreatcoalition.list	7200	@DOMAIN	@IP
+Covid	black!	/opt/accomplist/private/covid.list!	/opt/accomplist/work/covid.list	7200	@DOMAIN	@IP
+KTip	black	https://kriskintel.com/feeds/ktip_covid_domains.txt	/opt/accomplist/work/ktip.list	7200	@DOMAIN	@IP
