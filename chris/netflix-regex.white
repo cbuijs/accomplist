@@ -1,0 +1,3 @@
+# Netflix
+/^(.*\.)*(netflix|nflx[a-z]+)\.(edgesuite\.)*(com|net)(\.)*$/
+/^(.*\.)*netflix(\.)*$/
