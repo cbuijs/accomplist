@@ -6336,7 +6336,6 @@ autoconfig.joy
 autoconfig.jpmorgan
 autoconfig.jprs
 autoconfig.juegos
-autoconfig.juniper
 autoconfig.kaufen
 autoconfig.kddi
 autoconfig.kerryhotels
@@ -16670,7 +16669,6 @@ _autodiscover.joy
 _autodiscover.jpmorgan
 _autodiscover.jprs
 _autodiscover.juegos
-_autodiscover.juniper
 _autodiscover.kaufen
 _autodiscover.kddi
 _autodiscover.kerryhotels
@@ -27004,7 +27002,6 @@ autodiscover.joy
 autodiscover.jpmorgan
 autodiscover.jprs
 autodiscover.juegos
-autodiscover.juniper
 autodiscover.kaufen
 autodiscover.kddi
 autodiscover.kerryhotels
@@ -37338,7 +37335,6 @@ b._dns-sd.joy
 b._dns-sd.jpmorgan
 b._dns-sd.jprs
 b._dns-sd.juegos
-b._dns-sd.juniper
 b._dns-sd.kaufen
 b._dns-sd.kddi
 b._dns-sd.kerryhotels
@@ -47672,7 +47668,6 @@ db._dns-sd.joy
 db._dns-sd.jpmorgan
 db._dns-sd.jprs
 db._dns-sd.juegos
-db._dns-sd.juniper
 db._dns-sd.kaufen
 db._dns-sd.kddi
 db._dns-sd.kerryhotels
@@ -58006,7 +58001,6 @@ isatap.joy
 isatap.jpmorgan
 isatap.jprs
 isatap.juegos
-isatap.juniper
 isatap.kaufen
 isatap.kddi
 isatap.kerryhotels
@@ -68340,7 +68334,6 @@ lb._dns-sd.joy
 lb._dns-sd.jpmorgan
 lb._dns-sd.jprs
 lb._dns-sd.juegos
-lb._dns-sd.juniper
 lb._dns-sd.kaufen
 lb._dns-sd.kddi
 lb._dns-sd.kerryhotels
@@ -78674,7 +78667,6 @@ wpad.joy
 wpad.jpmorgan
 wpad.jprs
 wpad.juegos
-wpad.juniper
 wpad.kaufen
 wpad.kddi
 wpad.kerryhotels
@@ -89008,7 +89000,6 @@ wpad.tcp.joy
 wpad.tcp.jpmorgan
 wpad.tcp.jprs
 wpad.tcp.juegos
-wpad.tcp.juniper
 wpad.tcp.kaufen
 wpad.tcp.kddi
 wpad.tcp.kerryhotels
