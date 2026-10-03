@@ -1,7 +1,6 @@
 shield.afixer.app
 doh.disconnect.app
 tiar.app
-dns.wang.art
 dns.kescher.at
 kudns.kescher.at
 dns.belnet.be
@@ -16,6 +15,7 @@ protected.canadianshield.cira.ca
 dns1.dnscrypt.ca
 ag.ff0x.ca
 pangolin.ff0x.ca
+dns.omada.cafe
 digitale-gesellschaft.ch
 doh.immerda.ch
 eu1.dns.lavate.ch
@@ -350,7 +350,6 @@ dns.api.sandbox.globuscs.info
 dns.api.staging.globuscs.info
 dns.api.test.globuscs.info
 dns.tracker.ink
-fly.io
 dns.guard.io
 doh.kidzonet.io
 de.dns.privex.io
@@ -371,7 +370,6 @@ eth.link
 adguard.ihatemy.live
 ab.mc.ihatemy.live
 anycast.mc.ihatemy.live
-balancer.mc.ihatemy.live
 eu-central.mc.ihatemy.live
 doh.domreg.lt
 crd.circl.lu
@@ -415,7 +413,6 @@ dns.caspervk.net
 dns.xiumu.org.cdn.cloudflare.net
 doh.apad.pro.cdn.cloudflare.net
 d2bphvjyj895l0.cloudfront.net
-dns.cmrg.net
 doh.cox.net
 dot.cox.net
 dohdot.coxlab.net
@@ -429,6 +426,7 @@ adguard.lege.despagne.net
 mimile.despagne.net
 dns.digitalsize.net
 dns4me.net
+gustamadh.dynv6.net
 dnscache.e-utp.net
 dns.envs.net
 doh.ersei.net

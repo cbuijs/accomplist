@@ -8,7 +8,6 @@
 .dnsdoh.art
 .dns.wang.art
 .dns.sarak.as
-.tlz.asia
 .rfree1.blue-shield.at
 .rfree2.blue-shield.at
 .dns.fancyorg.at
@@ -35,6 +34,7 @@
 .ag.ff0x.ca
 .adguard.jfchenier.ca
 .dot.tooli.ca
+.dns.omada.cafe
 .affsoft.cc
 .chuncheon.dnsovertor.cc
 .japan.dnsovertor.cc
@@ -172,6 +172,9 @@
 .doh.us.dnswarden.com
 .dnswebvsn.com
 .family.dns.doubleangels.com
+.family.dns.dremaxx.com
+.open.dns.dremaxx.com
+.dns.easyhns.com
 .dns.edgeburnmedia.com
 .edgy-dns.com
 .dns.efficientdocuments.com
@@ -189,6 +192,7 @@
 .dns.hellozhao.com
 .httpdns-push.heytapmobile.com
 .himedns.com
+.hnsdoh.com
 .dns.internal.hosmatic.com
 .ads.hunga1k47.com
 .doth.huque.com
@@ -538,7 +542,6 @@
 .dns.kxy.ink
 .dns.tracker.ink
 .dns.bitservices.io
-.fly.io
 .dns.guard.io
 .query.hdns.io
 .dns.jichi.io
@@ -688,6 +691,7 @@
 .dns.digitalsize.net
 .dns4me.net
 .takhtakh.domyah.net
+.gustamadh.dynv6.net
 .dnscache.e-utp.net
 .adguard.easez.net
 .dns.eddi.net
@@ -1070,6 +1074,7 @@
 .dns.cloudtrust.solutions
 .dns.b33.space
 .adg.rueiliu.space
+.dns.yunzheng.space
 .dns.sy.st
 .home-server.store
 .dns.fizz.studio
@@ -1374,7 +1379,6 @@
 .pi.daniil.it
 .ab.mc.ihatemy.live
 .anycast.mc.ihatemy.live
-.balancer.mc.ihatemy.live
 .eu-central.mc.ihatemy.live
 .crd.circl.lu
 .ocph05.cornes.me

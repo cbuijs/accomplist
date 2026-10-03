@@ -9,7 +9,6 @@
 .dnsdoh.art
 .dns.wang.art
 .dns.sarak.as
-.tlz.asia
 .penta.aeins.at
 .rfree1.blue-shield.at
 .rfree2.blue-shield.at
@@ -40,6 +39,7 @@
 .pangolin.ff0x.ca
 .adguard.jfchenier.ca
 .dot.tooli.ca
+.dns.omada.cafe
 .affsoft.cc
 .chuncheon.dnsovertor.cc
 .japan.dnsovertor.cc
@@ -201,6 +201,9 @@
 .doh.us.dnswarden.com
 .dnswebvsn.com
 .family.dns.doubleangels.com
+.family.dns.dremaxx.com
+.open.dns.dremaxx.com
+.dns.easyhns.com
 .dns.edgeburnmedia.com
 .edgy-dns.com
 .dns.efficientdocuments.com
@@ -220,6 +223,7 @@
 .ww1.hellozhao.com
 .httpdns-push.heytapmobile.com
 .himedns.com
+.hnsdoh.com
 .dns.internal.hosmatic.com
 .ads.hunga1k47.com
 .doth.huque.com
@@ -705,7 +709,6 @@
 .dns.kxy.ink
 .dns.tracker.ink
 .dns.bitservices.io
-.fly.io
 .dns.guard.io
 .query.hdns.io
 .dns.jichi.io
@@ -755,7 +758,6 @@
 .adguard.ihatemy.live
 .ab.mc.ihatemy.live
 .anycast.mc.ihatemy.live
-.balancer.mc.ihatemy.live
 .eu-central.mc.ihatemy.live
 .lifeisa.live
 .solaxy.live
@@ -890,6 +892,7 @@
 .tx224-9449-bj-v0.0.dxng.net
 .cn1.dxng.net
 .cn1-v1.dxng.net
+.gustamadh.dynv6.net
 .dnscache.e-utp.net
 .adguard.easez.net
 .dns.eddi.net
@@ -1311,6 +1314,7 @@
 .dns.cloudtrust.solutions
 .dns.b33.space
 .adg.rueiliu.space
+.dns.yunzheng.space
 .dns.sy.st
 .home-server.store
 .dns.fizz.studio
