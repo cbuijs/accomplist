@@ -1,6 +1,6 @@
 [Adblock Plus 1.1]
 ! Title: Accomplist "Tlds" AdBlock List (Top-N Version)
-! Version: 1791088296
+! Version: 1791171167
 ! Homepage: https://github.com/cbuijs/accomplist/tree/master/tlds
 !
 ! WhiteList Domains:
@@ -1939,6 +1939,8 @@
 @@||communities.win^
 ! Sub-domain "debloat.win" unblacklisted from domain "win"
 @@||debloat.win^
+! Sub-domain "gametoolkit.win" unblacklisted from domain "win"
+@@||gametoolkit.win^
 ! Sub-domain "ios-countdown.win" unblacklisted from domain "win"
 @@||ios-countdown.win^
 ! Sub-domain "patriots.win" unblacklisted from domain "win"
