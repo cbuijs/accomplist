@@ -8,6 +8,7 @@
 .dnsdoh.art
 .dns.wang.art
 .dns.sarak.as
+.tlz.asia
 .rfree1.blue-shield.at
 .rfree2.blue-shield.at
 .dns.fancyorg.at
@@ -356,6 +357,7 @@
 .dns.dnshome.de
 .dns.dremaxx.de
 .dukun.de
+.dns.dyn1.de
 .opennic1.eth-services.de
 .dns.fehlsprache.de
 .dns.ffnw.de
@@ -689,7 +691,6 @@
 .dns.digitalsize.net
 .dns4me.net
 .takhtakh.domyah.net
-.gustamadh.dynv6.net
 .dnscache.e-utp.net
 .adguard.easez.net
 .dns.eddi.net
@@ -1378,6 +1379,8 @@
 .pi.daniil.it
 .ab.mc.ihatemy.live
 .anycast.mc.ihatemy.live
+.balancer.mc.ihatemy.live
+.eu-central.mc.ihatemy.live
 .crd.circl.lu
 .ocph05.cornes.me
 .myip.pyry.me

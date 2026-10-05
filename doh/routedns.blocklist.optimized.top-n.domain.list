@@ -275,7 +275,6 @@
 .esel.stusta.mhn.de
 .muli.stusta.mhn.de
 .dns.mnet-online.de
-.dns.nick-slowinski.de
 .doh.niyawe.de
 .dns.t53.de
 .td-doh.dns.t53.de
@@ -368,6 +367,8 @@
 .adguard.ihatemy.live
 .ab.mc.ihatemy.live
 .anycast.mc.ihatemy.live
+.balancer.mc.ihatemy.live
+.eu-central.mc.ihatemy.live
 .doh.domreg.lt
 .crd.circl.lu
 .dns.circl.lu
@@ -424,7 +425,6 @@
 .mimile.despagne.net
 .dns.digitalsize.net
 .dns4me.net
-.gustamadh.dynv6.net
 .dnscache.e-utp.net
 .dns.envs.net
 .doh.ersei.net
