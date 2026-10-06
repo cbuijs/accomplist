@@ -11,8 +11,6 @@
 .private.canadianshield.cira.ca
 .protected.canadianshield.cira.ca
 .dns1.dnscrypt.ca
-.ag.ff0x.ca
-.pangolin.ff0x.ca
 .dns.omada.cafe
 .digitale-gesellschaft.ch
 .doh.immerda.ch
@@ -23,7 +21,6 @@
 .dot.quickline.ch
 .switch.ch
 .dnsotls.lab.nic.cl
-.justhost.bedro.cloud
 .dns-secondary.cloudnx.cloud
 .ps1.modr.club
 .dns.soldier.terumi.club
@@ -272,6 +269,7 @@
 .resolv01.ffnw.de
 .dns1.in-berlin.de
 .dns2.in-berlin.de
+.dns.kernel-error.de
 .esel.stusta.mhn.de
 .muli.stusta.mhn.de
 .dns.mnet-online.de
@@ -358,7 +356,6 @@
 .dns.shecan.ir
 .free.shecan.ir
 .pro.shecan.ir
-.cryptostorm.is
 .dns.flatuslifir.is
 .galileo.math.unipd.it
 .iij.jp
@@ -374,6 +371,7 @@
 .dns.circl.lu
 .dnspub.restena.lu
 .doh.nic.lv
+.dnslow.me
 .ibksturm.synology.me
 .ihctw.synology.me
 .att.aaaab3n.moe
