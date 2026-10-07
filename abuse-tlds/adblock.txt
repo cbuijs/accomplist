@@ -1,6 +1,6 @@
 [Adblock Plus 1.1]
 ! Title: Accomplist "Tlds" AdBlock List (Top-N Version)
-! Version: 1791257932
+! Version: 1791345146
 ! Homepage: https://github.com/cbuijs/accomplist/tree/master/tlds
 !
 ! WhiteList Domains:
@@ -1437,6 +1437,8 @@
 @@||miteru.site^
 ! Sub-domain "notion.site" unblacklisted from domain "site"
 @@||notion.site^
+! Sub-domain "omar-thing.site" unblacklisted from domain "site"
+@@||omar-thing.site^
 ! Sub-domain "onrocket.site" unblacklisted from domain "site"
 @@||onrocket.site^
 ! Sub-domain "platformsh.site" unblacklisted from domain "site"
