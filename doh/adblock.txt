@@ -1,6 +1,6 @@
 [Adblock Plus 1.1]
 ! Title: Accomplist "Doh" AdBlock List (Top-N Version)
-! Version: 1791345408
+! Version: 1791431224
 ! Homepage: https://github.com/cbuijs/accomplist/tree/master/doh
 !
 ! WhiteList Domains:
@@ -166,7 +166,6 @@
 ||dns.bebasid.com^
 ||internetsehat.bebasid.com^
 ||secondary-backup.bebasid.com^
-||bestwon203.com^
 ||doh-de.blahdns.com^
 ||doh-sg.blahdns.com^
 ||dot-de.blahdns.com^
@@ -229,6 +228,7 @@
 ||google-public-dns-b.google.com^
 ||geo.hafnova.com^
 ||secure.hafnova.com^
+||dns.hakutakucn.com^
 ||adguard.haneulo.com^
 ||resolver-eu.haringstad.com^
 ||dns.hellozhao.com^
@@ -770,6 +770,7 @@
 ||adguard.ihatemy.live^
 ||ab.mc.ihatemy.live^
 ||anycast.mc.ihatemy.live^
+||balancer.mc.ihatemy.live^
 ||eu-central.mc.ihatemy.live^
 ||lifeisa.live^
 ||solaxy.live^
@@ -904,6 +905,7 @@
 ||tx224-9449-bj-v0.0.dxng.net^
 ||cn1.dxng.net^
 ||cn1-v1.dxng.net^
+||gustamadh.dynv6.net^
 ||dnscache.e-utp.net^
 ||adguard.easez.net^
 ||dns.eddi.net^
@@ -1038,7 +1040,7 @@
 ||safe.dot.dns.yandex.net^
 ||dns.yuu-g.net^
 ||dns.daemon.za.net^
-||dns.edgy.network^
+||edgy.network^
 ||adblock.mydns.network^
 ||family.mydns.network^
 ||freedom.mydns.network^
@@ -1336,7 +1338,6 @@
 ||dns.daarrk.tech^
 ||qqmcfw.tech^
 ||dns.startupstack.tech^
-||tuskythehusky.tech^
 ||dns.kawa.tf^
 ||dns.koala.us.to^
 ||adfreedns.top^
@@ -1356,6 +1357,7 @@
 ||najiakeji.top^
 ||obscuro.top^
 ||revelio.top^
+||dns.wahr.top^
 ||xholgm.top^
 ||agh.xinfeng16m.top^
 ||doh.funtopia.tv^

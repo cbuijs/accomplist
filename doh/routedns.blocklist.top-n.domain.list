@@ -269,7 +269,6 @@
 .resolv01.ffnw.de
 .dns1.in-berlin.de
 .dns2.in-berlin.de
-.dns.kernel-error.de
 .esel.stusta.mhn.de
 .muli.stusta.mhn.de
 .dns.mnet-online.de
@@ -310,7 +309,6 @@
 .pates.services.sfr.fr.casepp.sfr.fr
 .8888.google
 .dns.google
-.nicsezcheckfbi.gov
 .doh.libredns.gr
 .dot.libredns.gr
 .mail.data.haus
@@ -365,13 +363,13 @@
 .adguard.ihatemy.live
 .ab.mc.ihatemy.live
 .anycast.mc.ihatemy.live
+.balancer.mc.ihatemy.live
 .eu-central.mc.ihatemy.live
 .doh.domreg.lt
 .crd.circl.lu
 .dns.circl.lu
 .dnspub.restena.lu
 .doh.nic.lv
-.dnslow.me
 .ibksturm.synology.me
 .ihctw.synology.me
 .att.aaaab3n.moe
@@ -423,6 +421,7 @@
 .mimile.despagne.net
 .dns.digitalsize.net
 .dns4me.net
+.gustamadh.dynv6.net
 .dnscache.e-utp.net
 .dns.envs.net
 .doh.ersei.net
@@ -664,6 +663,7 @@
 .dns.levonet.sk
 .crypto.sx
 .dns.koala.us.to
+.fidelius.top
 .doh.viatech.com.tw
 .adguard.shuting.idv.tw
 .dns.twnic.tw
