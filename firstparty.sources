@@ -1,0 +1,21 @@
+FrogEye	black	https://hostfiles.frogeye.fr/firstparty-only-trackers.txt	/opt/accomplist/work/frogeye.list	7200	@DOMAIN	@IP
+FrogEye-All	black	https://hostfiles.frogeye.fr/firstparty-trackers.txt	/opt/accomplist/work/frogeye-all.list	7200	@DOMAIN	@IP
+
+AdGuard-Base	black	https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/BaseFilter/sections/adservers_firstparty.txt	/opt/accomplist/work/adguard-base.list	7200	@ADBLOCK-BLACK	@IP
+
+AdGuard-Chinese	black	https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/ChineseFilter/sections/adservers_firstparty.txt	/opt/accomplist/work/adguard-chinese.list	7200	@ADBLOCK-BLACK	@IP
+AdGuard-Dutch	black	https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/DutchFilter/sections/adservers_firstparty.txt	/opt/accomplist/work/adguard-dutch.list	7200	@ADBLOCK-BLACK	@IP
+AdGuard-French	black	https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/FrenchFilter/sections/adservers_firstparty.txt	/opt/accomplist/work/adguard-french.list	7200	@ADBLOCK-BLACK	@IP
+AdGuard-German	black	https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/GermanFilter/sections/adservers_firstparty.txt	/opt/accomplist/work/adguard-german.list	7200	@ADBLOCK-BLACK	@IP
+AdGuard-Japanese	black	https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/JapaneseFilter/sections/adservers_firstparty.txt	/opt/accomplist/work/adguard-japanese.list	7200	@ADBLOCK-BLACK	@IP
+AdGuard-Spanish	black	https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/SpanishFilter/sections/adservers_firstparty.txt	/opt/accomplist/work/adguard-spanish.list	7200	@ADBLOCK-BLACK	@IP
+AdGuard-Turkish	black	https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/TurkishFilter/sections/adservers_firstparty.txt	/opt/accomplist/work/adguard-turkish.list	7200	@ADBLOCK-BLACK	@IP
+
+AdGuard-Belarusian	black	https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/CyrillicFilters/BelarusianFilter/sections/adservers_firstparty.txt	/opt/accomplist/work/adguard-belarusian.list	7200	@ADBLOCK-BLACK	@IP
+AdGuard-Bulgarian	black	https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/CyrillicFilters/BulgarianFilter/sections/adservers_firstparty.txt	/opt/accomplist/work/adguard-bulgarian.list	7200	@ADBLOCK-BLACK	@IP
+AdGuard-Kazakh	black	https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/CyrillicFilters/KazakhFilter/sections/adservers_firstparty.txt	/opt/accomplist/work/adguard-kazakh.list	7200	@ADBLOCK-BLACK	@IP
+AdGuard-Russian	black	https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/CyrillicFilters/RussianFilter/sections/adservers_firstparty.txt	/opt/accomplist/work/adguard-russian.list	7200	@ADBLOCK-BLACK	@IP
+
+AdGuard-Spyware	black	https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/SpywareFilter/sections/tracking_servers_firstparty.txt	/opt/accomplist/work/adguard-spyware.list	7200	@ADBLOCK-BLACK	@IP
+
+AdGuard-Disguised	black	https://raw.githubusercontent.com/AdguardTeam/cname-trackers/master/combined_disguised_trackers_justdomains.txt	/opt/accomplist/work/adguard-disguised.list	7200	@DOMAIN	@IP

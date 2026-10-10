@@ -1,0 +1,2 @@
+AdGuard	black	https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_16_French/filter.txt	/opt/accomplist/work/adguard.list	7200	@ADBLOCK-BLACK,ADBLOCK-ELEMENT	@IP
+EasyList	black	https://easylist-downloads.adblockplus.org/liste_fr.txt	/opt/accomplist/work/easylist.list	/opt/accomplist/work/easylist.list	7200	@ADBLOCK-BLACK,ADBLOCK-ELEMENT	@IP
