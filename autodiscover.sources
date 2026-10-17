@@ -1,0 +1,3 @@
+AutoDiscover	black!	/opt/accomplist/chris/autodiscover.tld-iana.list!	/opt/accomplist/work/autodiscover.list	7200	@DOMAIN	@IP
+GuardiCore	black	https://raw.githubusercontent.com/guardicore/labs_campaigns/master/Autodiscover/autodiscover-tlds.txt	/opt/accomplist/work/guardicore.list	7200	@HOST127	@IP
+Make	black!	/opt/accomplist/chris/autodiscovery.list!	/opt/accomplist/work/make/list	7200	@DOMAIN	@IP

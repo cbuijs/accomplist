@@ -1,0 +1,4 @@
+ASN	black	https://www.spamhaus.org/drop/asndrop.txt	/opt/accomplist/work/asn.list	7200	@ASN
+DROP	black	https://www.spamhaus.org/drop/drop.txt	/opt/accomplist/work/drop.list	7200	@IP
+EDROP	black	https://www.spamhaus.org/drop/edrop.txt	/opt/accomplist/work/edrop.list	7200	@IP
+DROPv6	black	https://www.spamhaus.org/drop/dropv6.txt	/opt/accomplist/work/dropv6.list	7200	@IP
