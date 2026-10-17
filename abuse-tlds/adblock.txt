@@ -1,6 +1,6 @@
 [Adblock Plus 1.1]
 ! Title: Accomplist "Tlds" AdBlock List (Top-N Version)
-! Version: 1792122079
+! Version: 1792208509
 ! Homepage: https://github.com/cbuijs/accomplist/tree/master/tlds
 !
 ! WhiteList Domains:
@@ -316,6 +316,8 @@
 @@||relaxx.center^
 ! Sub-domain "google.cf" unblacklisted from domain "cf"
 @@||google.cf^
+! Sub-domain "freedium.cfd" unblacklisted from domain "cfd"
+@@||freedium.cfd^
 ! Sub-domain "host.church" unblacklisted from domain "church"
 @@||host.church^
 ! Sub-domain "life.church" unblacklisted from domain "church"
@@ -906,6 +908,8 @@
 @@||amap.ml^
 ! Sub-domain "google.ml" unblacklisted from domain "ml"
 @@||google.ml^
+! Sub-domain "info-matin.ml" unblacklisted from domain "ml"
+@@||info-matin.ml^
 ! Sub-domain "lemmy.ml" unblacklisted from domain "ml"
 @@||lemmy.ml^
 ! Sub-domain "lemmygrad.ml" unblacklisted from domain "ml"
@@ -1593,8 +1597,6 @@
 @@||hom.store^
 ! Sub-domain "immich.store" unblacklisted from domain "store"
 @@||immich.store^
-! Sub-domain "iqunix.store" unblacklisted from domain "store"
-@@||iqunix.store^
 ! Sub-domain "myexpresscarwash.store" unblacklisted from domain "store"
 @@||myexpresscarwash.store^
 ! Sub-domain "myshopline.store" unblacklisted from domain "store"
@@ -1755,8 +1757,6 @@
 @@||saltwood.top^
 ! Sub-domain "shucks.top" unblacklisted from domain "top"
 @@||shucks.top^
-! Sub-domain "strims.top" unblacklisted from domain "top"
-@@||strims.top^
 ! Sub-domain "suiten.top" unblacklisted from domain "top"
 @@||suiten.top^
 ! Sub-domain "thedesk.top" unblacklisted from domain "top"
