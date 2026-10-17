@@ -19,9 +19,9 @@ us1.dns.lavate.ch
 dns.quickline.ch
 doh.quickline.ch
 dot.quickline.ch
+dns.simplylinux.ch
 switch.ch
 dnsotls.lab.nic.cl
-dns-secondary.cloudnx.cloud
 ps1.modr.club
 dns.soldier.terumi.club
 doh.360.cn
@@ -250,7 +250,6 @@ fdns1.dismail.de
 fdns2.dismail.de
 dnsforge.de
 dns.dnshome.de
-dns.dyn1.de
 opennic1.eth-services.de
 dns.ffnw.de
 resolv01.ffnw.de
@@ -348,6 +347,7 @@ eth.link
 adguard.ihatemy.live
 ab.mc.ihatemy.live
 anycast.mc.ihatemy.live
+balancer.mc.ihatemy.live
 eu-central.mc.ihatemy.live
 doh.domreg.lt
 crd.circl.lu

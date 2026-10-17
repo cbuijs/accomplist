@@ -1,6 +1,6 @@
 [Adblock Plus 1.1]
 ! Title: Accomplist "Doh" AdBlock List (Top-N Version)
-! Version: 1792122343
+! Version: 1792208795
 ! Homepage: https://github.com/cbuijs/accomplist/tree/master/doh
 !
 ! WhiteList Domains:
@@ -164,7 +164,6 @@
 ||dns.bebasid.com^
 ||internetsehat.bebasid.com^
 ||secondary-backup.bebasid.com^
-||bestwon203.com^
 ||doh-de.blahdns.com^
 ||doh-sg.blahdns.com^
 ||dot-de.blahdns.com^
@@ -210,7 +209,6 @@
 ||sg1.dnswarden.com^
 ||doh.us.dnswarden.com^
 ||dnswebvsn.com^
-||family.dns.doubleangels.com^
 ||family.dns.dremaxx.com^
 ||open.dns.dremaxx.com^
 ||dns.easyhns.com^
@@ -488,7 +486,6 @@
 ||dns.dnshome.de^
 ||dns.dremaxx.de^
 ||dukun.de^
-||dns.dyn1.de^
 ||opennic1.eth-services.de^
 ||farshidhakimy.de^
 ||dns.fehlsprache.de^
@@ -757,6 +754,7 @@
 ||adguard.ihatemy.live^
 ||ab.mc.ihatemy.live^
 ||anycast.mc.ihatemy.live^
+||balancer.mc.ihatemy.live^
 ||eu-central.mc.ihatemy.live^
 ||lifeisa.live^
 ||solaxy.live^
@@ -1337,13 +1335,13 @@
 ||gibblets.top^
 ||glacius.top^
 ||imperio.top^
+||adguard.johanliebert.top^
 ||kimiblock.top^
 ||lesuo.top^
 ||dns.lsho.top^
 ||najiakeji.top^
 ||obscuro.top^
 ||revelio.top^
-||dns.wahr.top^
 ||xholgm.top^
 ||agh.xinfeng16m.top^
 ||doh.funtopia.tv^
@@ -1427,7 +1425,6 @@
 ||dns.kerekes.xyz^
 ||kx-97795-tr.xyz^
 ||lukscasino-542-tr.xyz^
-||lukscasino-929-tr.xyz^
 ||dns.maolaohei.xyz^
 ||maqgie.xyz^
 ||dns.mh4ckt3mh4ckt1c4s.xyz^
