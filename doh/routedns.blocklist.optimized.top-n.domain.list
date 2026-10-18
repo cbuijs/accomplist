@@ -19,7 +19,6 @@
 .dns.quickline.ch
 .doh.quickline.ch
 .dot.quickline.ch
-.dns.simplylinux.ch
 .switch.ch
 .dnsotls.lab.nic.cl
 .ps1.modr.club
@@ -45,6 +44,7 @@
 .dns-family.adguard.com
 .dns-unfiltered.adguard.com
 .adguard-dns.com
+.blitz-setup.ahadns.com
 .dns.alidns.com
 .httpdns-sc.aliyuncs.com
 .eu-opush-heytapmobile-pubgw-1244993624.eu-west-3.elb.amazonaws.com
@@ -85,6 +85,7 @@
 .fr1.dnswarden.com
 .sg1.dnswarden.com
 .doh.us.dnswarden.com
+.edgy-dns.com
 .doh.flashstart.com
 .dns.gamban.com
 .dns.glorydns.com
@@ -339,6 +340,7 @@
 .dns.shecan.ir
 .free.shecan.ir
 .pro.shecan.ir
+.cryptostorm.is
 .dns.flatuslifir.is
 .galileo.math.unipd.it
 .iij.jp
@@ -400,8 +402,6 @@
 .adguard.depieri.net
 .ddns.depieri.net
 .ddns-casa.depieri.net
-.adguard.lege.despagne.net
-.mimile.despagne.net
 .dns.digitalsize.net
 .dns4me.net
 .gustamadh.dynv6.net
@@ -647,7 +647,6 @@
 .dns.levonet.sk
 .crypto.sx
 .dns.koala.us.to
-.fidelius.top
 .doh.viatech.com.tw
 .adguard.shuting.idv.tw
 .dns.twnic.tw
