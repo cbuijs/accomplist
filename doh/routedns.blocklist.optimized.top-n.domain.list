@@ -85,7 +85,6 @@
 .fr1.dnswarden.com
 .sg1.dnswarden.com
 .doh.us.dnswarden.com
-.edgy-dns.com
 .doh.flashstart.com
 .dns.gamban.com
 .dns.glorydns.com
@@ -251,11 +250,13 @@
 .fdns2.dismail.de
 .dnsforge.de
 .dns.dnshome.de
+.dns.dyn1.de
 .opennic1.eth-services.de
 .dns.ffnw.de
 .resolv01.ffnw.de
 .dns1.in-berlin.de
 .dns2.in-berlin.de
+.dns.kernel-error.de
 .esel.stusta.mhn.de
 .muli.stusta.mhn.de
 .dns.mnet-online.de
@@ -348,7 +349,6 @@
 .eth.link
 .adguard.ihatemy.live
 .ab.mc.ihatemy.live
-.anycast.mc.ihatemy.live
 .balancer.mc.ihatemy.live
 .eu-central.mc.ihatemy.live
 .doh.domreg.lt
