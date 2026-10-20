@@ -341,7 +341,6 @@ dns.smartguard.io
 dns.shecan.ir
 free.shecan.ir
 pro.shecan.ir
-cryptostorm.is
 dns.flatuslifir.is
 galileo.math.unipd.it
 iij.jp
@@ -349,6 +348,7 @@ dns.njal.la
 eth.link
 adguard.ihatemy.live
 ab.mc.ihatemy.live
+anycast.mc.ihatemy.live
 balancer.mc.ihatemy.live
 eu-central.mc.ihatemy.live
 doh.domreg.lt
@@ -399,9 +399,6 @@ dohdot.coxlab.net
 dns.crystalyx.net
 ender.crystalyx.net
 home-bitteeinbyte.ddns.net
-adguard.depieri.net
-ddns.depieri.net
-ddns-casa.depieri.net
 dns.digitalsize.net
 dns4me.net
 gustamadh.dynv6.net
@@ -535,7 +532,6 @@ fwgw.orangepipc.mywire.org
 doh.powerdns.org
 dns.stormycloud.org
 doh.tiarap.org
-jp.tiarap.org
 anycast.uncensoreddns.org
 unicast.uncensoreddns.org
 wikimedia-dns.org

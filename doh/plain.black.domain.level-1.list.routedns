@@ -170,6 +170,7 @@
 .sg1.dnswarden.com
 .doh.us.dnswarden.com
 .dnswebvsn.com
+.family.dns.doubleangels.com
 .family.dns.dremaxx.com
 .open.dns.dremaxx.com
 .dns.easyhns.com
@@ -220,7 +221,6 @@
 .orau.lz0724.com
 .doh.maskab.com
 .httpdns.meituan.com
-.mendozasdelivery.com
 .doh.mmmalia.com
 .dnstls.mobik.com
 .dns.moonssif.com
@@ -253,7 +253,6 @@
 .dns.uk-london-1.oraclecloud.com
 .dns.us-ashburn-1.oraclecloud.com
 .dns.us-phoenix-1.oraclecloud.com
-.pashagame456.com
 .dns.pesaventofilippo.com
 .helios.plan9-dns.com
 .kronos.plan9-dns.com
@@ -768,6 +767,7 @@
 .ada.openbld.net
 .ric.openbld.net
 .rpz-public-resolver1.rrdns.pch.net
+.dns.pernika.net
 .darya.persiannit.net
 .dns.phillipjberry.net
 .alpha-dns.quad9.net
@@ -826,7 +826,6 @@
 .doh.serverhost.no
 .adg.tshost.no
 .comss.one
-.hkname.freecdn.one
 .dns.hakim.one
 .dns.karl.one
 .one.one.one.one
@@ -902,7 +901,6 @@
 .dns.thebuckners.org
 .blocker.thethorsens.org
 .doh.tiarap.org
-.jp.tiarap.org
 .truta.org
 .anycast.uncensoreddns.org
 .unicast.uncensoreddns.org
@@ -1068,7 +1066,6 @@
 .dns.daarrk.tech
 .qqmcfw.tech
 .dns.startupstack.tech
-.tuskythehusky.tech
 .dns.kawa.tf
 .dns.koala.us.to
 .adfreedns.top
@@ -1135,7 +1132,6 @@
 .003153.xyz
 .123000123.xyz
 .dns.354688.xyz
-.3dcosas.xyz
 .dns.853852.xyz
 .dns.886886886.xyz
 .dns.888654.xyz
@@ -1161,7 +1157,6 @@
 .dns.kerekes.xyz
 .kx-97795-tr.xyz
 .lukscasino-542-tr.xyz
-.lukscasino-929-tr.xyz
 .dns.maolaohei.xyz
 .maqgie.xyz
 .dns.mh4ckt3mh4ckt1c4s.xyz
@@ -1360,6 +1355,7 @@
 .home.daniil.it
 .pi.daniil.it
 .ab.mc.ihatemy.live
+.anycast.mc.ihatemy.live
 .balancer.mc.ihatemy.live
 .eu-central.mc.ihatemy.live
 .crd.circl.lu
