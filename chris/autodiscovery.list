@@ -8829,7 +8829,6 @@ autoconfig.kunden.ortsinfo.at
 autoconfig.statics.cloud
 autoconfig.gadget.app
 autoconfig.gadget.host
-autoconfig.aliases121.com
 autoconfig.campaign.gov.uk
 autoconfig.service.gov.uk
 autoconfig.independent-commission.uk
@@ -9249,7 +9248,6 @@ autoconfig.uni5.net
 autoconfig.koobin.events
 autoconfig.webthings.io
 autoconfig.krellian.net
-autoconfig.oya.to
 autoconfig.co.de
 autoconfig.shiptoday.app
 autoconfig.shiptoday.build
@@ -19227,7 +19225,6 @@ _autodiscover.kunden.ortsinfo.at
 _autodiscover.statics.cloud
 _autodiscover.gadget.app
 _autodiscover.gadget.host
-_autodiscover.aliases121.com
 _autodiscover.campaign.gov.uk
 _autodiscover.service.gov.uk
 _autodiscover.independent-commission.uk
@@ -19647,7 +19644,6 @@ _autodiscover.uni5.net
 _autodiscover.koobin.events
 _autodiscover.webthings.io
 _autodiscover.krellian.net
-_autodiscover.oya.to
 _autodiscover.co.de
 _autodiscover.shiptoday.app
 _autodiscover.shiptoday.build
@@ -29625,7 +29621,6 @@ autodiscover.kunden.ortsinfo.at
 autodiscover.statics.cloud
 autodiscover.gadget.app
 autodiscover.gadget.host
-autodiscover.aliases121.com
 autodiscover.campaign.gov.uk
 autodiscover.service.gov.uk
 autodiscover.independent-commission.uk
@@ -30045,7 +30040,6 @@ autodiscover.uni5.net
 autodiscover.koobin.events
 autodiscover.webthings.io
 autodiscover.krellian.net
-autodiscover.oya.to
 autodiscover.co.de
 autodiscover.shiptoday.app
 autodiscover.shiptoday.build
@@ -40023,7 +40017,6 @@ b._dns-sd.kunden.ortsinfo.at
 b._dns-sd.statics.cloud
 b._dns-sd.gadget.app
 b._dns-sd.gadget.host
-b._dns-sd.aliases121.com
 b._dns-sd.campaign.gov.uk
 b._dns-sd.service.gov.uk
 b._dns-sd.independent-commission.uk
@@ -40443,7 +40436,6 @@ b._dns-sd.uni5.net
 b._dns-sd.koobin.events
 b._dns-sd.webthings.io
 b._dns-sd.krellian.net
-b._dns-sd.oya.to
 b._dns-sd.co.de
 b._dns-sd.shiptoday.app
 b._dns-sd.shiptoday.build
@@ -50421,7 +50413,6 @@ db._dns-sd.kunden.ortsinfo.at
 db._dns-sd.statics.cloud
 db._dns-sd.gadget.app
 db._dns-sd.gadget.host
-db._dns-sd.aliases121.com
 db._dns-sd.campaign.gov.uk
 db._dns-sd.service.gov.uk
 db._dns-sd.independent-commission.uk
@@ -50841,7 +50832,6 @@ db._dns-sd.uni5.net
 db._dns-sd.koobin.events
 db._dns-sd.webthings.io
 db._dns-sd.krellian.net
-db._dns-sd.oya.to
 db._dns-sd.co.de
 db._dns-sd.shiptoday.app
 db._dns-sd.shiptoday.build
@@ -60819,7 +60809,6 @@ isatap.kunden.ortsinfo.at
 isatap.statics.cloud
 isatap.gadget.app
 isatap.gadget.host
-isatap.aliases121.com
 isatap.campaign.gov.uk
 isatap.service.gov.uk
 isatap.independent-commission.uk
@@ -61239,7 +61228,6 @@ isatap.uni5.net
 isatap.koobin.events
 isatap.webthings.io
 isatap.krellian.net
-isatap.oya.to
 isatap.co.de
 isatap.shiptoday.app
 isatap.shiptoday.build
@@ -71217,7 +71205,6 @@ lb._dns-sd.kunden.ortsinfo.at
 lb._dns-sd.statics.cloud
 lb._dns-sd.gadget.app
 lb._dns-sd.gadget.host
-lb._dns-sd.aliases121.com
 lb._dns-sd.campaign.gov.uk
 lb._dns-sd.service.gov.uk
 lb._dns-sd.independent-commission.uk
@@ -71637,7 +71624,6 @@ lb._dns-sd.uni5.net
 lb._dns-sd.koobin.events
 lb._dns-sd.webthings.io
 lb._dns-sd.krellian.net
-lb._dns-sd.oya.to
 lb._dns-sd.co.de
 lb._dns-sd.shiptoday.app
 lb._dns-sd.shiptoday.build
@@ -81615,7 +81601,6 @@ wpad.kunden.ortsinfo.at
 wpad.statics.cloud
 wpad.gadget.app
 wpad.gadget.host
-wpad.aliases121.com
 wpad.campaign.gov.uk
 wpad.service.gov.uk
 wpad.independent-commission.uk
@@ -82035,7 +82020,6 @@ wpad.uni5.net
 wpad.koobin.events
 wpad.webthings.io
 wpad.krellian.net
-wpad.oya.to
 wpad.co.de
 wpad.shiptoday.app
 wpad.shiptoday.build
@@ -92013,7 +91997,6 @@ wpad.tcp.kunden.ortsinfo.at
 wpad.tcp.statics.cloud
 wpad.tcp.gadget.app
 wpad.tcp.gadget.host
-wpad.tcp.aliases121.com
 wpad.tcp.campaign.gov.uk
 wpad.tcp.service.gov.uk
 wpad.tcp.independent-commission.uk
@@ -92433,7 +92416,6 @@ wpad.tcp.uni5.net
 wpad.tcp.koobin.events
 wpad.tcp.webthings.io
 wpad.tcp.krellian.net
-wpad.tcp.oya.to
 wpad.tcp.co.de
 wpad.tcp.shiptoday.app
 wpad.tcp.shiptoday.build
