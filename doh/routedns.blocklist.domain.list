@@ -3,7 +3,8 @@
 .doh.disconnect.app
 .doh.futa.app
 .dns.narl.app
-.tiar.app
+.doh.tiar.app
+.dot.tiar.app
 .dns.tryk.app
 .dns.redhosting.com.ar
 .dnsdoh.art
@@ -67,7 +68,7 @@
 .listo.click
 .justhost.bedro.cloud
 .dns.brembeck.cloud
-.brono.cloud
+.dns.brono.cloud
 .dns.clanto.cloud
 .dns-secondary.cloudnx.cloud
 .doh.cnetwork.cloud
@@ -152,7 +153,6 @@
 .dns.bebasid.com
 .internetsehat.bebasid.com
 .secondary-backup.bebasid.com
-.bestwon203.com
 .doh-de.blahdns.com
 .doh-sg.blahdns.com
 .dot-de.blahdns.com
@@ -201,6 +201,7 @@
 .family.dns.dremaxx.com
 .open.dns.dremaxx.com
 .dns.easyhns.com
+.edgy-dns.com
 .dns.efficientdocuments.com
 .doh.flashstart.com
 .dns.flwagners.com
@@ -213,7 +214,7 @@
 .google-public-dns-b.google.com
 .geo.hafnova.com
 .secure.hafnova.com
-.hakutakucn.com
+.dns.hakutakucn.com
 .adguard.haneulo.com
 .resolver-eu.haringstad.com
 .dns.hellozhao.com
@@ -474,7 +475,7 @@
 .dukun.de
 .dns.dyn1.de
 .opennic1.eth-services.de
-.farshidhakimy.de
+.dns.farshidhakimy.de
 .dns.fehlsprache.de
 .dns.ffnw.de
 .resolv01.ffnw.de
@@ -606,8 +607,6 @@
 .nicolas-dorriere.fr
 .rayneau.fr
 .dns.sellan.fr
-.lab.sellan.fr
-.lab-1.sellan.fr
 .pates.services.sfr.fr.casepp.sfr.fr
 .dns.spirio.fr
 .server.spirio.fr
@@ -740,7 +739,6 @@
 .eth.link
 .adguard.ihatemy.live
 .ab.mc.ihatemy.live
-.anycast.mc.ihatemy.live
 .balancer.mc.ihatemy.live
 .eu-central.mc.ihatemy.live
 .lifeisa.live
@@ -976,6 +974,7 @@
 .ada.openbld.net
 .ric.openbld.net
 .rpz-public-resolver1.rrdns.pch.net
+.dns.pernika.net
 .darya.persiannit.net
 .dns.phillipjberry.net
 .alpha-dns.quad9.net
@@ -1012,7 +1011,7 @@
 .safe.dot.dns.yandex.net
 .dns.yuu-g.net
 .dns.daemon.za.net
-.edgy.network
+.dns.edgy.network
 .adblock.mydns.network
 .family.mydns.network
 .freedom.mydns.network
@@ -1058,7 +1057,6 @@
 .nsec.arnor.org
 .dns.artikel10.org
 .dns.blokada.org
-.radia.bortzmeyer.org
 .catdns.org
 .cfdjb.org
 .cleanbrowsing.org
@@ -1257,7 +1255,7 @@
 .dns.quiet.rocks
 .comss.ru
 .qual.cuprum.ru
-.vpn.geshido.ru
+.geshido.vpn.geshido.ru
 .vd.i81.ru
 .dns.iamninja.ru
 .muxyuji.ru
@@ -1289,7 +1287,6 @@
 .callies-online.site
 .dns.l337.site
 .dns.labnekotest.site
-.tecdrive.site
 .vtcuong.site
 .dns.levonet.sk
 .dns.elemental.software
@@ -1381,13 +1378,11 @@
 .dns.glf.wtf
 .003153.xyz
 .123000123.xyz
-.dj.354688.xyz
 .dns.354688.xyz
 .dns.853852.xyz
 .dns.886886886.xyz
 .dns.888654.xyz
 .doh.abraservice.xyz
-.iruae.abraservice.xyz
 .dns.albony.xyz
 .dns.andrewnw.xyz
 .dns.d94.xyz
