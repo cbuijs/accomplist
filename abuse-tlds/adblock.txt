@@ -1,6 +1,6 @@
 [Adblock Plus 1.1]
 ! Title: Accomplist "Tlds" AdBlock List (Top-N Version)
-! Version: 1792553811
+! Version: 1792640186
 ! Homepage: https://github.com/cbuijs/accomplist/tree/master/tlds
 !
 ! WhiteList Domains:
@@ -716,6 +716,8 @@
 @@||watcher.guru^
 ! Sub-domain "webcal.guru" unblacklisted from domain "guru"
 @@||webcal.guru^
+! Sub-domain "xpeng.guru" unblacklisted from domain "guru"
+@@||xpeng.guru^
 ! Sub-domain "lunar.haus" unblacklisted from domain "haus"
 @@||lunar.haus^
 ! Sub-domain "tri.haus" unblacklisted from domain "haus"
