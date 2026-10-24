@@ -7001,6 +7001,7 @@ autoconfig.barsy.ca
 autoconfig.compute.estate
 autoconfig.alces.network
 autoconfig.alibabacloudcs.com
+autoconfig.ztna-dingtalk.com
 autoconfig.ms.fun
 autoconfig.ms.show
 autoconfig.kasserver.com
@@ -17397,6 +17398,7 @@ _autodiscover.barsy.ca
 _autodiscover.compute.estate
 _autodiscover.alces.network
 _autodiscover.alibabacloudcs.com
+_autodiscover.ztna-dingtalk.com
 _autodiscover.ms.fun
 _autodiscover.ms.show
 _autodiscover.kasserver.com
@@ -27793,6 +27795,7 @@ autodiscover.barsy.ca
 autodiscover.compute.estate
 autodiscover.alces.network
 autodiscover.alibabacloudcs.com
+autodiscover.ztna-dingtalk.com
 autodiscover.ms.fun
 autodiscover.ms.show
 autodiscover.kasserver.com
@@ -38189,6 +38192,7 @@ b._dns-sd.barsy.ca
 b._dns-sd.compute.estate
 b._dns-sd.alces.network
 b._dns-sd.alibabacloudcs.com
+b._dns-sd.ztna-dingtalk.com
 b._dns-sd.ms.fun
 b._dns-sd.ms.show
 b._dns-sd.kasserver.com
@@ -48585,6 +48589,7 @@ db._dns-sd.barsy.ca
 db._dns-sd.compute.estate
 db._dns-sd.alces.network
 db._dns-sd.alibabacloudcs.com
+db._dns-sd.ztna-dingtalk.com
 db._dns-sd.ms.fun
 db._dns-sd.ms.show
 db._dns-sd.kasserver.com
@@ -58981,6 +58986,7 @@ isatap.barsy.ca
 isatap.compute.estate
 isatap.alces.network
 isatap.alibabacloudcs.com
+isatap.ztna-dingtalk.com
 isatap.ms.fun
 isatap.ms.show
 isatap.kasserver.com
@@ -69377,6 +69383,7 @@ lb._dns-sd.barsy.ca
 lb._dns-sd.compute.estate
 lb._dns-sd.alces.network
 lb._dns-sd.alibabacloudcs.com
+lb._dns-sd.ztna-dingtalk.com
 lb._dns-sd.ms.fun
 lb._dns-sd.ms.show
 lb._dns-sd.kasserver.com
@@ -79773,6 +79780,7 @@ wpad.barsy.ca
 wpad.compute.estate
 wpad.alces.network
 wpad.alibabacloudcs.com
+wpad.ztna-dingtalk.com
 wpad.ms.fun
 wpad.ms.show
 wpad.kasserver.com
@@ -90169,6 +90177,7 @@ wpad.tcp.barsy.ca
 wpad.tcp.compute.estate
 wpad.tcp.alces.network
 wpad.tcp.alibabacloudcs.com
+wpad.tcp.ztna-dingtalk.com
 wpad.tcp.ms.fun
 wpad.tcp.ms.show
 wpad.tcp.kasserver.com
