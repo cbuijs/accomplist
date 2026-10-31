@@ -1,0 +1,96 @@
+Exclude	exclude	/opt/accomplist/malicious-dom.exclude!	/opt/accomplist/work/exclude.list	7200	@DOMAIN	@IP
+Include	black!	/opt/accomplist/malicious-dom.include!	/opt/accomplist/work/include.list	7200	@DOMAIN	@IP
+
+MWFilter-Malware	black	https://malware-filter.gitlab.io/malware-filter/urlhaus-filter-hosts.txt	/opt/accomplist/work/mwfilter-malware.list	7200	@HOST0	@IP
+MWFilter-Phishing	black	https://malware-filter.gitlab.io/malware-filter/phishing-filter-hosts.txt	/opt/accomplist/work/mwfilter-phising.list	7200	@HOST0	@IP
+
+#GovGe	black!	http://blacklists.cert.gov.ge/domains_malware.txt	/opt/accomplist/work/govge.list	7200	@DOMAIN	@IP
+#GovGE2	black!	http://blacklists.cert.gov.ge/domains_nsfw_malware.txt	/opt/accomplist/work/govge2.list	7200	@DOMAIN	@IP
+#NetLab360dga	black!	https://data.netlab.360.com/feeds/dga/dga.txt	/opt/accomplist/work/netlab360dga.list	7200	@DOMTAB2	@IP
+RedFlag	black!	https://dl.red.flag.domains/red.flag.domains.txt	/opt/accomplist/work/red-flag.list	7200	@DOMAIN	@IP
+NDREvil	black!	https://gist.githubusercontent.com/romaincointepas/b9b8990ee824b013125d87d1ab1f8944/raw/e369597ce9f93b3fb4ce465c03c0f505cc11d8d5/REvil%2520potential%2520C2%2520domains	/opt/accomplist/work/ndrevil.list	7200	@DOMAIN	@IP
+REvil	black!	https://gist.githubusercontent.com/romaincointepas/b9b8990ee824b013125d87d1ab1f8944/raw/e369597ce9f93b3fb4ce465c03c0f505cc11d8d5/REvil%2520potential%2520C2%2520domains	/opt/accomplist/work/revil.list	7200	@DOMAIN	@IP
+NoTrack-Malware	black!	https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-malware.txt	/opt/accomplist/notrack-malware.list	7200	@DOMAIN	@IP
+#Cert-PA-IT	black!	https://infosec.cert-pa.it/analyze/listdomains.txt	/opt/accomplist/work/cert-pa-it.list	7200	@DOMAIN	@IP
+#Sans-Suspicious	black!	https://isc.sans.edu/feeds/suspiciousdomains_Low.txt	/opt/accomplist/work/sans.list	7200	@DOMAIN	@IP
+#KrisKintel-Malicious	black!	https://kriskintel.com/feeds/ktip_malicious_domains.txt	/opt/accomplist/work/kriskintel-mal.list	7200	@DOMAIN	@IP
+#MalwareDomains	black!	https://mirror1.malwaredomains.com/files/justdomains	/opt/accomplist/work/malwaredomains.list	7200	@DOMAIN	@IP
+#OpenPhish	black!	https://openphish.com/feed.txt	/opt/accomplist/work/openphish.list	7200	@URL	@IP
+Phishing-Army	black!	https://phishing.army/download/phishing_army_blocklist.txt	/opt/accomplist/work/phishing-army.list	7200	@DOMAIN	@IP
+#AdGuard-Spyware	black!	https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/SpywareFilter/sections/tracking_servers_firstparty.txt	/opt/accomplist/work/adguard-spyware.list	7200	@ADBLOCK-BLACK	@IP
+Hagezi-TIF	black!	https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/tif-onlydomains.txt	/opt/accomplist/work/hagezi-tif.list	7200	@DOMAIN	@IP
+#Hagezi-Piracey	black!	https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/anti.piracy-onlydomains.txt	/opt/accomplist/work/hagezi-piracy.list	7200	@DOMAIN	@IP
+Hagezi-Fake	black!	https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/fake-onlydomains.txt	/opt/accomplist/work/hagezi-fake.list	7200	@DOMAIN	@IP
+InfinityTec	black!	https://raw.githubusercontent.com/infinitytec/blocklists/master/scams-and-phishing.txt	/opt/accomplist/work/infinitytec.list	7200	@DOMAIN	@IP
+#Badd-Boyz	black!	https://raw.githubusercontent.com/mitchellkrogza/Badd-Boyz-Hosts/master/hosts	/opt/accomplust/work/badd-boyz.list	7200	@HOST0	@IP
+#MK-Phishing	black!	https://raw.githubusercontent.com/mitchellkrogza/Phishing.Database/master/phishing-domains-ACTIVE.txt	/opt/accomplist/work/mk-phish.list	7200	@DOMAIN	@IP
+#MK-Hacked	black!	https://raw.githubusercontent.com/mitchellkrogza/The-Big-List-of-Hacked-Malware-Web-Sites/master/hacked-domains.list	/opt/accomplist/work/mk-hacked.list	7200	@DOMAIN	@IP
+#MK-Hacked-URL	black!	https://raw.githubusercontent.com/mitchellkrogza/The-Big-List-of-Hacked-Malware-Web-Sites/master/.input_sources/hacked-malware-websites.txt	/opt/accomplist/work/mk-hacked-url.list	7200	@URL	@IP
+NextDNS-Torrent-Trackers	black!	https://raw.githubusercontent.com/nextdns/piracy-blocklists/master/torrent-trackers	/opt/accomplist/work/nextdns-torrent-trackers.list	7200	@DOMAIN	@IP
+NextDNS-Torrent-WebSites	black!	https://raw.githubusercontent.com/nextdns/piracy-blocklists/master/torrent-websites	/opt/accomplist/work/nextdns-torrent-websites.list	7200	@DOMAIN	@IP
+NextDNS-Warez	black!	https://raw.githubusercontent.com/nextdns/piracy-blocklists/master/warez	/opt/accomplist/work/nextdns-warez.list	7200	@DOMAIN	@IP
+GOV-Malware	black!	https://raw.githubusercontent.com/parseword/nolovia/master/skel/hosts-government-malware.txt	/opt/accomplist/work/gov-malware.list	7200	@DOMAIN	@IP
+FluBot	black!	https://raw.githubusercontent.com/prodaft/malware-ioc/master/FluBot/all_dga_domains.txt	/opt/accomplist/work/flubot.list	7200	@DOMAIN	@IP
+#RPiList-Mal	black!	https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/malware	/opt/accomplist/work/rpimalware.list	7200	@DOMAIN	@IP
+#ShadowWhisper-Malware	black!	https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Malware	/opt/accomplist/work/sw-malware.list	7200	@DOMAIN	@IP
+#ShadowWhisper-Risk	black!	https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Risk	/opt/accomplist/work/sw-risk.list	7200	@DOMAIN	@IP
+#ShadowWhisper-Scam	black!	https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Scam	/opt/accomplist/work/sw-scam.list	7200	@DOMAIN	@IP
+#ShadowWhisper-Typo	black!	https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Typo	/opt/accomplist/work/sw-typo.list	7200	@DOMAIN	@IP
+Spam404	black!	https://raw.githubusercontent.com/Spam404/lists/master/main-blacklist.txt	/opt/accomplist/work/spam404.list	7200	@DOMAIN	@IP
+BlackBook	black!	https://raw.githubusercontent.com/stamparm/blackbook/master/blackbook.txt	/opt/accomplist/work/blackbook.list	7200	@DOMAIN	@IP
+#Frux-Covid	black!	https://rescure.fruxlabs.com/covid.txt	/opt/accomplist/frux-covid.list	7200	@DOMAIN	@IP
+#Frux-Malicious	black!	https://rescure.fruxlabs.com/rescure_domain_blacklist.txt	/opt/accomplist/work/frux-mal.list	7200	@DOMAIN	@IP
+REvil2	black!	https://s4.scoutdns.com/s/GN4zYQSq8cRdKXC/download	/opt/accomplist/work/revil2.list	7200	@DOMAIN	@IP
+ThreatFox	black!	https://threatfox.abuse.ch/downloads/hostfile/	/opt/accomplist/work/threatfox.list	7200	@HOST127	@IP
+URLHaus-HOSTS	black!	https://urlhaus.abuse.ch/downloads/hostfile/	/opt/accomplist/work/urlhaus-hosts.list	7200	@HOST127	@IP
+URLHaus-RPZ	black!	https://urlhaus.abuse.ch/downloads/rpz/	/opt/accomplist/work/urlhaus-domains.list	7200	@DOMAIN-RPZ	@IP
+URLHaus-URLS	black!	https://urlhaus.abuse.ch/downloads/text/	/opt/accomplist/work/urlhaus-urls.list	7200	@URL	@IP
+BotVrij-Doms	black!	https://www.botvrij.eu/data/ioclist.domain.raw	/opt/accomplist/work/botvrij-doms.list	7200	@DOMAIN	@IP
+BotVrij-Hosts	black!	https://www.botvrij.eu/data/ioclist.hostname.raw	/opt/accomplist/work/botvrij-hosts.list	7200	@DOMAIN	@IP
+BotVrij-Urls	black!	https://www.botvrij.eu/data/ioclist.url.raw	/opt/accomplist/work/botvrij-urls.list	7200	@URL	@IP
+#Dshield-Suspicious	black!	http://www.dshield.org/feeds/suspiciousdomains_Low.txt	/opt/accomplist/work/dshield.list	7200	@DOMAIN	@IP
+#MalwareDomainList	black!	http://www.malwaredomainlist.com/hostslist/hosts.txt	/opt/accomlist/work/malwaredomainlist.list	7200	@HOST127	@IP
+
+#AutoDiscover	black!	/opt/accomplist/autodiscover/plain.black.domain.list!	/opt/accomplist/work/adtld.list	7200	@DOMAIN	@IP
+#Abuse-TLDs	black>!	/opt/accomplist/chris/abuse-tld-registered.list!	/opt/accomplist/work/abuse-tlds.list	7200	@DOMAIN	@IP
+AmnestyTech	black!	/opt/accomplist/chris/amnestytech-investigations.list!	/opt/accomplist/work/amnestytech.list	7200	@DOMAIN	@IP
+FluBot2	black!	/opt/accomplist/chris/flubot.list!	/opt/accomplist/work/flubot2.list	7200	@DOMAIN	@IP
+SpamHaus-TLDs	black>!	/opt/accomplist/chris/spamhaus-abuse-tlds.list!	/opt/accomplist/work/spamhaus-tlds.list	7200	@DOMAIN	@IP
+Infoblox	black!	/opt/accomplist/infoblox.dom.data!	/opt/accomplist/work/infoblox.list	7200	@DOMAIN	@IP
+#MalTrail	black!	/opt/accomplist/maltrail/plain.black.domain.list!	/opt/accomplist/work/maltrail.list	7200	@DOMAIN	@IP
+#PonMoCup	black!	/opt/accomplist/ponmocup/plain.black.domain.list!	/opt/accomplist/work/ponmocup.list	7200	@DOMAIN	@IP
+#NetLab360DGA	black!	/opt/accomplist/private/360-dga.list!	/opt/accomplist/work/netlab360dga.list	7200	@DOMAIN	@IP
+Malware-IOC	black!	/opt/Malware-IOCs/domains.list!	/opt/accomplist/work/malware-ioc.list	7200	@DOMAIN	@IP
+#MESD-SpyWare	black!	/opt/mesd/spyware/domains!	/opt/accomplist/work/mesd.list	7200	@DOMAIN	@IP
+#Shalla-Spyware	black!	/opt/shallalist/spyware/domains!	/opt/accomplist/work/shalla-spyware.list	7200	@DOMAIN	@IP
+Sophos-IOC	black!	/opt/sophos-iocs/domains.list!	/opt/accomplist/work/sophos-ioc.list	7200	@DOMAIN	@IP
+UT1-Malware	black!	/opt/ut1/malware/domains!	/opt/accomplist/work/ut1.list	7200	@DOMAIN	@IP
+UT1-MarketingWare	black!	/opt/ut1/marketingware/domains!	/opt/accomplist/work/ut1-marketing.list	7200	@DOMAIN	@IP
+UT1-Phising	black!	/opt/ut1/phishing/domains!	/opt/accomplist/work/ut1-phishing.list	7200	@DOMAIN	@IP
+UT1-Stalking	black!	/opt/ut1/stalkerware/domains!	/opt/accomplist/work/ut1-stalking.list	7200	@DOMAIN	@IP
+#TweetFeed	black!	/opt/accomplist/chris/tweetfeed.domain.list!	/opt/accomplist/work/tweetfeed.list	7200	@DOMAIN	@IP
+IOC2RPZ-Malicious	black!	/opt/ioc2rpz-feeds/malicious.domain.list!	/opt/accomplist/work/ioc2rpz-malicious.list	7200	@DOMAIN	@IP
+Politie	black!	/opt/accomplist/chris/politie-malafide.list!	/opt/accomplist/work/politie.list	7200	@DOMAIN	@IP
+#Airelle	black!	/opt/airelle/malware.domains.list!	/opt/accomplist/work/airelle.list	7200	@DOMAIN	@IP
+
+StopTheToken	black	https://raw.githubusercontent.com/mklemmingen/StopTheToken/main/blocklist.txt	/opt/accomplist/work/stt.list	7200	@DOMAIN	@IP
+Jarellama-Scam	black	https://raw.githubusercontent.com/jarelllama/Scam-Blocklist/main/lists/wildcard_domains/scams.txt	/opt/accomplist/work/jarelllame-scam.list	7200	@DOMAIN	@IP
+Jarellama-Mal	black	https://raw.githubusercontent.com/jarelllama/Emerging-Threats/main/malicious.txt	/opt/accomplist/work/jarelllame-mal.list	7200	@ADBLOCK-BLACK	@IP
+DurabelNapkin	black	https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt	/opt/accomplist/work/durabelnapkin.list	7200	@HOST0	@IP
+
+#Disconnect-Ads	black	https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt	/opt/accomplist/work/disconnect-ads.list	7200	@DOMAIN	@IP
+#Disconnect-Malvertising	black	https://s3.amazonaws.com/lists.disconnect.me/simple_malvertising.txt	/opt/accomplist/work/disconnect-malvertising.list	7200	@DOMAIN	@IP
+Disconnect-Malware	black	https://s3.amazonaws.com/lists.disconnect.me/simple_malware.txt	/opt/accomplist/work/disconnect-malware.list	7200	@DOMAIN	@IP
+#Disconnect-Tracking	black	https://s3.amazonaws.com/lists.disconnect.me/simple_tracking.txt	/opt/accomplist/work/disconnect-tracking.list	7200	@DOMAIN	@IP
+
+#TR-Block	black!	/opt/accomplist/chris/tr-block.list!	/opt/accomplist/work/trblock.list	7200	@DOMAIN	@IP
+
+#BLP-Fraud	black	https://blocklistproject.github.io/Lists/alt-version/fraud-nl.txt	/opt/accomplist/work/blp-fraud.list	7200	@DOMAIN	@IP
+#BLP-Malware	black	https://blocklistproject.github.io/Lists/alt-version/malware-nl.txt	/opt/accomplist/work/blp-malware.list	7200	@DOMAIN	@IP
+#BLP-Phising	black	https://blocklistproject.github.io/Lists/alt-version/phishing-nl.txt	/opt/accomplist/work/blp-phishing.list	7200	@DOMAIN	@IP
+#BLP-Ransomware	black	https://blocklistproject.github.io/Lists/alt-version/ransomware-nl.txt	/opt/accomplist/work/blp-ransomware.list	7200	@DOMAIN	@IP
+#BLP-Scam	black	https://blocklistproject.github.io/Lists/alt-version/scam-nl.txt	/opt/accomplist/work/blp-scam.list	7200	@DOMAIN	@IP
+
+NRD-Phishing	black	https://raw.githubusercontent.com/xRuffKez/NRD/refs/heads/main/lists/30-day_phishing/domains-only/nrd-phishing-30day.txt	/opt/accomplist/work/nrd-phishing.list	7200	@DOMAIN	@IP
+Quad9	black	https://raw.githubusercontent.com/AssoEchap/stalkerware-indicators/refs/heads/master/generated/quad9_blocklist.txt	/opt/accomplist/work/quad9.list	7200	@DOMAIN	@IP
+
