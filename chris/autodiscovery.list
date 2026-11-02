@@ -6261,7 +6261,6 @@ autoconfig.hdfcbank
 autoconfig.health
 autoconfig.healthcare
 autoconfig.help
-autoconfig.helsinki
 autoconfig.here
 autoconfig.hermes
 autoconfig.hiphop
@@ -16658,7 +16657,6 @@ _autodiscover.hdfcbank
 _autodiscover.health
 _autodiscover.healthcare
 _autodiscover.help
-_autodiscover.helsinki
 _autodiscover.here
 _autodiscover.hermes
 _autodiscover.hiphop
@@ -27055,7 +27053,6 @@ autodiscover.hdfcbank
 autodiscover.health
 autodiscover.healthcare
 autodiscover.help
-autodiscover.helsinki
 autodiscover.here
 autodiscover.hermes
 autodiscover.hiphop
@@ -37452,7 +37449,6 @@ b._dns-sd.hdfcbank
 b._dns-sd.health
 b._dns-sd.healthcare
 b._dns-sd.help
-b._dns-sd.helsinki
 b._dns-sd.here
 b._dns-sd.hermes
 b._dns-sd.hiphop
@@ -47849,7 +47845,6 @@ db._dns-sd.hdfcbank
 db._dns-sd.health
 db._dns-sd.healthcare
 db._dns-sd.help
-db._dns-sd.helsinki
 db._dns-sd.here
 db._dns-sd.hermes
 db._dns-sd.hiphop
@@ -58246,7 +58241,6 @@ isatap.hdfcbank
 isatap.health
 isatap.healthcare
 isatap.help
-isatap.helsinki
 isatap.here
 isatap.hermes
 isatap.hiphop
@@ -68643,7 +68637,6 @@ lb._dns-sd.hdfcbank
 lb._dns-sd.health
 lb._dns-sd.healthcare
 lb._dns-sd.help
-lb._dns-sd.helsinki
 lb._dns-sd.here
 lb._dns-sd.hermes
 lb._dns-sd.hiphop
@@ -79040,7 +79033,6 @@ wpad.hdfcbank
 wpad.health
 wpad.healthcare
 wpad.help
-wpad.helsinki
 wpad.here
 wpad.hermes
 wpad.hiphop
@@ -89437,7 +89429,6 @@ wpad.tcp.hdfcbank
 wpad.tcp.health
 wpad.tcp.healthcare
 wpad.tcp.help
-wpad.tcp.helsinki
 wpad.tcp.here
 wpad.tcp.hermes
 wpad.tcp.hiphop
