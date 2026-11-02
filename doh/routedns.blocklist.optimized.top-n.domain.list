@@ -134,7 +134,6 @@
 .fdns2.dismail.de
 .dnsforge.de
 .dns.dnshome.de
-.dns.dyn1.de
 .opennic1.eth-services.de
 .dns.ffnw.de
 .dns1.in-berlin.de
@@ -142,6 +141,7 @@
 .esel.stusta.mhn.de
 .muli.stusta.mhn.de
 .dns.mnet-online.de
+.dns.nick-slowinski.de
 .doh.niyawe.de
 .dns.t53.de
 .dns.telekom.de
@@ -472,6 +472,8 @@
 .dns.yandex.ru
 .dns.sb
 .doh.sb
+.europe.doh.sb
+.nl-ams2.doh.sb
 .resolver.sunet.se
 .dns.levonet.sk
 .crypto.sx

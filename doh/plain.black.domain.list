@@ -204,11 +204,9 @@ fr1.dnswarden.com
 sg1.dnswarden.com
 doh.us.dnswarden.com
 dnswebvsn.com
-family.dns.doubleangels.com
 family.dns.dremaxx.com
 open.dns.dremaxx.com
 dns.easyhns.com
-edgy-dns.com
 dns.efficientdocuments.com
 dns.ekinao.com
 doh.flashstart.com
@@ -220,6 +218,7 @@ doh-primary-pool.goodbyegambling.com
 dns.google.com
 google-public-dns-a.google.com
 google-public-dns-b.google.com
+dns.guardmydns.com
 secure.hafnova.com
 dns.hakutakucn.com
 adguard.haneulo.com
@@ -386,7 +385,6 @@ hard.dnsforge.de
 dns.dnshome.de
 dns.dremaxx.de
 dukun.de
-dns.dyn1.de
 opennic1.eth-services.de
 dns.farshidhakimy.de
 dns.fehlsprache.de
@@ -862,7 +860,6 @@ doh-pure.onedns.net
 ada.openbld.net
 ric.openbld.net
 rpz-public-resolver1.rrdns.pch.net
-dns.pernika.net
 darya.persiannit.net
 dns.phillipjberry.net
 alpha-dns.quad9.net
@@ -927,7 +924,6 @@ dns.safesurfer.co.nz
 comss.one
 dns.comss.one
 router.comss.one
-hkname.freecdn.one
 dns.hakim.one
 dns.karl.one
 one.one.one.one
@@ -1170,12 +1166,14 @@ de-ber.doh.sb
 de-dus.doh.sb
 de-fra.doh.sb
 ee-tll.doh.sb
+europe.doh.sb
 hk-hkg.doh.sb
 in-blr.doh.sb
 jp-kix.doh.sb
 jp-nrt.doh.sb
 kr-sel.doh.sb
 nl-ams.doh.sb
+nl-ams2.doh.sb
 ru-mow.doh.sb
 sg-sin.doh.sb
 uk-lon.doh.sb
@@ -1219,7 +1217,6 @@ dns.cybertonic.tech
 dns.daarrk.tech
 qqmcfw.tech
 dns.startupstack.tech
-tuskythehusky.tech
 dns.kawa.tf
 dns.koala.us.to
 adfreedns.top
@@ -1231,13 +1228,13 @@ fidelius.top
 gibblets.top
 glacius.top
 imperio.top
-adguard.johanliebert.top
 blog.kimiblock.top
 lesuo.top
 dns.lsho.top
 najiakeji.top
 obscuro.top
 revelio.top
+dns.wahr.top
 xholgm.top
 agh.xinfeng16m.top
 doh.funtopia.tv
@@ -1292,6 +1289,7 @@ dns.glf.wtf
 003153.xyz
 123000123.xyz
 dns.354688.xyz
+3dcosas.xyz
 dns.853852.xyz
 dns.886886886.xyz
 dns.888654.xyz
@@ -1321,7 +1319,6 @@ lukscasino-929-tr.xyz
 dns.maolaohei.xyz
 maqgie.xyz
 dns.mh4ckt3mh4ckt1c4s.xyz
-mikezhang.xyz
 pepetio.xyz
 pm1239-bd.xyz
 pm7051-br.xyz
