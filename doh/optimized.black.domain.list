@@ -515,7 +515,6 @@ doh.max.net.id
 dns.ningkelle.id
 doh.runsel.id
 dns.engineer.web.id
-doh.zephyrus.id
 doh.angry.im
 1a.ns.ozer.im
 dns.bofh.in
@@ -730,7 +729,6 @@ dns.hinet.net
 pihole1.hoerli.net
 pihole2.hoerli.net
 pihole3.hoerli.net
-pihole4.hoerli.net
 dns.hostux.net
 ad.huyct.net
 adblock.indianets.net
@@ -949,7 +947,7 @@ dns.mateo.ovh
 dns.szpadel.ovh
 dns.hotta.page
 dns.panszelescik.pl
-adguard.piekacz.pl
+piekacz.pl
 dns.pierzchlewicz.pl
 doh.apad.pro
 dns.burgas.pro
@@ -1071,8 +1069,6 @@ dns.yandex.ru
 your-dns.run
 dns.sb
 doh.sb
-europe.doh.sb
-nl-ams2.doh.sb
 dns.butterfly87.sbs
 myatris.sbs
 dns.haka.se
@@ -1105,6 +1101,7 @@ dns.cybertonic.tech
 dns.daarrk.tech
 qqmcfw.tech
 dns.startupstack.tech
+tuskythehusky.tech
 dns.kawa.tf
 dns.koala.us.to
 adfreedns.top
@@ -1116,6 +1113,7 @@ fidelius.top
 gibblets.top
 glacius.top
 imperio.top
+adguard.johanliebert.top
 blog.kimiblock.top
 lesuo.top
 dns.lsho.top
@@ -1177,7 +1175,6 @@ dns.glf.wtf
 003153.xyz
 123000123.xyz
 dns.354688.xyz
-3dcosas.xyz
 dns.853852.xyz
 dns.886886886.xyz
 dns.888654.xyz
@@ -1202,8 +1199,8 @@ kaiwu.xyz
 adguard.kantinyoyok.xyz
 dns.kerekes.xyz
 kx-97795-tr.xyz
+lukscasino-479-tr.xyz
 lukscasino-542-tr.xyz
-lukscasino-929-tr.xyz
 dns.maolaohei.xyz
 maqgie.xyz
 dns.mh4ckt3mh4ckt1c4s.xyz
