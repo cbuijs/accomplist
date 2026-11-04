@@ -1,6 +1,6 @@
 [Adblock Plus 1.1]
 ! Title: Accomplist "Doh" AdBlock List (Top-N Version)
-! Version: 1793681101
+! Version: 1793767610
 ! Homepage: https://github.com/cbuijs/accomplist/tree/master/doh
 !
 ! WhiteList Domains:
@@ -147,6 +147,7 @@
 ||antivirus.bebasid.com^
 ||dns.bebasid.com^
 ||internetsehat.bebasid.com^
+||bestwon203.com^
 ||doh-de.blahdns.com^
 ||doh-sg.blahdns.com^
 ||dot-de.blahdns.com^
@@ -190,8 +191,10 @@
 ||sg1.dnswarden.com^
 ||doh.us.dnswarden.com^
 ||dnswebvsn.com^
+||family.dns.doubleangels.com^
 ||family.dns.dremaxx.com^
 ||open.dns.dremaxx.com^
+||easyhandshake.com^
 ||dns.easyhns.com^
 ||dns.efficientdocuments.com^
 ||dns.ekinao.com^
@@ -804,6 +807,7 @@
 ||ada.openbld.net^
 ||ric.openbld.net^
 ||rpz-public-resolver1.rrdns.pch.net^
+||dns.pernika.net^
 ||darya.persiannit.net^
 ||dns.phillipjberry.net^
 ||alpha-dns.quad9.net^
@@ -869,7 +873,6 @@
 ||one.one.one.one^
 ||adguard.abd.ong^
 ||alleesph.online^
-||dns4eu.online^
 ||inpssh.online^
 ||externalmobiel.lekdijk.online^
 ||dns.mathewakhil.online^
@@ -959,7 +962,7 @@
 ||dns.szpadel.ovh^
 ||dns.hotta.page^
 ||dns.panszelescik.pl^
-||piekacz.pl^
+||adguard.piekacz.pl^
 ||dns.pierzchlewicz.pl^
 ||doh.apad.pro^
 ||dns.burgas.pro^
@@ -1113,7 +1116,6 @@
 ||dns.daarrk.tech^
 ||qqmcfw.tech^
 ||dns.startupstack.tech^
-||tuskythehusky.tech^
 ||dns.kawa.tf^
 ||dns.koala.us.to^
 ||adfreedns.top^
@@ -1125,7 +1127,6 @@
 ||gibblets.top^
 ||glacius.top^
 ||imperio.top^
-||adguard.johanliebert.top^
 ||blog.kimiblock.top^
 ||lesuo.top^
 ||dns.lsho.top^
@@ -1211,15 +1212,13 @@
 ||adguard.kantinyoyok.xyz^
 ||dns.kerekes.xyz^
 ||kx-97795-tr.xyz^
-||lukscasino-479-tr.xyz^
 ||lukscasino-542-tr.xyz^
 ||dns.maolaohei.xyz^
 ||maqgie.xyz^
 ||dns.mh4ckt3mh4ckt1c4s.xyz^
+||mikezhang.xyz^
 ||pepetio.xyz^
-||pm1239-bd.xyz^
 ||pm7051-br.xyz^
-||pm9352-bd.xyz^
 ||dns.propheci.xyz^
 ||ag.ssrahul96.xyz^
 ||doh.sublime9.xyz^

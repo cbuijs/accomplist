@@ -11,7 +11,6 @@ doh.datahata.by
 family.canadianshield.cira.ca
 private.canadianshield.cira.ca
 protected.canadianshield.cira.ca
-dns1.dnscrypt.ca
 dns.omada.cafe
 dns.digitale-gesellschaft.ch
 dns1.digitale-gesellschaft.ch
@@ -168,7 +167,6 @@ ns0.fdn.fr
 ns1.fdn.fr
 qlf-doh.inria.fr
 doh.lacontrevoie.fr
-doh-dilution-to-upstreams-adguardhome.nicolas-dorriere.fr
 8888.google
 dns.google
 doh.libredns.gr
@@ -230,10 +228,11 @@ adl.adfilter.net
 per.adfilter.net
 syd.adfilter.net
 ahadns.net
+dnses.alekberg.net
+dnsnl.alekberg.net
+dnsse.alekberg.net
 doh.applied-privacy.net
 dot1.applied-privacy.net
-doh.appliedprivacy.net
-dot1.appliedprivacy.net
 dohtrial.att.net
 doh1.b-cdn.net
 doh2.b-cdn.net
@@ -341,6 +340,7 @@ nat64.tuxis.nl
 comss.one
 one.one.one.one
 doh.archuser.org
+dns.artikel10.org
 dns.blokada.org
 cleanbrowsing.org
 ca.doh.cloudveil.org
