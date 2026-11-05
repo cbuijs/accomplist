@@ -1,6 +1,6 @@
 [Adblock Plus 1.1]
 ! Title: Accomplist "Tlds" AdBlock List (Top-N Version)
-! Version: 1793767336
+! Version: 1793852859
 ! Homepage: https://github.com/cbuijs/accomplist/tree/master/tlds
 !
 ! WhiteList Domains:
@@ -1373,6 +1373,8 @@
 @@||myshopline.shop^
 ! Sub-domain "narpy.shop" unblacklisted from domain "shop"
 @@||narpy.shop^
+! Sub-domain "nautilusforge.shop" unblacklisted from domain "shop"
+@@||nautilusforge.shop^
 ! Sub-domain "neue.shop" unblacklisted from domain "shop"
 @@||neue.shop^
 ! Sub-domain "neurosama.shop" unblacklisted from domain "shop"
@@ -1461,6 +1463,8 @@
 @@||i5i.site^
 ! Sub-domain "kaylees.site" unblacklisted from domain "site"
 @@||kaylees.site^
+! Sub-domain "langshuai.site" unblacklisted from domain "site"
+@@||langshuai.site^
 ! Sub-domain "leafbrowser.site" unblacklisted from domain "site"
 @@||leafbrowser.site^
 ! Sub-domain "miteru.site" unblacklisted from domain "site"
@@ -2183,6 +2187,7 @@
 ||*.band^
 ||*.bapuji^
 ||*.bar^
+||*.barefoot^
 ||*.bargain^
 ||*.bargains^
 ||*.bash^
