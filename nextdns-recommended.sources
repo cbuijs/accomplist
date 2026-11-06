@@ -1,0 +1,5 @@
+NEXTDNS-INCLUDE	black!	/opt/accomplist/nextdns-recommended.include!	/opt/accomplist/work/nextdns-include.list	7200	@DOMAIN	@IP
+NEXTDNS-EXCLUDE	white!	/opt/accomplist/nextdns-recommended.exclude!	/opt/accomplist/work/nextdns-exclude.list	7200	@DOMAIN	@IP
+LIST-1	black	https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts	/opt/accomplist/work/list-1.list	7200	@HOST	@IP
+LIST-2	black	https://raw.githubusercontent.com/jdlingyu/ad-wars/master/hosts	/opt/accomplist/work/list-2.list	7200	@HOST	@IP
+LIST-3	black	https://raw.githubusercontent.com/tiuxo/hosts/master/ads	/opt/accomplist/work/list-3.list	7200	@HOST	@IP

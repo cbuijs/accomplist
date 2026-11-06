@@ -1,0 +1,19 @@
+Include	black>!	/opt/accomplist/tlds.include!	/opt/accomplist/work/include.list	7200	@DOMAIN
+Exclude	exclude	/opt/accomplist/tlds.exclude	/opt/accomplist/work/exclude.list	7200	@DOMAIN
+
+Chris-Abuse-TLDS	black>!	/opt/accomplist/chris/abuse-tlds.list!	/opt/accomplist/work/chris-abuse-tlds.list	7200	@DOMAIN	@EXCLUDEGTLD
+Chris-Suspicious-TLDS	black>!	/opt/accomplist/chris/suspicious-tlds.list!	/opt/accomplist/work/chris-suspicious-tlds.list	7200	@DOMAIN	@EXCLUDEGTLD
+#Chris-Superficial-TLDS	black>!	/opt/accomplist/chris/superficial-tlds.list!	/opt/accomplist/work/chris-superficial-tlds.list	7200	@DOMAIN	@EXCLUDETLDS
+Chris-Black-TLDS	black>!	/opt/accomplist/chris/tlds.black!	/opt/accomplist/work/chris-black-tlds.list	7200	@DOMAIN	@EXCLUDEGTLD
+
+Restricted	black>!	/opt/accomplist/chris/iana-tld-generic-restricted.list!	/opt/accomplist/work/restricted.list	7200	@DOMAIN	@EXCLUDEGTLD
+Test	black>!	/opt/accomplist/chris/iana-tld-test.list!	/opt/accomplist/work/test.list	7200	@DOMAIN	@EXCLUDEGTLD
+
+OpenNic	black>!	/opt/accomplist/chris/opennic.list!	/opt/accomplist/work/opennic.list	7200	@DOMAIN	@EXCLUDEGTLD
+Collision	black>!	/opt/accomplist/chris/tld-name-collisions.list!	/opt/accomplist/work/collision.list	7200	@DOMAIN	@EXCLUDEGTLD
+Dotless	black>!	/opt/accomplist/chris/tld-dotless.list!	/opt/accomplist/work/dotless.ist	7200	@DOMAIN	@EXCLUDEGTLD
+Donuts	black>!	/opt/accomplist/chris/donuts.tld.list!	/opt/accomplist/work/donuts.list	7200	@DOMAIN	@EXCLUDEGTLD
+SpamHaus	black>!	/opt/accomplist/chris/spamhaus-abuse-tlds.list!	/opt/accomplist/work/spamhaus.list	7200	@DOMAIN	@EXCLUDEGTLD
+
+Hagezi-Block-TLD	black>!	https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/spam-tlds-onlydomains.txt	/opt/accomplist/work/hagezi-tld-block.list	7200	@DOMAIN	@EXCLUDEGTLD
+Hagezi-Allow-TLD	white>!	https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/spam-tlds-allow-onlydomains.txt	/opt/accomplist/work/hagezi-tld-allow.list	7200	@DOMAIN	@EXCLUDEGTLD
