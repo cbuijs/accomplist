@@ -1,0 +1,90 @@
+; BIND RPZ blacklist
+$TTL 3600
+@ SOA dummy-1793941780-ns hostmaster 1793941780 12h 15m 3w 3h
+@ NS dummy-1793941780-ns
+dummy-1793941780-ns A 0.0.0.0
+dummy-1793941780-ns AAAA ::
+;
+; --- TLDS ---
+ba CNAME .
+*.ba CNAME .
+bi CNAME .
+*.bi CNAME .
+by CNAME .
+*.by CNAME .
+cd CNAME .
+*.cd CNAME .
+cf CNAME .
+*.cf CNAME .
+cg CNAME .
+*.cg CNAME .
+ci CNAME .
+*.ci CNAME .
+cn CNAME .
+*.cn CNAME .
+cu CNAME .
+*.cu CNAME .
+cy CNAME .
+*.cy CNAME .
+er CNAME .
+*.er CNAME .
+et CNAME .
+*.et CNAME .
+hk CNAME .
+*.hk CNAME .
+ht CNAME .
+*.ht CNAME .
+iq CNAME .
+*.iq CNAME .
+ir CNAME .
+*.ir CNAME .
+it CNAME .
+*.it CNAME .
+kp CNAME .
+*.kp CNAME .
+lb CNAME .
+*.lb CNAME .
+lk CNAME .
+*.lk CNAME .
+lr CNAME .
+*.lr CNAME .
+ly CNAME .
+*.ly CNAME .
+mk CNAME .
+*.mk CNAME .
+mm CNAME .
+*.mm CNAME .
+ni CNAME .
+*.ni CNAME .
+ro CNAME .
+*.ro CNAME .
+ru CNAME .
+*.ru CNAME .
+sd CNAME .
+*.sd CNAME .
+so CNAME .
+*.so CNAME .
+ss CNAME .
+*.ss CNAME .
+sy CNAME .
+*.sy CNAME .
+ua CNAME .
+*.ua CNAME .
+ve CNAME .
+*.ve CNAME .
+vn CNAME .
+*.vn CNAME .
+xk CNAME .
+*.xk CNAME .
+ye CNAME .
+*.ye CNAME .
+zw CNAME .
+*.zw CNAME .
+;
+; --- DOMAINS ---
+;
+; --- IPv4 ---
+;
+; --- IPv6 ---
+;
+; --- EOF ---
