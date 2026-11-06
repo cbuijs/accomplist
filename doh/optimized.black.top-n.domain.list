@@ -74,7 +74,6 @@ sg1.dnswarden.com
 doh.us.dnswarden.com
 doh.flashstart.com
 dns.gamban.com
-dns.glorydns.com
 dns.google.com
 google-public-dns-a.google.com
 google-public-dns-b.google.com
@@ -133,6 +132,7 @@ fdns1.dismail.de
 fdns2.dismail.de
 dnsforge.de
 dns.dnshome.de
+dns.dyn1.de
 opennic1.eth-services.de
 dns.ffnw.de
 dns1.in-berlin.de
@@ -140,6 +140,7 @@ dns2.in-berlin.de
 esel.stusta.mhn.de
 muli.stusta.mhn.de
 dns.mnet-online.de
+dns.nick-slowinski.de
 doh.niyawe.de
 dns.t53.de
 dns.telekom.de
@@ -243,6 +244,7 @@ iow-dns.bitdefender.net
 nvi-dns.bitdefender.net
 ore-dns.bitdefender.net
 tky-dns.bitdefender.net
+dns.caspervk.net
 dns.comff.net
 doh.cox.net
 dot.cox.net
@@ -521,8 +523,6 @@ dns.ronc.ru
 dns.yandex.ru
 dns.sb
 doh.sb
-europe.doh.sb
-nl-ams2.doh.sb
 resolver.sunet.se
 dns.levonet.sk
 crypto.sx
