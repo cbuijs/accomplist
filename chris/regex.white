@@ -1,0 +1,28 @@
+# Google
+/^(.*\.)*((?!(ad|adservice|adword|analytic|gg|googleadapi|google[-]*analytics|gstaticadssl|id|marketing([-]*platform)*|pagead|pagead[-]*googlehosted|partnerad|tagmanager|video[-]*stat|www[-]*google[-]*analytic|www[-]*googletagmanager)[s]*).)*\.google\.([a-z]{2,3}\.)*[a-z]{2,3}$/
+/^(imap|pop|smtp)\.g(oogle)*mail\.com$/
+/^(.*\.)*clients[0-9]*\.google\.com$/
+/^(.*\.)*((?!font[s]*).)*\.googleapis\.com$/
+/^(.*\.)*gvt[0-9]\.com$/
+/^(.*\.)*googleusercontent\.com$/
+/^(.*\.)*[is].ytimg.com$/
+
+# Apple
+/^(.*\.)*((?!iadsdk\.).)*(apple|icloud|itunes)\.com$/
+/^(.*\.)*(apple|icloud|itunes)\.com\.(.*\.)*(edgekey|akadns)\.net$/
+/^(.*\.)*(apple|icloud|itunes)(-content)*\.com$/
+/^(.*\.)*itunes(essentials|festivals|match|su)\.com$/
+
+# Netflix
+/^(.*\.)*(netflix|nflx[a-z]+)\.(edgesuite\.)*(com|net)$/
+/^(.*\.)*netflix$/
+
+# Slack
+/^(.*\.)*slack(-(edge|files|(im|ms)gs|redir))*\.(com|net)$/
+
+# Generic
+/^account\..*$/
+/^connectivitycheck\..*$/
+/^.*brew(ery|ing)\..*$/
+/^(.*\.)*\.[a-z]*(bank|insurance)$/
+
