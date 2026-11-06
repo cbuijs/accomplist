@@ -1,6 +1,6 @@
 [Adblock Plus 1.1]
 ! Title: Accomplist "Games" AdBlock List (Top-N Version)
-! Version: 1793856084
+! Version: 1793942273
 ! Homepage: https://github.com/cbuijs/accomplist/tree/master/games
 !
 ! WhiteList Domains:
@@ -60,7 +60,6 @@
 ||elephantbet.co.ao^
 ||premierbet.co.ao^
 ||1xbet-ph.app^
-||1xbet-so.app^
 ||777jaya.app^
 ||7casino.app^
 ||appblock.app^
@@ -171,6 +170,7 @@
 ||bet777.be^
 ||betfirst.be^
 ||betfirstcasino.be^
+||betway.be^
 ||blitz.be^
 ||bwin.be^
 ||bwincasino.be^
@@ -837,6 +837,7 @@
 ||playbackonline.ca^
 ||playcasinoonline.ca^
 ||playsmart.ca^
+||playwrightsguild.ca^
 ||puzzlemaster.ca^
 ||stci.qc.ca^
 ||real-money-casino.ca^
@@ -889,6 +890,7 @@
 ||bk8.gu.cc^
 ||suncity-casino.gu.cc^
 ||lionstudios.cc^
+||mahadewapoker.cc^
 ||ninewincasino.cc^
 ||nodepositbonus.cc^
 ||ok365bet.cc^
@@ -907,7 +909,6 @@
 ||betpawa.cd^
 ||1xbet.cg^
 ||50plus.ch^
-||casino.ch^
 ||casino777.ch^
 ||casinos-en-ligne-suisse.ch^
 ||games.ch^
@@ -932,6 +933,7 @@
 ||1win.com.ci^
 ||lonacionline.ci^
 ||1win-casino-cl.cl^
+||1xbetcl.cl^
 ||aceteam.cl^
 ||bet7k.cl^
 ||4betpromotion.blogspot.cl^
@@ -945,6 +947,7 @@
 ||oro-bets.cl^
 ||orobets.cl^
 ||polla.cl^
+||azartcasino-slots.click^
 ||bajilivecasino.click^
 ||botemaniacasino.click^
 ||casinoscore.click^
@@ -1007,7 +1010,6 @@
 ||teamsoletude.carrd.co^
 ||casino-retrait-immediat.co^
 ||casinobonus2.co^
-||casinolariviera.co^
 ||coinswitch.co^
 ||betplay.com.co^
 ||codere.com.co^
@@ -1021,11 +1023,11 @@
 ||comparebrokers.co^
 ||betway.datafree.co^
 ||deepwoken.co^
-||dwnlds.co^
 ||maxwin138.easy.co^
 ||slot16.easy.co^
 ||fantasyroleplay.co^
 ||fenixjogo.co^
+||finji.co^
 ||fnbr.co^
 ||galaxsys.co^
 ||gambleonline.co^
@@ -1158,7 +1160,6 @@
 ||1xbet-casino-az24.com^
 ||1xbet-giris-klm.com^
 ||1xbet-indir-xzy.com^
-||1xbet-jackpot.com^
 ||1xbet-max-win.com^
 ||1xbet-mob.com^
 ||1xbet-mxv.com^
@@ -1170,7 +1171,6 @@
 ||1xbet-signup-bonus.com^
 ||1xbetargen.com^
 ||1xbetcasinoz.com^
-||1xplayers.com^
 ||1xslot.com^
 ||2048game.com^
 ||20bet.com^
@@ -1213,6 +1213,7 @@
 ||247mahjong.com^
 ||247solitaire.com^
 ||247sudoku.com^
+||25game.com^
 ||2700chess.com^
 ||2dboy.com^
 ||2flashgames.com^
@@ -1221,7 +1222,6 @@
 ||2kczech.com^
 ||2kgames.com^
 ||2ksports.com^
-||2kvegas.com^
 ||2minutetabletop.com^
 ||2playbook.com^
 ||g-angels.2ya.com^
@@ -1497,7 +1497,6 @@
 ||aerosoft.com^
 ||aetherhub.com^
 ||affiliateedge.com^
-||affiliateguarddog.com^
 ||affiliatelounge.com^
 ||affutd.com^
 ||jeuvideo.afjv.com^
@@ -1931,6 +1930,7 @@
 ||bloxfruitsvalues.com^
 ||bluebrixx.com^
 ||blueorangegames.com^
+||bluepointgames.com^
 ||bluesnews.com^
 ||bluestacks.com^
 ||blz-contentstack.com^
@@ -2040,7 +2040,6 @@
 ||cafe.com^
 ||calculateme.com^
 ||calimacil.com^
-||callofcthulhu-game.com^
 ||callofduty.com^
 ||callofdutyleague.com^
 ||callofwar.com^
@@ -2122,7 +2121,6 @@
 ||casinobernie.com^
 ||casinobonusca.com^
 ||casinobonuscenter.com^
-||casinobonusguy.com^
 ||casinobrango.com^
 ||casinocanada.com^
 ||casinocenter.com^
@@ -2233,6 +2231,7 @@
 ||chess24.com^
 ||chessable.com^
 ||chessarbiter.com^
+||chessarena.com^
 ||chessbase.com^
 ||chessbomb.com^
 ||chesscafe.com^
@@ -2327,7 +2326,6 @@
 ||codingame.com^
 ||coffeestainstudios.com^
 ||nexus.cohprog.com^
-||coinplay.com^
 ||coinpoker.com^
 ||cokitos.com^
 ||coldplay.com^
@@ -2395,6 +2393,7 @@
 ||crazymaplestudios.com^
 ||crazymonkeygames.com^
 ||creagames.com^
+||create-games.com^
 ||creativeuncut.com^
 ||crescentmoongames.com^
 ||cricbattle.com^
@@ -2448,7 +2447,6 @@
 ||cxrchess.com^
 ||cyan.com^
 ||cyanide-studio.com^
-||cyberjuegos.com^
 ||cyberkids.com^
 ||corp.cyberstep.com^
 ||czechgames.com^
@@ -2484,7 +2482,6 @@
 ||darringtonpress.com^
 ||dashgame.com^
 ||datarealms.com^
-||datdrop.com^
 ||daveandbusters.com^
 ||daybreakgames.com^
 ||daysofwonder.com^
@@ -2549,6 +2546,7 @@
 ||digitain.com^
 ||digital-eel.com^
 ||digital-legends.com^
+||digitalbros.com^
 ||digitalcombatsimulator.com^
 ||digitalextremes.com^
 ||digitalleisure.com^
@@ -2685,7 +2683,6 @@
 ||ebgames.com^
 ||eblong.com^
 ||ecuabet.com^
-||edaplayground.com^
 ||edengames.com^
 ||edgeent.com^
 ||edhrec.com^
@@ -2805,6 +2802,7 @@
 ||everi.com^
 ||everquest.com^
 ||everquest2.com^
+||everspace-game.com^
 ||everybodywiki.com^
 ||everymanplayhouse.com^
 ||barbie.everythinggirl.com^
@@ -2828,7 +2826,6 @@
 ||eyesonff.com^
 ||eyetricks.com^
 ||eyezmaze.com^
-||eyougame.com^
 ||p102.ezboard.com^
 ||ezcosplay.com^
 ||ezone.com^
@@ -2930,7 +2927,6 @@
 ||five-bn.com^
 ||flalottery.com^
 ||pong.flash-gear.com^
-||flasharcade.com^
 ||flashflashrevolution.com^
 ||flashgames247.com^
 ||flashgames2girls.com^
@@ -2966,6 +2962,7 @@
 ||forgeofempires.com^
 ||forhonorgame.com^
 ||formula1-game.com^
+||formula1game.com^
 ||fortnite.com^
 ||fortnitetracker.com^
 ||fortun365top.com^
@@ -3032,7 +3029,6 @@
 ||freeflashgamesnow.com^
 ||freegame.com^
 ||freegames.com^
-||freegamesnews.com^
 ||casinoinform.freehomepage.com^
 ||obc.wasdomain.freehostia.com^
 ||freeleaguepublishing.com^
@@ -3192,7 +3188,6 @@
 ||game-solver.com^
 ||game-tournaments.com^
 ||game-warden.com^
-||game1games.com^
 ||game3rb.com^
 ||gameabc.com^
 ||gameaccessibilityguidelines.com^
@@ -3218,6 +3213,7 @@
 ||gamecenter.com^
 ||gamechangersmovie.com^
 ||gamechoiceawards.com^
+||gamechronicles.com^
 ||gamecircus.com^
 ||gamecocksonline.com^
 ||gamecolony.com^
@@ -3380,7 +3376,6 @@
 ||gamesnacks.com^
 ||gamesnostalgia.com^
 ||gamesofa.com^
-||gamesofgondor.com^
 ||gamespace.com^
 ||gamespew.com^
 ||gamesplanet.com^
@@ -3532,7 +3527,6 @@
 ||goldenheartsgames.com^
 ||goldennuggetcasino.com^
 ||goldenrivieracasino.com^
-||goldenstar-casino.com^
 ||goldhawkinteractive.com^
 ||goldstrike.com^
 ||goldtoken.com^
@@ -3583,11 +3577,11 @@
 ||greenstuffworld.com^
 ||greentube.com^
 ||grepolis.com^
+||greyaliengames.com^
 ||gridgame.com^
 ||gridsagegames.com^
 ||grindinggear.com^
 ||grognard.com^
-||groovejones.com^
 ||grosvenorcasinos.com^
 ||growtopiagame.com^
 ||grubiks.com^
@@ -3692,7 +3686,6 @@
 ||hinterlandgames.com^
 ||hippodromecasino.com^
 ||hirezstudios.com^
-||hirstarts.com^
 ||juegos.hispavista.com^
 ||hitechcreations.com^
 ||hitentertainment.com^
@@ -3993,6 +3986,7 @@
 ||joycasino.com^
 ||corp.joycity.com^
 ||joygame.com^
+||joymasher.com^
 ||joymax.com^
 ||joystiq.com^
 ||joyyang.com^
@@ -4057,7 +4051,6 @@
 ||kidscom.com^
 ||ribbitarena.kidswb.com^
 ||kikizo.com^
-||killerplayer.com^
 ||kiloo.com^
 ||king.com^
 ||kingart-games.com^
@@ -4176,6 +4169,7 @@
 ||lesroyaumes.com^
 ||lessgames.com^
 ||jeux.letelegramme.com^
+||lets-fish.com^
 ||letsbegamechangers.com^
 ||letsplayuno.com^
 ||level5-id.com^
@@ -4230,7 +4224,6 @@
 ||livesudoku.com^
 ||loadcomplete.com^
 ||localizedirect.com^
-||acen.locojoy.com^
 ||lofigames.com^
 ||logitechg.com^
 ||lokigames.com^
@@ -4276,13 +4269,13 @@
 ||ludumdare.com^
 ||lukiegames.com^
 ||lumosity.com^
-||lurkerlounge.com^
 ||luxor.com^
 ||luxury4play.com^
 ||lvbet.com^
 ||lvlstudio.com^
 ||gamesville.lycos.com^
 ||lyllocasino.com^
+||lymanorchards.com^
 ||lyricsplayground.com^
 ||lythia.com^
 ||ma-bimbo.com^
@@ -4297,9 +4290,9 @@
 ||madfingergames.com^
 ||madheadgames.com^
 ||madjacksports.com^
+||madmaxgame.com^
 ||jeux.madmoizelle.com^
 ||madmuscles.com^
-||madnix.com^
 ||madwin.com^
 ||mafia2game.com^
 ||mafiagame.com^
@@ -4362,7 +4355,6 @@
 ||masterduelmeta.com^
 ||mastersofgames.com^
 ||matchbook.com^
-||matchbox.com^
 ||math-play.com^
 ||mathgames.com^
 ||mathgametime.com^
@@ -4491,6 +4483,7 @@
 ||miyoushe.com^
 ||mlbplayers.com^
 ||mmo-champion.com^
+||mmoabc.com^
 ||mmogah.com^
 ||mmogames.com^
 ||mmogamesturkiye.com^
@@ -4700,6 +4693,7 @@
 ||netmarble.com^
 ||netrunnerdb.com^
 ||nettcasino.com^
+||neuecasinos24.com^
 ||neveralonegame.com^
 ||gamedaily.newaol.com^
 ||newbreedsoftware.com^
@@ -4803,6 +4797,7 @@
 ||nuxgame.com^
 ||nvidia.com^
 ||nvsgames.com^
+||nway.com^
 ||nynyhotelcasino.com^
 ||nzgamer.com^
 ||nzone.com^
@@ -4871,7 +4866,6 @@
 ||onlinecasinosgeave.com^
 ||onlinecasinosspelen.com^
 ||onlinegambling.com^
-||onlinegames.com^
 ||onlineunitedstatescasinos.com^
 ||onlinezgames.com^
 ||onrpg.com^
@@ -4884,7 +4878,6 @@
 ||origin.com^
 ||originsgamefair.com^
 ||orionsarm.com^
-||orisinal.com^
 ||orithegame.com^
 ||orleanscasino.com^
 ||osgameclones.com^
@@ -4920,7 +4913,6 @@
 ||p999.com^
 ||paceadvantage.com^
 ||pacificdrivegame.com^
-||pacificpoker.com^
 ||pacman.com^
 ||pacogames.com^
 ||paddypower.com^
@@ -5234,6 +5226,7 @@
 ||playspace.com^
 ||playspellbreak.com^
 ||playstack.com^
+||playstar.com^
 ||playstarbound.com^
 ||playstartrekonline.com^
 ||playstation.com^
@@ -5256,7 +5249,6 @@
 ||playtivities.com^
 ||playtonicgames.com^
 ||playtool.com^
-||playtype.com^
 ||playup.com^
 ||playusa.com^
 ||playvalorant.com^
@@ -5557,10 +5549,8 @@
 ||remnantgame.com^
 ||renaissancekingdoms.com^
 ||games.renaultf1.com^
-||rendever.com^
 ||renegadegamestudios.com^
 ||replayjeans.com^
-||replaymag.com^
 ||replaypoker.com^
 ||resetera.com^
 ||resolutiongames.com^
@@ -5603,6 +5593,7 @@
 ||rmcbfmplay.com^
 ||roblox.com^
 ||robotentertainment.com^
+||robotgentleman.com^
 ||robtopgames.com^
 ||rockbitegames.com^
 ||rocketleaguegame.com^
@@ -5724,7 +5715,6 @@
 ||scorn-game.com^
 ||scottgames.com^
 ||scrabble-solver.com^
-||scrabble-word-finder.com^
 ||scrabblecheat.com^
 ||screenplay.com^
 ||android17.scriptmania.com^
@@ -5825,7 +5815,6 @@
 ||skillz.com^
 ||skinport.com^
 ||skinsmonkey.com^
-||trex-game.skipser.com^
 ||skipthegames.com^
 ||skrill.com^
 ||skybet.com^
@@ -5840,6 +5829,7 @@
 ||slashkey.com^
 ||slbloodlines.com^
 ||sledgehammergames.com^
+||sleepingbeastgames.com^
 ||slideplayer.com^
 ||slidesharecdn.com^
 ||slidetoplay.com^
@@ -5988,7 +5978,6 @@
 ||starbreeze.com^
 ||starburst-slotgame.com^
 ||starcitygames.com^
-||starcolt.com^
 ||starcraft2.com^
 ||stardewvalleywiki.com^
 ||stardock.com^
@@ -6075,7 +6064,6 @@
 ||suomi-casinos.com^
 ||byca.supanet.com^
 ||superbet.com^
-||supercasinosites.com^
 ||supercell.com^
 ||supercheats.com^
 ||supercrossthegame.com^
@@ -6258,6 +6246,7 @@
 ||thinks.com^
 ||thirdhosting.com^
 ||thirtyfirstunion.com^
+||thisgreatgame.com^
 ||thisisgame.com^
 ||thq.com^
 ||thqnordic.com^
@@ -6858,7 +6847,6 @@
 ||twilightwars.com^
 ||twin-sails.com^
 ||twitch.com^
-||twobitcircus.com^
 ||twoplustwo.com^
 ||twopointstudios.com^
 ||twotribes.com^
@@ -6942,7 +6930,6 @@
 ||valottery.com^
 ||valvesoftware.com^
 ||vampyr-game.com^
-||vblank.com^
 ||vcentertainment.com^
 ||vcgamers.com^
 ||vclock.com^
@@ -7060,7 +7047,6 @@
 ||wbgamesmontreal.com^
 ||wcnews.com^
 ||wdyxgames.com^
-||wealthyexile.com^
 ||weappy-studio.com^
 ||wearesecretmode.com^
 ||weather-display.com^
@@ -7093,7 +7079,6 @@
 ||wentworthpuzzles.com^
 ||westeroscraft.com^
 ||wetaworkshop.com^
-||wevr.com^
 ||wgt.com^
 ||whaleapp.com^
 ||whatifsports.com^
@@ -7491,7 +7476,6 @@
 ||sportunacasino.cz^
 ||superhry.cz^
 ||synottip.cz^
-||the-west.cz^
 ||tipsport.cz^
 ||games.tiscali.cz^
 ||vyhraj.cz^
@@ -7958,6 +7942,7 @@
 ||fussballmanager.de^
 ||game.de^
 ||game-legends.de^
+||game2gether.de^
 ||gameduell.de^
 ||gamefront.de^
 ||gamepro.de^
@@ -8003,6 +7988,7 @@
 ||lapalingo.de^
 ||leovegas.de^
 ||letsbet.de^
+||limbic-entertainment.de^
 ||loewen-play.de^
 ||logic-masters.de^
 ||lordlucky.de^
@@ -8020,6 +8006,7 @@
 ||lottohelden.de^
 ||lottomv.de^
 ||maedchen.de^
+||megaparicasino-de.de^
 ||mein-mmo.de^
 ||mensa.de^
 ||merkimmobilien.de^
@@ -8159,7 +8146,6 @@
 ||videogameszone.de^
 ||vulkan-vegas.de^
 ||vulkan-vegas-casino.de^
-||vulkancasino-de.de^
 ||warofdragons.de^
 ||lotto.web.de^
 ||westlotto.de^
@@ -8205,7 +8191,6 @@
 ||bitstarzcasino-dk.dk^
 ||casinodanmarkjackpot.dk^
 ||casinodeal.dk^
-||casoocasino.dk^
 ||danskespil.dk^
 ||dedanskecasinoer.dk^
 ||energidepotet.dk^
@@ -8214,7 +8199,6 @@
 ||ioi.dk^
 ||game.itu.dk^
 ||komogvind.dk^
-||mariacasino.dk^
 ||mrgreen.dk^
 ||playright.dk^
 ||radioplay.dk^
@@ -8367,7 +8351,6 @@
 ||worldoftanks.eu^
 ||worldofwarships.eu^
 ||wpnetwork.eu^
-||bonus.express^
 ||1xbet.fi^
 ||bdbet24.blogspot.fi^
 ||casinotrustly.fi^
@@ -8499,7 +8482,6 @@
 ||dragonbleu.fr^
 ||eliteblackjack.fr^
 ||equidia.fr^
-||escapegame.fr^
 ||evalujeu.fr^
 ||fdj.fr^
 ||ffsc.fr^
@@ -8921,7 +8903,6 @@
 ||favbet.hr^
 ||germaniasport.hr^
 ||lutrija.hr^
-||pcplay.hr^
 ||psk.hr^
 ||rizk.hr^
 ||supersport.hr^
@@ -9026,9 +9007,9 @@
 ||sal.discontinuity.info^
 ||docplayer.info^
 ||epuzzle.info^
-||fuseki.info^
 ||gamedb.info^
 ||gameplaying.info^
+||beyond20.here-for-more.info^
 ||imperial-library.info^
 ||jeuxonline.info^
 ||linkscasino.info^
@@ -9604,7 +9585,6 @@
 ||sng.link^
 ||anilife.live^
 ||arca.live^
-||booyah.live^
 ||mpl.live^
 ||trovo.live^
 ||dlb.lk^
@@ -9859,6 +9839,7 @@
 ||casino-online-australia.net^
 ||casino-utan-svensk-licens.net^
 ||casinoreviews.net^
+||casinosenligne.net^
 ||casinospesialisten.net^
 ||casinotop10.net^
 ||casinovergelijker.net^
@@ -10088,7 +10069,6 @@
 ||netmarble.net^
 ||newslotgames.net^
 ||nexon.net^
-||nfscars.net^
 ||nieuwe-casinos.net^
 ||nintendo.net^
 ||nintendowifi.net^
@@ -10157,6 +10137,7 @@
 ||qhcf.net^
 ||qj.net^
 ||quoracdn.net^
+||raetselhilfe.net^
 ||games.ravenblack.net^
 ||ravenrepublic.net^
 ||real-money-casinos.net^
@@ -10456,6 +10437,7 @@
 ||tf2maps.net^
 ||the-west.net^
 ||thealexandrian.net^
+||tsunami.thebigwave.net^
 ||thegamecollection.net^
 ||thegamesdb.net^
 ||themushroomkingdom.net^
@@ -10505,6 +10487,7 @@
 ||steamclouduseast2.blob.core.windows.net^
 ||wisdom-guild.net^
 ||wolfpaw.net^
+||wonderdraft.net^
 ||wordsolver.net^
 ||wordunscrambler.net^
 ||worldcosplay.net^
@@ -10557,7 +10540,6 @@
 ||aerocasinoonline.nl^
 ||alphablackjackonline.nl^
 ||alphapokerdesk.nl^
-||b7casinonl.nl^
 ||baloo-bets-nl.nl^
 ||baloo-betsnl.nl^
 ||baloocasino1.nl^
@@ -10781,7 +10763,6 @@
 ||focusblackjackspace.nl^
 ||games.fok.nl^
 ||freshcasinoplatform.nl^
-||full-house.nl^
 ||funnygames.nl^
 ||gameliner.nl^
 ||gamemaker.nl^
@@ -10983,7 +10964,6 @@
 ||superbigwin.nu^
 ||woordenboek.nu^
 ||allslotscasino1deposit.nz^
-||applepaycasino.nz^
 ||betcha.co.nz^
 ||casinodeps.co.nz^
 ||gameplanet.co.nz^
@@ -10995,7 +10975,6 @@
 ||tab.co.nz^
 ||wetafx.co.nz^
 ||googlepaycasinos.nz^
-||casinoreviews.net.nz^
 ||oddboy.nz^
 ||fishandgame.org.nz^
 ||ufabet.org.nz^
@@ -11031,6 +11010,7 @@
 ||ababridge.org^
 ||ablegamers.org^
 ||acbl.org^
+||acpedia.org^
 ||adivbois.org^
 ||ra.afraid.org^
 ||agenjuditogelterbaik.org^
@@ -11124,7 +11104,6 @@
 ||clementine-player.org^
 ||connectionsgame.org^
 ||constitutingamerica.org^
-||coremud.org^
 ||crosswordsolver.org^
 ||cthulhulives.org^
 ||ctlottery.org^
@@ -11147,6 +11126,7 @@
 ||doomwiki.org^
 ||dprplaymore.org^
 ||dragoncon.org^
+||dragonsfoot.org^
 ||e-story.dyndns.org^
 ||sourcery.dyndns.org^
 ||eastwestplayers.org^
@@ -11349,7 +11329,6 @@
 ||rpghq.org^
 ||safeinourworld.org^
 ||saintlouischessclub.org^
-||sbgames.org^
 ||scrabbleplayers.org^
 ||scrabblewordfinder.org^
 ||scummvm.org^
@@ -11384,7 +11363,6 @@
 ||superfamicom.org^
 ||tads.org^
 ||takethis.org^
-||talismanguild.org^
 ||ecbbl.talkfantasyfootball.org^
 ||tamriel-rebuilt.org^
 ||teachingamericanhistory.org^
@@ -11538,7 +11516,6 @@
 ||efortuna.pl^
 ||etoto.pl^
 ||eurogamer.pl^
-||ggbets.pl^
 ||gierkionline.pl^
 ||golisimo.pl^
 ||gry-online.pl^
@@ -11636,6 +11613,7 @@
 ||probukmacher.pl^
 ||pyrkon.pl^
 ||skolimcasino.pl^
+||slideplayer.pl^
 ||spinsycasino1.pl^
 ||dofus.strefa.pl^
 ||sts.pl^
@@ -11873,7 +11851,6 @@
 ||obzor-casino-mostbet.ru^
 ||old-games.ru^
 ||games.olympus.ru^
-||onminecraft.ru^
 ||zvezda.org.ru^
 ||pinup-zerkalo777-casino.ru^
 ||playcast.ru^
@@ -11904,6 +11881,7 @@
 ||wahapedia.ru^
 ||wikium.ru^
 ||wotpack.ru^
+||xbet-casino-inform.ru^
 ||play.yandex.ru^
 ||games.yaroslavl.ru^
 ||zoneofgames.ru^
@@ -12009,7 +11987,6 @@
 ||alex.stacken.kth.se^
 ||landfall.se^
 ||makthavare.se^
-||mariacasino.se^
 ||massive.se^
 ||mrgreen.se^
 ||neongiant.se^
@@ -12699,6 +12676,7 @@
 ||androeed.store^
 ||nomada.studio^
 ||dnd.su^
+||kemono.su^
 ||minegame.moy.su^
 ||alov-casino.msk.su^
 ||alovcasino.msk.su^
@@ -12905,7 +12883,6 @@
 ||getslots.top^
 ||ice-casino-si.top^
 ||inbetcasino.top^
-||konabetcasino.top^
 ||ninecasino.top^
 ||smscasino-sk.top^
 ||tipicocasino.top^
@@ -12946,7 +12923,6 @@
 ||gnjoy.com.tw^
 ||softstar.com.tw^
 ||taiwanlottery.com.tw^
-||upwelling.com.tw^
 ||nintendo.tw^
 ||gamerating.org.tw^
 ||poedb.tw^
@@ -13051,7 +13027,6 @@
 ||fortebet.ug^
 ||1xbet.go.ug^
 ||gsb.ug^
-||1xbet.sc.ug^
 ||333-casino-uk.uk^
 ||betninjacasino1.uk^
 ||betsbridge.uk^
@@ -15271,7 +15246,6 @@
 ||lolajack-casino-uk.org.uk^
 ||name-generator.org.uk^
 ||nva.org.uk^
-||playengland.org.uk^
 ||righttoplay.org.uk^
 ||specialeffect.org.uk^
 ||spinfin-casino-uk.org.uk^
@@ -15526,6 +15500,7 @@
 ||smallgames.ws^
 ||startgames.ws^
 ||happycreeper.tilda.ws^
+||advancingtulipspermatogeneticreplicatoryinshootint.xyz^
 ||albaslotcorp.xyz^
 ||bettingoffer.xyz^
 ||carrerasamericanas.xyz^
