@@ -1,6 +1,6 @@
 [Adblock Plus 1.1]
 ! Title: Accomplist "Tlds" AdBlock List (Top-N Version)
-! Version: 1793852859
+! Version: 1793939579
 ! Homepage: https://github.com/cbuijs/accomplist/tree/master/tlds
 !
 ! WhiteList Domains:
@@ -1883,6 +1883,8 @@
 @@||fallout.wiki^
 ! Sub-domain "gbf.wiki" unblacklisted from domain "wiki"
 @@||gbf.wiki^
+! Sub-domain "gem.wiki" unblacklisted from domain "wiki"
+@@||gem.wiki^
 ! Sub-domain "getindie.wiki" unblacklisted from domain "wiki"
 @@||getindie.wiki^
 ! Sub-domain "gta.wiki" unblacklisted from domain "wiki"
