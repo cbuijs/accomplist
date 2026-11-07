@@ -1,6 +1,6 @@
 [Adblock Plus 1.1]
 ! Title: Accomplist "Tlds" AdBlock List (Top-N Version)
-! Version: 1793939579
+! Version: 1794026454
 ! Homepage: https://github.com/cbuijs/accomplist/tree/master/tlds
 !
 ! WhiteList Domains:
@@ -421,6 +421,8 @@
 @@||compromise.cool^
 ! Sub-domain "eagle.cool" unblacklisted from domain "cool"
 @@||eagle.cool^
+! Sub-domain "nowplaying.cool" unblacklisted from domain "cool"
+@@||nowplaying.cool^
 ! Sub-domain "shirtz.cool" unblacklisted from domain "cool"
 @@||shirtz.cool^
 ! Sub-domain "upbitit.cool" unblacklisted from domain "cool"
@@ -978,6 +980,8 @@
 @@||usual.money^
 ! Sub-domain "vivid.money" unblacklisted from domain "money"
 @@||vivid.money^
+! Sub-domain "cloudcdn.monster" unblacklisted from domain "monster"
+@@||cloudcdn.monster^
 ! Sub-domain "fedi.monster" unblacklisted from domain "monster"
 @@||fedi.monster^
 ! Sub-domain "mortgage.monster" unblacklisted from domain "monster"
@@ -1032,10 +1036,13 @@
 @@||slide.new^
 @@||google.com.ng^
 @@||coupa.ng^
+@@||origami.ng^
 ! Sub-domain "cape.ninja" unblacklisted from domain "ninja"
 @@||cape.ninja^
 ! Sub-domain "clash.ninja" unblacklisted from domain "ninja"
 @@||clash.ninja^
+! Sub-domain "dts.ninja" unblacklisted from domain "ninja"
+@@||dts.ninja^
 ! Sub-domain "flashscore.ninja" unblacklisted from domain "ninja"
 @@||flashscore.ninja^
 ! Sub-domain "giveaway.ninja" unblacklisted from domain "ninja"
@@ -1613,6 +1620,8 @@
 @@||hom.store^
 ! Sub-domain "immich.store" unblacklisted from domain "store"
 @@||immich.store^
+! Sub-domain "iqunix.store" unblacklisted from domain "store"
+@@||iqunix.store^
 ! Sub-domain "myexpresscarwash.store" unblacklisted from domain "store"
 @@||myexpresscarwash.store^
 ! Sub-domain "myshopline.store" unblacklisted from domain "store"
@@ -2045,6 +2054,8 @@
 @@||mnr.world^
 ! Sub-domain "shitposter.world" unblacklisted from domain "world"
 @@||shitposter.world^
+! Sub-domain "tokki.world" unblacklisted from domain "world"
+@@||tokki.world^
 ! Sub-domain "unidays.world" unblacklisted from domain "world"
 @@||unidays.world^
 ! Sub-domain "userstyles.world" unblacklisted from domain "world"
