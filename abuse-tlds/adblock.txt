@@ -1,6 +1,6 @@
 [Adblock Plus 1.1]
 ! Title: Accomplist "Tlds" AdBlock List (Top-N Version)
-! Version: 1794026454
+! Version: 1794112547
 ! Homepage: https://github.com/cbuijs/accomplist/tree/master/tlds
 !
 ! WhiteList Domains:
@@ -529,6 +529,8 @@
 @@||octopus.energy^
 ! Sub-domain "oegb-kraken.energy" unblacklisted from domain "energy"
 @@||oegb-kraken.energy^
+! Sub-domain "shoptopus.energy" unblacklisted from domain "energy"
+@@||shoptopus.energy^
 ! Sub-domain "biqu.equipment" unblacklisted from domain "equipment"
 @@||biqu.equipment^
 ! Sub-domain "dandelion.events" unblacklisted from domain "events"
