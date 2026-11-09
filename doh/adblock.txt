@@ -1,6 +1,6 @@
 [Adblock Plus 1.1]
 ! Title: Accomplist "Doh" AdBlock List (Top-N Version)
-! Version: 1794112834
+! Version: 1794198428
 ! Homepage: https://github.com/cbuijs/accomplist/tree/master/doh
 !
 ! WhiteList Domains:
@@ -191,6 +191,7 @@
 ||sg1.dnswarden.com^
 ||doh.us.dnswarden.com^
 ||dnswebvsn.com^
+||family.dns.doubleangels.com^
 ||family.dns.dremaxx.com^
 ||open.dns.dremaxx.com^
 ||easyhandshake.com^
@@ -278,6 +279,7 @@
 ||dns.uk-london-1.oraclecloud.com^
 ||dns.us-ashburn-1.oraclecloud.com^
 ||dns.us-phoenix-1.oraclecloud.com^
+||pashagame456.com^
 ||dns.pesaventofilippo.com^
 ||helios.plan9-dns.com^
 ||kronos.plan9-dns.com^
@@ -869,7 +871,6 @@
 ||adg.tshost.no^
 ||dns.safesurfer.co.nz^
 ||comss.one^
-||hkname.freecdn.one^
 ||dns.hakim.one^
 ||dns.karl.one^
 ||one.one.one.one^
@@ -1185,7 +1186,6 @@
 ||lesuo.top^
 ||dns.lsho.top^
 ||najiakeji.top^
-||dns.wahr.top^
 ||xholgm.top^
 ||agh.xinfeng16m.top^
 ||doh.funtopia.tv^
@@ -1280,6 +1280,7 @@
 ||dns.vaioswolke.xyz^
 ||securedns.vendorvista.xyz^
 ||dns.vinnyp.xyz^
+||dns.vip-kingstore.xyz^
 ||dns.vod11.xyz^
 ||dns.xwdmw.xyz^
 ||pihole.datamatter.co.za^
