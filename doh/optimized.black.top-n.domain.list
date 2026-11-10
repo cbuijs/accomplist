@@ -59,7 +59,7 @@ doh.bt.com
 dns.chunghwamc.com
 dns.cloudflare.com
 cloudflare-dns.com
-frd4wvnobp.cloudflare-gateway.com
+cloudflare-gateway.com
 dns.controld.com
 freedns.controld.com
 dns.decloudus.com
@@ -73,8 +73,10 @@ doh.eu.dnswarden.com
 fr1.dnswarden.com
 sg1.dnswarden.com
 doh.us.dnswarden.com
+edgy-dns.com
 doh.flashstart.com
 dns.gamban.com
+dns.glorydns.com
 dns.google.com
 google-public-dns-a.google.com
 google-public-dns-b.google.com
@@ -191,7 +193,6 @@ dns.engineer.web.id
 doh.angry.im
 doh.captnemo.in
 dns.nic.in
-dns.skrep.in
 dns.api.integration.globuscs.info
 dns.api.sandbox.globuscs.info
 dns.api.staging.globuscs.info
@@ -354,6 +355,7 @@ dnsbunker.org
 home27.duckdns.org
 jurre-home.duckdns.org
 krtekvpn.duckdns.org
+osefcorp.duckdns.org
 punono.duckdns.org
 tuandns.duckdns.org
 tungdnsne.duckdns.org
