@@ -179,6 +179,7 @@
 .sg1.dnswarden.com
 .doh.us.dnswarden.com
 .dnswebvsn.com
+.family.dns.doubleangels.com
 .family.dns.dremaxx.com
 .open.dns.dremaxx.com
 .easyhandshake.com
@@ -427,6 +428,7 @@
 .cluster-1.gac.edu
 .dns.cert.ee
 .ahoj.email
+.dns.jucker.engineering
 .dns.paesa.es
 .3dns.eu
 .dns.almir1904.eu
@@ -797,7 +799,6 @@
 .ada.openbld.net
 .ric.openbld.net
 .rpz-public-resolver1.rrdns.pch.net
-.dns.pernika.net
 .darya.persiannit.net
 .dns.phillipjberry.net
 .alpha-dns.quad9.net
@@ -858,7 +859,6 @@
 .adg.tshost.no
 .dns.safesurfer.co.nz
 .comss.one
-.hkname.freecdn.one
 .dns.hakim.one
 .dns.karl.one
 .one.one.one.one
@@ -1168,12 +1168,11 @@
 .dns2.cbio.top
 .dns.chromeina.top
 .droyd.top
-.glacius.top
-.imperio.top
 .blog.kimiblock.top
 .lesuo.top
 .dns.lsho.top
 .najiakeji.top
+.dns.wahr.top
 .xholgm.top
 .agh.xinfeng16m.top
 .doh.funtopia.tv
@@ -1253,6 +1252,7 @@
 .adguard.kantinyoyok.xyz
 .dns.kerekes.xyz
 .kx-97795-tr.xyz
+.lukscasino-479-tr.xyz
 .lukscasino-542-tr.xyz
 .dns.maolaohei.xyz
 .maqgie.xyz
