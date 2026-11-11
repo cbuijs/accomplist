@@ -1,6 +1,6 @@
 [Adblock Plus 1.1]
 ! Title: Accomplist "Tlds" AdBlock List (Top-N Version)
-! Version: 1794285130
+! Version: 1794371617
 ! Homepage: https://github.com/cbuijs/accomplist/tree/master/tlds
 !
 ! WhiteList Domains:
@@ -553,6 +553,8 @@
 @@||booking.expert^
 ! Sub-domain "malware.expert" unblacklisted from domain "expert"
 @@||malware.expert^
+! Sub-domain "gensa.family" unblacklisted from domain "family"
+@@||gensa.family^
 ! Sub-domain "hns.family" unblacklisted from domain "family"
 @@||hns.family^
 ! Sub-domain "ktr.fan" unblacklisted from domain "fan"
@@ -2216,6 +2218,7 @@
 ||*.bbs^
 ||*.bcg^
 ||*.bd^
+||*.beats^
 ||*.beauty^
 ||*.beer^
 ||*.bel^
@@ -2849,6 +2852,7 @@
 ||*.nf^
 ||*.nft^
 ||*.ngo^
+||*.nikon^
 ||*.ninja^
 ||*.nissay^
 ||*.nocookie^
@@ -2892,6 +2896,7 @@
 ||*.openstacklocal^
 ||*.opr^
 ||*.oracle^
+||*.orange^
 ||*.organic^
 ||*.origins^
 ||*.osaka^
@@ -2926,6 +2931,7 @@
 ||*.phtml^
 ||*.physio^
 ||*.pics^
+||*.pictet^
 ||*.pictures^
 ||*.pin^
 ||*.ping^
@@ -2942,6 +2948,7 @@
 ||*.plus^
 ||*.pluto^
 ||*.pm^
+||*.pnc^
 ||*.png^
 ||*.pocketdata^
 ||*.poker^
@@ -2970,6 +2977,7 @@
 ||*.purim^
 ||*.pvt^
 ||*.pw^
+||*.pwc^
 ||*.py^
 ||*.pyc^
 ||*.qencode-encoder-cd22de30229b11ec9a3d62b78d0049ec^
@@ -3009,6 +3017,7 @@
 ||*.reverse-dns^
 ||*.review^
 ||*.reviews^
+||*.rexroth^
 ||*.rhtml^
 ||*.rich^
 ||*.richardli^
@@ -3021,6 +3030,7 @@
 ||*.rock^
 ||*.rocks^
 ||*.rodeo^
+||*.rogers^
 ||*.room^
 ||*.root^
 ||*.router^
@@ -3031,12 +3041,14 @@
 ||*.ru^
 ||*.rugby^
 ||*.run^
+||*.rwe^
 ||*.ryukyu^
 ||*.safe^
 ||*.safety^
 ||*.sakura^
 ||*.sale^
 ||*.salon^
+||*.sanofi^
 ||*.sarl^
 ||*.saturn^
 ||*.save^
@@ -3056,6 +3068,7 @@
 ||*.seek^
 ||*.seks^
 ||*.select^
+||*.sener^
 ||*.server^
 ||*.servfail^
 ||*.service^
