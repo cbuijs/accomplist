@@ -1,6 +1,6 @@
 [Adblock Plus 1.1]
 ! Title: Accomplist "Cryptojack" AdBlock List (Top-N Version)
-! Version: 1794285368
+! Version: 1794371821
 ! Homepage: https://github.com/cbuijs/accomplist/tree/master/cryptojack
 !
 ! WhiteList Domains:
@@ -2904,6 +2904,7 @@
 ||1hashmining.com^
 ||1hourlycoin.com^
 ||1isolution.com^
+||1moneynetwork.com^
 ||1paycoin.com^
 ||1st-cryptobank.com^
 ||1stghs.com^
@@ -10608,6 +10609,7 @@
 ||ypool.net^
 ||thulani.za.net^
 ||zellabs.net^
+||1money.network^
 ||alterdot.network^
 ||avn.network^
 ||bisq.network^
