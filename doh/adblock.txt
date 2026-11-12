@@ -1,6 +1,6 @@
 [Adblock Plus 1.1]
 ! Title: Accomplist "Doh" AdBlock List (Top-N Version)
-! Version: 1794371859
+! Version: 1794458602
 ! Homepage: https://github.com/cbuijs/accomplist/tree/master/doh
 !
 ! WhiteList Domains:
@@ -36,6 +36,7 @@
 ||dns.schlagheck.berlin^
 ||dns.doh.best^
 ||dns.7sec.com.br^
+||mabuktogel.business^
 ||doh.buzz^
 ||doh.datahata.by^
 ||dns.npe.bz^
@@ -79,7 +80,6 @@
 ||dns-secondary.cloudnx.cloud^
 ||doh.cnetwork.cloud^
 ||adguard.hartley.cloud^
-||adguard.londonwebnerd.cloud^
 ||regiopolis.cloud^
 ||dns.roedel.cloud^
 ||dns.wibenson.cloud^
@@ -191,7 +191,6 @@
 ||sg1.dnswarden.com^
 ||doh.us.dnswarden.com^
 ||dnswebvsn.com^
-||family.dns.doubleangels.com^
 ||family.dns.dremaxx.com^
 ||open.dns.dremaxx.com^
 ||easyhandshake.com^
@@ -279,6 +278,7 @@
 ||dns.uk-london-1.oraclecloud.com^
 ||dns.us-ashburn-1.oraclecloud.com^
 ||dns.us-phoenix-1.oraclecloud.com^
+||pashagame456.com^
 ||dns.pesaventofilippo.com^
 ||helios.plan9-dns.com^
 ||kronos.plan9-dns.com^
@@ -358,6 +358,7 @@
 ||adguard.bitteeinbyte.de^
 ||adguard.bonis.de^
 ||chaos-system.de^
+||dns.csa-rz.de^
 ||dns.csaonline.de^
 ||dns.datenquark.de^
 ||doh.defaultroutes.de^
@@ -367,7 +368,6 @@
 ||dns.dnshome.de^
 ||dns.dremaxx.de^
 ||dukun.de^
-||dns.dyn1.de^
 ||opennic1.eth-services.de^
 ||dns.farshidhakimy.de^
 ||dns.fehlsprache.de^
@@ -429,7 +429,6 @@
 ||adg.khon.dev^
 ||adblock.krctech.dev^
 ||dns.molinero.dev^
-||renardbleu.dev^
 ||resolver.rferee.dev^
 ||dns.svoi.dev^
 ||anycast.censurfridns.dk^
@@ -973,6 +972,7 @@
 ||dns.dynx.pro^
 ||ntwrkh.pro^
 ||doh.xcom.pro^
+||mabuktogel.properties^
 ||abe01.dnscry.pt^
 ||abn01.dnscry.pt^
 ||adl01.dnscry.pt^
@@ -1184,7 +1184,6 @@
 ||lesuo.top^
 ||dns.lsho.top^
 ||najiakeji.top^
-||dns.wahr.top^
 ||xholgm.top^
 ||agh.xinfeng16m.top^
 ||doh.funtopia.tv^
