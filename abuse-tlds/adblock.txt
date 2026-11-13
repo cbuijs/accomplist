@@ -1,6 +1,6 @@
 [Adblock Plus 1.1]
 ! Title: Accomplist "Tlds" AdBlock List (Top-N Version)
-! Version: 1794458325
+! Version: 1794544403
 ! Homepage: https://github.com/cbuijs/accomplist/tree/master/tlds
 !
 ! WhiteList Domains:
@@ -3122,6 +3122,7 @@
 ||*.spreadbetting^
 ||*.srl^
 ||*.ssh^
+||*.stada^
 ||*.star^
 ||*.stockholm^
 ||*.storage^
@@ -3153,6 +3154,7 @@
 ||*.taiwan^
 ||*.taobao^
 ||*.tar^
+||*.tatamotors^
 ||*.tatar^
 ||*.tattoo^
 ||*.tax^
@@ -3170,9 +3172,11 @@
 ||*.text^
 ||*.tf^
 ||*.th^
+||*.thd^
 ||*.theater^
 ||*.theatre^
 ||*.ti^
+||*.tiaa^
 ||*.tickets^
 ||*.tienda^
 ||*.tips^
@@ -3201,13 +3205,17 @@
 ||*.travelers^
 ||*.travelersinsurance^
 ||*.trust^
+||*.trv^
 ||*.tt^
 ||*.tube^
 ||*.tunes^
 ||*.tushu^
+||*.tvs^
 ||*.tw^
 ||*.txt^
 ||*.ua^
+||*.ubank^
+||*.ubs^
 ||*.um^
 ||*.unassigned^
 ||*.unicom^
@@ -3216,6 +3224,7 @@
 ||*.unknowndomain^
 ||*.uno^
 ||*.uol^
+||*.ups^
 ||*.uranus^
 ||*.url^
 ||*.us^
@@ -3223,6 +3232,7 @@
 ||*.uucp^
 ||*.uz^
 ||*.vacations^
+||*.vanguard^
 ||*.vegas^
 ||*.ventures^
 ||*.venus^
@@ -3239,10 +3249,12 @@
 ||*.vip^
 ||*.virtualmin^
 ||*.virtus^
+||*.visa^
 ||*.vision^
 ||*.vlaanderen^
 ||*.vn^
 ||*.vodka^
+||*.volvo^
 ||*.vote^
 ||*.voting^
 ||*.voto^
@@ -3263,6 +3275,7 @@
 ||*.wed^
 ||*.wedding^
 ||*.weibo^
+||*.weir^
 ||*.wf^
 ||*.whatever^
 ||*.white^
@@ -3472,6 +3485,7 @@
 ||*.xxx^
 ||*.xyz^
 ||*.yachts^
+||*.yahoo^
 ||*.yamaxun^
 ||*.yandex^
 ||*.yaws^
