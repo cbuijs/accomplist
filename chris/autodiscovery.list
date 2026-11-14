@@ -9374,6 +9374,7 @@ autoconfig.mediatech.by
 autoconfig.mediatech.dev
 autoconfig.hra.health
 autoconfig.medusajs.app
+autoconfig.medusajs.site
 autoconfig.miniserver.com
 autoconfig.memset.net
 autoconfig.messerli.app
@@ -19793,6 +19794,7 @@ _autodiscover.mediatech.by
 _autodiscover.mediatech.dev
 _autodiscover.hra.health
 _autodiscover.medusajs.app
+_autodiscover.medusajs.site
 _autodiscover.miniserver.com
 _autodiscover.memset.net
 _autodiscover.messerli.app
@@ -30212,6 +30214,7 @@ autodiscover.mediatech.by
 autodiscover.mediatech.dev
 autodiscover.hra.health
 autodiscover.medusajs.app
+autodiscover.medusajs.site
 autodiscover.miniserver.com
 autodiscover.memset.net
 autodiscover.messerli.app
@@ -40631,6 +40634,7 @@ b._dns-sd.mediatech.by
 b._dns-sd.mediatech.dev
 b._dns-sd.hra.health
 b._dns-sd.medusajs.app
+b._dns-sd.medusajs.site
 b._dns-sd.miniserver.com
 b._dns-sd.memset.net
 b._dns-sd.messerli.app
@@ -51050,6 +51054,7 @@ db._dns-sd.mediatech.by
 db._dns-sd.mediatech.dev
 db._dns-sd.hra.health
 db._dns-sd.medusajs.app
+db._dns-sd.medusajs.site
 db._dns-sd.miniserver.com
 db._dns-sd.memset.net
 db._dns-sd.messerli.app
@@ -61469,6 +61474,7 @@ isatap.mediatech.by
 isatap.mediatech.dev
 isatap.hra.health
 isatap.medusajs.app
+isatap.medusajs.site
 isatap.miniserver.com
 isatap.memset.net
 isatap.messerli.app
@@ -71888,6 +71894,7 @@ lb._dns-sd.mediatech.by
 lb._dns-sd.mediatech.dev
 lb._dns-sd.hra.health
 lb._dns-sd.medusajs.app
+lb._dns-sd.medusajs.site
 lb._dns-sd.miniserver.com
 lb._dns-sd.memset.net
 lb._dns-sd.messerli.app
@@ -82307,6 +82314,7 @@ wpad.mediatech.by
 wpad.mediatech.dev
 wpad.hra.health
 wpad.medusajs.app
+wpad.medusajs.site
 wpad.miniserver.com
 wpad.memset.net
 wpad.messerli.app
@@ -92726,6 +92734,7 @@ wpad.tcp.mediatech.by
 wpad.tcp.mediatech.dev
 wpad.tcp.hra.health
 wpad.tcp.medusajs.app
+wpad.tcp.medusajs.site
 wpad.tcp.miniserver.com
 wpad.tcp.memset.net
 wpad.tcp.messerli.app
