@@ -1,6 +1,6 @@
 [Adblock Plus 1.1]
 ! Title: Accomplist "Tlds" AdBlock List (Top-N Version)
-! Version: 1794544403
+! Version: 1794631264
 ! Homepage: https://github.com/cbuijs/accomplist/tree/master/tlds
 !
 ! WhiteList Domains:
@@ -1178,8 +1178,6 @@
 @@||glass.photo^
 ! Sub-domain "picsum.photos" unblacklisted from domain "photos"
 @@||picsum.photos^
-! Sub-domain "am-cdn.pics" unblacklisted from domain "pics"
-@@||am-cdn.pics^
 ! Sub-domain "covet.pics" unblacklisted from domain "pics"
 @@||covet.pics^
 ! Sub-domain "pixers.pics" unblacklisted from domain "pics"
@@ -2581,6 +2579,7 @@
 ||*.hangout^
 ||*.hanukkah^
 ||*.haus^
+||*.hdfcbank^
 ||*.health^
 ||*.healthcare^
 ||*.help^
