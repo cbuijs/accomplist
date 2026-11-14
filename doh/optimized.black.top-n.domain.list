@@ -193,7 +193,6 @@ dns.engineer.web.id
 doh.angry.im
 doh.captnemo.in
 dns.nic.in
-dns.skrep.in
 dns.api.integration.globuscs.info
 dns.api.sandbox.globuscs.info
 dns.api.staging.globuscs.info
@@ -528,6 +527,8 @@ dns.ronc.ru
 dns.yandex.ru
 dns.sb
 doh.sb
+europe.doh.sb
+nl-ams2.doh.sb
 resolver.sunet.se
 dns.levonet.sk
 crypto.sx

@@ -1,6 +1,6 @@
 [Adblock Plus 1.1]
 ! Title: Accomplist "Doh" AdBlock List (Top-N Version)
-! Version: 1794544653
+! Version: 1794631523
 ! Homepage: https://github.com/cbuijs/accomplist/tree/master/doh
 !
 ! WhiteList Domains:
@@ -55,7 +55,6 @@
 ||maxfong.cc^
 ||xenergy.cc^
 ||dns.keweon.center^
-||deep-henchman-excuse.cfd^
 ||dns.chenu.ch^
 ||c.cicitt.ch^
 ||dns.digitale-gesellschaft.ch^
@@ -80,7 +79,6 @@
 ||dns-secondary.cloudnx.cloud^
 ||doh.cnetwork.cloud^
 ||adguard.hartley.cloud^
-||adguard.londonwebnerd.cloud^
 ||regiopolis.cloud^
 ||dns.roedel.cloud^
 ||dns.wibenson.cloud^
@@ -100,7 +98,6 @@
 ||dns.weixin.qq.com.cn^
 ||dns.tuna.tsinghua.edu.cn^
 ||dns.foximao.cn^
-||dns.hshoe.cn^
 ||dns.hujiayucc.cn^
 ||dns.mbrjun.cn^
 ||dns.mzrme.cn^
@@ -192,6 +189,7 @@
 ||sg1.dnswarden.com^
 ||doh.us.dnswarden.com^
 ||dnswebvsn.com^
+||family.dns.doubleangels.com^
 ||family.dns.dremaxx.com^
 ||open.dns.dremaxx.com^
 ||easyhandshake.com^
@@ -247,6 +245,7 @@
 ||orau.lz0724.com^
 ||doh.maskab.com^
 ||httpdns.meituan.com^
+||mendozasdelivery.com^
 ||doh.mmmalia.com^
 ||dnstls.mobik.com^
 ||dns.moonssif.com^
@@ -279,7 +278,6 @@
 ||dns.uk-london-1.oraclecloud.com^
 ||dns.us-ashburn-1.oraclecloud.com^
 ||dns.us-phoenix-1.oraclecloud.com^
-||pashagame456.com^
 ||dns.pesaventofilippo.com^
 ||helios.plan9-dns.com^
 ||kronos.plan9-dns.com^
@@ -345,7 +343,6 @@
 ||yovbak.com^
 ||adguard.zachitect.com^
 ||polisitogel.contractors^
-||atris.cyou^
 ||adguard.dantynes.cyou^
 ||dns.kukal.cz^
 ||odvr.nic.cz^
@@ -498,7 +495,6 @@
 ||axaxa.fun^
 ||ag.brianlee.fun^
 ||cloudbenders.fun^
-||cynntex.fun^
 ||dns.f4a.fun^
 ||jcdns.fun^
 ||cloud.198.games^
@@ -1143,6 +1139,8 @@
 ||your-dns.run^
 ||dns.sb^
 ||doh.sb^
+||europe.doh.sb^
+||nl-ams2.doh.sb^
 ||dns.butterfly87.sbs^
 ||myatris.sbs^
 ||dns.haka.se^
@@ -1171,7 +1169,6 @@
 ||dns.xuming.studio^
 ||crypto.sx^
 ||3jjxxl.tech^
-||dns.cybertonic.tech^
 ||dns.daarrk.tech^
 ||qqmcfw.tech^
 ||dns.startupstack.tech^
@@ -1187,7 +1184,6 @@
 ||lesuo.top^
 ||dns.lsho.top^
 ||najiakeji.top^
-||xholgm.top^
 ||agh.xinfeng16m.top^
 ||doh.funtopia.tv^
 ||emby.rasp.tv^
