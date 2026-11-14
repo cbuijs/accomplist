@@ -1,0 +1,4 @@
+^(.*[_.-])?double[-]*[ck]li([c]*k[sz]*|que)[_.-]
+^(.*[_.-])?google[-]*(analy(se|ti([ck]|que))|syndi[ck]ation|(ad[a-z0-9]*|tag)[-]*(manager|service))[sz]*[_.-]
+(^|\.)firebase
+(^|\.)adservice\.google\.
