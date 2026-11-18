@@ -68,7 +68,6 @@
 .dns-secondary.cloudnx.cloud
 .doh.cnetwork.cloud
 .adguard.hartley.cloud
-.adguard.londonwebnerd.cloud
 .regiopolis.cloud
 .dns.roedel.cloud
 .dns.wibenson.cloud
@@ -197,6 +196,7 @@
 .dns.google.com
 .google-public-dns-a.google.com
 .google-public-dns-b.google.com
+.dns.guardmydns.com
 .secure.hafnova.com
 .dns.hakutakucn.com
 .adguard.haneulo.com
@@ -268,7 +268,6 @@
 .dns.uk-london-1.oraclecloud.com
 .dns.us-ashburn-1.oraclecloud.com
 .dns.us-phoenix-1.oraclecloud.com
-.pashagame456.com
 .dns.pesaventofilippo.com
 .helios.plan9-dns.com
 .kronos.plan9-dns.com
@@ -334,7 +333,6 @@
 .yovbak.com
 .adguard.zachitect.com
 .polisitogel.contractors
-.atris.cyou
 .adguard.dantynes.cyou
 .dns.kukal.cz
 .odvr.nic.cz
@@ -487,7 +485,6 @@
 .axaxa.fun
 .ag.brianlee.fun
 .cloudbenders.fun
-.cynntex.fun
 .dns.f4a.fun
 .jcdns.fun
 .cloud.198.games
@@ -707,7 +704,6 @@
 .dns.digitalsize.net
 .dns4me.net
 .takhtakh.domyah.net
-.gustamadh.dynv6.net
 .dnscache.e-utp.net
 .adguard.easez.net
 .dns.eddi.net
@@ -862,7 +858,6 @@
 .adg.tshost.no
 .dns.safesurfer.co.nz
 .comss.one
-.hkname.freecdn.one
 .dns.hakim.one
 .dns.karl.one
 .one.one.one.one
@@ -1134,8 +1129,9 @@
 .your-dns.run
 .dns.sb
 .doh.sb
+.europe.doh.sb
+.nl-ams2.doh.sb
 .dns.butterfly87.sbs
-.myatris.sbs
 .dns.haka.se
 .resolver.sunet.se
 .dns.9999.sg
@@ -1163,7 +1159,6 @@
 .dns.xuming.studio
 .crypto.sx
 .3jjxxl.tech
-.dns.cybertonic.tech
 .dns.daarrk.tech
 .qqmcfw.tech
 .dns.startupstack.tech
@@ -1176,10 +1171,8 @@
 .dns.chromeina.top
 .droyd.top
 .blog.kimiblock.top
-.lesuo.top
 .dns.lsho.top
 .najiakeji.top
-.xholgm.top
 .agh.xinfeng16m.top
 .doh.funtopia.tv
 .emby.rasp.tv
@@ -1257,7 +1250,6 @@
 .kaiwu.xyz
 .adguard.kantinyoyok.xyz
 .dns.kerekes.xyz
-.kx-97795-tr.xyz
 .lukscasino-479-tr.xyz
 .lukscasino-542-tr.xyz
 .lukscasino-929-tr.xyz
@@ -1274,7 +1266,6 @@
 .dns.vaioswolke.xyz
 .securedns.vendorvista.xyz
 .dns.vinnyp.xyz
-.dns.vip-kingstore.xyz
 .dns.vod11.xyz
 .dns.xwdmw.xyz
 .pihole.datamatter.co.za
