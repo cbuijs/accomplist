@@ -1,6 +1,6 @@
 [Adblock Plus 1.1]
 ! Title: Accomplist "Tlds" AdBlock List (Top-N Version)
-! Version: 1794977120
+! Version: 1795063657
 ! Homepage: https://github.com/cbuijs/accomplist/tree/master/tlds
 !
 ! WhiteList Domains:
@@ -1129,6 +1129,8 @@
 @@||randemretail.online^
 ! Sub-domain "ravendawn.online" unblacklisted from domain "online"
 @@||ravendawn.online^
+! Sub-domain "realbridge.online" unblacklisted from domain "online"
+@@||realbridge.online^
 ! Sub-domain "shueisha.online" unblacklisted from domain "online"
 @@||shueisha.online^
 ! Sub-domain "vmwesa.online" unblacklisted from domain "online"
