@@ -9626,6 +9626,7 @@
 .autoconfig.nh-serv.co.uk
 .autoconfig.nimsite.uk
 .autoconfig.ninjaneer-sites.com
+.autoconfig.nippy.site
 .autoconfig.mmafan.biz
 .autoconfig.myftp.biz
 .autoconfig.no-ip.biz
@@ -20088,6 +20089,7 @@
 ._autodiscover.nh-serv.co.uk
 ._autodiscover.nimsite.uk
 ._autodiscover.ninjaneer-sites.com
+._autodiscover.nippy.site
 ._autodiscover.mmafan.biz
 ._autodiscover.myftp.biz
 ._autodiscover.no-ip.biz
@@ -30550,6 +30552,7 @@
 .autodiscover.nh-serv.co.uk
 .autodiscover.nimsite.uk
 .autodiscover.ninjaneer-sites.com
+.autodiscover.nippy.site
 .autodiscover.mmafan.biz
 .autodiscover.myftp.biz
 .autodiscover.no-ip.biz
@@ -41012,6 +41015,7 @@
 .b._dns-sd.nh-serv.co.uk
 .b._dns-sd.nimsite.uk
 .b._dns-sd.ninjaneer-sites.com
+.b._dns-sd.nippy.site
 .b._dns-sd.mmafan.biz
 .b._dns-sd.myftp.biz
 .b._dns-sd.no-ip.biz
@@ -51474,6 +51478,7 @@
 .db._dns-sd.nh-serv.co.uk
 .db._dns-sd.nimsite.uk
 .db._dns-sd.ninjaneer-sites.com
+.db._dns-sd.nippy.site
 .db._dns-sd.mmafan.biz
 .db._dns-sd.myftp.biz
 .db._dns-sd.no-ip.biz
@@ -61936,6 +61941,7 @@
 .isatap.nh-serv.co.uk
 .isatap.nimsite.uk
 .isatap.ninjaneer-sites.com
+.isatap.nippy.site
 .isatap.mmafan.biz
 .isatap.myftp.biz
 .isatap.no-ip.biz
@@ -72398,6 +72404,7 @@
 .lb._dns-sd.nh-serv.co.uk
 .lb._dns-sd.nimsite.uk
 .lb._dns-sd.ninjaneer-sites.com
+.lb._dns-sd.nippy.site
 .lb._dns-sd.mmafan.biz
 .lb._dns-sd.myftp.biz
 .lb._dns-sd.no-ip.biz
@@ -82860,6 +82867,7 @@
 .wpad.nh-serv.co.uk
 .wpad.nimsite.uk
 .wpad.ninjaneer-sites.com
+.wpad.nippy.site
 .wpad.mmafan.biz
 .wpad.myftp.biz
 .wpad.no-ip.biz
@@ -93322,6 +93330,7 @@
 .wpad.tcp.nh-serv.co.uk
 .wpad.tcp.nimsite.uk
 .wpad.tcp.ninjaneer-sites.com
+.wpad.tcp.nippy.site
 .wpad.tcp.mmafan.biz
 .wpad.tcp.myftp.biz
 .wpad.tcp.no-ip.biz
