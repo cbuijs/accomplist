@@ -135,6 +135,7 @@
 .dnsforge.de
 .dns.dnshome.de
 .dns.dremaxx.de
+.dns.dyn1.de
 .opennic1.eth-services.de
 .dns.ffnw.de
 .dns1.in-berlin.de
@@ -528,6 +529,8 @@
 .dns.yandex.ru
 .dns.sb
 .doh.sb
+.europe.doh.sb
+.nl-ams2.doh.sb
 .resolver.sunet.se
 .dns.levonet.sk
 .dns.yunzheng.space
