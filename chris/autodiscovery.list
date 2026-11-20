@@ -8827,6 +8827,9 @@ autoconfig.fbxos.fr
 autoconfig.freebox-os.fr
 autoconfig.freeboxos.fr
 autoconfig.freedesktop.org
+autoconfig.pvf.cc
+autoconfig.kz.ci
+autoconfig.xyz.ci
 autoconfig.freemyip.com
 autoconfig.frusky.de
 autoconfig.wien.funkfeuer.at
@@ -9859,6 +9862,7 @@ autoconfig.postman-echo.com
 autoconfig.pstmn.io
 autoconfig.mock.pstmn.io
 autoconfig.httpbin.org
+autoconfig.prairielearn-user-content.com
 autoconfig.prequalifyme.today
 autoconfig.xen.prgmr.com
 autoconfig.priv.at
@@ -19290,6 +19294,9 @@ _autodiscover.fbxos.fr
 _autodiscover.freebox-os.fr
 _autodiscover.freeboxos.fr
 _autodiscover.freedesktop.org
+_autodiscover.pvf.cc
+_autodiscover.kz.ci
+_autodiscover.xyz.ci
 _autodiscover.freemyip.com
 _autodiscover.frusky.de
 _autodiscover.wien.funkfeuer.at
@@ -20322,6 +20329,7 @@ _autodiscover.postman-echo.com
 _autodiscover.pstmn.io
 _autodiscover.mock.pstmn.io
 _autodiscover.httpbin.org
+_autodiscover.prairielearn-user-content.com
 _autodiscover.prequalifyme.today
 _autodiscover.xen.prgmr.com
 _autodiscover.priv.at
@@ -29753,6 +29761,9 @@ autodiscover.fbxos.fr
 autodiscover.freebox-os.fr
 autodiscover.freeboxos.fr
 autodiscover.freedesktop.org
+autodiscover.pvf.cc
+autodiscover.kz.ci
+autodiscover.xyz.ci
 autodiscover.freemyip.com
 autodiscover.frusky.de
 autodiscover.wien.funkfeuer.at
@@ -30785,6 +30796,7 @@ autodiscover.postman-echo.com
 autodiscover.pstmn.io
 autodiscover.mock.pstmn.io
 autodiscover.httpbin.org
+autodiscover.prairielearn-user-content.com
 autodiscover.prequalifyme.today
 autodiscover.xen.prgmr.com
 autodiscover.priv.at
@@ -40216,6 +40228,9 @@ b._dns-sd.fbxos.fr
 b._dns-sd.freebox-os.fr
 b._dns-sd.freeboxos.fr
 b._dns-sd.freedesktop.org
+b._dns-sd.pvf.cc
+b._dns-sd.kz.ci
+b._dns-sd.xyz.ci
 b._dns-sd.freemyip.com
 b._dns-sd.frusky.de
 b._dns-sd.wien.funkfeuer.at
@@ -41248,6 +41263,7 @@ b._dns-sd.postman-echo.com
 b._dns-sd.pstmn.io
 b._dns-sd.mock.pstmn.io
 b._dns-sd.httpbin.org
+b._dns-sd.prairielearn-user-content.com
 b._dns-sd.prequalifyme.today
 b._dns-sd.xen.prgmr.com
 b._dns-sd.priv.at
@@ -50679,6 +50695,9 @@ db._dns-sd.fbxos.fr
 db._dns-sd.freebox-os.fr
 db._dns-sd.freeboxos.fr
 db._dns-sd.freedesktop.org
+db._dns-sd.pvf.cc
+db._dns-sd.kz.ci
+db._dns-sd.xyz.ci
 db._dns-sd.freemyip.com
 db._dns-sd.frusky.de
 db._dns-sd.wien.funkfeuer.at
@@ -51711,6 +51730,7 @@ db._dns-sd.postman-echo.com
 db._dns-sd.pstmn.io
 db._dns-sd.mock.pstmn.io
 db._dns-sd.httpbin.org
+db._dns-sd.prairielearn-user-content.com
 db._dns-sd.prequalifyme.today
 db._dns-sd.xen.prgmr.com
 db._dns-sd.priv.at
@@ -61142,6 +61162,9 @@ isatap.fbxos.fr
 isatap.freebox-os.fr
 isatap.freeboxos.fr
 isatap.freedesktop.org
+isatap.pvf.cc
+isatap.kz.ci
+isatap.xyz.ci
 isatap.freemyip.com
 isatap.frusky.de
 isatap.wien.funkfeuer.at
@@ -62174,6 +62197,7 @@ isatap.postman-echo.com
 isatap.pstmn.io
 isatap.mock.pstmn.io
 isatap.httpbin.org
+isatap.prairielearn-user-content.com
 isatap.prequalifyme.today
 isatap.xen.prgmr.com
 isatap.priv.at
@@ -71605,6 +71629,9 @@ lb._dns-sd.fbxos.fr
 lb._dns-sd.freebox-os.fr
 lb._dns-sd.freeboxos.fr
 lb._dns-sd.freedesktop.org
+lb._dns-sd.pvf.cc
+lb._dns-sd.kz.ci
+lb._dns-sd.xyz.ci
 lb._dns-sd.freemyip.com
 lb._dns-sd.frusky.de
 lb._dns-sd.wien.funkfeuer.at
@@ -72637,6 +72664,7 @@ lb._dns-sd.postman-echo.com
 lb._dns-sd.pstmn.io
 lb._dns-sd.mock.pstmn.io
 lb._dns-sd.httpbin.org
+lb._dns-sd.prairielearn-user-content.com
 lb._dns-sd.prequalifyme.today
 lb._dns-sd.xen.prgmr.com
 lb._dns-sd.priv.at
@@ -82068,6 +82096,9 @@ wpad.fbxos.fr
 wpad.freebox-os.fr
 wpad.freeboxos.fr
 wpad.freedesktop.org
+wpad.pvf.cc
+wpad.kz.ci
+wpad.xyz.ci
 wpad.freemyip.com
 wpad.frusky.de
 wpad.wien.funkfeuer.at
@@ -83100,6 +83131,7 @@ wpad.postman-echo.com
 wpad.pstmn.io
 wpad.mock.pstmn.io
 wpad.httpbin.org
+wpad.prairielearn-user-content.com
 wpad.prequalifyme.today
 wpad.xen.prgmr.com
 wpad.priv.at
@@ -92531,6 +92563,9 @@ wpad.tcp.fbxos.fr
 wpad.tcp.freebox-os.fr
 wpad.tcp.freeboxos.fr
 wpad.tcp.freedesktop.org
+wpad.tcp.pvf.cc
+wpad.tcp.kz.ci
+wpad.tcp.xyz.ci
 wpad.tcp.freemyip.com
 wpad.tcp.frusky.de
 wpad.tcp.wien.funkfeuer.at
@@ -93563,6 +93598,7 @@ wpad.tcp.postman-echo.com
 wpad.tcp.pstmn.io
 wpad.tcp.mock.pstmn.io
 wpad.tcp.httpbin.org
+wpad.tcp.prairielearn-user-content.com
 wpad.tcp.prequalifyme.today
 wpad.tcp.xen.prgmr.com
 wpad.tcp.priv.at
