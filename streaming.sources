@@ -1,0 +1,3 @@
+UT1	black!	/opt/ut1/audio-video/domains!	/opt/accomplist/work/ut1.list	7200	@DOMAIN	@IP
+NextDNS-Audio	black!	https://raw.githubusercontent.com/nextdns/piracy-blocklists/master/streaming-audio!	/opt/accomplist/work/nextdns-audio.list	7200	@DOMAIN	@IP
+NextDNS-Video	black!	https://raw.githubusercontent.com/nextdns/piracy-blocklists/master/streaming-video!	/opt/accomplist/work/nextdns-video.list	7200	@DOMAIN	@IP
