@@ -267,6 +267,19 @@
 .dns.us-phoenix-1.oraclecloud.com
 .pashagame456.com
 .dns.pesaventofilippo.com
+.doh.centraleu.pi-dns.com
+.dot.centraleu.pi-dns.com
+.doh.pi-dns.com
+.doh.eastas.pi-dns.com
+.dot.eastas.pi-dns.com
+.doh.eastau.pi-dns.com
+.dot.eastau.pi-dns.com
+.doh.eastus.pi-dns.com
+.dot.eastus.pi-dns.com
+.doh.northeu.pi-dns.com
+.dot.northeu.pi-dns.com
+.doh.westus.pi-dns.com
+.dot.westus.pi-dns.com
 .helios.plan9-dns.com
 .kronos.plan9-dns.com
 .pluton.plan9-dns.com
@@ -331,6 +344,7 @@
 .yovbak.com
 .adguard.zachitect.com
 .polisitogel.contractors
+.atris.cyou
 .adguard.dantynes.cyou
 .dns.kukal.cz
 .odvr.nic.cz
@@ -354,7 +368,6 @@
 .dns.dnshome.de
 .dns.dremaxx.de
 .dukun.de
-.dns.dyn1.de
 .opennic1.eth-services.de
 .dns.farshidhakimy.de
 .dns.fehlsprache.de
@@ -427,6 +440,7 @@
 .dns.cert.ee
 .ahoj.email
 .dns.jucker.engineering
+.mabuktogel.enterprises
 .dns.paesa.es
 .3dns.eu
 .dns.almir1904.eu
@@ -607,6 +621,7 @@
 .o1.lt
 .dns.ourvau.lt
 .dns.redvau.lt
+.mabuktogel.ltd
 .sink.nolo.ltd
 .dns.circl.lu
 .blackhole.myon.lu
@@ -1134,11 +1149,13 @@
 .dns.sb
 .doh.sb
 .dns.butterfly87.sbs
+.myatris.sbs
 .dns.haka.se
 .resolver.sunet.se
 .dns.9999.sg
 .dns.moog.sh
 .dns.rin.sh
+.hfgx.shop
 .moamao.shop
 .paradise-human.shop
 .callies-online.site
@@ -1174,6 +1191,7 @@
 .lesuo.top
 .dns.lsho.top
 .najiakeji.top
+.xholgm.top
 .agh.xinfeng16m.top
 .doh.funtopia.tv
 .emby.rasp.tv
@@ -1234,6 +1252,7 @@
 .dns.albony.xyz
 .dns.andrewnw.xyz
 .dns.d94.xyz
+.do-39574-tr.xyz
 .doh.xyz
 .agh.dshubham.xyz
 .hole.elbschloss.xyz
@@ -1256,6 +1275,7 @@
 .dns.maolaohei.xyz
 .maqgie.xyz
 .dns.mh4ckt3mh4ckt1c4s.xyz
+.mikezhang.xyz
 .pepetio.xyz
 .pm7051-br.xyz
 .dns.propheci.xyz

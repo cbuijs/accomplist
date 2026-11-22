@@ -2,6 +2,7 @@ shield.afixer.app
 doh.disconnect.app
 doh.tiar.app
 dot.tiar.app
+dns.sarak.as
 dns.kescher.at
 dns.belnet.be
 doh.beauty
@@ -24,6 +25,7 @@ dns.simplylinux.ch
 switch.ch
 dnsotls.lab.nic.cl
 ps1.modr.club
+dns.qrtz.club
 doh.360.cn
 dot.360.cn
 dns.weixin.qq.com.cn
@@ -121,19 +123,13 @@ doh.umbrella.com
 doh.xfinity.com
 dot.xfinity.com
 doh2.gslb2.xfinity.com
-yovbak.com
 odvr.nic.cz
-aqua.is.my.waifu.cz
-darkness.is.my.waifu.cz
-megumin.is.my.waifu.cz
-yunyun.is.my.waifu.cz
 dns.csaonline.de
 fdns1.dismail.de
 fdns2.dismail.de
 dnsforge.de
 dns.dnshome.de
 dns.dremaxx.de
-dns.dyn1.de
 opennic1.eth-services.de
 dns.ffnw.de
 dns1.in-berlin.de
@@ -148,7 +144,6 @@ doh.ibr.cs.tu-bs.de
 ines.zfn.uni-bremen.de
 abel.waringer-atg.de
 0ms.dev
-dns.molinero.dev
 cluster-0.gac.edu
 cluster-1.gac.edu
 dns.cert.ee
@@ -215,7 +210,6 @@ galileo.math.unipd.it
 iij.jp
 dns.njal.la
 eth.link
-adguard.ihatemy.live
 doh.domreg.lt
 dns.circl.lu
 dnspub.restena.lu
@@ -341,6 +335,7 @@ adblock.mydns.network
 family.mydns.network
 freedom.mydns.network
 paranoia.mydns.network
+dns.pccoach.nl
 doh.sidnlabs.nl
 nat64.tuxis.nl
 comss.one
