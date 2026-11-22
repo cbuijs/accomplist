@@ -1,6 +1,6 @@
 [Adblock Plus 1.1]
 ! Title: Accomplist "Tlds" AdBlock List (Top-N Version)
-! Version: 1795236826
+! Version: 1795324836
 ! Homepage: https://github.com/cbuijs/accomplist/tree/master/tlds
 !
 ! WhiteList Domains:
@@ -451,6 +451,8 @@
 @@||breeze.dating^
 ! Sub-domain "gaudi.dating" unblacklisted from domain "dating"
 @@||gaudi.dating^
+! Sub-domain "cs.deals" unblacklisted from domain "deals"
+@@||cs.deals^
 ! Sub-domain "gg.deals" unblacklisted from domain "deals"
 @@||gg.deals^
 ! Sub-domain "opf.degree" unblacklisted from domain "degree"
