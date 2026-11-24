@@ -1,6 +1,6 @@
 [Adblock Plus 1.1]
 ! Title: Accomplist "Tlds" AdBlock List (Top-N Version)
-! Version: 1795408555
+! Version: 1795494542
 ! Homepage: https://github.com/cbuijs/accomplist/tree/master/tlds
 !
 ! WhiteList Domains:
@@ -224,6 +224,8 @@
 @@||dns36.cc^
 ! Sub-domain "eay.cc" unblacklisted from domain "cc"
 @@||eay.cc^
+! Sub-domain "ewelink.cc" unblacklisted from domain "cc"
+@@||ewelink.cc^
 ! Sub-domain "fanbox.cc" unblacklisted from domain "cc"
 @@||fanbox.cc^
 ! Sub-domain "fiedler.cc" unblacklisted from domain "cc"
@@ -527,12 +529,16 @@
 @@||play.eco^
 ! Sub-domain "bigdig.energy" unblacklisted from domain "energy"
 @@||bigdig.energy^
+! Sub-domain "bliq.energy" unblacklisted from domain "energy"
+@@||bliq.energy^
 ! Sub-domain "chargee.energy" unblacklisted from domain "energy"
 @@||chargee.energy^
 ! Sub-domain "eonnext-kraken.energy" unblacklisted from domain "energy"
 @@||eonnext-kraken.energy^
 ! Sub-domain "homewizard.energy" unblacklisted from domain "energy"
 @@||homewizard.energy^
+! Sub-domain "mygrid.energy" unblacklisted from domain "energy"
+@@||mygrid.energy^
 ! Sub-domain "octopus.energy" unblacklisted from domain "energy"
 @@||octopus.energy^
 ! Sub-domain "oegb-kraken.energy" unblacklisted from domain "energy"
@@ -622,6 +628,8 @@
 @@||better.fyi^
 ! Sub-domain "crypt.fyi" unblacklisted from domain "fyi"
 @@||crypt.fyi^
+! Sub-domain "expo.fyi" unblacklisted from domain "fyi"
+@@||expo.fyi^
 ! Sub-domain "genderdysphoria.fyi" unblacklisted from domain "fyi"
 @@||genderdysphoria.fyi^
 ! Sub-domain "iusearchlinux.fyi" unblacklisted from domain "fyi"
@@ -780,6 +788,8 @@
 @@||mon.icu^
 ! Sub-domain "filepress.ink" unblacklisted from domain "ink"
 @@||filepress.ink^
+! Sub-domain "homey.ink" unblacklisted from domain "ink"
+@@||homey.ink^
 ! Sub-domain "ishortn.ink" unblacklisted from domain "ink"
 @@||ishortn.ink^
 ! Sub-domain "mez.ink" unblacklisted from domain "ink"
@@ -1032,10 +1042,16 @@
 @@||bolt.new^
 ! Sub-domain "doc.new" unblacklisted from domain "new"
 @@||doc.new^
+! Sub-domain "docs.new" unblacklisted from domain "new"
+@@||docs.new^
 ! Sub-domain "drawing.new" unblacklisted from domain "new"
 @@||drawing.new^
+! Sub-domain "drawings.new" unblacklisted from domain "new"
+@@||drawings.new^
 ! Sub-domain "form.new" unblacklisted from domain "new"
 @@||form.new^
+! Sub-domain "forms.new" unblacklisted from domain "new"
+@@||forms.new^
 ! Sub-domain "git.new" unblacklisted from domain "new"
 @@||git.new^
 ! Sub-domain "lecture.new" unblacklisted from domain "new"
@@ -1044,10 +1060,18 @@
 @@||postgres.new^
 ! Sub-domain "sheet.new" unblacklisted from domain "new"
 @@||sheet.new^
+! Sub-domain "sheets.new" unblacklisted from domain "new"
+@@||sheets.new^
 ! Sub-domain "site.new" unblacklisted from domain "new"
 @@||site.new^
+! Sub-domain "sites.new" unblacklisted from domain "new"
+@@||sites.new^
 ! Sub-domain "slide.new" unblacklisted from domain "new"
 @@||slide.new^
+! Sub-domain "slides.new" unblacklisted from domain "new"
+@@||slides.new^
+! Sub-domain "vids.new" unblacklisted from domain "new"
+@@||vids.new^
 @@||google.com.ng^
 @@||coupa.ng^
 @@||origami.ng^
@@ -1218,6 +1242,8 @@
 @@||rcti.plus^
 ! Sub-domain "saepay.plus" unblacklisted from domain "plus"
 @@||saepay.plus^
+! Sub-domain "vite.plus" unblacklisted from domain "plus"
+@@||vite.plus^
 ! Sub-domain "cypruspost.post" unblacklisted from domain "post"
 @@||cypruspost.post^
 ! Sub-domain "postnl.post" unblacklisted from domain "post"
@@ -1384,6 +1410,8 @@
 @@||kalypso.shop^
 ! Sub-domain "layers.shop" unblacklisted from domain "shop"
 @@||layers.shop^
+! Sub-domain "lwp24.shop" unblacklisted from domain "shop"
+@@||lwp24.shop^
 ! Sub-domain "majblomman.shop" unblacklisted from domain "shop"
 @@||majblomman.shop^
 ! Sub-domain "munu.shop" unblacklisted from domain "shop"

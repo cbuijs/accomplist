@@ -109,6 +109,7 @@ dhilosnetworks.cc
 dict.cc
 dns36.cc
 eay.cc
+ewelink.cc
 fanbox.cc
 fiedler.cc
 fito.cc
@@ -260,9 +261,11 @@ mer.eco
 nura.eco
 play.eco
 bigdig.energy
+bliq.energy
 chargee.energy
 eonnext-kraken.energy
 homewizard.energy
+mygrid.energy
 octopus.energy
 oegb-kraken.energy
 planetpod.energy
@@ -308,6 +311,7 @@ strem.fun
 apollo.fyi
 better.fyi
 crypt.fyi
+expo.fyi
 genderdysphoria.fyi
 iusearchlinux.fyi
 laelaps.fyi
@@ -387,6 +391,7 @@ intervals.icu
 lunar.icu
 mon.icu
 filepress.ink
+homey.ink
 ishortn.ink
 mez.ink
 next.ink
@@ -513,14 +518,21 @@ stefvanbuuren.name
 vlo.name
 bolt.new
 doc.new
+docs.new
 drawing.new
+drawings.new
 form.new
+forms.new
 git.new
 lecture.new
 postgres.new
 sheet.new
+sheets.new
 site.new
+sites.new
 slide.new
+slides.new
+vids.new
 google.com.ng
 coupa.ng
 origami.ng
@@ -608,6 +620,7 @@ pahe.plus
 petmed.plus
 rcti.plus
 saepay.plus
+vite.plus
 cypruspost.post
 postnl.post
 casey.prof
@@ -691,6 +704,7 @@ gurkistan.shop
 henssler.shop
 kalypso.shop
 layers.shop
+lwp24.shop
 majblomman.shop
 munu.shop
 music-merchant.shop
