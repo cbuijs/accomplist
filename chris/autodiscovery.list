@@ -7951,6 +7951,7 @@ autoconfig.user.aseinet.ne.jp
 autoconfig.gv.vc
 autoconfig.d.gv.vc
 autoconfig.user.party.eus
+autoconfig.sites.aspirethemes.com
 autoconfig.pimienta.org
 autoconfig.poivron.org
 autoconfig.potager.org
@@ -8995,6 +8996,8 @@ autoconfig.whitesnow.jp
 autoconfig.zombie.jp
 autoconfig.heteml.net
 autoconfig.vibehost.space
+autoconfig.airoapp.ai
+autoconfig.host.cloud
 autoconfig.graphic.design
 autoconfig.goip.de
 autoconfig.hosted.app
@@ -18420,6 +18423,7 @@ _autodiscover.user.aseinet.ne.jp
 _autodiscover.gv.vc
 _autodiscover.d.gv.vc
 _autodiscover.user.party.eus
+_autodiscover.sites.aspirethemes.com
 _autodiscover.pimienta.org
 _autodiscover.poivron.org
 _autodiscover.potager.org
@@ -19464,6 +19468,8 @@ _autodiscover.whitesnow.jp
 _autodiscover.zombie.jp
 _autodiscover.heteml.net
 _autodiscover.vibehost.space
+_autodiscover.airoapp.ai
+_autodiscover.host.cloud
 _autodiscover.graphic.design
 _autodiscover.goip.de
 _autodiscover.hosted.app
@@ -28889,6 +28895,7 @@ autodiscover.user.aseinet.ne.jp
 autodiscover.gv.vc
 autodiscover.d.gv.vc
 autodiscover.user.party.eus
+autodiscover.sites.aspirethemes.com
 autodiscover.pimienta.org
 autodiscover.poivron.org
 autodiscover.potager.org
@@ -29933,6 +29940,8 @@ autodiscover.whitesnow.jp
 autodiscover.zombie.jp
 autodiscover.heteml.net
 autodiscover.vibehost.space
+autodiscover.airoapp.ai
+autodiscover.host.cloud
 autodiscover.graphic.design
 autodiscover.goip.de
 autodiscover.hosted.app
@@ -39358,6 +39367,7 @@ b._dns-sd.user.aseinet.ne.jp
 b._dns-sd.gv.vc
 b._dns-sd.d.gv.vc
 b._dns-sd.user.party.eus
+b._dns-sd.sites.aspirethemes.com
 b._dns-sd.pimienta.org
 b._dns-sd.poivron.org
 b._dns-sd.potager.org
@@ -40402,6 +40412,8 @@ b._dns-sd.whitesnow.jp
 b._dns-sd.zombie.jp
 b._dns-sd.heteml.net
 b._dns-sd.vibehost.space
+b._dns-sd.airoapp.ai
+b._dns-sd.host.cloud
 b._dns-sd.graphic.design
 b._dns-sd.goip.de
 b._dns-sd.hosted.app
@@ -49827,6 +49839,7 @@ db._dns-sd.user.aseinet.ne.jp
 db._dns-sd.gv.vc
 db._dns-sd.d.gv.vc
 db._dns-sd.user.party.eus
+db._dns-sd.sites.aspirethemes.com
 db._dns-sd.pimienta.org
 db._dns-sd.poivron.org
 db._dns-sd.potager.org
@@ -50871,6 +50884,8 @@ db._dns-sd.whitesnow.jp
 db._dns-sd.zombie.jp
 db._dns-sd.heteml.net
 db._dns-sd.vibehost.space
+db._dns-sd.airoapp.ai
+db._dns-sd.host.cloud
 db._dns-sd.graphic.design
 db._dns-sd.goip.de
 db._dns-sd.hosted.app
@@ -60296,6 +60311,7 @@ isatap.user.aseinet.ne.jp
 isatap.gv.vc
 isatap.d.gv.vc
 isatap.user.party.eus
+isatap.sites.aspirethemes.com
 isatap.pimienta.org
 isatap.poivron.org
 isatap.potager.org
@@ -61340,6 +61356,8 @@ isatap.whitesnow.jp
 isatap.zombie.jp
 isatap.heteml.net
 isatap.vibehost.space
+isatap.airoapp.ai
+isatap.host.cloud
 isatap.graphic.design
 isatap.goip.de
 isatap.hosted.app
@@ -70765,6 +70783,7 @@ lb._dns-sd.user.aseinet.ne.jp
 lb._dns-sd.gv.vc
 lb._dns-sd.d.gv.vc
 lb._dns-sd.user.party.eus
+lb._dns-sd.sites.aspirethemes.com
 lb._dns-sd.pimienta.org
 lb._dns-sd.poivron.org
 lb._dns-sd.potager.org
@@ -71809,6 +71828,8 @@ lb._dns-sd.whitesnow.jp
 lb._dns-sd.zombie.jp
 lb._dns-sd.heteml.net
 lb._dns-sd.vibehost.space
+lb._dns-sd.airoapp.ai
+lb._dns-sd.host.cloud
 lb._dns-sd.graphic.design
 lb._dns-sd.goip.de
 lb._dns-sd.hosted.app
@@ -81234,6 +81255,7 @@ wpad.user.aseinet.ne.jp
 wpad.gv.vc
 wpad.d.gv.vc
 wpad.user.party.eus
+wpad.sites.aspirethemes.com
 wpad.pimienta.org
 wpad.poivron.org
 wpad.potager.org
@@ -82278,6 +82300,8 @@ wpad.whitesnow.jp
 wpad.zombie.jp
 wpad.heteml.net
 wpad.vibehost.space
+wpad.airoapp.ai
+wpad.host.cloud
 wpad.graphic.design
 wpad.goip.de
 wpad.hosted.app
@@ -91703,6 +91727,7 @@ wpad.tcp.user.aseinet.ne.jp
 wpad.tcp.gv.vc
 wpad.tcp.d.gv.vc
 wpad.tcp.user.party.eus
+wpad.tcp.sites.aspirethemes.com
 wpad.tcp.pimienta.org
 wpad.tcp.poivron.org
 wpad.tcp.potager.org
@@ -92747,6 +92772,8 @@ wpad.tcp.whitesnow.jp
 wpad.tcp.zombie.jp
 wpad.tcp.heteml.net
 wpad.tcp.vibehost.space
+wpad.tcp.airoapp.ai
+wpad.tcp.host.cloud
 wpad.tcp.graphic.design
 wpad.tcp.goip.de
 wpad.tcp.hosted.app
