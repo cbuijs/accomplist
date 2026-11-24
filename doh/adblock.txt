@@ -1,6 +1,6 @@
 [Adblock Plus 1.1]
 ! Title: Accomplist "Doh" AdBlock List (Top-N Version)
-! Version: 1795408775
+! Version: 1795494770
 ! Homepage: https://github.com/cbuijs/accomplist/tree/master/doh
 !
 ! WhiteList Domains:
@@ -80,6 +80,7 @@
 ||dns-secondary.cloudnx.cloud^
 ||doh.cnetwork.cloud^
 ||adguard.hartley.cloud^
+||adguard.londonwebnerd.cloud^
 ||regiopolis.cloud^
 ||dns.roedel.cloud^
 ||dns.wibenson.cloud^
@@ -194,6 +195,7 @@
 ||open.dns.dremaxx.com^
 ||easyhandshake.com^
 ||dns.easyhns.com^
+||dns.edgeburnmedia.com^
 ||dns.efficientdocuments.com^
 ||dns.ekinao.com^
 ||doh.flashstart.com^
@@ -355,6 +357,7 @@
 ||yovbak.com^
 ||adguard.zachitect.com^
 ||polisitogel.contractors^
+||atris.cyou^
 ||adguard.dantynes.cyou^
 ||dns.kukal.cz^
 ||odvr.nic.cz^
@@ -689,7 +692,6 @@
 ||per.adfilter.net^
 ||syd.adfilter.net^
 ||ahadns.net^
-||adguard.ajinga.net^
 ||dnses.alekberg.net^
 ||dnsnl.alekberg.net^
 ||dnsse.alekberg.net^
@@ -948,7 +950,6 @@
 ||ns3.opennameserver.org^
 ||ns4.opennameserver.org^
 ||doh.powerdns.org^
-||ns1.qquack.org^
 ||dns.rabbitdns.org^
 ||family.rabbitdns.org^
 ||security.rabbitdns.org^
@@ -1178,11 +1179,11 @@
 ||adg.rueiliu.space^
 ||dns.yunzheng.space^
 ||dns.sy.st^
-||home-server.store^
 ||dns.fizz.studio^
 ||dns.xuming.studio^
 ||crypto.sx^
 ||3jjxxl.tech^
+||dns.cybertonic.tech^
 ||dns.daarrk.tech^
 ||qqmcfw.tech^
 ||dns.startupstack.tech^
@@ -1196,6 +1197,7 @@
 ||blog.kimiblock.top^
 ||dns.lsho.top^
 ||najiakeji.top^
+||xholgm.top^
 ||agh.xinfeng16m.top^
 ||doh.funtopia.tv^
 ||emby.rasp.tv^
@@ -1271,14 +1273,12 @@
 ||kaiwu.xyz^
 ||adguard.kantinyoyok.xyz^
 ||dns.kerekes.xyz^
-||kx-97795-tr.xyz^
 ||lukscasino-479-tr.xyz^
 ||lukscasino-542-tr.xyz^
 ||lukscasino-929-tr.xyz^
 ||dns.maolaohei.xyz^
 ||maqgie.xyz^
 ||dns.mh4ckt3mh4ckt1c4s.xyz^
-||mikezhang.xyz^
 ||pepetio.xyz^
 ||pm7051-br.xyz^
 ||dns.propheci.xyz^
@@ -1289,6 +1289,7 @@
 ||dns.vaioswolke.xyz^
 ||securedns.vendorvista.xyz^
 ||dns.vinnyp.xyz^
+||dns.vip-kingstore.xyz^
 ||dns.vod11.xyz^
 ||dns.xwdmw.xyz^
 ||pihole.datamatter.co.za^
