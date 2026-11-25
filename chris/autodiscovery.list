@@ -7990,6 +7990,8 @@ autoconfig.bnr.la
 autoconfig.bitbucket.io
 autoconfig.ship.place
 autoconfig.blackbaudcdn.net
+autoconfig.blacktops.app
+autoconfig.blacktops.page
 autoconfig.of.je
 autoconfig.prod.page
 autoconfig.square.site
@@ -9178,7 +9180,6 @@ autoconfig.cloud.interhostsolutions.be
 autoconfig.alp1.ae.flow.ch
 autoconfig.appengine.flow.ch
 autoconfig.es-1.axarnet.cloud
-autoconfig.diadem.cloud
 autoconfig.vip.jelastic.cloud
 autoconfig.jele.cloud
 autoconfig.it1.eur.aruba.jenv-aruba.cloud
@@ -9210,7 +9211,6 @@ autoconfig.j.scaleforce.com.cy
 autoconfig.jelastic.dogado.eu
 autoconfig.fi.cloudplatform.fi
 autoconfig.jele.host
-autoconfig.mircloud.host
 autoconfig.paas.beebyte.io
 autoconfig.sekd1.beebyteapp.io
 autoconfig.jele.io
@@ -9240,7 +9240,6 @@ autoconfig.jelastic.team
 autoconfig.orangecloud.tn
 autoconfig.j.layershift.co.uk
 autoconfig.phx.enscaled.us
-autoconfig.mircloud.us
 autoconfig.myjino.ru
 autoconfig.hosting.myjino.ru
 autoconfig.landing.myjino.ru
@@ -18462,6 +18461,8 @@ _autodiscover.bnr.la
 _autodiscover.bitbucket.io
 _autodiscover.ship.place
 _autodiscover.blackbaudcdn.net
+_autodiscover.blacktops.app
+_autodiscover.blacktops.page
 _autodiscover.of.je
 _autodiscover.prod.page
 _autodiscover.square.site
@@ -19650,7 +19651,6 @@ _autodiscover.cloud.interhostsolutions.be
 _autodiscover.alp1.ae.flow.ch
 _autodiscover.appengine.flow.ch
 _autodiscover.es-1.axarnet.cloud
-_autodiscover.diadem.cloud
 _autodiscover.vip.jelastic.cloud
 _autodiscover.jele.cloud
 _autodiscover.it1.eur.aruba.jenv-aruba.cloud
@@ -19682,7 +19682,6 @@ _autodiscover.j.scaleforce.com.cy
 _autodiscover.jelastic.dogado.eu
 _autodiscover.fi.cloudplatform.fi
 _autodiscover.jele.host
-_autodiscover.mircloud.host
 _autodiscover.paas.beebyte.io
 _autodiscover.sekd1.beebyteapp.io
 _autodiscover.jele.io
@@ -19712,7 +19711,6 @@ _autodiscover.jelastic.team
 _autodiscover.orangecloud.tn
 _autodiscover.j.layershift.co.uk
 _autodiscover.phx.enscaled.us
-_autodiscover.mircloud.us
 _autodiscover.myjino.ru
 _autodiscover.hosting.myjino.ru
 _autodiscover.landing.myjino.ru
@@ -28934,6 +28932,8 @@ autodiscover.bnr.la
 autodiscover.bitbucket.io
 autodiscover.ship.place
 autodiscover.blackbaudcdn.net
+autodiscover.blacktops.app
+autodiscover.blacktops.page
 autodiscover.of.je
 autodiscover.prod.page
 autodiscover.square.site
@@ -30122,7 +30122,6 @@ autodiscover.cloud.interhostsolutions.be
 autodiscover.alp1.ae.flow.ch
 autodiscover.appengine.flow.ch
 autodiscover.es-1.axarnet.cloud
-autodiscover.diadem.cloud
 autodiscover.vip.jelastic.cloud
 autodiscover.jele.cloud
 autodiscover.it1.eur.aruba.jenv-aruba.cloud
@@ -30154,7 +30153,6 @@ autodiscover.j.scaleforce.com.cy
 autodiscover.jelastic.dogado.eu
 autodiscover.fi.cloudplatform.fi
 autodiscover.jele.host
-autodiscover.mircloud.host
 autodiscover.paas.beebyte.io
 autodiscover.sekd1.beebyteapp.io
 autodiscover.jele.io
@@ -30184,7 +30182,6 @@ autodiscover.jelastic.team
 autodiscover.orangecloud.tn
 autodiscover.j.layershift.co.uk
 autodiscover.phx.enscaled.us
-autodiscover.mircloud.us
 autodiscover.myjino.ru
 autodiscover.hosting.myjino.ru
 autodiscover.landing.myjino.ru
@@ -39406,6 +39403,8 @@ b._dns-sd.bnr.la
 b._dns-sd.bitbucket.io
 b._dns-sd.ship.place
 b._dns-sd.blackbaudcdn.net
+b._dns-sd.blacktops.app
+b._dns-sd.blacktops.page
 b._dns-sd.of.je
 b._dns-sd.prod.page
 b._dns-sd.square.site
@@ -40594,7 +40593,6 @@ b._dns-sd.cloud.interhostsolutions.be
 b._dns-sd.alp1.ae.flow.ch
 b._dns-sd.appengine.flow.ch
 b._dns-sd.es-1.axarnet.cloud
-b._dns-sd.diadem.cloud
 b._dns-sd.vip.jelastic.cloud
 b._dns-sd.jele.cloud
 b._dns-sd.it1.eur.aruba.jenv-aruba.cloud
@@ -40626,7 +40624,6 @@ b._dns-sd.j.scaleforce.com.cy
 b._dns-sd.jelastic.dogado.eu
 b._dns-sd.fi.cloudplatform.fi
 b._dns-sd.jele.host
-b._dns-sd.mircloud.host
 b._dns-sd.paas.beebyte.io
 b._dns-sd.sekd1.beebyteapp.io
 b._dns-sd.jele.io
@@ -40656,7 +40653,6 @@ b._dns-sd.jelastic.team
 b._dns-sd.orangecloud.tn
 b._dns-sd.j.layershift.co.uk
 b._dns-sd.phx.enscaled.us
-b._dns-sd.mircloud.us
 b._dns-sd.myjino.ru
 b._dns-sd.hosting.myjino.ru
 b._dns-sd.landing.myjino.ru
@@ -49878,6 +49874,8 @@ db._dns-sd.bnr.la
 db._dns-sd.bitbucket.io
 db._dns-sd.ship.place
 db._dns-sd.blackbaudcdn.net
+db._dns-sd.blacktops.app
+db._dns-sd.blacktops.page
 db._dns-sd.of.je
 db._dns-sd.prod.page
 db._dns-sd.square.site
@@ -51066,7 +51064,6 @@ db._dns-sd.cloud.interhostsolutions.be
 db._dns-sd.alp1.ae.flow.ch
 db._dns-sd.appengine.flow.ch
 db._dns-sd.es-1.axarnet.cloud
-db._dns-sd.diadem.cloud
 db._dns-sd.vip.jelastic.cloud
 db._dns-sd.jele.cloud
 db._dns-sd.it1.eur.aruba.jenv-aruba.cloud
@@ -51098,7 +51095,6 @@ db._dns-sd.j.scaleforce.com.cy
 db._dns-sd.jelastic.dogado.eu
 db._dns-sd.fi.cloudplatform.fi
 db._dns-sd.jele.host
-db._dns-sd.mircloud.host
 db._dns-sd.paas.beebyte.io
 db._dns-sd.sekd1.beebyteapp.io
 db._dns-sd.jele.io
@@ -51128,7 +51124,6 @@ db._dns-sd.jelastic.team
 db._dns-sd.orangecloud.tn
 db._dns-sd.j.layershift.co.uk
 db._dns-sd.phx.enscaled.us
-db._dns-sd.mircloud.us
 db._dns-sd.myjino.ru
 db._dns-sd.hosting.myjino.ru
 db._dns-sd.landing.myjino.ru
@@ -60350,6 +60345,8 @@ isatap.bnr.la
 isatap.bitbucket.io
 isatap.ship.place
 isatap.blackbaudcdn.net
+isatap.blacktops.app
+isatap.blacktops.page
 isatap.of.je
 isatap.prod.page
 isatap.square.site
@@ -61538,7 +61535,6 @@ isatap.cloud.interhostsolutions.be
 isatap.alp1.ae.flow.ch
 isatap.appengine.flow.ch
 isatap.es-1.axarnet.cloud
-isatap.diadem.cloud
 isatap.vip.jelastic.cloud
 isatap.jele.cloud
 isatap.it1.eur.aruba.jenv-aruba.cloud
@@ -61570,7 +61566,6 @@ isatap.j.scaleforce.com.cy
 isatap.jelastic.dogado.eu
 isatap.fi.cloudplatform.fi
 isatap.jele.host
-isatap.mircloud.host
 isatap.paas.beebyte.io
 isatap.sekd1.beebyteapp.io
 isatap.jele.io
@@ -61600,7 +61595,6 @@ isatap.jelastic.team
 isatap.orangecloud.tn
 isatap.j.layershift.co.uk
 isatap.phx.enscaled.us
-isatap.mircloud.us
 isatap.myjino.ru
 isatap.hosting.myjino.ru
 isatap.landing.myjino.ru
@@ -70822,6 +70816,8 @@ lb._dns-sd.bnr.la
 lb._dns-sd.bitbucket.io
 lb._dns-sd.ship.place
 lb._dns-sd.blackbaudcdn.net
+lb._dns-sd.blacktops.app
+lb._dns-sd.blacktops.page
 lb._dns-sd.of.je
 lb._dns-sd.prod.page
 lb._dns-sd.square.site
@@ -72010,7 +72006,6 @@ lb._dns-sd.cloud.interhostsolutions.be
 lb._dns-sd.alp1.ae.flow.ch
 lb._dns-sd.appengine.flow.ch
 lb._dns-sd.es-1.axarnet.cloud
-lb._dns-sd.diadem.cloud
 lb._dns-sd.vip.jelastic.cloud
 lb._dns-sd.jele.cloud
 lb._dns-sd.it1.eur.aruba.jenv-aruba.cloud
@@ -72042,7 +72037,6 @@ lb._dns-sd.j.scaleforce.com.cy
 lb._dns-sd.jelastic.dogado.eu
 lb._dns-sd.fi.cloudplatform.fi
 lb._dns-sd.jele.host
-lb._dns-sd.mircloud.host
 lb._dns-sd.paas.beebyte.io
 lb._dns-sd.sekd1.beebyteapp.io
 lb._dns-sd.jele.io
@@ -72072,7 +72066,6 @@ lb._dns-sd.jelastic.team
 lb._dns-sd.orangecloud.tn
 lb._dns-sd.j.layershift.co.uk
 lb._dns-sd.phx.enscaled.us
-lb._dns-sd.mircloud.us
 lb._dns-sd.myjino.ru
 lb._dns-sd.hosting.myjino.ru
 lb._dns-sd.landing.myjino.ru
@@ -81294,6 +81287,8 @@ wpad.bnr.la
 wpad.bitbucket.io
 wpad.ship.place
 wpad.blackbaudcdn.net
+wpad.blacktops.app
+wpad.blacktops.page
 wpad.of.je
 wpad.prod.page
 wpad.square.site
@@ -82482,7 +82477,6 @@ wpad.cloud.interhostsolutions.be
 wpad.alp1.ae.flow.ch
 wpad.appengine.flow.ch
 wpad.es-1.axarnet.cloud
-wpad.diadem.cloud
 wpad.vip.jelastic.cloud
 wpad.jele.cloud
 wpad.it1.eur.aruba.jenv-aruba.cloud
@@ -82514,7 +82508,6 @@ wpad.j.scaleforce.com.cy
 wpad.jelastic.dogado.eu
 wpad.fi.cloudplatform.fi
 wpad.jele.host
-wpad.mircloud.host
 wpad.paas.beebyte.io
 wpad.sekd1.beebyteapp.io
 wpad.jele.io
@@ -82544,7 +82537,6 @@ wpad.jelastic.team
 wpad.orangecloud.tn
 wpad.j.layershift.co.uk
 wpad.phx.enscaled.us
-wpad.mircloud.us
 wpad.myjino.ru
 wpad.hosting.myjino.ru
 wpad.landing.myjino.ru
@@ -91766,6 +91758,8 @@ wpad.tcp.bnr.la
 wpad.tcp.bitbucket.io
 wpad.tcp.ship.place
 wpad.tcp.blackbaudcdn.net
+wpad.tcp.blacktops.app
+wpad.tcp.blacktops.page
 wpad.tcp.of.je
 wpad.tcp.prod.page
 wpad.tcp.square.site
@@ -92954,7 +92948,6 @@ wpad.tcp.cloud.interhostsolutions.be
 wpad.tcp.alp1.ae.flow.ch
 wpad.tcp.appengine.flow.ch
 wpad.tcp.es-1.axarnet.cloud
-wpad.tcp.diadem.cloud
 wpad.tcp.vip.jelastic.cloud
 wpad.tcp.jele.cloud
 wpad.tcp.it1.eur.aruba.jenv-aruba.cloud
@@ -92986,7 +92979,6 @@ wpad.tcp.j.scaleforce.com.cy
 wpad.tcp.jelastic.dogado.eu
 wpad.tcp.fi.cloudplatform.fi
 wpad.tcp.jele.host
-wpad.tcp.mircloud.host
 wpad.tcp.paas.beebyte.io
 wpad.tcp.sekd1.beebyteapp.io
 wpad.tcp.jele.io
@@ -93016,7 +93008,6 @@ wpad.tcp.jelastic.team
 wpad.tcp.orangecloud.tn
 wpad.tcp.j.layershift.co.uk
 wpad.tcp.phx.enscaled.us
-wpad.tcp.mircloud.us
 wpad.tcp.myjino.ru
 wpad.tcp.hosting.myjino.ru
 wpad.tcp.landing.myjino.ru
