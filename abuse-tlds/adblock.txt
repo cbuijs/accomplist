@@ -1,6 +1,6 @@
 [Adblock Plus 1.1]
 ! Title: Accomplist "Tlds" AdBlock List (Top-N Version)
-! Version: 1795494542
+! Version: 1795582770
 ! Homepage: https://github.com/cbuijs/accomplist/tree/master/tlds
 !
 ! WhiteList Domains:
@@ -1440,6 +1440,8 @@
 @@||papaplatte.shop^
 ! Sub-domain "prohibited.shop" unblacklisted from domain "shop"
 @@||prohibited.shop^
+! Sub-domain "raikowski.shop" unblacklisted from domain "shop"
+@@||raikowski.shop^
 ! Sub-domain "redbrain.shop" unblacklisted from domain "shop"
 @@||redbrain.shop^
 ! Sub-domain "scayle.shop" unblacklisted from domain "shop"
