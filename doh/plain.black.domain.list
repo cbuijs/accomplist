@@ -69,7 +69,6 @@ dns.clanto.cloud
 dns-secondary.cloudnx.cloud
 doh.cnetwork.cloud
 adguard.hartley.cloud
-adguard.londonwebnerd.cloud
 regiopolis.cloud
 dns.roedel.cloud
 dns.wibenson.cloud
@@ -172,6 +171,7 @@ security.cloudflare-dns.com
 tor.cloudflare-dns.com
 cloudflare-gateway.com
 dns.coderoria.com
+dns.containerpi.com
 dns.controld.com
 freedns.controld.com
 family.freedns.controld.com
@@ -403,7 +403,6 @@ hard.dnsforge.de
 dns.dnshome.de
 dns.dremaxx.de
 dukun.de
-dns.dyn1.de
 opennic1.eth-services.de
 dns.farshidhakimy.de
 dns.fehlsprache.de
@@ -879,7 +878,6 @@ doh-pure.onedns.net
 ada.openbld.net
 ric.openbld.net
 rpz-public-resolver1.rrdns.pch.net
-dns.pernika.net
 darya.persiannit.net
 dns.phillipjberry.net
 alpha-dns.quad9.net
@@ -1055,6 +1053,7 @@ doh.apad.pro
 dns.burgas.pro
 dns.dynx.pro
 ntwrkh.pro
+dns.swin.pro
 doh.xcom.pro
 mabuktogel.properties
 abe01.dnscry.pt
@@ -1214,7 +1213,6 @@ dns.quiet.rocks
 comss.ru
 qual.cuprum.ru
 doh.fullhosting.ru
-geshido.vpn.geshido.ru
 vd.i81.ru
 dns.iamninja.ru
 muxyuji.ru
@@ -1259,6 +1257,7 @@ resolver.sunet.se
 dns.9999.sg
 dns.moog.sh
 dns.rin.sh
+hfgx.shop
 moamao.shop
 paradise-human.shop
 callies-online.site
@@ -1276,6 +1275,7 @@ dns.yunzheng.space
 dns64.dns.yunzheng.space
 filter.dns.yunzheng.space
 dns.sy.st
+home-server.store
 dns.fizz.studio
 dns.xuming.studio
 crypto.sx
@@ -1283,7 +1283,6 @@ doh.crypto.sx
 doh-ipv6.crypto.sx
 odoh.crypto.sx
 3jjxxl.tech
-dns.cybertonic.tech
 dns.daarrk.tech
 qqmcfw.tech
 dns.startupstack.tech
@@ -1297,7 +1296,6 @@ droyd.top
 blog.kimiblock.top
 dns.lsho.top
 najiakeji.top
-xholgm.top
 agh.xinfeng16m.top
 doh.funtopia.tv
 emby.rasp.tv
@@ -1379,6 +1377,7 @@ lukscasino-929-tr.xyz
 dns.maolaohei.xyz
 maqgie.xyz
 dns.mh4ckt3mh4ckt1c4s.xyz
+mikezhang.xyz
 pepetio.xyz
 pm7051-br.xyz
 dns.propheci.xyz
@@ -1389,7 +1388,6 @@ adguard.twotigers.xyz
 dns.vaioswolke.xyz
 securedns.vendorvista.xyz
 dns.vinnyp.xyz
-dns.vip-kingstore.xyz
 dns.vod11.xyz
 dns.xwdmw.xyz
 pihole.datamatter.co.za
