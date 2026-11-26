@@ -1,6 +1,6 @@
 [Adblock Plus 1.1]
 ! Title: Accomplist "Doh" AdBlock List (Top-N Version)
-! Version: 1795583029
+! Version: 1795669686
 ! Homepage: https://github.com/cbuijs/accomplist/tree/master/doh
 !
 ! WhiteList Domains:
@@ -67,7 +67,6 @@
 ||dns.momou.ch^
 ||doh.quickline.ch^
 ||dot.quickline.ch^
-||dns.simplylinux.ch^
 ||switch.ch^
 ||adguard.ruby.ci^
 ||dns.michelo.cl^
@@ -381,6 +380,7 @@
 ||dns.dnshome.de^
 ||dns.dremaxx.de^
 ||dukun.de^
+||dns.dyn1.de^
 ||opennic1.eth-services.de^
 ||dns.farshidhakimy.de^
 ||dns.fehlsprache.de^
@@ -623,6 +623,7 @@
 ||lifeisa.live^
 ||solaxy.live^
 ||v2.xx3210766.live^
+||polisitogel.living^
 ||greatideasforlife.lol^
 ||johneldenring.lol^
 ||lewsha.lol^
@@ -675,7 +676,6 @@
 ||dns.kosan.moe^
 ||dns.kusoneko.moe^
 ||dns.kuuhaku.moe^
-||naganohara-yoimiya.momokko.moe^
 ||dns.noridev.moe^
 ||kavkaz.monster^
 ||dns.sev.monster^
@@ -1162,7 +1162,6 @@
 ||dns.9999.sg^
 ||dns.moog.sh^
 ||dns.rin.sh^
-||hfgx.shop^
 ||moamao.shop^
 ||paradise-human.shop^
 ||callies-online.site^
@@ -1178,11 +1177,11 @@
 ||adg.rueiliu.space^
 ||dns.yunzheng.space^
 ||dns.sy.st^
-||home-server.store^
 ||dns.fizz.studio^
 ||dns.xuming.studio^
 ||crypto.sx^
 ||3jjxxl.tech^
+||dns.cybertonic.tech^
 ||dns.daarrk.tech^
 ||qqmcfw.tech^
 ||dns.startupstack.tech^
@@ -1196,6 +1195,7 @@
 ||blog.kimiblock.top^
 ||dns.lsho.top^
 ||najiakeji.top^
+||xholgm.top^
 ||agh.xinfeng16m.top^
 ||doh.funtopia.tv^
 ||emby.rasp.tv^
@@ -1245,7 +1245,6 @@
 ||dns.superstefan.win^
 ||dns.brahma.world^
 ||dns.busold.ws^
-||dns.glf.wtf^
 ||003153.xyz^
 ||123000123.xyz^
 ||dns.354688.xyz^
@@ -1271,7 +1270,6 @@
 ||kaiwu.xyz^
 ||adguard.kantinyoyok.xyz^
 ||dns.kerekes.xyz^
-||lukscasino-479-tr.xyz^
 ||lukscasino-542-tr.xyz^
 ||lukscasino-929-tr.xyz^
 ||dns.maolaohei.xyz^
@@ -1288,6 +1286,7 @@
 ||dns.vaioswolke.xyz^
 ||securedns.vendorvista.xyz^
 ||dns.vinnyp.xyz^
+||dns.vip-kingstore.xyz^
 ||dns.vod11.xyz^
 ||dns.xwdmw.xyz^
 ||pihole.datamatter.co.za^
