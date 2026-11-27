@@ -1,0 +1,13 @@
+Include	black!	/opt/accomplist/cloak.include!	/opt/accomplist/work/include.list	7200	@DOMAIN	@IP
+#Chris-Cloak	black!	/opt/accomplist/chris/cloak.list!	/opt/accomplist/work/cloak.list	7200	@DOMAIN	@IP
+#DDGTR-Cloak	black!	/opt/accomplist/chris/chris-ad-track-cloaked.list!	/opt/accomplist/work/ddgtr-cloak.list	7200	@DOMAIN	@IP
+NextDNS-Cloak	black	https://raw.githubusercontent.com/nextdns/cname-cloaking-blocklist/master/domains	/opt/accomplist/work/nextdns-cloak.list	7200	@DOMAIN	@IP
+#NextDNS-Aff-Tracking	black	https://raw.githubusercontent.com/nextdns/metadata/master/privacy/affiliate-tracking-domains	/opt/accomplist/work/nextdns-aff-tracking.list	7200	@DOMAIN	@IP
+#FrogEye	black	https://git.frogeye.fr/geoffrey/eulaurarien/raw/branch/master/rules/first-party.list	/opt/accomplist/work/frogeye.list	7200	@DOMAIN	@IP
+#Disconnect-Tracking	black	https://s3.amazonaws.com/lists.disconnect.me/simple_tracking.txt	/opt/accomplist/work/disconnect-tracking.list	7200	@DOMAIN	@IP
+#EasyList-Third	black	https://raw.githubusercontent.com/easylist/easylist/master/easylist/easylist_thirdparty.txt	/opt/accomplist/work/easylist3.list	7200	@ADBLOCK-3RD	@IP
+#EasyPrivacy-Third	black	https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_trackingservers.txt	/opt/accomplist/work/easyprivacy3.list	7200	@ADBLOCK-3RD	@IP
+#EasyPrivacy-Intl-Third	black	https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_trackingservers_international.txt	/opt/accomplist/easyprivacy-intl3.list	7200	@ADBLOCK-3RD	@IP
+#AdGuard-Third	black	https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/SpywareFilter/sections/tracking_servers.txt	/opt/accomplist/work/adguard3.list	7200	@ADBLOCK-3RD	@IP
+#Malware-Doms	black!	/opt/accomplist/malicious-dom/plain.black.domain.list!	/opt/accomplist/work/maldom.list	7200	@DOMAIN	@IP
+AdGuard-CName	black	https://raw.githubusercontent.com/AdguardTeam/cname-trackers/master/data/combined_original_trackers.txt	/opt/accomplist/work/adguard-cname.list	7200	@ADBLOCK-BLACK	@IP

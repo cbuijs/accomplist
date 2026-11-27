@@ -1,0 +1,15 @@
+Include	black!	/opt/accomplist/doh.include!	/opt/accomplist/work/include.list	7200	@DOMAIN	@IP
+Exclude	exclude	/opt/accomplist/doh.exclude!	/opt/accomplist/work/exclude.list	7200	@DOMAIN	@IP
+Include-IP	black!	/opt/accomplist/doh.include!	/opt/accomplist/work/include-ip.list	7200	@IP
+Raw-Dox-Dom	black!	/opt/accomplist/chris/raw-dox-dom.list!	/opt/accomplist/work/rawdoxdom.list	7200	@DOMAIN	@IP
+Raw-Dox-IP	black!	/opt/accomplist/chris/raw-dox-ip.list!	/opt/accomplist/work/rawdoxip.list	7200	@IP
+DibDot4	black	https://raw.githubusercontent.com/dibdot/DoH-IP-blocklists/master/doh-ipv4.txt	/opt/accomplist/work/dibdot-doh4.list	7200	@IP
+DibDot6	black	https://raw.githubusercontent.com/dibdot/DoH-IP-blocklists/master/doh-ipv6.txt	/opt/accomplist/work/dibdot-doh6.list	7200	@IP
+DibDotDom	black	https://raw.githubusercontent.com/dibdot/DoH-IP-blocklists/master/doh-domains.txt	/opt/accomplist/work/dibdot-dom.list	7200	@DOMAIN	@IP
+NextDNS-EncDNS	black	https://raw.githubusercontent.com/nextdns/dns-bypass-methods/main/encrypted-dns	/opt/accomplist/work/encrypted-dbs.list	7200	@DOMAIN	@IP
+TGW	black	https://raw.githubusercontent.com/Sekhan/TheGreatWall/master/TheGreatWall.txt	/opt/accomplist/work/tgw.list	7200	@HOST0	@IP
+TGW-IP4	black	https://raw.githubusercontent.com/Sekhan/TheGreatWall/master/TheGreatWall_ipv4	/opt/accomplist/work/tgw4.list	7200	@IP
+TGW-IP6	black	https://raw.githubusercontent.com/Sekhan/TheGreatWall/master/TheGreatWall_ipv6	/opt/accomplist/work/tgw6.list	7200	@IP
+Pub-DNS	black	https://public-dns.info/nameservers.txt	/opt/accomplist/work/pubdns-ip.list	7200	@IP
+Hagezi	black	https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/doh.txt	/opt/accomplist/work/hagezi.list	7200	@DOMAIN	@IP
+Hagezi-IP	black	https://raw.githubusercontent.com/hagezi/dns-blocklists/main/ips/doh.txt	/opt/accomplisy/work/hagezi-ip.list	7200	@IP
