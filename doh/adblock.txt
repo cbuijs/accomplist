@@ -1,6 +1,6 @@
 [Adblock Plus 1.1]
 ! Title: Accomplist "Doh" AdBlock List (Top-N Version)
-! Version: 1795669686
+! Version: 1795756101
 ! Homepage: https://github.com/cbuijs/accomplist/tree/master/doh
 !
 ! WhiteList Domains:
@@ -67,6 +67,7 @@
 ||dns.momou.ch^
 ||doh.quickline.ch^
 ||dot.quickline.ch^
+||dns.simplylinux.ch^
 ||switch.ch^
 ||adguard.ruby.ci^
 ||dns.michelo.cl^
@@ -691,6 +692,7 @@
 ||per.adfilter.net^
 ||syd.adfilter.net^
 ||ahadns.net^
+||adguard.ajinga.net^
 ||dnses.alekberg.net^
 ||dnsnl.alekberg.net^
 ||dnsse.alekberg.net^
@@ -1151,7 +1153,6 @@
 ||dns.nas-server.ru^
 ||dns.petqa.ru^
 ||dns.ronc.ru^
-||v0dka.ru^
 ||dns.yandex.ru^
 ||your-dns.run^
 ||dns.sb^
@@ -1195,7 +1196,6 @@
 ||blog.kimiblock.top^
 ||dns.lsho.top^
 ||najiakeji.top^
-||xholgm.top^
 ||agh.xinfeng16m.top^
 ||doh.funtopia.tv^
 ||emby.rasp.tv^
@@ -1270,6 +1270,7 @@
 ||kaiwu.xyz^
 ||adguard.kantinyoyok.xyz^
 ||dns.kerekes.xyz^
+||kx-97795-tr.xyz^
 ||lukscasino-542-tr.xyz^
 ||lukscasino-929-tr.xyz^
 ||dns.maolaohei.xyz^
@@ -1286,7 +1287,6 @@
 ||dns.vaioswolke.xyz^
 ||securedns.vendorvista.xyz^
 ||dns.vinnyp.xyz^
-||dns.vip-kingstore.xyz^
 ||dns.vod11.xyz^
 ||dns.xwdmw.xyz^
 ||pihole.datamatter.co.za^
