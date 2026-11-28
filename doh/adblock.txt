@@ -1,6 +1,6 @@
 [Adblock Plus 1.1]
 ! Title: Accomplist "Doh" AdBlock List (Top-N Version)
-! Version: 1795756101
+! Version: 1795843039
 ! Homepage: https://github.com/cbuijs/accomplist/tree/master/doh
 !
 ! WhiteList Domains:
@@ -36,6 +36,7 @@
 ||dns.schlagheck.berlin^
 ||dns.doh.best^
 ||dns.7sec.com.br^
+||mabuktogel.builders^
 ||mabuktogel.business^
 ||doh.buzz^
 ||doh.datahata.by^
@@ -54,6 +55,7 @@
 ||seoul.dnsovertor.cc^
 ||dns.flymc.cc^
 ||maxfong.cc^
+||v.qdev.cc^
 ||xenergy.cc^
 ||dns.keweon.center^
 ||dns.chenu.ch^
@@ -80,6 +82,7 @@
 ||dns-secondary.cloudnx.cloud^
 ||doh.cnetwork.cloud^
 ||adguard.hartley.cloud^
+||adguard.londonwebnerd.cloud^
 ||regiopolis.cloud^
 ||dns.roedel.cloud^
 ||dns.wibenson.cloud^
@@ -190,7 +193,6 @@
 ||sg1.dnswarden.com^
 ||doh.us.dnswarden.com^
 ||dnswebvsn.com^
-||family.dns.doubleangels.com^
 ||family.dns.dremaxx.com^
 ||open.dns.dremaxx.com^
 ||easyhandshake.com^
@@ -202,7 +204,6 @@
 ||dns.flwagners.com^
 ||dns.gamban.com^
 ||sdns22.gkonuralp.com^
-||dns.glorydns.com^
 ||doh-primary-pool.goodbyegambling.com^
 ||dns.google.com^
 ||google-public-dns-a.google.com^
@@ -304,7 +305,6 @@
 ||dns.practicallyunhackable.com^
 ||dns.pumpkinvrar.com^
 ||dns.pumplex.com^
-||r1bnc.com^
 ||dns.api.rackspacecloud.com^
 ||dns.rayanbab.com^
 ||dns.renardyre.com^
@@ -357,6 +357,7 @@
 ||yovbak.com^
 ||adguard.zachitect.com^
 ||polisitogel.contractors^
+||mabuktogel.creditcard^
 ||atris.cyou^
 ||adguard.dantynes.cyou^
 ||dns.kukal.cz^
@@ -512,6 +513,7 @@
 ||axaxa.fun^
 ||ag.brianlee.fun^
 ||cloudbenders.fun^
+||cynntex.fun^
 ||dns.f4a.fun^
 ||jcdns.fun^
 ||doh.futa.gg^
@@ -549,6 +551,7 @@
 ||dns.engineer.web.id^
 ||doh.angry.im^
 ||1a.ns.ozer.im^
+||mabuktogel.immobilien^
 ||dns.bofh.in^
 ||doh.captnemo.in^
 ||sbdns.co.in^
@@ -618,6 +621,7 @@
 ||doh.li^
 ||tor.vasi.li^
 ||dns.txq.life^
+||mabuktogel.limited^
 ||dns-free.link^
 ||eth.link^
 ||adguard.ihatemy.live^
@@ -1158,11 +1162,13 @@
 ||dns.sb^
 ||doh.sb^
 ||dns.butterfly87.sbs^
+||myatris.sbs^
 ||dns.haka.se^
 ||resolver.sunet.se^
 ||dns.9999.sg^
 ||dns.moog.sh^
 ||dns.rin.sh^
+||hfgx.shop^
 ||moamao.shop^
 ||paradise-human.shop^
 ||callies-online.site^
@@ -1178,6 +1184,7 @@
 ||adg.rueiliu.space^
 ||dns.yunzheng.space^
 ||dns.sy.st^
+||home-server.store^
 ||dns.fizz.studio^
 ||dns.xuming.studio^
 ||crypto.sx^
@@ -1255,6 +1262,7 @@
 ||dns.albony.xyz^
 ||dns.andrewnw.xyz^
 ||dns.d94.xyz^
+||do-39574-tr.xyz^
 ||doh.xyz^
 ||agh.dshubham.xyz^
 ||hole.elbschloss.xyz^
@@ -1287,6 +1295,7 @@
 ||dns.vaioswolke.xyz^
 ||securedns.vendorvista.xyz^
 ||dns.vinnyp.xyz^
+||dns.vip-kingstore.xyz^
 ||dns.vod11.xyz^
 ||dns.xwdmw.xyz^
 ||pihole.datamatter.co.za^
